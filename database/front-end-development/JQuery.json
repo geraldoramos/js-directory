@@ -1,0 +1,532 @@
+[ {
+  "category" : "Resources",
+  "items" : [ {
+    "name" : "API documentation",
+    "url" : "http://api.jquery.com/"
+  }, {
+    "name" : "Code School",
+    "url" : "https://www.codeschool.com/courses/try-jquery"
+  }, {
+    "name" : "Codecademy jQuery track",
+    "url" : "https://www.codecademy.com/en/tracks/jquery"
+  }, {
+    "name" : "Learning jQuery",
+    "url" : "http://www.learningjquery.com/"
+  }, {
+    "name" : "Style guides",
+    "url" : "https://contribute.jquery.org/style-guide/"
+  }, {
+    "name" : "Tuts+",
+    "url" : "https://code.tutsplus.com/categories/jquery"
+  }, {
+    "name" : "jQuery guide for teams",
+    "url" : "https://github.com/voorhoede/jquery-style-guide"
+  } ]
+}, {
+  "category" : "Tutorials",
+  "items" : [ {
+    "name" : "jQuery patterns",
+    "url" : "https://github.com/jquery-boilerplate/jquery-patterns"
+  }, {
+    "name" : "Learning jQuery Design Patterns",
+    "url" : "https://addyosmani.com/resources/essentialjsdesignpatterns/book/#jquerypluginpatterns"
+  }, {
+    "name" : "Learn jQuery",
+    "url" : "http://learn.jquery.com/"
+  }, {
+    "name" : "Snoopcode",
+    "url" : "http://www.snoopcode.com/jquery/"
+  }, {
+    "name" : "Try jQuery",
+    "url" : "http://try.jquery.com/"
+  }, {
+    "name" : "Extending jQuery",
+    "url" : "https://j11y.io/javascript/extending-jquerys-selector-capabilities/"
+  } ]
+}, {
+  "category" : "Books"
+}, {
+  "category" : "Free Books",
+  "items" : [ {
+    "name" : "JavaScript plus a dash of JQuery",
+    "url" : "http://nicholasjohnson.com/javascript-book/"
+  }, {
+    "name" : "jQuery Succinctly, Syncfusion",
+    "url" : "https://www.syncfusion.com/resources/techportal/ebooks/jquery"
+  }, {
+    "name" : "jQuery fundamentals",
+    "url" : "https://github.com/bocoup/jqfundamentals.com"
+  } ]
+}, {
+  "category" : "Paid Books",
+  "items" : [ {
+    "name" : "jQuery in Action, Third Edition",
+    "url" : "https://www.manning.com/books/jquery-in-action-third-edition"
+  }, {
+    "name" : "jQuery: Novice to Ninja: New Kicks And Tricks",
+    "url" : "https://www.sitepoint.com/premium/books/jquery-novice-to-ninja-new-kicks-and-tricks"
+  }, {
+    "description" : " Fourth Edition",
+    "name" : "Learning jQuery",
+    "url" : "https://www.packtpub.com/web-development/learning-jquery-fourth-edition"
+  } ]
+}, {
+  "category" : "Blogs",
+  "items" : [ {
+    "name" : "jQuery Blog",
+    "url" : "http://blog.jquery.com/"
+  }, {
+    "name" : "jQuery UI Blog",
+    "url" : "http://blog.jqueryui.com/"
+  }, {
+    "name" : "Sitepoint",
+    "url" : "https://www.sitepoint.com/javascript/jquery/"
+  }, {
+    "name" : "Smashing Magazine",
+    "url" : "https://www.smashingmagazine.com/tag/jquery/"
+  } ]
+}, {
+  "category" : "Miscellaneous Resources",
+  "items" : [ {
+    "name" : "jQuery Foundation",
+    "url" : "https://jquery.org/"
+  }, {
+    "name" : "jQuery Source Viewer",
+    "url" : "https://j11y.io/jquery/"
+  }, {
+    "name" : "Alternative jQuery Documentation Browser",
+    "url" : "http://jqapi.com/"
+  }, {
+    "description" : " Helps you select JavaScript framework. Same Todo application created in multiple popular JavaScript MV* frameworks including jQuery",
+    "name" : "TodoMVC",
+    "url" : "https://github.com/tastejs/todomvc"
+  }, {
+    "name" : "jQuery CheatSheet",
+    "url" : "http://lab.abhinayrathore.com/jquery-cheatsheet/"
+  } ]
+}, {
+  "category" : "Plugins",
+  "items" : [ {
+    "description" : " Registry of jQuery plugins, previous one",
+    "name" : "Plugins",
+    "url" : "https://www.npmjs.com/browse/keyword/jquery-plugin"
+  }, {
+    "name" : "jQuery Rain",
+    "url" : "http://www.jqueryrain.com/"
+  }, {
+    "name" : "jQuery Unheap",
+    "url" : "http://www.unheap.com/"
+  } ]
+}, {
+  "category" : "Animation",
+  "items" : [ {
+    "name" : "Animsition",
+    "url" : "https://github.com/blivesta/animsition/"
+  }, {
+    "name" : "fakeLoader.js",
+    "url" : "https://github.com/joaopereirawd/fakeLoader.js"
+  }, {
+    "name" : "jQuery Transit",
+    "url" : "https://github.com/rstacruz/jquery.transit"
+  }, {
+    "name" : "Material Design Preloader!s",
+    "url" : "https://github.com/aarondo/Material-Preloader"
+  }, {
+    "name" : "Midnight",
+    "url" : "https://github.com/Aerolab/midnight.js"
+  }, {
+    "name" : "Parallax.js",
+    "url" : "https://github.com/pixelcog/parallax.js/"
+  }, {
+    "name" : "Scrollify",
+    "url" : "https://github.com/lukehaas/Scrollify/"
+  }, {
+    "name" : "Waves",
+    "url" : "https://github.com/fians/Waves"
+  } ]
+}, {
+  "category" : "Editors",
+  "items" : [ {
+    "name" : "Froala WYSIWYG HTML Editor",
+    "url" : "https://github.com/froala/wysiwyg-editor"
+  }, {
+    "name" : "Hallo",
+    "url" : "https://github.com/bergie/hallo"
+  }, {
+    "name" : "jQuery Notebook",
+    "url" : "https://github.com/raphaelcruzeiro/jquery-notebook"
+  }, {
+    "name" : "jQuery TE",
+    "url" : "http://jqueryte.com/"
+  }, {
+    "name" : "TinyMCE",
+    "url" : "https://www.tinymce.com/"
+  } ]
+}, {
+  "category" : "Forms",
+  "items" : [ {
+    "name" : "Bootstrap Multiselect",
+    "url" : "https://github.com/davidstutz/bootstrap-multiselect"
+  }, {
+    "name" : "File Upload",
+    "url" : "https://github.com/blueimp/jQuery-File-Upload"
+  }, {
+    "name" : "Ideal Forms",
+    "url" : "https://github.com/elclanrs/jq-idealforms"
+  }, {
+    "name" : "jQuery Form Plugin",
+    "url" : "https://github.com/jquery-form/form"
+  }, {
+    "name" : "jquery-minicolors",
+    "url" : "https://github.com/claviska/jquery-minicolors"
+  }, {
+    "name" : "Justified Gallery",
+    "url" : "https://github.com/miromannino/Justified-Gallery"
+  }, {
+    "name" : "Labelauty",
+    "url" : "https://github.com/fntneves/jquery-labelauty"
+  }, {
+    "name" : "Payform",
+    "url" : "https://github.com/jondavidjohn/payform"
+  }, {
+    "name" : "Pickadate",
+    "url" : "https://github.com/amsul/pickadate.js"
+  }, {
+    "name" : "Select2",
+    "url" : "https://github.com/select2/select2"
+  }, {
+    "name" : "selectize.js",
+    "url" : "https://github.com/selectize/selectize.js/"
+  } ]
+}, {
+  "category" : "Images, Maps and Charts",
+  "items" : [ {
+    "name" : "AnyChart-jQuery",
+    "url" : "https://github.com/AnyChart/AnyChart-jQuery"
+  }, {
+    "name" : "Arbor",
+    "url" : "https://github.com/samizdatco/arbor"
+  }, {
+    "name" : "Chart.js",
+    "url" : "https://github.com/chartjs/Chart.js"
+  }, {
+    "name" : "Cropper",
+    "url" : "https://github.com/fengyuanchen/cropper"
+  }, {
+    "name" : "Dense.js",
+    "url" : "https://github.com/gocom/dense"
+  }, {
+    "name" : "Flot",
+    "url" : "https://github.com/flot/flot"
+  }, {
+    "name" : "Gridder",
+    "url" : "https://github.com/oriongunning/gridder"
+  }, {
+    "name" : "jquery.sparkline",
+    "url" : "https://github.com/gwatts/jquery.sparkline"
+  }, {
+    "name" : "jQuery.eraser",
+    "url" : "https://github.com/boblemarin/jQuery.eraser"
+  }, {
+    "name" : "jQuery Mapael",
+    "url" : "https://github.com/neveldo/jQuery-Mapael"
+  }, {
+    "name" : "jQueryGantt",
+    "url" : "https://github.com/robicch/jQueryGantt"
+  }, {
+    "name" : "Nivo Slider",
+    "url" : "https://github.com/Codeinwp/Nivo-Slider-jQuery"
+  }, {
+    "name" : "Owl Carousel 2",
+    "url" : "https://github.com/OwlCarousel2/OwlCarousel2"
+  }, {
+    "name" : "Peity",
+    "url" : "https://github.com/benpickles/peity"
+  }, {
+    "name" : "Unite Gallery",
+    "url" : "https://github.com/vvvmax/unitegallery/"
+  }, {
+    "name" : "Viewer",
+    "url" : "https://github.com/fengyuanchen/viewer"
+  }, {
+    "name" : "JQuery-linechart",
+    "url" : "https://github.com/kis/jquery-linechart"
+  } ]
+}, {
+  "category" : "Menus",
+  "items" : [ {
+    "name" : "jQuery contextMenu",
+    "url" : "https://github.com/swisnl/jQuery-contextMenu"
+  }, {
+    "name" : "jPanelMenu",
+    "url" : "https://github.com/acolangelo/jPanelMenu"
+  }, {
+    "name" : "jQuery-menu-aim",
+    "url" : "https://github.com/kamens/jQuery-menu-aim"
+  }, {
+    "name" : "mmenu",
+    "url" : "https://github.com/FrDH/jQuery.mmenu"
+  }, {
+    "name" : "Multi-level push menu",
+    "url" : "https://github.com/adgsm/multi-level-push-menu"
+  }, {
+    "name" : "Slidebars",
+    "url" : "https://github.com/adchsm/Slidebars"
+  }, {
+    "name" : "stickUp",
+    "url" : "https://github.com/LiranCohen/stickUp"
+  }, {
+    "name" : "Superfish",
+    "url" : "https://github.com/joeldbirch/superfish"
+  }, {
+    "name" : "Yamm",
+    "url" : "https://github.com/geedmo/yamm3"
+  } ]
+}, {
+  "category" : "Modals and Popups",
+  "items" : [ {
+    "name" : "animatedModal.js",
+    "url" : "https://github.com/joaopereirawd/animatedModal.js"
+  }, {
+    "name" : "Avgrund",
+    "url" : "https://github.com/voronianski/jquery.avgrund.js"
+  }, {
+    "name" : "Bootstrap Modal",
+    "url" : "https://github.com/jschr/bootstrap-modal"
+  }, {
+    "name" : "iziModal",
+    "url" : "https://github.com/dolce/iziModal"
+  }, {
+    "name" : "jBox",
+    "url" : "https://github.com/StephanWagner/jBox"
+  }, {
+    "name" : "jQuery Modal",
+    "url" : "https://github.com/kylefox/jquery-modal"
+  }, {
+    "name" : "jQuery Popup Overlay",
+    "url" : "https://github.com/vast-engineering/jquery-popup-overlay"
+  }, {
+    "name" : "Lightbox",
+    "url" : "https://github.com/lokesh/lightbox2/"
+  }, {
+    "name" : "Magnific Popup",
+    "url" : "https://github.com/dimsemenov/Magnific-Popup"
+  }, {
+    "name" : "SweetAlert",
+    "url" : "https://github.com/t4t5/sweetalert"
+  }, {
+    "name" : "tipso",
+    "url" : "https://github.com/object505/tipso"
+  }, {
+    "name" : "vex",
+    "url" : "https://github.com/hubspot/vex"
+  } ]
+}, {
+  "category" : "Tables",
+  "items" : [ {
+    "name" : "Bootgrid",
+    "url" : "https://github.com/rstaib/jquery-bootgrid"
+  }, {
+    "name" : "Bootstrap table",
+    "url" : "http://bootstrap-table.wenzhixin.net.cn/"
+  }, {
+    "name" : "DataTables",
+    "url" : "https://www.datatables.net/"
+  }, {
+    "name" : "FancyGrid",
+    "url" : "https://fancygrid.com/"
+  }, {
+    "name" : "Filter Table",
+    "url" : "https://github.com/sunnywalker/jQuery.FilterTable"
+  }, {
+    "name" : "FloatThead",
+    "url" : "https://github.com/mkoryak/floatThead"
+  }, {
+    "name" : "FooTable",
+    "url" : "https://github.com/fooplugins/FooTable/"
+  }, {
+    "name" : "Isotope",
+    "url" : "https://github.com/metafizzy/isotope"
+  }, {
+    "name" : "HighchartTable",
+    "url" : "https://github.com/highchartTable/jquery-highchartTable-plugin"
+  }, {
+    "name" : "jqGrid",
+    "url" : "https://github.com/tonytomov/jqGrid"
+  }, {
+    "name" : "jQuery treetable",
+    "url" : "https://github.com/ludo/jquery-treetable"
+  }, {
+    "name" : "jsGrid",
+    "url" : "https://github.com/tabalinas/jsgrid"
+  }, {
+    "name" : "Stackable.js",
+    "url" : "https://github.com/johnpolacek/stacktable.js/"
+  }, {
+    "name" : "Stupid Table Sort",
+    "url" : "https://github.com/joequery/Stupid-Table-Plugin"
+  }, {
+    "name" : "tableExport.jquery.plugin",
+    "url" : "https://github.com/hhurz/tableExport.jquery.plugin"
+  } ]
+}, {
+  "category" : "Time and Date",
+  "items" : [ {
+    "name" : "jQuery Timer Plugin",
+    "url" : "https://github.com/walmik/timer.jquery"
+  }, {
+    "name" : "Timeago",
+    "url" : "https://github.com/rmm5t/jquery-timeago"
+  } ]
+}, {
+  "category" : "Translations",
+  "items" : [ {
+    "description" : " Lightweight plugin for providing internationalization to JavaScript from .properties",
+    "name" : "i18n properties",
+    "url" : "https://github.com/jquery-i18n-properties/jquery-i18n-properties"
+  }, {
+    "name" : "jquery.i18n",
+    "url" : "https://github.com/wikimedia/jquery.i18n"
+  }, {
+    "name" : "jquery.localize.js",
+    "url" : "https://github.com/coderifous/jquery-localize"
+  } ]
+}, {
+  "category" : "Validation",
+  "items" : [ {
+    "name" : "FormValidation",
+    "url" : "https://github.com/formvalidation/formvalidation"
+  }, {
+    "name" : "h5Validate",
+    "url" : "https://github.com/ericelliott/h5Validate"
+  }, {
+    "name" : "jQuery Form Validator",
+    "url" : "https://github.com/victorjonsson/jQuery-Form-Validator/"
+  }, {
+    "name" : "jquery-validation",
+    "url" : "https://github.com/jquery-validation/jquery-validation"
+  }, {
+    "name" : "jQuery.validationEngine",
+    "url" : "https://github.com/posabsolute/jQuery-Validation-Engine"
+  } ]
+}, {
+  "category" : "Miscellaneous Plugins",
+  "items" : [ {
+    "name" : "Boilerplate",
+    "url" : "https://github.com/jquery-boilerplate/jquery-boilerplate"
+  }, {
+    "name" : "Interlink",
+    "url" : "https://gist.github.com/Golpha/c5c7ae9b6ed11dc93ce6"
+  }, {
+    "name" : "Sisyphus",
+    "url" : "https://github.com/simsalabim/sisyphus"
+  }, {
+    "name" : "Slugify",
+    "url" : "https://github.com/pmcelhaney/jQuery-Slugify-Plugin"
+  }, {
+    "name" : "Readmore.js",
+    "url" : "https://github.com/jedfoster/Readmore.js"
+  }, {
+    "name" : "Yahoo! Emoticons",
+    "url" : "http://michael-designs.com/yahoo-emoticons-jquery-plugin/"
+  }, {
+    "name" : "autoNumberic",
+    "url" : "https://github.com/autoNumeric/autoNumeric"
+  } ]
+}, {
+  "category" : "Mobile",
+  "items" : [ {
+    "name" : "jQuery mobile",
+    "url" : "http://jquerymobile.com/"
+  }, {
+    "name" : "Interdimensional",
+    "url" : "https://github.com/VodkaBears/Interdimensional"
+  }, {
+    "name" : "OhSnap!.js",
+    "url" : "https://github.com/justindomingue/ohSnap"
+  } ]
+}, {
+  "category" : "UI",
+  "items" : [ {
+    "name" : "Dragula",
+    "url" : "https://github.com/bevacqua/dragula"
+  }, {
+    "name" : "jQuery UI",
+    "url" : "http://jqueryui.com/"
+  }, {
+    "name" : "jQuery Enhanced Splitter",
+    "url" : "https://github.com/hiltonjanfield/jquery.enhsplitter"
+  }, {
+    "name" : "tabulous.js",
+    "url" : "https://github.com/aarondo/tabulous.js"
+  }, {
+    "name" : "X-editable",
+    "url" : "https://github.com/vitalets/x-editable"
+  } ]
+}, {
+  "category" : "Testing",
+  "items" : [ {
+    "name" : "Qunit",
+    "url" : "http://qunitjs.com/"
+  }, {
+    "name" : "Mockjax",
+    "url" : "https://github.com/jakerella/jquery-mockjax"
+  } ]
+}, {
+  "category" : "Server-side Integrations",
+  "items" : [ {
+    "name" : "Bower",
+    "url" : "https://bower.io/"
+  }, {
+    "name" : "Cheerio",
+    "url" : "https://github.com/cheeriojs/cheerio"
+  }, {
+    "name" : "PHP front end setup without Node",
+    "url" : "https://www.sitepoint.com/look-ma-no-nodejs-a-php-front-end-workflow-without-node/"
+  }, {
+    "name" : "symfony-collection",
+    "url" : "https://github.com/ninsuo/symfony-collection"
+  }, {
+    "name" : "django-static-jquery",
+    "url" : "https://pypi.python.org/pypi/django-static-jquery/"
+  }, {
+    "name" : "jquery-rails",
+    "url" : "https://github.com/rails/jquery-rails"
+  }, {
+    "name" : "jquery-ui-rails",
+    "url" : "https://github.com/jquery-ui-rails/jquery-ui-rails"
+  } ]
+}, {
+  "category" : "Community",
+  "items" : [ {
+    "name" : "Forum",
+    "url" : "https://forum.jquery.com/"
+  }, {
+    "name" : "Freenode",
+    "url" : "http://irc.lc/freenode/jquery"
+  }, {
+    "name" : "Stack Overflow",
+    "url" : "https://stackoverflow.com/tags/jquery"
+  }, {
+    "name" : "Facebook",
+    "url" : "https://www.facebook.com/groups/jquerycode/"
+  }, {
+    "name" : "Linked.in",
+    "url" : "https://www.linkedin.com/groups/100943"
+  }, {
+    "name" : "Reddit",
+    "url" : "https://www.reddit.com/r/jquery"
+  }, {
+    "name" : "Google+",
+    "url" : "https://plus.google.com/communities/106546344682622800231"
+  }, {
+    "name" : "Quora",
+    "url" : "https://www.quora.com/jQuery"
+  }, {
+    "name" : "Meetup",
+    "url" : "https://www.meetup.com/topics/jquery/"
+  }, {
+    "name" : "Twitter",
+    "url" : "https://twitter.com/jquery"
+  } ]
+} ]

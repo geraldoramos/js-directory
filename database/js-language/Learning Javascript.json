@@ -1,0 +1,177 @@
+[ {
+  "category" : "Contents"
+}, {
+  "category" : "JavaScript References",
+  "items" : [ {
+    "name" : "MDN",
+    "url" : "https://developer.mozilla.org/docs/Web/JavaScript/Reference"
+  }, {
+    "name" : "DevDocs",
+    "url" : "http://devdocs.io/javascript"
+  }, {
+    "name" : "Simplified JavaScript Jargon",
+    "url" : "http://jargon.js.org"
+  }, {
+    "name" : "Functional Programming Jargon",
+    "url" : "https://functional.works-hub.com/blog/Functional-Programming-Jargon"
+  }, {
+    "name" : "Modern JavaScript Cheatsheet",
+    "url" : "https://github.com/mbeaudru/modern-js-cheatsheet"
+  }, {
+    "name" : "ECMAScript® Language Specification",
+    "url" : "http://ecma-international.org/publications/standards/Ecma-262.htm"
+  } ]
+}, {
+  "category" : "Tutorials",
+  "items" : [ {
+    "name" : "MDN JavaScript Guide",
+    "url" : "https://developer.mozilla.org/docs/Web/JavaScript/Guide"
+  }, {
+    "name" : "JavaScript.info",
+    "url" : "http://javascript.info"
+  }, {
+    "name" : "JavaScript Closures Demystified",
+    "url" : "https://www.sitepoint.com/javascript-closures-demystified/"
+  }, {
+    "name" : "Promises",
+    "url" : "http://www.sohamkamani.com/blog/2016/08/28/incremenal-tutorial-to-promises/"
+  }, {
+    "name" : "Array operations",
+    "url" : "https://danmartensen.svbtle.com/javascripts-map-reduce-and-filter"
+  }, {
+    "name" : "Async functions",
+    "url" : "https://developers.google.com/web/fundamentals/getting-started/primers/async-functions"
+  }, {
+    "name" : "Chrome DevTools",
+    "url" : "https://developers.google.com/web/tools/chrome-devtools/"
+  }, {
+    "name" : "Pure functions",
+    "url" : "https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976"
+  }, {
+    "name" : "Glossary of Modern JavaScript Concepts: Part 1",
+    "url" : "https://auth0.com/blog/glossary-of-modern-javascript-concepts/"
+  } ]
+}, {
+  "category" : "Free eBooks",
+  "items" : [ {
+    "name" : "Eloquent JavaScript",
+    "url" : "http://eloquentjavascript.net"
+  }, {
+    "name" : "You Don't Know JS (book series)",
+    "url" : "https://github.com/getify/You-Dont-Know-JS"
+  }, {
+    "name" : "Speaking JavaScript",
+    "url" : "http://speakingjs.com"
+  }, {
+    "name" : "JavaScript Design Patterns",
+    "url" : "http://addyosmani.com/resources/essentialjsdesignpatterns/book/"
+  } ]
+}, {
+  "category" : "Books",
+  "items" : [ {
+    "name" : "JavaScript: The Good Parts",
+    "url" : "http://shop.oreilly.com/product/9780596517748.do"
+  }, {
+    "name" : "The Principles of Object-Oriented JavaScript",
+    "url" : "https://www.nostarch.com/oojs"
+  }, {
+    "name" : "JavaScript Enlightenment",
+    "url" : "http://shop.oreilly.com/product/0636920027713.do"
+  } ]
+}, {
+  "category" : "Blogs",
+  "items" : [ {
+    "name" : "②ality",
+    "url" : "http://www.2ality.com"
+  }, {
+    "name" : "Pony Foo",
+    "url" : "https://ponyfoo.com"
+  } ]
+}, {
+  "category" : "Videos",
+  "items" : [ {
+    "name" : "== ? === ??? ...#@^%",
+    "url" : "https://www.youtube.com/watch?v=qGyqzN0bjhc"
+  }, {
+    "name" : "FunFunFunction",
+    "url" : "https://www.youtube.com/mpjmevideos"
+  }, {
+    "name" : "What the heck is the event loop anyway?",
+    "url" : "https://www.youtube.com/watch?v=8aGhZQkoFbQ"
+  }, {
+    "name" : "Become a Javascript Console Power-User",
+    "url" : "https://www.youtube.com/watch?v=4mf_yNLlgic"
+  }, {
+    "name" : "Debugging The Web",
+    "url" : "https://www.youtube.com/watch?v=HF1luRD4Qmk"
+  }, {
+    "name" : "JavaScript 30",
+    "url" : "https://javascript30.com"
+  }, {
+    "name" : "Promises Are So Passé",
+    "url" : "https://vimeo.com/181328943"
+  }, {
+    "name" : "Learning Functional Programming with JavaScript",
+    "url" : "https://www.youtube.com/watch?v=e-5obm1G_FY"
+  } ]
+}, {
+  "category" : "Interactive learning",
+  "items" : [ {
+    "name" : "Codeacademy",
+    "url" : "https://www.codecademy.com/learn/javascript"
+  }, {
+    "name" : "Udacity JavaScript Basics",
+    "url" : "https://www.udacity.com/course/javascript-basics--ud804"
+  }, {
+    "name" : "Code School",
+    "url" : "https://www.codeschool.com/learn/javascript"
+  }, {
+    "name" : "Functional programming",
+    "url" : "http://reactivex.io/learnrx/"
+  } ]
+}, {
+  "category" : "ES6 and above",
+  "items" : [ {
+    "name" : "Exploring ES6",
+    "url" : "http://exploringjs.com/es6.html"
+  }, {
+    "name" : "Exploring ES2016 and ES2017",
+    "url" : "http://exploringjs.com/es2016-es2017.html"
+  }, {
+    "name" : "Setting up ES6",
+    "url" : "http://exploringjs.com/setting-up-es6.html"
+  }, {
+    "name" : "ES6 Overview",
+    "url" : "https://ponyfoo.com/articles/es6"
+  }, {
+    "name" : "ES6 Katas",
+    "url" : "http://es6katas.org"
+  }, {
+    "name" : "Practical ES6",
+    "url" : "https://github.com/mjavascript/practical-es6"
+  } ]
+}, {
+  "category" : "DOM related",
+  "items" : [ {
+    "name" : "DOM Enlightenment",
+    "url" : "http://domenlightenment.com"
+  }, {
+    "name" : "You Might Not Need jQuery",
+    "url" : "http://youmightnotneedjquery.com"
+  } ]
+}, {
+  "category" : "Node.js",
+  "items" : [ {
+    "name" : "The Art of Node",
+    "url" : "https://github.com/maxogden/art-of-node#readme"
+  }, {
+    "name" : "NodeSchool",
+    "url" : "https://nodeschool.io"
+  }, {
+    "name" : "Node Patterns",
+    "url" : "http://nodepatternsbooks.com"
+  }, {
+    "name" : "Learn Node",
+    "url" : "https://learnnode.com"
+  } ]
+} ]

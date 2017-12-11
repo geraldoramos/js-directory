@@ -1,0 +1,312 @@
+[ {
+  "category" : " Data Structures",
+  "items" : [ {
+    "name" : "Icepick",
+    "url" : "https://github.com/aearly/icepick"
+  }, {
+    "name" : "Immutable.js",
+    "url" : "https://github.com/facebook/immutable-js"
+  }, {
+    "name" : "Mori",
+    "url" : "https://github.com/swannodette/mori"
+  }, {
+    "name" : "Baobab",
+    "url" : "https://github.com/Yomguithereal/baobab"
+  }, {
+    "name" : "immutable-sequence.js",
+    "url" : "https://github.com/qiao/immutable-sequence.js"
+  }, {
+    "name" : "Timm",
+    "url" : "http://guigrpa.github.io/timm/"
+  }, {
+    "name" : "Lazy.js",
+    "url" : "https://github.com/dtao/lazy.js"
+  }, {
+    "name" : "DerivableJS",
+    "url" : "https://github.com/ds300/derivablejs"
+  }, {
+    "name" : "imlazy",
+    "url" : "https://github.com/benji6/imlazy"
+  }, {
+    "name" : "collectable",
+    "url" : "https://github.com/frptools/collectable"
+  } ]
+}, {
+  "category" : " Algebraic Data Types",
+  "items" : [ {
+    "name" : "Fantasy Land",
+    "url" : "https://github.com/fantasyland/fantasy-land"
+  }, {
+    "name" : "Static Land",
+    "url" : "https://github.com/rpominov/static-land"
+  }, {
+    "name" : "immutable-ext",
+    "url" : "https://github.com/DrBoolean/immutable-ext"
+  }, {
+    "name" : "daggy",
+    "url" : "https://github.com/puffnfresh/daggy"
+  }, {
+    "name" : "Sanctuary",
+    "url" : "https://github.com/plaid/sanctuary"
+  }, {
+    "name" : "monet.js",
+    "url" : "http://cwmyers.github.io/monet.js/"
+  }, {
+    "name" : "union-type",
+    "url" : "https://github.com/paldepind/union-type"
+  }, {
+    "name" : "freeky",
+    "url" : "https://github.com/DrBoolean/freeky"
+  }, {
+    "name" : "Fluture",
+    "url" : "https://github.com/Avaq/Fluture"
+  }, {
+    "name" : "fantasy-combinators",
+    "url" : "https://github.com/fantasyland/fantasy-combinators"
+  }, {
+    "name" : "fantasy-birds",
+    "url" : "https://github.com/fantasyland/fantasy-birds"
+  }, {
+    "name" : "crocks",
+    "url" : "https://github.com/evilsoft/crocks"
+  } ]
+}, {
+  "category" : " Lenses",
+  "items" : [ {
+    "name" : "lenses",
+    "url" : "https://github.com/DrBoolean/lenses"
+  }, {
+    "name" : "optics",
+    "url" : "https://github.com/flunc/optics"
+  }, {
+    "name" : "ramda-lens",
+    "url" : "https://github.com/ramda/ramda-lens"
+  }, {
+    "name" : "fantasy-lenses",
+    "url" : "https://github.com/fantasyland/fantasy-lenses"
+  }, {
+    "name" : "nanoscope",
+    "url" : "https://github.com/5outh/nanoscope"
+  }, {
+    "name" : "partial.lenses",
+    "url" : "https://github.com/calmm-js/partial.lenses"
+  }, {
+    "name" : "ClojureScript",
+    "url" : "https://github.com/clojure/clojurescript"
+  }, {
+    "name" : "Elm",
+    "url" : "http://elm-lang.org/"
+  }, {
+    "description" : " Compiles F#",
+    "name" : "Fable",
+    "url" : "http://fable.io/"
+  }, {
+    "name" : "PureScript",
+    "url" : "http://www.purescript.org/"
+  }, {
+    "name" : "Idris",
+    "url" : "http://www.idris-lang.org/"
+  }, {
+    "name" : "GHCJS",
+    "url" : "https://github.com/ghcjs/ghcjs"
+  }, {
+    "name" : "ElixirScript",
+    "url" : "https://github.com/bryanjos/elixirscript"
+  }, {
+    "name" : "Js\\_of\\_ocaml",
+    "url" : "http://ocsigen.org/js_of_ocaml/"
+  }, {
+    "name" : "BuckleScript",
+    "url" : "https://bloomberg.github.io/bucklescript/"
+  }, {
+    "name" : "Reason",
+    "url" : "http://facebook.github.io/reason/"
+  }, {
+    "name" : "Scala.js",
+    "url" : "http://www.scala-js.org/"
+  }, {
+    "name" : "LiveScript",
+    "url" : "http://gkz.github.io/LiveScript/"
+  }, {
+    "name" : "Quack",
+    "url" : "https://github.com/quack/quack"
+  }, {
+    "name" : "ion",
+    "url" : "https://github.com/ion-lang/ion"
+  }, {
+    "name" : "RamdaScript",
+    "url" : "https://github.com/yosbelms/ramdascript"
+  }, {
+    "name" : "eslint-plugin-fp",
+    "url" : "https://github.com/jfmengels/eslint-plugin-fp"
+  }, {
+    "name" : "eslint-config-cleanjs",
+    "url" : "https://github.com/bodil/eslint-config-cleanjs"
+  }, {
+    "name" : "4.5",
+    "url" : "https://github.com/TylorS/4.5"
+  }, {
+    "name" : "hm-def",
+    "url" : "https://github.com/xodio/hm-def"
+  } ]
+}, {
+  "category" : " Books",
+  "items" : [ {
+    "name" : "Professor Frisby’s Mostly Adequate Guide to Functional Programming",
+    "url" : "https://github.com/MostlyAdequate/mostly-adequate-guide"
+  }, {
+    "name" : "Functional-Light JavaScript",
+    "url" : "https://github.com/getify/functional-light-js"
+  }, {
+    "name" : "JavaScript Allongé",
+    "url" : "https://leanpub.com/javascriptallongesix"
+  }, {
+    "name" : "Functional Programming in JavaScript",
+    "url" : "https://www.manning.com/books/functional-programming-in-javascript"
+  }, {
+    "name" : "Eloquent JavaScript",
+    "url" : "http://eloquentjavascript.net/"
+  }, {
+    "name" : "Functional JavaScript",
+    "url" : "http://shop.oreilly.com/product/0636920028857.do"
+  } ]
+}, {
+  "category" : " Articles",
+  "items" : [ {
+    "name" : "FP Concepts in JavaScript",
+    "url" : "https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-b0650773139c"
+  }, {
+    "name" : "Functional programming with JavaScript",
+    "url" : "http://stephen-young.me.uk/2013/01/20/functional-programming-with-javascript.html"
+  }, {
+    "name" : "A gentle introduction to functional JavaScript",
+    "url" : "http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/"
+  }, {
+    "name" : "Why Curry Helps",
+    "url" : "https://hughfdjackson.com/javascript/why-curry-helps/"
+  }, {
+    "name" : "Favoring Curry",
+    "url" : "http://fr.umio.us/favoring-curry/"
+  }, {
+    "name" : "Functional Mumbo Jumbo – ADTs",
+    "url" : "http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html"
+  }, {
+    "name" : "JavaScript and Type Thinking",
+    "url" : "https://medium.com/@yelouafi/javascript-and-type-thinking-735edddc388d"
+  }, {
+    "name" : "Lazy, composable, and modular JavaScript",
+    "url" : "https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript"
+  }, {
+    "name" : "Why Ramda",
+    "url" : "http://fr.umio.us/why-ramda/"
+  }, {
+    "name" : "Monads in JavaScript",
+    "url" : "https://curiosity-driven.org/monads-in-javascript"
+  }, {
+    "name" : "A Monad in Practicality: First-Class Failures",
+    "url" : "http://robotlolita.me/2013/12/08/a-monad-in-practicality-first-class-failures.html"
+  }, {
+    "name" : "Functional programming",
+    "url" : "https://glebbahmutov.com/blog/tags/functional/"
+  }, {
+    "name" : "Functional Programming Jargon",
+    "url" : "https://github.com/hemanth/functional-programming-jargon"
+  }, {
+    "name" : "Data Structures in JavaScript",
+    "url" : "http://blog.benoitvallon.com/data-structures-in-javascript/data-structures-in-javascript/"
+  }, {
+    "name" : "So You Want to be a Functional Programmer",
+    "url" : "https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536"
+  }, {
+    "name" : "Functional Programming for JavaScript People",
+    "url" : "https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504"
+  }, {
+    "name" : "Introduction to Immutable.js and Functional Programming Concepts",
+    "url" : "https://auth0.com/blog/intro-to-immutable-js/"
+  }, {
+    "name" : "Master the JavaScript Interview: What is Functional Programming?",
+    "url" : "https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0"
+  }, {
+    "name" : "Composing Software",
+    "url" : "https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c"
+  } ]
+}, {
+  "category" : " Videos",
+  "items" : [ {
+    "name" : "Classroom Coding with Prof. Frisby",
+    "url" : "https://www.youtube.com/watch?v=h_tkIpwbsxY&list=PLK_hdtAJ4KqX0JOs_KMAmUNTNMRYhWEaC"
+  }, {
+    "name" : "Hey Underscore, You're Doing It Wrong!",
+    "url" : "https://www.youtube.com/watch?v=m3svKOdZijA"
+  }, {
+    "name" : "Functional programming patterns for the non-mathematician",
+    "url" : "https://www.youtube.com/watch?v=AvgwKjTPMmM"
+  }, {
+    "name" : "Pure JavaScript",
+    "url" : "https://vimeo.com/49384334"
+  }, {
+    "name" : "Functional programming in JavaScript",
+    "url" : "https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84"
+  }, {
+    "description" : " JSUnconf 2016",
+    "name" : "Anjana Vakil: Learning Functional Programming with JavaScript",
+    "url" : "https://www.youtube.com/watch?v=e-5obm1G_FY"
+  }, {
+    "name" : "Functional Programming Basics In ES6",
+    "url" : "https://www.youtube.com/watch?v=FYXpOjwYzcs"
+  } ]
+}, {
+  "category" : " Examples and Exercises",
+  "items" : [ {
+    "name" : "FPJS-Class",
+    "url" : "https://github.com/loop-recur/FPJS-Class"
+  }, {
+    "name" : "functional-javascript-workshop",
+    "url" : "https://github.com/timoxley/functional-javascript-workshop"
+  }, {
+    "name" : "functional-frontend-architecture",
+    "url" : "https://github.com/paldepind/functional-frontend-architecture"
+  }, {
+    "name" : "cube-composer",
+    "url" : "https://github.com/sharkdp/cube-composer"
+  }, {
+    "name" : "FP Youtube Search",
+    "url" : "https://github.com/jaysoo/example-fp-youtube-search"
+  }, {
+    "name" : "Hardcore Functional Programming in JavaScript",
+    "url" : "https://frontendmasters.com/courses/functional-javascript/"
+  }, {
+    "name" : "Escape from Callback Mountain",
+    "url" : "https://github.com/justsml/escape-from-callback-mountain"
+  }, {
+    "name" : "Functional Programming for Beginners",
+    "url" : "http://paqmind.com/courses/fp-beginner/"
+  }, {
+    "name" : "Learn Rx",
+    "url" : "http://reactivex.io/learnrx/"
+  } ]
+}, {
+  "category" : " Related Lists",
+  "items" : [ {
+    "name" : "Awesome FRP JS",
+    "url" : "https://github.com/stoeffel/awesome-frp-js"
+  }, {
+    "name" : "lucasviola/Awesome Functional Programming",
+    "url" : "https://github.com/lucasviola/awesome-functional-programming"
+  }, {
+    "name" : "xgrommx/Awesome Functional Programming",
+    "url" : "https://github.com/xgrommx/awesome-functional-programming"
+  }, {
+    "name" : "Functional Programming Resources In JavaScript",
+    "url" : "https://github.com/busypeoples/functional-programming-javascript"
+  } ]
+}, {
+  "category" : " Talk",
+  "items" : [ {
+    "name" : "Functional Programming Slack channel",
+    "url" : "https://fpchat-invite.herokuapp.com/"
+  }, {
+    "name" : "Christoph Hermann",
+    "url" : "http://stoeffel.github.io/"
+  } ]
+} ]

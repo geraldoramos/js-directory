@@ -1,0 +1,499 @@
+[ {
+  "category" : "Transpilers",
+  "items" : [ {
+    "description" : "Turn ES6+ code into vanilla ES5 with no runtime",
+    "name" : "Babel",
+    "url" : "https://github.com/babel/babel"
+  }, {
+    "description" : "ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.",
+    "name" : "Traceur compiler",
+    "url" : "https://github.com/google/traceur-compiler"
+  }, {
+    "description" : "Traceur compiler wrapped as a Browserify v2 transform",
+    "name" : "es6ify",
+    "url" : "https://github.com/thlorenz/es6ify"
+  }, {
+    "description" : "Babel transpiler wrapped as a Browserify transform",
+    "name" : "Babelify",
+    "url" : "https://github.com/babel/babelify"
+  }, {
+    "description" : "ES6 > ES5. Includes classes, destructuring, default parameters, spread",
+    "name" : "es6-transpiler",
+    "url" : "https://github.com/termi/es6-transpiler"
+  }, {
+    "description" : "ES6 modules to AMD or CJS",
+    "name" : "es6-module-transpiler",
+    "url" : "https://github.com/esnext/es6-module-transpiler"
+  }, {
+    "description" : "transform ES6 yield/generator functions to ES5",
+    "name" : "regenerator",
+    "url" : "https://github.com/facebook/regenerator"
+  }, {
+    "description" : "A simple utility for pluggable JS syntax transforms. Comes with a small set of ES6 -> ES5 transforms",
+    "name" : "jstransform",
+    "url" : "https://github.com/facebookarchive/jstransform"
+  }, {
+    "description" : "ES6 block-scoped const and let variables to ES3 vars",
+    "name" : "defs",
+    "url" : "https://github.com/olov/defs"
+  }, {
+    "description" : "ES6 Modules in the Rails Asset Pipeline",
+    "name" : "es6_module_transpiler-rails",
+    "url" : "https://github.com/DavyJonesLocker/es6_module_transpiler-rails"
+  }, {
+    "name" : "Some Sweet.js macros",
+    "url" : "https://github.com/jlongster/es6-macros"
+  }, {
+    "description" : "Converts ES6 to AMD, CJS, and StealJS.",
+    "name" : "transpile",
+    "url" : "https://github.com/stealjs/transpile"
+  }, {
+    "name" : "regexpu",
+    "url" : "https://github.com/mathiasbynens/regexpu"
+  }, {
+    "description" : "Transformations for ES5 code to ES6 (approximates)",
+    "name" : "Lebab",
+    "url" : "https://github.com/mohebifar/lebab"
+  } ]
+}, null, {
+  "category" : "Gulp Plugins",
+  "items" : [ {
+    "name" : "gulp-babel",
+    "url" : "https://github.com/babel/gulp-babel"
+  }, {
+    "name" : "gulp-traceur",
+    "url" : "https://github.com/sindresorhus/gulp-traceur"
+  }, {
+    "name" : "gulp-regenerator",
+    "url" : "https://github.com/sindresorhus/gulp-regenerator"
+  }, {
+    "name" : "gulp-es6-module-transpiler",
+    "url" : "https://github.com/ryanseddon/gulp-es6-module-transpiler"
+  }, {
+    "description" : "ES6 → ES5",
+    "name" : "gulp-es6-transpiler",
+    "url" : "https://github.com/sindresorhus/gulp-es6-transpiler"
+  }, {
+    "description" : "ES6 → ES5 using FB's jstransform",
+    "name" : "Gulp-jstransform",
+    "url" : "https://github.com/hemanth/gulp-jstransform"
+  }, {
+    "name" : "gulp-regexpu",
+    "url" : "https://github.com/mathiasbynens/gulp-regexpu"
+  }, {
+    "name" : "gulp-typescript",
+    "url" : "https://github.com/ivogabe/gulp-typescript"
+  } ]
+}, {
+  "category" : "Grunt Tasks",
+  "items" : [ {
+    "description" : "Turn ES6+ code into vanilla ES5 with no runtime",
+    "name" : "grunt-babel",
+    "url" : "https://github.com/babel/grunt-babel"
+  }, {
+    "name" : "Grunt-traceur",
+    "url" : "https://github.com/aaronfrost/grunt-traceur"
+  }, {
+    "name" : "grunt-es6-module-transpiler",
+    "url" : "https://github.com/joefiorini/grunt-es6-module-transpiler"
+  }, {
+    "description" : "ES6 generator functions to ES5",
+    "name" : "grunt-regenerator",
+    "url" : "https://github.com/sindresorhus/grunt-regenerator"
+  }, {
+    "name" : "grunt-microlib",
+    "url" : "https://github.com/thomasboyt/grunt-microlib",
+    "description":"Tools for libs using ES6 module transpiler"
+  }, {
+    "description" : "ES6 block scoped const and let variables, to ES3",
+    "name" : "grunt-defs",
+    "url" : "https://github.com/EE/grunt-defs"
+  }, {
+    "description" : "ES6 → ES5",
+    "name" : "grunt-es6-transpiler",
+    "url" : "https://github.com/sindresorhus/grunt-es6-transpiler"
+  }, {
+    "description" : "ES6+ > ES5/ES3 transpilation",
+    "name" : "grunt-ts",
+    "url" : "https://github.com/TypeStrong/grunt-ts"
+  } ]
+}, {
+  "category" : "Broccoli Plugins",
+  "items" : [ {
+    "name" : "broccoli-babel-transpiler",
+    "url" : "https://github.com/babel/broccoli-babel-transpiler"
+  }, {
+    "name" : "broccoli-traceur",
+    "url" : "https://github.com/sindresorhus/broccoli-traceur"
+  }, {
+    "name" : "broccoli-regenerator",
+    "url" : "https://github.com/sindresorhus/broccoli-regenerator"
+  }, {
+    "name" : "broccoli-transpiler",
+    "url" : "https://github.com/sindresorhus/broccoli-es6-transpiler"
+  }, {
+    "name" : "broccoli-es6-module-transpiler",
+    "url" : "https://github.com/mmun/broccoli-es6-module-transpiler"
+  }, {
+    "name" : "broccoli-es6-arrow",
+    "url" : "https://github.com/hemanth/broccoli-es6-arrow.git"
+  }, {
+    "name" : "broccoli-tsc",
+    "url" : "https://github.com/ngParty/broccoli-tsc"
+  } ]
+}, {
+  "category" : "Brunch Plugins",
+  "items" : [ {
+    "name" : "babel-brunch",
+    "url" : "https://github.com/babel/babel-brunch"
+  }, {
+    "name" : "es6-module-transpiler-brunch",
+    "url" : "https://github.com/gcollazo/es6-module-transpiler-brunch"
+  }, {
+    "name" : "typescript-brunch",
+    "url" : "https://github.com/joshheyse/typescript-brunch"
+  } ]
+}, {
+  "category" : "Webpack plugins",
+  "items" : [ {
+    "name" : "babel-loader",
+    "url" : "https://github.com/babel/babel-loader"
+  }, {
+    "name" : "traceur-compiler-loader",
+    "url" : "https://github.com/gdi2290/traceur-compiler-loader"
+  }, {
+    "name" : "awesome-typescript-loader",
+    "url" : "https://github.com/s-panferov/awesome-typescript-loader"
+  } ]
+}, {
+  "category" : "Duo plugins",
+  "items" : [ {
+    "name" : "duo-babel",
+    "url" : "https://github.com/babel/duo-babel"
+  }, {
+    "name" : "duo-typescript",
+    "url" : "https://github.com/frankwallis/duo-typescript"
+  } ]
+}, {
+  "category" : "Connect plugins",
+  "items" : [ {
+    "name" : "babel-connect",
+    "url" : "https://github.com/babel/babel-connect"
+  }, {
+    "name" : "typescript-middleware",
+    "url" : "https://github.com/brn/typescript-middleware"
+  } ]
+}, {
+  "category" : "Gobble plugins",
+  "items" : [ {
+    "name" : "gobble-babel",
+    "url" : "https://github.com/babel/gobble-babel"
+  }, {
+    "name" : "gobble-es6-transpiler",
+    "url" : "https://github.com/gobblejs/gobble-es6-transpiler"
+  } ]
+}, {
+  "category" : "Jade plugins",
+  "items" : [ {
+    "name" : "jade-babel",
+    "url" : "https://github.com/babel/jade-babel"
+  }, {
+    "name" : "jade-traceur",
+    "url" : "https://www.npmjs.com/package/jade-traceur"
+  } ]
+}, {
+  "category" : "Jest plugins",
+  "items" : [ {
+    "name" : "babel-jest",
+    "url" : "https://github.com/babel/babel-jest"
+  } ]
+}, {
+  "category" : "Karma plugins",
+  "items" : [ {
+    "name" : "karma-babel-preprocessor",
+    "url" : "https://github.com/babel/karma-babel-preprocessor"
+  }, {
+    "name" : "karma-traceur-preprocessor",
+    "url" : "https://github.com/karma-runner/karma-traceur-preprocessor"
+  }, {
+    "name" : "karma-typescript-preprocessor",
+    "url" : "https://github.com/sergeyt/karma-typescript-preprocessor"
+  } ]
+}, {
+  "category" : "Sprockets plugins",
+  "items" : [ {
+    "name" : "sprockets-es6",
+    "url" : "https://github.com/josh/sprockets-es6"
+  }, {
+    "name" : "sprockets-traceur",
+    "url" : "https://github.com/gunpowderlabs/sprockets-traceur"
+  }, {
+    "name" : "typescript-rails",
+    "url" : "https://github.com/typescript-ruby/typescript-rails"
+  } ]
+}, {
+  "category" : "Browser plugins",
+  "items" : [ {
+    "description" : "A Chrome/Opera DevTools extension to run ES6 on a page with either Babel or Traceur",
+    "name" : "Scratch JS",
+    "url" : "https://github.com/richgilbank/Scratch-JS"
+  }, {
+    "description" : "Yeoman generator for TypeScript apps",
+    "name" : "generator-typescript",
+    "url" : "https://github.com/mrkev/generator-typescript"
+  } ]
+}, {
+  "category" : "Mocha plugins",
+  "items" : [ {
+    "description" : "A simple plugin for Mocha to pass JS files through the Traceur compiler",
+    "name" : "Mocha Traceur",
+    "url" : "https://github.com/domenic/mocha-traceur"
+  } ]
+}, {
+  "category" : "Module Loaders",
+  "items" : [ {
+    "name" : "Module Loader polyfill",
+    "url" : "https://github.com/ModuleLoader/es6-module-loader"
+  }, {
+    "description" : "Mozilla's spec-compliant loader prototype",
+    "name" : "js-loaders",
+    "url" : "https://github.com/jorendorff/js-loaders"
+  }, {
+    "description" : "ES6, AMD, CJS module loading/package management",
+    "name" : "JSPM",
+    "url" : "http://jspm.io/"
+  }, {
+    "name" : "Babel Module Loader",
+    "url" : "https://github.com/babel/babel-loader"
+  }, {
+    "description" : "toolkit for ES6 Module Loader pipelines, shim for legacy environments",
+    "name" : "beck.js",
+    "url" : "https://github.com/unscriptable/beck"
+  } ]
+}, {
+  "category" : "Boilerplates",
+  "items" : [ {
+    "description" : "Tooling to allow the community to use es6 now via traceur in conjunction with amd and browser global modules, with source maps, concatenation, minification, compression, and unit testing in real browsers.",
+    "name" : "es6-boilerplate",
+    "url" : "https://github.com/davidjnelson/es6-boilerplate"
+  }, {
+    "description" : "Tooling to allow the community to use es6 now via babel in conjunction jspm, with source maps, concatenation, minification, compression, and unit testing in real browsers using es6.",
+    "name" : "es6-jspm-gulp-boilerplate",
+    "url" : "https://github.com/alexweber/es6-jspm-gulp-boilerplate"
+  } ]
+}, {
+  "category" : "Code generation",
+  "items" : [ {
+    "description" : "Yeoman generator for Traceur apps",
+    "name" : "generator-node-esnext",
+    "url" : "https://github.com/briandipalma/generator-node-esnext"
+  }, {
+    "description" : "Yeoman generator for Babel apps",
+    "name" : "generator-es6-babel",
+    "url" : "https://github.com/HenriqueLimas/generator-es6-babel"
+  }, {
+    "description" : "Yeoman generator for Babel, Browserify and Gulp",
+    "name" : "Generator-gulp-babelify",
+    "url" : "https://github.com/HenriqueLimas/generator-gulp-babelify"
+  }, {
+    "description" : "scaffold node modules with unit tests, authored in ES6",
+    "name" : "grunt-init-es6",
+    "url" : "https://www.npmjs.com/package/grunt-init-es6"
+  }, {
+    "name" : "Loom generators with ES6 ember modules",
+    "url" : "https://github.com/ryanflorence/loom-generators-ember"
+  }, {
+    "name" : "plugin",
+    "url" : "https://www.npmjs.com/package/es6-module-transpiler-brunch"
+  } ]
+}, {
+  "category" : "Polyfills",
+  "items" : [ {
+    "description" : "Modular and compact polyfills for ES6 including Symbols, Map, Set, Iterators, Promises, setImmediate, Array generics, etc. The standard library used by Babel.",
+    "name" : "core-js",
+    "url" : "https://github.com/zloirock/core-js"
+  }, {
+    "description" : "almost all new ES6 methods — from Map, Set, String, Array, Object, Object.is and more.",
+    "name" : "es6-shim",
+    "url" : "https://github.com/paulmillr/es6-shim"
+  }, {
+    "name" : "WeakMap, Map, Set, HashMap - ES6 Collections",
+    "url" : "https://github.com/Benvie/harmony-collections"
+  }, {
+    "name" : "WeakMap shim",
+    "url" : "https://github.com/Polymer/WeakMap"
+  }, {
+    "name" : "String.prototype.startsWith",
+    "url" : "https://github.com/mathiasbynens/String.prototype.startsWith"
+  }, {
+    "name" : "String.prototype.endsWith",
+    "url" : "https://github.com/mathiasbynens/String.prototype.endsWith"
+  }, {
+    "name" : "String.prototype.at",
+    "url" : "https://github.com/mathiasbynens/String.prototype.at"
+  }, {
+    "name" : "String.prototype.repeat",
+    "url" : "https://github.com/mathiasbynens/String.prototype.repeat"
+  }, {
+    "name" : "String.prototype.includes",
+    "url" : "https://github.com/mathiasbynens/String.prototype.includes"
+  }, {
+    "name" : "String.prototype.codePointAt",
+    "url" : "https://github.com/mathiasbynens/String.prototype.codePointAt"
+  }, {
+    "name" : "String.fromCodePoint",
+    "url" : "https://github.com/mathiasbynens/String.fromCodePoint"
+  }, {
+    "name" : "Array.prototype.find",
+    "url" : "https://github.com/paulmillr/Array.prototype.find"
+  }, {
+    "name" : "Array.prototype.findIndex",
+    "url" : "https://github.com/paulmillr/Array.prototype.findIndex"
+  }, {
+    "name" : "Array.from",
+    "url" : "https://github.com/mathiasbynens/Array.from"
+  }, {
+    "name" : "Array.of",
+    "url" : "https://github.com/mathiasbynens/Array.of"
+  }, {
+    "name" : "Object.assign",
+    "url" : "https://github.com/sindresorhus/object-assign"
+  }, {
+    "name" : "Number.isFinite",
+    "url" : "https://github.com/sindresorhus/is-finite"
+  }, {
+    "name" : "Math.sign",
+    "url" : "https://github.com/sindresorhus/math-sign"
+  }, {
+    "name" : "RegExp.prototype.match",
+    "url" : "https://github.com/mathiasbynens/RegExp.prototype.match"
+  }, {
+    "name" : "RegExp.prototype.search",
+    "url" : "https://github.com/mathiasbynens/RegExp.prototype.search"
+  }, {
+    "description" : "polyfill for Promises matching the ES6 API",
+    "name" : "es6-promise",
+    "url" : "https://github.com/jakearchibald/es6-promise"
+  }, {
+    "description" : "destructive shim that follows the latest specification as closely as possible.",
+    "name" : "ES6 Map Shim",
+    "url" : "https://github.com/eriwen/es6-map-shim"
+  }, {
+    "name" : "Function.create",
+    "url" : "https://github.com/walling/Function.create.js"
+  }, {
+    "name" : "ES6 shim",
+    "url" : "https://github.com/inexorabletash/polyfill/blob/master/es6.md"
+  }, {
+    "name" : "ES6 Symbol polyfill",
+    "url" : "https://github.com/medikoo/es6-symbol"
+  }, {
+    "name" : "ES6 Map, Set, WeakMap",
+    "url" : "https://github.com/EliSnow/Blitz-Collections"
+  }, {
+    "description" : "ES6 reflection module",
+    "name" : "Harmony-reflect",
+    "url" : "https://github.com/tvcutsem/harmony-reflect"
+  }, {
+    "description" : " Array, Object, Number, Math and String functions/methods, plus Map, Set, Symbol and WeakMap objects",
+    "name" : "ES5 based shims in pure CJS style",
+    "url" : "https://gist.github.com/medikoo/102b7d0e697627133788#list-of-ecmascript-6-shims"
+  } ]
+}, {
+  "category" : "Editors",
+  "items" : [ {
+    "name" : "Sublime Text and TextMate",
+    "url" : "https://github.com/Benvie/JavaScriptNext.tmLanguage"
+  }, {
+    "name" : "WebStorm and PhpStorm compilation to ES5",
+    "url" : "https://www.jetbrains.com/webstorm/"
+  }, {
+    "name" : "plugin",
+    "url" : "https://github.com/pflannery/docpad-plugin-traceur"
+  }, {
+    "name" : "Package for Atom",
+    "url" : "https://github.com/gandm/language-babel"
+  }, {
+    "name" : "Read Blog Post",
+    "url" : "http://blog.jetbrains.com/webstorm/2015/05/ecmascript-6-in-webstorm-transpiling/"
+  } ]
+}, {
+  "category" : "Parsers",
+  "items" : [ {
+    "description" : "JavaScript parser supporting ES6, parses to ESTree AST format",
+    "name" : "Esprima",
+    "url" : "http://esprima.org"
+  }, {
+    "description" : "A small, fast, JavaScript-based JavaScript parser with ES6 support, parses to SpiderMonkey AST format.",
+    "name" : "Acorn",
+    "url" : "https://github.com/ternjs/acorn"
+  }, {
+    "description" : "ES6 parser written in ES6.",
+    "name" : "esparse",
+    "url" : "https://github.com/zenparsing/esparse"
+  }, {
+    "name" : "Traceur compiler",
+    "url" : "https://github.com/google/traceur-compiler"
+  } ]
+}, {
+  "category" : "Other",
+  "items" : [ {
+    "description" : "real-world usage examples of ES6 features",
+    "name" : "ES.next showcase",
+    "url" : "https://github.com/sindresorhus/esnext-showcase"
+  }, {
+    "description" : "static analysis tools for ES6",
+    "name" : "looper",
+    "url" : "https://github.com/wycats/looper"
+  }, {
+    "name" : "es6-module-packager",
+    "url" : "https://www.npmjs.com/package/es6-module-packager"
+  }, {
+    "description" : "Generate a list of imports and exports from ES6 module files, useful for preloading, bundling, etc.",
+    "name" : "Es-dependency-graph",
+    "url" : "https://github.com/yahoo/es-dependency-graph"
+  }, {
+    "description" : "Validate matching named/default import statements in ES6 modules.",
+    "name" : "es6-import-validate",
+    "url" : "https://github.com/sproutsocial/es6-import-validate"
+  }, {
+    "description" : "transpiles let-block block (not accepted into ES6) into either ES3 or ES6",
+    "name" : "let-er",
+    "url" : "https://github.com/getify/let-er"
+  }, {
+    "description" : "Esprima-based JavaScript syntax tree transformer, conservative pretty-printer, and automatic source map generator. Used by several of the transpilers listed above, including regenerator and es6-arrow-function.",
+    "name" : "Recast",
+    "url" : "https://github.com/benjamn/recast"
+  }, {
+    "description" : " Minimalist examples of ES6 functionalities.",
+    "name" : "Paws on ES6",
+    "url" : "https://github.com/hemanth/paws-on-es6"
+  }, {
+    "description" : "How to use ES6 features in node.js.",
+    "name" : "ES6 on node",
+    "url" : "http://h3manth.com/new/blog/2013/es6-on-nodejs/"
+  }, {
+    "description" : "Uses the ES6 loader hooks to load (node flavored) commonjs packages in ES6.",
+    "name" : "es6-translate",
+    "url" : "https://github.com/calvinmetcalf/es6-translate"
+  }, {
+    "name" : "Isparta",
+    "url" : "https://github.com/douglasduteil/isparta"
+  }, {
+    "description" : "Run node cli with ES6 transpiling using Babel.",
+    "name" : "babel-node",
+    "url" : "https://babeljs.io/docs/usage/cli/#babel-node"
+  }, {
+    "description" : "A simple setup for transpiling ES6 to ES5 using Babel or traceur with gulp and jasmine support.",
+    "name" : "ES6 Lab setup",
+    "url" : "https://github.com/hemanth/es6-lab-setup"
+  }, {
+    "description" : "A superset of ECMAScript with strict typing that aims to align with ES6",
+    "name" : "TypeScript",
+    "url" : "http://www.typescriptlang.org/"
+  }, {
+    "description" : "Rollup is a next-generation JavaScript module bundler. Author your app or library using ES2015 modules, then efficiently bundle them up into a single file for use in browsers and Node.js",
+    "name" : "Rollup",
+    "url" : "http://rollupjs.org/"
+  } ]
+} ]

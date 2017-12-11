@@ -1,0 +1,532 @@
+[ {
+  "category" : "Charts",
+  "items" : [ {
+    "name" : "billboard",
+    "url" : "https://github.com/naver/billboard.js"
+  }, {
+    "name" : "britecharts",
+    "url" : "https://github.com/eventbrite/britecharts/"
+  }, {
+    "name" : "bullet chart",
+    "url" : "https://github.com/d3/d3-plugins/tree/master/bullet"
+  }, {
+    "name" : "cirrus.js",
+    "url" : "https://github.com/planet-os/cirrusjs"
+  }, {
+    "name" : "cubism",
+    "url" : "https://github.com/square/cubism"
+  }, {
+    "name" : "cola.js",
+    "url" : "https://github.com/tgdwyer/WebCola"
+  }, {
+    "name" : "c3",
+    "url" : "https://github.com/c3js/c3"
+  }, {
+    "name" : "dagre-d3",
+    "url" : "https://github.com/cpettitt/dagre-d3"
+  }, {
+    "name" : "dc",
+    "url" : "https://github.com/dc-js/dc.js"
+  }, {
+    "name" : "dimple",
+    "url" : "https://github.com/PMSI-AlignAlytics/dimple"
+  }, {
+    "name" : "d2b",
+    "url" : "https://github.com/d2bjs/d2b"
+  }, {
+    "name" : "d3.chart",
+    "url" : "https://github.com/misoproject/d3.chart"
+  }, {
+    "name" : "d3.chart.sankey",
+    "url" : "https://github.com/q-m/d3.chart.sankey"
+  }, {
+    "name" : "d3-bar",
+    "url" : "https://github.com/tj/d3-bar"
+  }, {
+    "name" : "d3-beeswarm",
+    "url" : "https://github.com/Kcnarf/d3-beeswarm"
+  }, {
+    "name" : "d3-bumps-chart",
+    "url" : "https://github.com/johnwalley/d3-bumps-chart"
+  }, {
+    "name" : "d3-circle",
+    "url" : "https://github.com/tj/d3-circle"
+  }, {
+    "name" : "d3-dot",
+    "url" : "https://github.com/tj/d3-dot"
+  }, {
+    "name" : "d3-heatmap",
+    "url" : "https://github.com/tj/d3-heatmap"
+  }, {
+    "name" : "d3-line",
+    "url" : "https://github.com/tj/d3-line"
+  }, {
+    "name" : "d3-flame-graph",
+    "url" : "https://github.com/spiermar/d3-flame-graph"
+  }, {
+    "name" : "d3-horizon-chart",
+    "url" : "https://github.com/kmandov/d3-horizon-chart"
+  }, {
+    "name" : "d3-message-sequence",
+    "url" : "https://github.com/koudelka/d3-message-sequence"
+  }, {
+    "name" : "d3-plus",
+    "url" : "https://github.com/alexandersimoes/d3plus"
+  }, {
+    "name" : "d3-timeline",
+    "url" : "https://github.com/commodityvectors/d3-timeline"
+  }, {
+    "name" : "d3fc",
+    "url" : "https://github.com/d3fc/d3fc"
+  }, {
+    "name" : "D3Funnel",
+    "url" : "https://github.com/jakezatecky/d3-funnel"
+  }, {
+    "name" : "d3panels",
+    "url" : "https://github.com/kbroman/d3panels"
+  }, {
+    "name" : "d3pie",
+    "url" : "https://github.com/benkeen/d3pie"
+  }, {
+    "name" : "D3xter",
+    "url" : "https://github.com/NathanEpstein/D3xter"
+  }, {
+    "name" : "d3 timeseries",
+    "url" : "https://github.com/mcaule/d3-timeseries"
+  }, {
+    "name" : "D4",
+    "url" : "https://github.com/heavysixer/d4"
+  }, {
+    "name" : "dTree",
+    "url" : "https://github.com/ErikGartner/dTree"
+  }, {
+    "name" : "epoch",
+    "url" : "https://github.com/epochjs/epoch"
+  }, {
+    "name" : "EventDrops",
+    "url" : "https://github.com/marmelab/EventDrops"
+  }, {
+    "name" : "fancycharts",
+    "url" : "https://github.com/ahoiin/Fancycharts.js"
+  }, {
+    "name" : "firespray",
+    "url" : "https://github.com/boundary/firespray"
+  }, {
+    "name" : "forest-d3",
+    "url" : "https://github.com/robinfhu/forest-d3"
+  }, {
+    "name" : "Gantt-Chart",
+    "url" : "https://github.com/dk8996/Gantt-Chart"
+  }, {
+    "name" : "insights",
+    "url" : "https://github.com/ignacioola/insights"
+  }, {
+    "name" : "kotojs",
+    "url" : "https://github.com/kotojs/kotojs"
+  }, {
+    "name" : "metricsgraphics",
+    "url" : "https://github.com/mozilla/metrics-graphics"
+  }, {
+    "name" : "micropolar",
+    "url" : "https://github.com/biovisualize/micropolar/"
+  }, {
+    "name" : "mpld3",
+    "url" : "https://github.com/mpld3/mpld3"
+  }, {
+    "name" : "neo4jd3",
+    "url" : "https://github.com/eisman/neo4jd3"
+  }, {
+    "name" : "nvd3",
+    "url" : "https://github.com/novus/nvd3"
+  }, {
+    "name" : "peek",
+    "url" : "https://github.com/mtmacdonald/peek"
+  }, {
+    "name" : "plotly",
+    "url" : "https://github.com/plotly/plotly.js/"
+  }, {
+    "name" : "plottablejs",
+    "url" : "https://github.com/palantir/plottable"
+  }, {
+    "name" : "pykcharts",
+    "url" : "https://github.com/pykih/PykCharts.js"
+  }, {
+    "name" : "radar chart",
+    "url" : "https://github.com/alangrafu/radar-chart-d3"
+  }, {
+    "name" : "rickshaw",
+    "url" : "https://github.com/shutterstock/rickshaw"
+  }, {
+    "name" : "sankey",
+    "url" : "https://github.com/d3/d3-plugins/tree/master/sankey"
+  }, {
+    "name" : "taucharts",
+    "url" : "https://github.com/TargetProcess/tauCharts"
+  }, {
+    "name" : "techanjs",
+    "url" : "https://github.com/andredumas/techan.js"
+  }, {
+    "name" : "uvCharts",
+    "url" : "https://github.com/imaginea/uvCharts"
+  }, {
+    "name" : "vega",
+    "url" : "https://github.com/vega/vega"
+  }, {
+    "name" : "vega-lite",
+    "url" : "https://github.com/vega/vega-lite"
+  }, {
+    "name" : "venn.js",
+    "url" : "https://github.com/benfred/venn.js"
+  }, {
+    "name" : "visavail",
+    "url" : "https://github.com/flrs/visavail"
+  }, {
+    "name" : "vizabi",
+    "url" : "https://github.com/Gapminder/vizabi"
+  }, {
+    "name" : "xkcdgraphs",
+    "url" : "https://github.com/imkevinxu/xkcdgraphs"
+  } ]
+}, {
+  "category" : "Third Party Charts",
+  "items" : [ {
+    "name" : "angular-nvd3",
+    "url" : "https://github.com/krispo/angular-nvd3"
+  }, {
+    "name" : "d3act",
+    "url" : "https://github.com/AnSavvides/d3act"
+  }, {
+    "name" : "d3 simplecharts",
+    "url" : "https://github.com/mrBigJS/d3-simpleCharts"
+  }, {
+    "name" : "ember charts",
+    "url" : "https://github.com/Addepar/ember-charts/"
+  }, {
+    "name" : "n3-charts",
+    "url" : "https://github.com/n3-charts/line-chart"
+  }, {
+    "name" : "nivo",
+    "url" : "https://github.com/plouc/nivo"
+  }, {
+    "name" : "numberpicture",
+    "url" : "https://github.com/finnfiddle/number-picture"
+  }, {
+    "name" : "react-d3",
+    "url" : "https://github.com/esbullington/react-d3"
+  }, {
+    "name" : "react-d3-components",
+    "url" : "https://github.com/codesuki/react-d3-components"
+  }, {
+    "name" : "react-d3-library",
+    "url" : "https://github.com/react-d3-library/react-d3-library"
+  }, {
+    "name" : "react-stockcharts",
+    "url" : "https://github.com/rrag/react-stockcharts"
+  }, {
+    "name" : "react-vis",
+    "url" : "https://github.com/uber-common/react-vis"
+  }, {
+    "name" : "recharts",
+    "url" : "https://github.com/recharts/recharts"
+  }, {
+    "name" : "semiotic",
+    "url" : "https://github.com/emeeks/semiotic"
+  }, {
+    "name" : "victory",
+    "url" : "https://github.com/FormidableLabs/victory"
+  }, {
+    "name" : "vx",
+    "url" : "https://github.com/hshoff/vx"
+  } ]
+}, {
+  "category" : "Maps",
+  "items" : [ {
+    "name" : "carto map",
+    "url" : "https://github.com/emeeks/d3-carto-map"
+  }, {
+    "name" : "composite-projections",
+    "url" : "https://github.com/rveciana/d3-composite-projections"
+  }, {
+    "name" : "datamaps",
+    "url" : "https://github.com/markmarkoh/datamaps"
+  }, {
+    "name" : "d3 cartogram",
+    "url" : "https://github.com/shawnbot/topogram"
+  }, {
+    "name" : "d3 exploder",
+    "url" : "https://github.com/bsouthga/d3-exploder"
+  }, {
+    "name" : "d3 geo projection",
+    "url" : "https://github.com/d3/d3-geo-projection"
+  }, {
+    "name" : "d3 geomap",
+    "url" : "https://github.com/yaph/d3-geomap"
+  }, {
+    "name" : "d3.geo2rect",
+    "url" : "https://github.com/sebastian-meier/d3.geo2rect"
+  }, {
+    "name" : "earthjs.js",
+    "url" : "https://github.com/earthjs/earthjs"
+  }, {
+    "name" : "mapmap.js",
+    "url" : "https://github.com/floledermann/mapmap.js"
+  }, {
+    "name" : "mapsense.js",
+    "url" : "https://github.com/mapsense/mapsense.js"
+  }, {
+    "name" : "maptable",
+    "url" : "https://github.com/Packet-Clearing-House/maptable"
+  }, {
+    "name" : "simple map",
+    "url" : "https://github.com/MinnPost/simple-map-d3"
+  }, {
+    "name" : "spam",
+    "url" : "https://github.com/newsappsio/spam"
+  } ]
+}, {
+  "category" : "Third Party Maps",
+  "items" : [ {
+    "name" : "leaflet-d3",
+    "url" : "https://github.com/Asymmetrik/leaflet-d3"
+  }, {
+    "name" : "React D3 Map",
+    "url" : "https://github.com/react-d3/react-d3-basic"
+  }, {
+    "name" : "Wikimaps-D3js Atlas",
+    "url" : "https://github.com/WikimapsAtlas/make-modules"
+  } ]
+}, {
+  "category" : "Utils",
+  "items" : [ {
+    "name" : "chroniton",
+    "url" : "https://github.com/tmcw/chroniton"
+  }, {
+    "name" : "d3kit-timeline",
+    "url" : "https://github.com/kristw/d3kit-timeline"
+  }, {
+    "name" : "d3scription",
+    "url" : "https://github.com/GlobalWebIndex/d3scription"
+  }, {
+    "name" : "d3-annotation",
+    "url" : "https://github.com/susielu/d3-annotation"
+  }, {
+    "name" : "d3-area-label",
+    "url" : "https://github.com/curran/d3-area-label"
+  }, {
+    "name" : "d3-breadcrumbs",
+    "url" : "https://github.com/bumbeishvili/d3-breadcrumbs"
+  }, {
+    "name" : "d3-component",
+    "url" : "https://github.com/curran/d3-component"
+  }, {
+    "name" : "d3-extended",
+    "url" : "https://github.com/wbkd/d3-extended"
+  }, {
+    "name" : "d3-helpers",
+    "url" : "https://github.com/bahmutov/d3-helpers"
+  }, {
+    "name" : "d3-history",
+    "url" : "https://github.com/vijithassar/d3-history"
+  }, {
+    "name" : "d3-iconarray",
+    "url" : "https://github.com/tomgp/d3-iconarray"
+  }, {
+    "name" : "d3-kit",
+    "url" : "https://github.com/twitter/d3kit"
+  }, {
+    "name" : "d3-Labeler",
+    "url" : "https://github.com/tinker10/D3-Labeler"
+  }, {
+    "name" : "d3-lasso",
+    "url" : "https://github.com/skokenes/d3-lasso"
+  }, {
+    "name" : "d3-legend",
+    "url" : "https://github.com/susielu/d3-legend"
+  }, {
+    "name" : "d3-loom",
+    "url" : "https://github.com/nbremer/d3-loom"
+  }, {
+    "name" : "d3-nelson-rules",
+    "url" : "https://github.com/kiernanmcgowan/d3-nelson-rules"
+  }, {
+    "name" : "d3-peaks",
+    "url" : "https://github.com/efekarakus/d3-peaks"
+  }, {
+    "name" : "d3-ring-note",
+    "url" : "https://github.com/armollica/d3-ring-note"
+  }, {
+    "name" : "d3-scale-cluster",
+    "url" : "https://github.com/schnerd/d3-scale-cluster"
+  }, {
+    "name" : "d3-sparql",
+    "url" : "https://github.com/zazuko/d3-sparql"
+  }, {
+    "name" : "d3-starterkit",
+    "url" : "https://github.com/1wheel/d3-starterkit"
+  }, {
+    "name" : "d3-tip",
+    "url" : "https://github.com/Caged/d3-tip"
+  }, {
+    "name" : "d3-tipy",
+    "url" : "https://github.com/tj/d3-tipy"
+  }, {
+    "name" : "d3-tooltip",
+    "url" : "https://github.com/bumbeishvili/d3-tooltip"
+  }, {
+    "name" : "d3-trail",
+    "url" : "https://github.com/bmschmidt/D3-trail"
+  }, {
+    "name" : "d3-xray",
+    "url" : "https://github.com/vijithassar/d3-xray"
+  }, {
+    "name" : "d3.slider",
+    "url" : "https://github.com/MasterMaps/d3-slider"
+  }, {
+    "name" : "d3.svg.circularbrush",
+    "url" : "https://github.com/emeeks/d3.svg.circularbrush"
+  }, {
+    "name" : "d3.svg.ribbon",
+    "url" : "https://github.com/emeeks/d3.svg.ribbon"
+  }, {
+    "name" : "iopctrl",
+    "url" : "https://github.com/metormote/iopctrl"
+  }, {
+    "name" : "jetpack",
+    "url" : "https://github.com/gka/d3-jetpack"
+  }, {
+    "name" : "kodama",
+    "url" : "https://github.com/DarkMarmot/kodama"
+  }, {
+    "name" : "swoopyarrows",
+    "url" : "https://github.com/bizweekgraphics/swoopyarrows"
+  }, {
+    "name" : "swoopyDrag",
+    "url" : "https://github.com/1wheel/swoopy-drag"
+  }, {
+    "name" : "textures",
+    "url" : "https://github.com/riccardoscalco/textures"
+  } ]
+}, {
+  "category" : "Miscellaneous",
+  "items" : [ {
+    "name" : "chess-dataviz",
+    "url" : "https://github.com/ebemunk/chess-dataviz"
+  }, {
+    "name" : "codeflower",
+    "url" : "https://github.com/fzaninotto/CodeFlower"
+  }, {
+    "name" : "comic.js",
+    "url" : "https://github.com/balint42/comic.js"
+  }, {
+    "name" : "dragit",
+    "url" : "https://github.com/romsson/dragit"
+  }, {
+    "name" : "d3moji",
+    "url" : "https://github.com/mathisonian/d3moji"
+  }, {
+    "name" : "d3-cloud",
+    "url" : "https://github.com/jasondavies/d3-cloud"
+  }, {
+    "name" : "d3-context-menu",
+    "url" : "https://github.com/patorjk/d3-context-menu"
+  }, {
+    "name" : "d3-force-gravity",
+    "url" : "https://github.com/sohamkamani/d3-force-gravity"
+  }, {
+    "name" : "d3-resume",
+    "url" : "https://github.com/glena/d3-resume"
+  }, {
+    "name" : "d3.sketchy",
+    "url" : "https://github.com/sebastian-meier/d3.sketchy"
+  }, {
+    "name" : "d3plus-text",
+    "url" : "https://github.com/d3plus/d3plus-text"
+  }, {
+    "name" : "graph-scroll",
+    "url" : "https://github.com/1wheel/graph-scroll"
+  }, {
+    "name" : "jsdocs2diagram",
+    "url" : "https://github.com/amcmillan01/jsdoc2diagram"
+  }, {
+    "name" : "mermaid",
+    "url" : "https://github.com/knsv/mermaid"
+  }, {
+    "name" : "netvis",
+    "url" : "https://github.com/dborzov/netvis"
+  } ]
+}, {
+  "category" : "Server side",
+  "items" : [ {
+    "name" : "d3-node",
+    "url" : "https://github.com/d3-node/d3-node"
+  } ]
+}, {
+  "category" : "Code Editors",
+  "items" : [ {
+    "name" : "Snippets for Atom",
+    "url" : "https://github.com/martgnz/d3-snippets"
+  }, {
+    "name" : "Snippets for Sublime Text 2",
+    "url" : "https://github.com/fabriciotav/d3-snippets-for-sublime-text-2"
+  } ]
+}, {
+  "category" : "Bl.ocks.org Profiles",
+  "items" : [ {
+    "name" : "Adam Pearce",
+    "url" : "https://bl.ocks.org/1wheel"
+  }, {
+    "name" : "Colin Eberhardt",
+    "url" : "https://bl.ocks.org/ColinEberhardt"
+  }, {
+    "name" : "Harry Stevens",
+    "url" : "https://bl.ocks.org/HarryStevens"
+  }, {
+    "name" : "Luis Sevillano",
+    "url" : "https://bl.ocks.org/LuisSevillano"
+  }, {
+    "name" : "Peter Cook",
+    "url" : "https://bl.ocks.org/d3indepth"
+  }, {
+    "name" : "Elijah Meeks",
+    "url" : "https://bl.ocks.org/emeeks"
+  }, {
+    "name" : "Ian Johnson",
+    "url" : "https://bl.ocks.org/enjalot"
+  }, {
+    "name" : "Philippe Rivière",
+    "url" : "https://bl.ocks.org/fil"
+  }, {
+    "name" : "Mike Bostock",
+    "url" : "https://bl.ocks.org/mbostock"
+  }, {
+    "name" : "Micah Stubbs",
+    "url" : "https://bl.ocks.org/micahstubbs"
+  }, {
+    "name" : "Nadieh Bremer",
+    "url" : "https://bl.ocks.org/nbremer"
+  }, {
+    "name" : "Matteo Abrate",
+    "url" : "https://bl.ocks.org/nitaku"
+  }, {
+    "name" : "Susie Lu",
+    "url" : "https://bl.ocks.org/susielu"
+  }, {
+    "name" : "Shirley Wu",
+    "url" : "https://bl.ocks.org/sxywu"
+  }, {
+    "name" : "Kai Chang",
+    "url" : "https://bl.ocks.org/syntagmatic"
+  }, {
+    "name" : "Tom Shanley",
+    "url" : "https://bl.ocks.org/tomshanley"
+  }, {
+    "name" : "Vasco Asturiano",
+    "url" : "https://bl.ocks.org/vasturiano"
+  }, {
+    "name" : "Noah Veltman",
+    "url" : "https://bl.ocks.org/veltman"
+  }, {
+    "name" : "Zan Armstrong",
+    "url" : "https://bl.ocks.org/zanarmstrong"
+  } ]
+} ]

@@ -1,0 +1,433 @@
+[ {
+  "category" : "Tutorials",
+  "items" : [ {
+    "name" : "What Developers Need to Know about MVI (Model-View-Intent)",
+    "url" : "http://thenewstack.io/developers-need-know-mvi-model-view-intent/"
+  }, {
+    "name" : "Cycle.js: a reactive framework",
+    "url" : "https://lucamezzalira.com/2016/05/23/cycle-js-a-reactive-framework/"
+  }, {
+    "name" : "Building realtime applications with CycleJS and RxJS",
+    "url" : "https://blog.pusher.com/building-realtime-applications-with-cyclejs-and-rxjs/"
+  }, {
+    "name" : "Working with HTTP Streams with Cycle.js",
+    "url" : "http://ivanjov.com/working-with-http-streams-with-cycle-js/"
+  } ]
+}, {
+  "category" : "Videos",
+  "items" : [ {
+    "description" : " Presentation at JSConf BP2015 by Andre Staltz",
+    "name" : "What if the user was a function?",
+    "url" : "https://www.youtube.com/watch?v=1zj7M1LnJV4"
+  }, {
+    "description" : " Presentation AtTheFrontend Conference by Andre Staltz",
+    "name" : "Unidirectional data flow architectures",
+    "url" : "https://vimeo.com/168652278"
+  }, {
+    "description" : " Presentation at ReactiveConf 2015 by Andre Staltz",
+    "name" : "Cycle.js and functional reactive user interfaces",
+    "url" : "https://www.youtube.com/watch?v=uNZnftSksYg"
+  }, {
+    "description" : " Presentation by Nick Johnstone",
+    "name" : "Intro to Functional Reactive Programming with Cycle.js",
+    "url" : "https://www.youtube.com/watch?v=6_ETUyh0tns"
+  }, {
+    "description" : " Playlist at egghead.io",
+    "name" : "Cycle.js Fundamentals",
+    "url" : "https://egghead.io/series/cycle-js-fundamentals"
+  }, {
+    "description" : " by Andre Staltz at Frontend.fi",
+    "name" : "Cycle.js was built to solve problems",
+    "url" : "https://www.youtube.com/watch?v=Rj8ZTRVka4E"
+  }, {
+    "description" : " by Andre Staltz at CycleConf 2016",
+    "name" : "Brains as Building Blocks",
+    "url" : "https://www.youtube.com/watch?v=1ToJ7cxb1R8"
+  }, {
+    "description" : " by Nick Johnstone at CycleConf 2016",
+    "name" : "Back to the Future, Hot reloading with Cycle.js",
+    "url" : "https://www.youtube.com/watch?v=rbrnyC5fXMM"
+  }, {
+    "description" : " by Gleb Bahmutov at CycleConf 2016",
+    "name" : "From MVC to FRP",
+    "url" : "https://www.youtube.com/watch?v=-PCq4pXaDZw"
+  }, {
+    "description" : " by Hadrien de Cuzey at CycleConf 2016",
+    "name" : "Cycle.js on the bash side",
+    "url" : "https://www.youtube.com/watch?v=Rx5N99TQ52g"
+  }, {
+    "description" : " by Luca Mezzalira at JSDay 2016",
+    "name" : "Reactive Programming with Cycle.js",
+    "url" : "https://vimeo.com/175121069"
+  }, {
+    "description" : " by Fernando Macias Pereznieto at JS Monthly London",
+    "name" : "Learning how to ride: an introduction to Cycle.js",
+    "url" : "https://youtu.be/31URmaeNHSs"
+  }, {
+    "description" : " Lightning talk by Thomas Belin at Dotjs 2016",
+    "name" : "User Interfaces as Pure Functions of Time",
+    "url" : "https://www.youtube.com/watch?v=9BG0Y3C6WqM"
+  } ]
+}, {
+  "category" : "Slides",
+  "items" : [ {
+    "name" : "Cycle.js an honestly reactive framework for web user interfaces",
+    "url" : "http://slides.com/erykpiast/cycle"
+  }, {
+    "name" : "Intro to Cycle.js",
+    "url" : "http://www.slideshare.net/aryelukashevski/cyclejs-introduction"
+  }, {
+    "name" : "Reactive Programming with Cycle.js",
+    "url" : "http://www.slideshare.net/flashplatform/reactive-programming-with-cyclejs"
+  }, {
+    "description" : " building apps with streams only",
+    "name" : "Cycle.js",
+    "url" : "http://lmatteis.github.io/cyclejs-slides/keynote/index.html"
+  }, {
+    "name" : "Functional Reactive Programming with Cycle.js",
+    "url" : "https://slides.com/artfuldev/frp-with-cycle-js"
+  }, {
+    "description" : " by Clément Delafargue",
+    "name" : "Beyond flux: going full cycle with FRP",
+    "url" : "https://clementd-files.cellar.services.clever-cloud.com/blog/frp-full-cycle-ncrafts.html"
+  } ]
+}, {
+  "category" : "Example Applications",
+  "items" : [ {
+    "name" : "cyclejs/cycle-examples",
+    "url" : "https://github.com/cyclejs/cyclejs/tree/master/examples"
+  }, {
+    "name" : "Widdershin/tricycle ★23",
+    "url" : "https://github.com/Widdershin/tricycle"
+  }, {
+    "name" : "cgeorg/todomvp ★21",
+    "url" : "https://github.com/cgeorg/todomvp"
+  }, {
+    "name" : "erykpiast/cyclejs-examples ★9",
+    "url" : "https://github.com/erykpiast/cyclejs-examples"
+  }, {
+    "name" : "grozen/trends-cycle ★3",
+    "url" : "https://github.com/grozen/trends-cycle"
+  }, {
+    "name" : "ivan-kleshnin/cyclejs-examples ★120",
+    "url" : "https://github.com/ivan-kleshnin/cyclejs-examples"
+  }, {
+    "name" : "ivan-kleshnin/tetris-cyclejs ★12",
+    "url" : "https://github.com/ivan-kleshnin/tetris-game"
+  }, {
+    "name" : "phadej/graafi ★20",
+    "url" : "https://github.com/phadej/graafi"
+  }, {
+    "description" : " A interactive matrix multiplication webapp",
+    "name" : "staltz/matrixmultiplication.xyz ★548",
+    "url" : "https://github.com/staltz/matrixmultiplication.xyz"
+  }, {
+    "name" : "staltz/rxmarbles ★2,577",
+    "url" : "https://github.com/staltz/rxmarbles"
+  }, {
+    "name" : "MarcCloud/magic-cart ★6",
+    "url" : "https://github.com/MarcCloud/magic-cart"
+  }, {
+    "name" : "foxdonut/cycle-todolist ★11",
+    "url" : "https://github.com/foxdonut/cycle-todolist"
+  }, {
+    "name" : "Mercateo/component-check ★468",
+    "url" : "https://github.com/Mercateo/component-check"
+  }, {
+    "name" : "edge/electron-cycle-media ★27",
+    "url" : "https://github.com/edge/electron-cycle-media"
+  }, {
+    "name" : "kibin/cycle-example-who-to-follow ★16",
+    "url" : "https://github.com/kibin/cycle-example-who-to-follow"
+  }, {
+    "name" : "SkaterDad/cycle-snabbdom-examples ★12",
+    "url" : "https://github.com/SkaterDad/cycle-snabbdom-examples"
+  }, {
+    "description" : " Interactive visualization of counter application showing the data flow inside a MVI component glebbahmutov.com/draw-cycle",
+    "name" : "bahmutov/draw-cycle ★112",
+    "url" : "https://github.com/bahmutov/draw-cycle"
+  }, {
+    "name" : "andreloureiro/pomocycle ★21",
+    "url" : "https://github.com/andreloureiro/pomocycle"
+  }, {
+    "name" : "laszlokorte/tams-tools ★24",
+    "url" : "https://github.com/laszlokorte/tams-tools"
+  }, {
+    "name" : "lucamezzalira/jsday-cycle-js ★16",
+    "url" : "https://github.com/lucamezzalira/jsday-cycle-js"
+  }, {
+    "description" : " A website",
+    "name" : "cyclejs-community/built-with-cycle ★9",
+    "url" : "https://github.com/cyclejs-community/built-with-cycle"
+  }, {
+    "name" : "class-ideas/cyclejs-hangman ★10",
+    "url" : "https://github.com/class-ideas/cyclejs-hangman"
+  }, {
+    "name" : "wmaurer/cyclejs-fractals ★15",
+    "url" : "https://github.com/wmaurer/cyclejs-fractals"
+  }, {
+    "name" : "fabiothiroki/cyclejs-starwars ★2",
+    "url" : "https://github.com/fabiothiroki/cyclejs-starwars"
+  }, {
+    "name" : "staltz/mmmmm-mobile ★124",
+    "url" : "https://github.com/staltz/mmmmm-mobile/"
+  }, {
+    "description" : " TodoMVC example",
+    "name" : "cyclejs/todomvc-cycle ★214",
+    "url" : "https://github.com/cyclejs/todomvc-cycle/"
+  }, {
+    "name" : "jefersondaniel/cyclejs-notes",
+    "url" : "https://github.com/jefersondaniel/cyclejs-notes/"
+  }, {
+    "name" : "staltz/dat-installer ★77",
+    "url" : "https://github.com/staltz/dat-installer"
+  }, {
+    "name" : "usm4n/cycle-hn ★25",
+    "url" : "https://github.com/usm4n/cycle-hn"
+  } ]
+}, {
+  "category" : "Tools"
+}, {
+  "category" : "CLI",
+  "items" : [ {
+    "name" : "cyclejs-community/create-cycle-app ★160",
+    "url" : "https://github.com/cyclejs-community/create-cycle-app"
+  } ]
+}, {
+  "category" : "Libraries"
+}, {
+  "category" : "Drivers",
+  "items" : [ {
+    "name" : "@cycle/http",
+    "url" : "https://github.com/cyclejs/cyclejs/tree/master/http"
+  }, {
+    "name" : "@cycle/dom",
+    "url" : "https://github.com/cyclejs/cyclejs/tree/master/dom"
+  }, {
+    "name" : "@cycle/storage",
+    "url" : "https://github.com/cyclejs/storage"
+  }, {
+    "description" : " This is the standard Cycle.js driver for dealing with the History API",
+    "name" : "@cycle/history",
+    "url" : "https://github.com/cyclejs/cyclejs/tree/master/history"
+  }, {
+    "name" : "@cycle/isolate",
+    "url" : "https://github.com/cyclejs/cyclejs/tree/master/isolate"
+  }, {
+    "name" : "@cycle/time",
+    "url" : "https://github.com/cyclejs/cyclejs/tree/master/time"
+  }, {
+    "name" : "cyclejs/cycle-notification-driver ★20",
+    "url" : "https://github.com/cyclejs/cycle-notification-driver"
+  }, {
+    "name" : "axefrog/cycle-router5 ★30",
+    "url" : "https://github.com/axefrog/cycle-router5"
+  }, {
+    "name" : "cgeorg/cycle-socket.io ★27",
+    "url" : "https://github.com/cgeorg/cycle-socket.io"
+  }, {
+    "name" : "secobarbital/cycle-fetch-driver ★2",
+    "url" : "https://github.com/secobarbital/cycle-fetch-driver"
+  }, {
+    "description" : " A Cycle.js Driver for making HTTP requests using stackable-fetcher",
+    "name" : "r7kamura/cycle-fetcher-driver ★14",
+    "url" : "https://github.com/r7kamura/cycle-fetcher-driver"
+  }, {
+    "description" : " A Cycle.js Driver for manipulating the Web Audio API using virtual-audio-graph",
+    "name" : "benji6/cycle-audio-graph ★12",
+    "url" : "https://github.com/benji6/cycle-audio-graph"
+  }, {
+    "name" : "CyclicMaterials/cycle-hammer-driver ★11",
+    "url" : "https://github.com/CyclicMaterials/cycle-hammer-driver"
+  }, {
+    "name" : "jessaustin/cycle-sse-driver ★6",
+    "url" : "https://github.com/jessaustin/cycle-sse-driver"
+  }, {
+    "name" : "tylors/cycle-snabbdom ★41",
+    "url" : "https://github.com/TylorS/cycle-snabbdom"
+  }, {
+    "name" : "cyclejs-community/cyclic-router ★90",
+    "url" : "https://github.com/cyclejs-community/cyclic-router"
+  }, {
+    "name" : "Widdershin/cycle-animation-driver ★33",
+    "url" : "https://github.com/Widdershin/cycle-animation-driver"
+  }, {
+    "name" : "dralletje/cycle-firebase ★21",
+    "url" : "https://github.com/dralletje/cycle-firebase"
+  }, {
+    "name" : "edge/cycle-blessed ★46",
+    "url" : "https://github.com/edge/cycle-blessed"
+  }, {
+    "name" : "10clouds/cyclejs-cookie ★2",
+    "url" : "https://github.com/10clouds/cyclejs-cookie"
+  }, {
+    "name" : "whitecolor/cycle-async-driver ★25",
+    "url" : "https://github.com/whitecolor/cycle-async-driver"
+  }, {
+    "name" : "raquelxmoss/cycle-keys ★35",
+    "url" : "https://github.com/raquelxmoss/cycle-keys"
+  }, {
+    "name" : "rektide/recyclec ★0",
+    "url" : "https://github.com/rektide/recyclec"
+  }, {
+    "name" : "goodmind/cycle-telegram ★15",
+    "url" : "https://github.com/goodmind/cycle-telegram"
+  }, {
+    "name" : "apoco/cycle-electron-driver ★22",
+    "url" : "https://github.com/apoco/cycle-electron-driver"
+  }, {
+    "name" : "rkrupinski/cyclejs-animated-localstorage ★12",
+    "url" : "https://github.com/rkrupinski/cyclejs-animated-localstorage"
+  }, {
+    "name" : "cyclejs-community/cycle-keyboard ★9",
+    "url" : "https://github.com/cyclejs-community/cycle-keyboard"
+  }, {
+    "name" : "garrydzeng/cycle-page ★3",
+    "url" : "https://github.com/garrydzeng/cycle-page"
+  }, {
+    "name" : "jbowden1982/cycle-socketcluster ★5",
+    "url" : "https://github.com/jbowden1982/cycle-socketcluster"
+  }, {
+    "name" : "cyclejs-community/redux-cycles ★599",
+    "url" : "https://github.com/cyclejs-community/redux-cycles"
+  }, {
+    "name" : "JuniperChicago/cycle-gun ★18",
+    "url" : "https://github.com/JuniperChicago/cycle-gun"
+  }, {
+    "description" : " A Cycle.js driver for deepstream.io",
+    "name" : "EnigmaCurry/cycle-deepstream ★8",
+    "url" : "https://github.com/EnigmaCurry/cycle-deepstream"
+  }, {
+    "name" : "Alex0007/cycle-express-driver ★1",
+    "url" : "https://github.com/Alex0007/cycle-express-driver"
+  }, {
+    "name" : "mrpierrot/cycle-node-http-server ★4",
+    "url" : "https://github.com/mrpierrot/cycle-node-http-server"
+  }, {
+    "name" : "Avalander/cycle-idb ★4",
+    "url" : "https://github.com/Avalander/cycle-idb"
+  }, {
+    "description" : " A Cycle.js driver for Pusher",
+    "name" : "unhappychoice/cycle-pusher ★1",
+    "url" : "https://github.com/unhappychoice/cycle-pusher"
+  } ]
+}, {
+  "category" : "Utilities",
+  "items" : [ {
+    "name" : "staltz/chai-virtual-dom ★24",
+    "url" : "https://github.com/staltz/chai-virtual-dom"
+  }, {
+    "name" : "cgeorg/sinject ★10",
+    "url" : "https://github.com/cgeorg/sinject"
+  }, {
+    "name" : "erykpiast/cyclejs-group ★20",
+    "url" : "https://github.com/erykpiast/cyclejs-group"
+  }, {
+    "name" : "erykpiast/cyclejs-wc ★2",
+    "url" : "https://github.com/erykpiast/cyclejs-wc"
+  }, {
+    "name" : "ohanhi/hyperscript-helpers ★390",
+    "url" : "https://github.com/ohanhi/hyperscript-helpers"
+  }, {
+    "name" : "pH200/cycle-react ★342",
+    "url" : "https://github.com/pH200/cycle-react"
+  }, {
+    "description" : " A helper function and macro for using Earl Grey's document-building syntax",
+    "name" : "madcapjake/earlhyperscript ★2",
+    "url" : "https://github.com/MadcapJake/earl-hyperscript"
+  }, {
+    "name" : "WorldMaker/cycle-gear ★4",
+    "url" : "https://github.com/WorldMaker/cycle-gear"
+  }, {
+    "name" : "SuperManitu/cyclejs-sortable ★15",
+    "url" : "https://github.com/cyclejs-community/cyclejs-sortable"
+  }, {
+    "name" : "atomrc/cyclejs-auth0 ★22",
+    "url" : "https://github.com/atomrc/cyclejs-auth0"
+  }, {
+    "name" : "staltz/cycle-onionify ★244",
+    "url" : "https://github.com/staltz/cycle-onionify"
+  }, {
+    "name" : "maiermic/cycle-storageify ★5",
+    "url" : "https://github.com/maiermic/cycle-storageify"
+  } ]
+}, {
+  "category" : "Boilerplates",
+  "items" : [ {
+    "name" : "andreloureiro/cyclejs-starter ★50",
+    "url" : "https://github.com/andreloureiro/cyclejs-starter"
+  }, {
+    "name" : "Frikki/generator-cyclejs ★2",
+    "url" : "https://github.com/Frikki/generator-cyclejs"
+  }, {
+    "name" : "adicirstei/cycle-bp ★5",
+    "url" : "https://github.com/adicirstei/cycle-bp"
+  }, {
+    "name" : "edge/cyc ★194",
+    "url" : "https://github.com/edge/cyc"
+  }, {
+    "name" : "cmdv/cycle-webpack-boilerplate ★101",
+    "url" : "https://github.com/Cmdv/cycle-webpack-boilerplate"
+  }, {
+    "name" : "Widdershin/cycle-hot-reloading-example ★27",
+    "url" : "https://github.com/Widdershin/cycle-hot-reloading-example"
+  }, {
+    "name" : "mciparelli/cycle-hmr-example ★0",
+    "url" : "https://github.com/mciparelli/cycle-hmr-example"
+  }, {
+    "name" : "cycle-community/typescript-starter-cycle ★22",
+    "url" : "https://github.com/cyclejs-community/typescript-starter-cycle"
+  }, {
+    "name" : "wyqydsyq/unicycle ★6",
+    "url" : "https://github.com/wyqydsyq/unicycle"
+  }, {
+    "name" : "syarul/cycle-iso ★4",
+    "url" : "https://github.com/syarul/cycle-iso"
+  } ]
+}, {
+  "category" : "Testing",
+  "items" : [ {
+    "name" : "erykpiast/cyclejs-mock ★22",
+    "url" : "https://github.com/erykpiast/cyclejs-mock"
+  }, {
+    "name" : "jeysal/pretty-format-snabbdom ★0",
+    "url" : "https://github.com/jeysal/pretty-format-snabbdom"
+  } ]
+}, {
+  "category" : "Debugging",
+  "items" : [ {
+    "description" : " A time travelling debugger for Cycle.js apps. Displays a stream visualizer that you can drag to go back in time",
+    "name" : "cyclejs/cycle-time-travel ★205",
+    "url" : "https://github.com/cyclejs/cycle-time-travel"
+  } ]
+}, {
+  "category" : "Components",
+  "items" : [ {
+    "name" : "erykpiast/autocompleted-select ★10",
+    "url" : "https://github.com/erykpiast/autocompleted-select"
+  }, {
+    "description" : " Calendar component for Cycle.js. Try it online here",
+    "name" : "enten/cyclejs-calendar ★11",
+    "url" : "https://github.com/enten/cyclejs-calendar"
+  }, {
+    "name" : "mciparelli/cyclejs-gravatar ★0",
+    "url" : "https://github.com/mciparelli/cyclejs-gravatar"
+  }, {
+    "description" : "Cycle.js intergration with Ace Editor using Brace",
+    "name" : "tommy-the-runner/cyclejs-ace-editor ★0",
+    "url" : "https://github.com/tommy-the-runner/cyclejs-ace-editor"
+  }, {
+    "description" : " A Color Picker component for Cycle.js. Check out the example",
+    "name" : "raquelxmoss/cycle-color-picker ★44",
+    "url" : "https://github.com/raquelxmoss/cycle-color-picker"
+  }, {
+    "name" : "cyclejs-community/cycle-svg-pan-and-zoom ★4",
+    "url" : "https://github.com/cyclejs-community/cycle-svg-pan-and-zoom"
+  } ]
+}, {
+  "category" : "Community",
+  "items" : [ {
+    "name" : "Gitter chat",
+    "url" : "https://gitter.im/cyclejs/cycle-core"
+  } ]
+} ]

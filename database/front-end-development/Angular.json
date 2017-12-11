@@ -1,0 +1,1413 @@
+[ {
+  "category": "Official Resources",
+  "items": [ {
+    "name": "Site",
+    "url": "https://angular.io/"
+  }, {
+    "name": "Blog",
+    "url": "http://angularjs.blogspot.com/"
+  }, {
+    "name": "Documentation",
+    "url": "https://angular.io/docs/js/latest/"
+  }, {
+    "name": "Cheatsheet",
+    "url": "https://angular.io/guide/cheatsheet"
+  }, {
+    "name": "Getting Started Guide",
+    "url": "https://angular.io/guide/quickstart"
+  }, {
+    "name": "GitHub Repo",
+    "url": "https://github.com/angular/angular"
+  } ]
+}, {
+  "category": "Community",
+  "items": [ {
+    "name": "#angular",
+    "url": "https://twitter.com/hashtag/angular"
+  }, {
+    "name": "Gitter Channel",
+    "url": "https://gitter.im/angular/angular"
+  }, {
+    "name": "Angular StackOverflow",
+    "url": "https://stackoverflow.com/questions/tagged/angular"
+  }, {
+    "name": "@Angular on Twitter",
+    "url": "https://twitter.com/angular"
+  }, {
+    "name": "/r/Angular2 Subreddit",
+    "url": "https://www.reddit.com/r/Angular2/"
+  }, {
+    "name": "Angular Group on Facebook",
+    "url": "https://www.facebook.com/groups/angular2/"
+  }, {
+    "name": "AngularJS on Google+",
+    "url": "https://plus.google.com/+AngularJS"
+  }, {
+    "name": "AngularAir",
+    "url": "http://angularair.com/"
+  }, {
+    "name": "Adventures in Angular",
+    "url": "https://devchat.tv/adv-in-angular"
+  }, {
+    "name": "ng-newsletter",
+    "url": "http://www.ng-newsletter.com"
+  }, {
+    "name": "Angular Expo",
+    "url": "http://angularexpo.com/"
+  }, {
+    "name": "#ng-2 Slack Channel",
+    "url": "https://angularbuddies.slack.com/messages/ng-2/"
+  }, {
+    "name": "#angular2 Slack Channel",
+    "url": "https://dartlang-slack.herokuapp.com/"
+  }, {
+    "name": "Twitter's Most Shared #angular2 Content in a Simple Weekly Digest",
+    "url": "http://theherdlocker.com/tweet/popularity/angular2"
+  } ]
+}, {
+  "category": "Angular Team on twitter",
+  "items": [ {
+    "name": "@mhevery",
+    "url": "https://twitter.com/mhevery"
+  }, {
+    "name": "@IgorMinar",
+    "url": "https://twitter.com/IgorMinar"
+  }, {
+    "name": "@bradlygreen",
+    "url": "https://twitter.com/bradlygreen"
+  }, {
+    "name": "@naomitraveller",
+    "url": "https://twitter.com/naomitraveller"
+  }, {
+    "name": "@tbosch1009",
+    "url": "https://twitter.com/tbosch1009"
+  }, {
+    "name": "@karaforthewin",
+    "url": "https://twitter.com/karaforthewin"
+  }, {
+    "name": "@robwormald",
+    "url": "https://twitter.com/robwormald"
+  } ]
+}, {
+  "category": "Experts on Twitter",
+  "items": [ {
+    "name": "@gdi2290",
+    "url": "https://twitter.com/gdi2290"
+  }, {
+    "name": "@scotups",
+    "url": "https://twitter.com/scotups"
+  }, {
+    "name": "@pkozlowski_os",
+    "url": "https://twitter.com/pkozlowski_os"
+  }, {
+    "name": "@teropa",
+    "url": "https://twitter.com/teropa"
+  }, {
+    "name": "@eggheadio",
+    "url": "https://twitter.com/eggheadio"
+  }, {
+    "name": "@hirez_io",
+    "url": "https://twitter.com/hirez_io"
+  }, {
+    "name": "@cedric_exbrayat",
+    "url": "https://twitter.com/cedric_exbrayat"
+  }, {
+    "name": "@amcdnl",
+    "url": "https://twitter.com/amcdnl"
+  }, {
+    "name": "@victorsavkin",
+    "url": "https://twitter.com/victorsavkin"
+  }, {
+    "name": "@jeffbcross",
+    "url": "https://twitter.com/jeffbcross"
+  } ]
+}, {
+  "category": "Google Developer Experts",
+  "items": [ {
+    "name": "Jack Franklin",
+    "url": "https://twitter.com/jack_franklin"
+  }, {
+    "name": "Thierry Chatel",
+    "url": "https://twitter.com/ThierryChatel"
+  }, {
+    "name": "Uri Shaked",
+    "url": "https://twitter.com/urishaked"
+  }, {
+    "name": "Gonzalo Ruiz de Villa Suárez",
+    "url": "https://twitter.com/gruizdevilla"
+  }, {
+    "name": "Sharon DiOrio",
+    "url": "https://twitter.com/sharondio"
+  }, {
+    "name": "John Papa",
+    "url": "https://twitter.com/John_Papa"
+  }, {
+    "name": "Dan Wahlin",
+    "url": "https://twitter.com/danwahlin"
+  }, {
+    "name": "Christian Weyer",
+    "url": "https://twitter.com/christianweyer"
+  }, {
+    "name": "Todd Motto",
+    "url": "https://twitter.com/toddmotto"
+  }, {
+    "name": "Tim Ruffles",
+    "url": "https://twitter.com/timruffles"
+  }, {
+    "name": "Wassim Chegham",
+    "url": "https://twitter.com/manekinekko"
+  }, {
+    "name": "Aaron Frost",
+    "url": "https://twitter.com/js_dev"
+  }, {
+    "name": "Wilson Mendes",
+    "url": "https://twitter.com/willmendesneto"
+  }, {
+    "name": "Jared Williams",
+    "url": "https://twitter.com/jaredwilli"
+  }, {
+    "name": "Gerard Sans",
+    "url": "https://twitter.com/gerardsans"
+  }, {
+    "name": "Pascal Precht",
+    "url": "https://twitter.com/PascalPrecht"
+  }, {
+    "name": "Jeff Whelpley",
+    "url": "https://twitter.com/jeffwhelpley/"
+  }, {
+    "name": "Raúl Jiménez",
+    "url": "https://twitter.com/elecash/"
+  }, {
+    "name": "Ciro Nunes",
+    "url": "https://twitter.com/cironunesdev/"
+  }, {
+    "name": "Maxim Salnikov",
+    "url": "https://twitter.com/webmaxru"
+  }, {
+    "name": "Deborah Kurata",
+    "url": "https://twitter.com/deborahkurata"
+  }, {
+    "name": "Minko Gechev",
+    "url": "https://twitter.com/mgechev"
+  }, {
+    "name": "Shai Reznik",
+    "url": "https://twitter.com/shai_reznik"
+  } ]
+}, {
+  "category": "Server-Side Rendering",
+  "items": [ {
+    "name": "Angular Universal Repository (GitHub)",
+    "url": "https://github.com/angular/universal"
+  } ]
+}, {
+  "category": "Material Design",
+  "items": [ {
+    "name": "Official Angular Material Design (GitHub)",
+    "url": "https://github.com/angular/material2"
+  }, {
+    "name": "md2",
+    "url": "https://www.npmjs.com/package/md2"
+  }, {
+    "name": "ng2-material",
+    "url": "https://www.npmjs.com/package/ng2-material"
+  }, {
+    "name": "angular2-mdl",
+    "url": "https://www.npmjs.com/package/angular2-mdl"
+  }, {
+    "name": "mdl-ext",
+    "url": "https://www.npmjs.com/package/mdl-ext"
+  }, {
+    "name": "ng2-materialize",
+    "url": "https://github.com/sherweb/ng2-materialize"
+  }, {
+    "name": "Material Light",
+    "url": "https://github.com/YagoLopez/material-light"
+  }, {
+    "name": "Blox Material",
+    "url": "https://github.com/src-zone/material"
+  } ]
+}, {
+  "category": "Cheatsheet",
+  "items": [ {
+    "name": "Official Angular Cheatsheet",
+    "url": "https://angular.io/guide/cheatsheet"
+  }, {
+    "name": "Dart API Cheatsheet",
+    "url": "https://docs.google.com/document/d/1FYyA-b9rc2UtlYyQXjW7lx4Y08MSpuWcbbuqVCxHga0/edit#heading=h.34sus6g4zss3"
+  }, {
+    "name": "Angular Dart cheatsheet",
+    "url": "https://github.com/andresaraujo/angular2_cheatsheet_dart"
+  }, {
+    "name": "Angular Performance Checklist",
+    "url": "https://github.com/mgechev/angular-performance-checklist"
+  } ]
+}, {
+  "category": "Features"
+}, {
+  "category": "Directives"
+}, {
+  "category": "Components"
+}, {
+  "category": "View"
+}, {
+  "category": "Templates"
+}, {
+  "category": "Change detection"
+}, {
+  "category": "Dependency Injection"
+}, {
+  "category": "Pipes"
+}, {
+  "category": "Web Workers"
+}, {
+  "category": "HTTP",
+  "items": [ {
+    "name": "Introduction to HTTP in Angular 2",
+    "url": "http://www.syntaxsuccess.com/viewarticle/angular-2.0-and-http"
+  } ]
+}, {
+  "category": "Router",
+  "items": [ {
+    "name": "Offical Router",
+    "url": "https://angular.io/guide/router.html#sts=Router%20imports"
+  }, {
+    "name": "ui-router",
+    "url": "https://github.com/angular-ui/ui-router"
+  } ]
+}, {
+  "category": "Test",
+  "items": [ {
+    "name": "Testing Http services in Angular 2 with Jasmine",
+    "url": "http://chariotsolutions.com/blog/post/testing-http-services-angular-2-jasmine/"
+  }, {
+    "name": "Testing UI Components with the TestComponentBuilder",
+    "url": "http://chariotsolutions.com/blog/post/testing-angular-2-components-unit-tests-testcomponentbuilder/"
+  } ]
+}, {
+  "category": "Ahead-of-Time Compilation",
+  "items": [ {
+    "name": "Official Documentation",
+    "url": "https://angular.io/guide/aot-compiler"
+  }, {
+    "name": "Ahead-of-Time Compilation in Angular",
+    "url": "http://blog.mgechev.com/2016/08/14/ahead-of-time-compilation-angular-offline-precompilation/"
+  }, {
+    "name": "Building an Angular Application for Production",
+    "url": "http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/"
+  }, {
+    "name": "Demystifying Ahead-Of-Time Compilation In Angular 2",
+    "url": "http://slides.com/wassimchegham/demystifying-ahead-of-time-compilation-in-angular-2-aot-jit"
+  }, {
+    "name": "Multiple solutions for Angular Ahead of Time (AOT) Compilation",
+    "url": "https://blog.craftlab.hu/multiple-solutions-for-angular-ahead-of-time-aot-compilation-c474d9a0d508"
+  }, {
+    "name": "Code Example with Webpack",
+    "url": "https://github.com/blacksonic/angular2-aot-webpack"
+  }, {
+    "name": "Code Example with Rollup",
+    "url": "https://github.com/mgechev/angular2-ngc-rollup-build"
+  } ]
+}, {
+  "category": "Angular CLI",
+  "items": [ {
+    "name": "Official web page",
+    "url": "https://cli.angular.io/"
+  }, {
+    "name": "Official repository",
+    "url": "https://github.com/angular/angular-cli"
+  } ]
+}, {
+  "category": "Webpack",
+  "items": [ {
+    "name": "Official web page",
+    "url": "https://webpack.js.org"
+  }, {
+    "name": "Angular Webpack Starter from PatrickJS",
+    "url": "https://github.com/gdi2290/angular-starter"
+  }, {
+    "name": "Angular Webpack from preboot",
+    "url": "https://github.com/preboot/angular-webpack"
+  }, {
+    "name": "Angular Nightly Webpack Starter",
+    "url": "https://github.com/qdouble/angular-webpack2-starter"
+  }, {
+    "name": "Angular Webpack with Visual Studio ASP.NET Core from Damien Bowden",
+    "url": "https://github.com/damienbod/AngularWebpackVisualStudio"
+  }, {
+    "name": "Angular Typescript Webpack from schempy",
+    "url": "https://github.com/schempy/angular2-typescript-webpack"
+  }, {
+    "name": "Angular Webpack  Tour of Heroes from michaelbazos",
+    "url": "https://github.com/michaelbazos/angular-starter"
+  }, {
+    "name": "Angular Webpack + rxjs + modules",
+    "url": "https://github.com/jorgeas80/angular2-webpack-toh"
+  }, {
+    "name": "Shared Webpack config for Angular development by fulls1z3",
+    "url": "https://github.com/ng-seed/angular-webpack-config"
+  } ]
+}, {
+  "category": "Series",
+  "items": [ {
+    "name": "Introduction",
+    "url": "http://blog.ionic.io/angular-2-series-introduction/"
+  }, {
+    "name": "Components",
+    "url": "http://blog.ionic.io/angular-2-series-components/"
+  }, {
+    "name": "Working with Pipes",
+    "url": "https://auth0.com/blog/angular2-series-working-with-pipes/"
+  }, {
+    "name": "Domain Models and Dependency Injection",
+    "url": "https://auth0.com/blog/angular-2-series-part-2-domain-models-and-dependency-injection/"
+  }, {
+    "name": "Using Http",
+    "url": "https://auth0.com/blog/angular-2-series-part-3-using-http/"
+  }, {
+    "name": "Create a Desktop App with Angular 2 and Electron",
+    "url": "https://auth0.com/blog/create-a-desktop-app-with-angular-2-and-electron/"
+  }, {
+    "name": "Part 1",
+    "url": "https://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html"
+  }, {
+    "name": "letsboot.com",
+    "url": "https://medium.com/letsboot"
+  }, {
+    "name": "Part 1 Angular TDD, Karma, Jasmine, PhantomJS, Gitlab-CI",
+    "url": "https://medium.com/letsboot/angular-4-and-testing-angular-cli-gitlab-ci-ng-test-phantomjs-tdd-afc20f50b928"
+  }, {
+    "name": "Part 1 Let’s learn how to install and setup AngularFire2 4.0",
+    "url": "https://medium.com/letsboot/lets-learn-how-to-install-and-setup-angularfire2-4-0-135d72bb0a41"
+  } ]
+}, {
+  "category": "Video Tutorials",
+  "items": [ {
+    "description": "Angular 2",
+    "name": "Egghead.io",
+    "url": "https://egghead.io/technologies/angular2"
+  }, {
+    "description": "Build Redux Style Applications with Angular2, RxJS, and ngrx/store",
+    "name": "Egghead.io",
+    "url": "https://egghead.io/courses/building-a-time-machine-with-angular-2-and-rxjs"
+  }, {
+    "description": "Angular Basics",
+    "name": "HiRez.io",
+    "url": "https://www.hirez.io/c/angular-basics-1/e/episode-1-course-overview"
+  }, {
+    "description": "Angular In Depth",
+    "name": "HiRez.io",
+    "url": "https://www.hirez.io/c/components-1/e/episode-1-course-overview"
+  }, {
+    "description": "Introduction to Angular 2",
+    "name": "udemy",
+    "url": "https://www.udemy.com/introduction-to-angular2/"
+  }, {
+    "description": "Angular 2 with TypeScript for Beginners: The Pragmatic Guide",
+    "name": "udemy",
+    "url": "https://www.udemy.com/angular-2-tutorial-for-beginners/"
+  }, {
+    "description": "The Complete Guide to Angular 2",
+    "name": "udemy",
+    "url": "https://www.udemy.com/the-complete-guide-to-angular-2/"
+  }, {
+    "description": "Angular 2: First Look",
+    "name": "Pluralsight",
+    "url": "https://www.pluralsight.com/courses/angular-2-first-look"
+  }, {
+    "description": "Angular 2: Getting Started",
+    "name": "Pluralsight",
+    "url": "https://www.pluralsight.com/courses/angular-2-getting-started-update"
+  }, {
+    "description": "The Future of TypeScript: ECMAScript 6, Async/Await and Richer Libraries",
+    "name": "Channel9",
+    "url": "https://channel9.msdn.com/Events/Build/2015/3-644"
+  }, {
+    "description": "Creating Cross-Platform Apps with Angular 2",
+    "name": "Channel9",
+    "url": "https://channel9.msdn.com/Events/Build/2016/T627"
+  }, {
+    "description": "Accelerating Through Angular 2",
+    "name": "Code School",
+    "url": "https://www.codeschool.com/courses/accelerating-through-angular"
+  }, {
+    "name": "Angular typed Store",
+    "url": "https://www.youtube.com/watch?v=bEkPEnudm7s&feature=youtu.be"
+  }, {
+    "name": "Angular advanced tips and tricks",
+    "url": "https://www.youtube.com/watch?v=vyiyJCLlGwo&feature=youtu.be"
+  }, {
+    "name": "Angular Fullstack JavaScript Channel",
+    "url": "https://www.youtube.com/channel/UCRefxaAA-7PfezH3CY87fzw"
+  }, {
+    "name": "Angular 4 Master Class: Beginner to Advanced",
+    "url": "https://www.udemy.com/angular-crash-course-for-beginners"
+  } ]
+}, {
+  "category": "Style Guides",
+  "items": [ {
+    "name": "Official Angular Style guide",
+    "url": "https://angular.io/guide/styleguide"
+  }, {
+    "name": "Shared TSLint & codelyzer rules by fulls1z3",
+    "url": "https://github.com/ng-seed/angular-tslint-rules"
+  } ]
+}, {
+  "category": "Angular Connect",
+  "items": [ {
+    "name": "Keynote – Brad Green, Igor Minar and Jules Kremer",
+    "url": "https://www.youtube.com/watch?v=UxjgUjVpe24"
+  }, {
+    "name": "Testing strategies with Angular 2 – Julie Ralph",
+    "url": "https://www.youtube.com/watch?v=C0F2E-PRm44"
+  }, {
+    "description": "Sebastian Witalec",
+    "name": "Building native mobile apps with Angular 2 0 and NativeScript​",
+    "url": "https://www.youtube.com/watch?v=4SbiiyRSIwo"
+  }, {
+    "name": "Angular 2 Data Flow – Jeff Cross, Rob Wormald and Alex Rickabaugh",
+    "url": "https://www.youtube.com/watch?v=bVI5gGTEQ_U"
+  }, {
+    "name": "Iterative version upgrade strategies for large Angular applications – Jen Bourey",
+    "url": "https://www.youtube.com/watch?v=8tGcdaItj0I"
+  }, {
+    "name": "Debugging Angular 2 Apps with Batarangle – Yuri Takhteyev and Igor Krivanov",
+    "url": "https://www.youtube.com/watch?v=cAC4d3KIQcM"
+  }, {
+    "description": "Sara Robinson",
+    "name": "Building apps with Firebase and Angular 2",
+    "url": "https://www.youtube.com/watch?v=RD0xYicNcaY"
+  }, {
+    "description": "Victor Savkin and Tobias Bosch",
+    "name": "Better concepts, less code in Angular 2",
+    "url": "https://www.youtube.com/watch?v=4YmnbGoh49U"
+  }, {
+    "name": "Modularity and Packaging for Angular2 Applications – Pawel Kozlowski",
+    "url": "https://www.youtube.com/watch?v=9odY9Rh5kTQ"
+  }, {
+    "description": "Uri Goldshtein",
+    "name": "Creating realtime apps with Angular 2 and Meteor",
+    "url": "https://www.youtube.com/watch?v=3FT0BqYASCo"
+  } ]
+}, {
+  "category": "Books",
+  "items": [ {
+    "name": "ng-book 2",
+    "url": "https://www.ng-book.com/2/"
+  }, {
+    "name": "Become a ninja with Angular 2",
+    "url": "https://books.ninja-squad.com/angular"
+  }, {
+    "name": "Angular Development with TypeScript",
+    "url": "https://www.manning.com/books/angular-2-development-with-typescript"
+  }, {
+    "name": "Angular in Action",
+    "url": "https://www.manning.com/books/angular-in-action"
+  }, {
+    "name": "Practical Angular 2",
+    "url": "https://leanpub.com/practical-angular-2"
+  }, {
+    "name": "Switching to Angular 2",
+    "url": "https://www.packtpub.com/web-development/switching-angular-2"
+  }, {
+    "name": "Rangle's Angular 2 training",
+    "url": "https://www.gitbook.com/book/rangle-io/ngcourse2/details"
+  }, {
+    "name": "揭秘Angular 2",
+    "url": "https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B01NBOQCJW"
+  }, {
+    "name": "Learn Angular 2",
+    "url": "http://learnangular2.com/"
+  }, {
+    "name": "Testing Angular Applications",
+    "url": "https://www.manning.com/books/testing-angular-applications"
+  } ]
+}, {
+  "category": "On-Site Training",
+  "items": [ {
+    "name": "AngularClass",
+    "url": "https://angularclass.com"
+  }, {
+    "name": "Angular Boot Camp",
+    "url": "https://angularbootcamp.com"
+  }, {
+    "name": "thoughtram",
+    "url": "http://thoughtram.io/training.html"
+  }, {
+    "name": "Egghead.io",
+    "url": "https://egghead.io/angularjs-enterprise-training-workshop"
+  }, {
+    "name": "ng-book",
+    "url": "https://www.ng-book.com/2/"
+  }, {
+    "name": "Angular 2 Workshop",
+    "url": "http://chariotsolutions.com/course/angular-workshop-fundamentals-architecture/"
+  }, {
+    "name": "Web Age Solutions",
+    "url": "http://www.webagesolutions.com/courses/WA2533-introduction-to-angular-2-programming"
+  }, {
+    "name": "Letsboot.com",
+    "url": "https://www.letsboot.com/angular-2-in-house-training-support"
+  }, {
+    "name": "Free on-site 2-days training delivered by SFEIR (in France)",
+    "url": "https://school.sfeir.com/project/sa200/"
+  } ]
+}, {
+  "category": "Approach and Explanation",
+  "items": [ {
+    "name": "Dependency Injection in Angular 1 and Angular 2",
+    "url": "https://vsavkin.com/dependency-injection-in-angular-1-and-angular-2-d69589979c18"
+  }, {
+    "name": "Writing Angular in Typescript",
+    "url": "https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8"
+  }, {
+    "name": "Angular Template Syntax",
+    "url": "https://vsavkin.com/angular-2-template-syntax-5f2ee9f13c6a"
+  }, {
+    "name": "The Core Concepts of Angular 2",
+    "url": "https://vsavkin.com/the-core-concepts-of-angular-2-c3d6cbe04d04"
+  }, {
+    "name": "Two Phases of Angular 2 Applications",
+    "url": "https://vsavkin.com/two-phases-of-angular-2-applications-fda2517604be"
+  }, {
+    "name": "Change Detection in Angular 2",
+    "url": "https://vsavkin.com/change-detection-in-angular-2-4f216b855d4c"
+  }, {
+    "name": "Better Support For Functional Programming In",
+    "url": "https://vsavkin.tumblr.com/post/108837493941/better-support-for-functional-programming-in"
+  }, {
+    "name": "Angular 2 Bits Unified Dependency Injection",
+    "url": "https://vsavkin.tumblr.com/post/102965317996/angular-2-bits-unified-dependency-injection"
+  }, {
+    "name": "Angular 2 Router",
+    "url": "https://vsavkin.com/angular-2-router-d9e30599f9ea"
+  }, {
+    "name": "Automated Angular 2 Conventions with Webpack",
+    "url": "https://angularclass.com/blog/automated-angular-2-conventions-with-webpack/"
+  }, {
+    "name": "Angular 2 for AngularJS deverlopers",
+    "url": "https://angularclass.com/blog/angular-2-for-angularjs-developers/"
+  }, {
+    "name": "Angular 2 for ReactJS deverlopers",
+    "url": "https://angularclass.com/blog/angular-2-for-react-developers/"
+  }, {
+    "name": "Developing a tabs component in Angular 2",
+    "url": "https://blog.thoughtram.io/angular/2015/04/09/developing-a-tabs-component-in-angular-2.html"
+  }, {
+    "name": "Developing a zippy component in Angular 2",
+    "url": "https://blog.thoughtram.io/angular/2015/03/27/building-a-zippy-component-in-angular-2.html"
+  }, {
+    "name": "Resolving Service Dependencies in Angular 2",
+    "url": "https://blog.thoughtram.io/angular/2015/09/17/resolve-service-dependencies-in-angular-2.html"
+  }, {
+    "name": "Forward references in Angular 2",
+    "url": "https://blog.thoughtram.io/angular/2015/09/03/forward-references-in-angular-2.html"
+  }, {
+    "name": "Host and Visibility in Angular 2's Dependency Injection",
+    "url": "https://blog.thoughtram.io/angular/2015/08/20/host-and-visibility-in-angular-2-dependency-injection.html"
+  }, {
+    "name": "Dependency Injection in Angular 2",
+    "url": "https://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html"
+  }, {
+    "name": "Routing in Angular 2 **Depreciated**",
+    "url": "https://blog.thoughtram.io/angular/2015/06/16/routing-in-angular-2.html"
+  }, {
+    "name": "Routing in Angular 2 Revisited",
+    "url": "https://blog.thoughtram.io/angular/2016/06/14/routing-in-angular-2-revisited.html"
+  }, {
+    "description": "Part 1",
+    "name": "Angular 2 Template Syntax Demystified",
+    "url": "http://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html"
+  }, {
+    "name": "View Encapsulation in Angular 2",
+    "url": "https://blog.thoughtram.io/angular/2015/06/29/shadow-dom-strategies-in-angular2.html"
+  }, {
+    "name": "Styling Angular 2 components",
+    "url": "https://blog.thoughtram.io/angular/2015/06/25/styling-angular-2-components.html"
+  }, {
+    "name": "Even better ES5 code for Angular 2",
+    "url": "https://blog.thoughtram.io/angular/2015/07/06/even-better-es5-code-for-angular-2.html"
+  }, {
+    "name": "Writing Angular 2 code in ES5",
+    "url": "https://blog.thoughtram.io/angular/2015/05/09/writing-angular-2-code-in-es5.html"
+  }, {
+    "name": "The difference between Annotations and Decorators",
+    "url": "https://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html"
+  }, {
+    "name": "Debugging Angular 2 Applications",
+    "url": "https://www.pluralsight.com/guides/front-end-javascript/debugging-angular-2-applications"
+  }, {
+    "name": "Web Workers in Angular 2.0",
+    "url": "http://www.syntaxsuccess.com/viewarticle/web-workers-in-angular-2.0"
+  }, {
+    "name": "Creating a Virtualized Grid",
+    "url": "http://www.syntaxsuccess.com/viewarticle/virtualized-spreadsheet-component-in-angular-2.0"
+  }, {
+    "name": "Socket.io with Observables",
+    "url": "http://www.syntaxsuccess.com/viewarticle/socket.io-with-rxjs-in-angular-2.0"
+  }, {
+    "name": "Change Detection",
+    "url": "http://www.syntaxsuccess.com/viewarticle/change-detection-in-angular-2.0"
+  }, {
+    "name": "Angular 4 with server side rendering (aka Angular Universal)",
+    "url": "https://medium.com/burak-tasci/angular-4-with-server-side-rendering-aka-angular-universal-f6c228ded8b0"
+  } ]
+}, {
+  "category": "Integrations",
+  "items": [ {
+    "name": "FalcorJS + Angular2 (Video)",
+    "url": "https://www.youtube.com/watch?v=z8UgDZ4rXBU&feature=youtu.be"
+  }, {
+    "name": "Angular2-Meteor",
+    "url": "http://angular-meteor.com/angular2"
+  }, {
+    "name": "nativescript-angular",
+    "url": "https://github.com/NativeScript/nativescript-angular"
+  }, {
+    "name": "react-native-renderer",
+    "url": "https://github.com/angular/react-native-renderer"
+  }, {
+    "name": "GraphQL + Angular",
+    "url": "https://github.com/apollographql/apollo-angular"
+  } ]
+}, {
+  "category": "Components",
+  "items": [ {
+    "name": "Material 2",
+    "url": "https://github.com/angular/material2"
+  }, {
+    "name": "Element Angular",
+    "url": "https://github.com/eleme/element-angular"
+  }, {
+    "name": "Axponents: of Accessible Web Components (Dylan Barrell)",
+    "url": "https://github.com/dylanb/Axponents/tree/master/angular2"
+  }, {
+    "name": "ng2-bootstrap",
+    "url": "https://github.com/valor-software/ngx-bootstrap"
+  }, {
+    "name": "ng2-charts",
+    "url": "https://github.com/valor-software/ng2-charts"
+  }, {
+    "name": "ng2-dragula",
+    "url": "https://github.com/valor-software/ng2-dragula"
+  }, {
+    "name": "ng2-file-upload",
+    "url": "https://github.com/valor-software/ng2-file-upload"
+  }, {
+    "name": "ng2-handsontable",
+    "url": "https://github.com/valor-software/ng2-handsontable"
+  }, {
+    "name": "ng2-select",
+    "url": "https://github.com/valor-software/ng2-select"
+  }, {
+    "name": "ng2-safe-img",
+    "url": "https://github.com/hyzhak/ng2-safe-img"
+  }, {
+    "name": "ng2-table",
+    "url": "https://github.com/valor-software/ng2-table"
+  }, {
+    "name": "ng2-smart-table",
+    "url": "https://github.com/akveo/ng2-smart-table"
+  }, {
+    "name": "ng2-bs",
+    "url": "https://github.com/pkozlowski-opensource/ng2-bs"
+  }, {
+    "name": "ng-lightning",
+    "url": "https://github.com/ng-lightning/ng-lightning"
+  }, {
+    "name": "ag-grid",
+    "url": "https://www.ag-grid.com/"
+  }, {
+    "name": "angular2-query-builder",
+    "url": "https://github.com/zebzhao/Angular-QueryBuilder"
+  }, {
+    "name": "angular2-grid",
+    "url": "https://github.com/BTMorton/angular2-grid"
+  }, {
+    "name": "angular2-jwt",
+    "url": "https://github.com/auth0/angular2-jwt"
+  }, {
+    "name": "angular2-cookie",
+    "url": "https://github.com/salemdar/angular2-cookie"
+  }, {
+    "name": "angular2-fontawesome",
+    "url": "https://github.com/travelist/angular2-fontawesome"
+  }, {
+    "name": "angular-safeguard",
+    "url": "https://github.com/MikaAK/angular-safeguard"
+  }, {
+    "name": "angular2-google-maps",
+    "url": "https://github.com/SebastianM/angular-google-maps"
+  }, {
+    "name": "angular-cesium",
+    "url": "https://github.com/TGFTech/angular-cesium"
+  }, {
+    "name": "ng2-radio-group",
+    "url": "https://github.com/pleerock/ngx-select-controls"
+  }, {
+    "name": "ng2-dropdown",
+    "url": "https://github.com/pleerock/ngx-dropdown"
+  }, {
+    "name": "angular2-multiselect-dropdown",
+    "url": "https://github.com/CuppaLabs/angular2-multiselect-dropdown"
+  }, {
+    "name": "ng2-progress-bar",
+    "url": "https://github.com/pleerock/ngx-progress-bar"
+  }, {
+    "name": "ng2-tabs",
+    "url": "https://github.com/pleerock/ngx-tabs"
+  }, {
+    "name": "ng2-modal",
+    "url": "https://github.com/pleerock/ngx-modal"
+  }, {
+    "name": "ng2-sheet",
+    "url": "https://github.com/lexikteam/ng2-sheet"
+  }, {
+    "name": "ng2-paginator",
+    "url": "https://github.com/pleerock/ngx-paginator"
+  }, {
+    "name": "fuel-ui",
+    "url": "https://github.com/FuelInteractive/fuel-ui"
+  }, {
+    "name": "prime-ng",
+    "url": "https://www.primefaces.org/primeng/"
+  }, {
+    "name": "ng2-ace",
+    "url": "https://github.com/seiyria/ng2-ace"
+  }, {
+    "name": "ng2-storage",
+    "url": "https://github.com/seiyria/ng2-storage"
+  }, {
+    "name": "ng2-fontawesome",
+    "url": "https://github.com/seiyria/ng2-fontawesome"
+  }, {
+    "name": "ng2-sweetalert2",
+    "url": "https://github.com/seiyria/ng2-sweetalert2"
+  }, {
+    "name": "angular2-text-mask",
+    "url": "https://github.com/text-mask/text-mask"
+  }, {
+    "name": "angular-imask",
+    "url": "https://github.com/uNmAnNeR/imaskjs/tree/gh-pages/plugins/angular"
+  }, {
+    "name": "ng2-fullpage",
+    "url": "https://github.com/meiblorn/ngx-fullpage"
+  }, {
+    "name": "file-droppa",
+    "url": "https://github.com/ptkach/fileDroppa"
+  }, {
+    "name": "ngx-img-fallback",
+    "url": "https://github.com/VadimDez/ngx-img-fallback"
+  }, {
+    "name": "angular2-busy",
+    "url": "https://github.com/devyumao/angular2-busy"
+  }, {
+    "name": "ng2-pdf-viewer",
+    "url": "https://github.com/VadimDez/ng2-pdf-viewer"
+  }, {
+    "name": "Covalent",
+    "url": "https://teradata.github.io/covalent/"
+  }, {
+    "name": "angular2-infinite-scroll",
+    "url": "https://www.npmjs.com/package/angular2-infinite-scroll"
+  }, {
+    "name": "ng2-card",
+    "url": "https://github.com/c-bata/ng2-card"
+  }, {
+    "name": "Wijmo 5",
+    "url": "http://wijmo.com/products/wijmo-5/"
+  }, {
+    "name": "ng2-swipeable-card",
+    "url": "https://github.com/JayKan/ng2-swipeable-card"
+  }, {
+    "name": "ngSemantic",
+    "url": "https://github.com/vladotesanovic/ngSemantic"
+  }, {
+    "name": "vmware clarity",
+    "url": "https://github.com/vmware/clarity"
+  }, {
+    "name": "Teradata covalent",
+    "url": "https://github.com/Teradata/covalent/"
+  }, {
+    "name": "ng2-quill-editor",
+    "url": "https://github.com/surmon-china/ngx-quill-editor"
+  }, {
+    "name": "ngx-charts",
+    "url": "https://github.com/swimlane/ngx-charts"
+  }, {
+    "name": "ngx-datatable",
+    "url": "https://github.com/swimlane/ngx-datatable"
+  }, {
+    "name": "ngx-ui",
+    "url": "https://github.com/swimlane/ngx-ui"
+  }, {
+    "name": "Cloudinary",
+    "url": "https://github.com/cloudinary/cloudinary_angular/tree/angular_next"
+  }, {
+    "name": "angular2-simple-countdown",
+    "url": "https://github.com/previousdeveloper/angular2-simple-countdown"
+  }, {
+    "name": "ng-http-cache",
+    "url": "https://github.com/davguij/angular-http-cache"
+  }, {
+    "name": "ng-animate",
+    "url": "https://github.com/jiayihu/ng-animate"
+  }, {
+    "name": "lottie-angular2",
+    "url": "https://github.com/chenqingspring/ng-lottie"
+  }, {
+    "name": "ngx-restangular",
+    "url": "https://github.com/2muchcoffeecom/ngx-restangular"
+  }, {
+    "name": "ngfb-sortable-table",
+    "url": "https://github.com/NodeArt/Angular-Firebase-Sortable-Table"
+  }, {
+    "name": "angular-split",
+    "url": "https://github.com/bertrandg/angular-split"
+  }, {
+    "name": "od-virtualscroll",
+    "url": "https://github.com/dinony/od-virtualscroll"
+  }, {
+    "name": "angular2-froala-wysiwyg",
+    "url": "https://github.com/froala/angular-froala-wysiwyg"
+  }, {
+    "name": "ngx-meta",
+    "url": "https://github.com/fulls1z3/ngx-meta"
+  }, {
+    "name": "ngx-config",
+    "url": "https://github.com/fulls1z3/ngx-config"
+  }, {
+    "name": "ngx-cache",
+    "url": "https://github.com/fulls1z3/ngx-cache"
+  }, {
+    "name": "ngx-i18n-router",
+    "url": "https://github.com/fulls1z3/ngx-i18n-router"
+  }, {
+    "name": "ngx-auth",
+    "url": "https://github.com/fulls1z3/ngx-auth"
+  }, {
+    "name": "angular2-promise-buttons",
+    "url": "https://github.com/johannesjo/angular2-promise-buttons"
+  }, {
+    "name": "ng2-archwizard",
+    "url": "https://github.com/madoar/ng2-archwizard"
+  }, {
+    "name": "ngx-popper",
+    "url": "https://github.com/MrFrankel/ngx-popper"
+  }, {
+    "name": "ngx-avatar",
+    "url": "https://github.com/HaithemMosbahi/ngx-avatar"
+  }, {
+    "name": "ngx-qrcode2",
+    "url": "https://github.com/techiediaries/ngx-qrcode"
+  }, {
+    "description": "Fully featured permission based access control for your angular 4+ applications. This module inspired from angular-permission",
+    "name": "Ng2-permission",
+    "url": "https://github.com/JavadRasouli/ng2-permission"
+  }, {
+    "name": "ng-s-resource",
+    "url": "https://github.com/hiyali/ng-s-resource"
+  }, {
+    "name": "ng-data-picker",
+    "url": "https://github.com/hiyali/ng-data-picker"
+  }, {
+    "name": "ngx-siema",
+    "url": "https://github.com/lexzhukov/ngx-siema"
+  }, {
+    "name": "ng-bootstrap",
+    "url": "https://ng-bootstrap.github.io"
+  }, {
+    "name": "ng-snotify",
+    "url": "https://github.com/artemsky/ng-snotify/"
+  }, {
+    "name": "ngx-permissions",
+    "url": "https://github.com/AlexKhymenko/ngx-permissions"
+  }, {
+    "name": "nebular",
+    "url": "https://github.com/akveo/nebular"
+  }, {
+    "name": "ng-select",
+    "url": "https://github.com/ng-select/ng-select"
+  }, {
+    "name": "ng-katex",
+    "url": "https://github.com/garciparedes/ng-katex"
+  } ]
+}, {
+  "category": "Site Templates",
+  "items": [ {
+    "description": "Dashboard for Angular 4+. UI Components based on Material Light",
+    "name": "NG-Dashboard",
+    "url": "https://github.com/YagoLopez/ng-dashboard"
+  } ]
+}, {
+  "category": "Pipes",
+  "items": [ {
+    "name": "fuel-ui",
+    "url": "https://github.com/FuelInteractive/fuel-ui"
+  }, {
+    "name": "ngx-filter-pipe",
+    "url": "https://github.com/VadimDez/ngx-filter-pipe"
+  }, {
+    "name": "ngx-pipes",
+    "url": "https://github.com/danrevah/ngx-pipes"
+  }, {
+    "name": "ngx-order-pipe",
+    "url": "https://github.com/VadimDez/ngx-order-pipe"
+  }, {
+    "name": "angular2-camelcase",
+    "url": "https://github.com/previousdeveloper/angular2-camelcase"
+  } ]
+}, {
+  "category": "Generators",
+  "items": [ {
+    "name": "TheVelourFog/slush-angular2",
+    "url": "https://github.com/RyanMetin/slush-angular2"
+  }, {
+    "name": "swirlycheetah/generator-angular2",
+    "url": "https://github.com/chrisdwheatley/generator-angular2"
+  }, {
+    "name": "majodi/generator-angular2",
+    "url": "https://github.com/majodi/Faristo"
+  }, {
+    "name": "ngx-rocket/generator-ngx-rocket",
+    "url": "https://github.com/ngx-rocket/generator-ngx-rocket"
+  }, {
+    "name": "ngx-rocket/cli",
+    "url": "https://github.com/ngx-rocket/cli"
+  }, {
+    "name": "ngx-rocket/core",
+    "url": "https://github.com/ngx-rocket/core"
+  }, {
+    "name": "google/stagehand",
+    "url": "https://github.com/google/stagehand"
+  } ]
+}, {
+  "category": "Documentation tools",
+  "items": [ {
+    "name": "Compodoc",
+    "url": "https://github.com/compodoc/compodoc"
+  }, {
+    "name": "AngularDoc",
+    "url": "http://angulardoc.io/"
+  }, {
+    "name": "NgModule-Viz",
+    "url": "https://github.com/politie/ngmodule-viz"
+  } ]
+}, {
+  "category": "TodoMVC",
+  "items": [ {
+    "name": "Official Angular 2.0",
+    "url": "http://todomvc.com/examples/angular2/"
+  } ]
+}, {
+  "category": "Universal General Resources",
+  "items": [ {
+    "name": "Universal Angular 2 Repository (GitHub)",
+    "url": "https://github.com/angular/universal"
+  } ]
+}, {
+  "category": "Universal Seed Projects",
+  "items": [ {
+    "name": "universal-starter",
+    "url": "https://github.com/angular/universal-starter"
+  }, {
+    "name": "ng-seed/universal",
+    "url": "https://github.com/ng-seed/universal"
+  } ]
+}, {
+  "category": "TypeScript General Resources",
+  "items": [ {
+    "name": "TypeScript",
+    "url": "http://www.typescriptlang.org/"
+  }, {
+    "name": "REPL",
+    "url": "http://www.typescriptlang.org/play/"
+  }, {
+    "name": "TypeScript Repository (GitHub)",
+    "url": "https://github.com/Microsoft/TypeScript"
+  }, {
+    "name": "DefinitelyTyped Repository (GitHub)",
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped"
+  } ]
+}, {
+  "category": "TypeScript Seed Projects",
+  "items": [ {
+    "name": "Angular Seed",
+    "url": "https://mgechev.github.io/angular-seed/"
+  }, {
+    "name": "ng2-play",
+    "url": "https://github.com/pkozlowski-opensource/ng2-play"
+  }, {
+    "name": "Angular Lab",
+    "url": "https://github.com/rolandjitsu/angular-lab",
+    "description": "A simple Angular 2+ setup using Angular CLI, TypeScript, Angular Flex Layout, Material 2, AOT, and unit and e2e tests on Travis CI"
+  }, {
+    "name": "Angular2Go",
+    "url": "https://github.com/johnpapa/angular-go"
+  }, {
+    "name": "Angular 2 Samples",
+    "url": "https://github.com/thelgevold/angular-2-samples"
+  }, {
+    "name": "Todo app with Firebase, OAuth, and Immutable",
+    "url": "https://github.com/r-park/todo-angular-firebase"
+  }, {
+    "name": "Spring Boot and Angular2 tutorial",
+    "url": "https://github.com/springboot-angular2-tutorial/angular2-app",
+    "description": "Angular2 practical example based on Rails tutorial"
+  }, {
+    "name": "Angular 2 Goldilocks seed",
+    "url": "https://github.com/ColinEberhardt/angular2-goldilocks-seed"
+  }, {
+    "name": "Angular 2 Starter",
+    "url": "https://github.com/antonybudianto/angular-starter"
+  }, {
+    "name": "Angular 2 Leaflet Starter",
+    "url": "https://github.com/haoliangyu/ngx-leaflet-starter"
+  }, {
+    "name": "Angular 2 MapboxGL Starter",
+    "url": "https://github.com/haoliangyu/ngx-mapboxgl-starter"
+  }, {
+    "name": "Angular 2 reconnecting websockets quickstart",
+    "url": "https://github.com/mkusz/ng2_websockets_quickstart"
+  }, {
+    "name": "ng2-start",
+    "url": "https://github.com/cebor/ng2-start"
+  }, {
+    "name": "ng-kitchen-sink",
+    "url": "https://github.com/born2net/Angular-kitchen-sink"
+  }, {
+    "name": "ng-skeleton",
+    "url": "https://github.com/born2net/ng-skeleton"
+  }, {
+    "name": "angular2-demo",
+    "url": "https://github.com/amcdnl/angular2-demo"
+  }, {
+    "name": "Angular 2 Dashboard Starter",
+    "url": "https://github.com/hasanhameed07/angular2-dashboard-starter"
+  }, {
+    "name": "ngx-admin",
+    "url": "https://github.com/akveo/ngx-admin"
+  }, {
+    "name": "Angular 2 quickstart seed",
+    "url": "https://github.com/valor-software/angular2-quickstart"
+  }, {
+    "name": "Angular 2 full code coverage",
+    "url": "https://github.com/danday74/angular2-coverage"
+  }, {
+    "name": "Angular 2 webpack",
+    "url": "https://github.com/michaelbazos/angular2-starter"
+  }, {
+    "name": "ng2-boiler",
+    "url": "https://github.com/amcdnl/ng2-boiler"
+  }, {
+    "name": "Angular Webpack Starter",
+    "url": "https://github.com/antonybudianto/angular-webpack-starter"
+  }, {
+    "name": "Reaper",
+    "url": "https://github.com/Xamber/Reaper"
+  }, {
+    "name": "famn",
+    "url": "https://github.com/implustech/famn"
+  }, {
+    "name": "Angular NPM Module Seed",
+    "url": "https://github.com/davguij/angular-npm-module-seed"
+  }, {
+    "name": "Angular2 D3v4 Seed",
+    "url": "https://github.com/gp187/angular2-d3v4-graph"
+  }, {
+    "name": "ng-seed/spa",
+    "url": "https://github.com/ng-seed/spa"
+  }, {
+    "name": "Reboard",
+    "url": "https://github.com/ksiabani/reboard"
+  }, {
+    "name": "Angular5 + Redux + Graphql + MySQL quickstart",
+    "url": "https://github.com/rafaesc/fullstack-graphql-angular"
+  }, {
+    "name": "Angular5 + Firebase + Structure",
+    "url": "https://github.com/naologic/angular5-starter"
+  } ]
+}, {
+  "category": "Ionic 2 in Angular 2",
+  "items": [ {
+    "name": "Ionic Framework",
+    "url": "http://ionicframework.com"
+  }, {
+    "name": "Ionic Documentation",
+    "url": "http://ionicframework.com/docs/"
+  } ]
+}, {
+  "category": "Ionic 2 General Resources",
+  "items": [ {
+    "name": "Ionic 2 Repository (GitHub)",
+    "url": "https://github.com//ionic-team/ionic"
+  }, {
+    "name": "Ionic 2 Awesome",
+    "url": "https://github.com/candelibas/awesome-ionic"
+  } ]
+}, {
+  "category": "Angular 2 in Cordova",
+  "items": [ {
+    "name": "Cordova Framework",
+    "url": "https://cordova.apache.org/"
+  }, {
+    "name": "Cordova Documentation",
+    "url": "https://cordova.apache.org/docs/en/latest/"
+  } ]
+}, {
+  "category": "Cordova Seed Projects",
+  "items": [ {
+    "name": "Angular 2 Seed CLI Admin (Template)",
+    "url": "https://github.com/jvitor83/angular-pwa-seed"
+  } ]
+}, {
+  "category": "Dart General Resources",
+  "items": [ {
+    "name": "Dart",
+    "url": "https://www.dartlang.org/"
+  }, {
+    "name": "Dartpad",
+    "url": "https://dartpad.dartlang.org/"
+  }, {
+    "name": "Dart Organization (GitHub)",
+    "url": "https://github.com/dart-lang"
+  }, {
+    "name": "Pub",
+    "url": "https://pub.dartlang.org/"
+  }, {
+    "name": "Dartisans",
+    "url": "https://plus.google.com/communities/114566943291919232850"
+  }, {
+    "name": "Dart Slack Channel",
+    "url": "https://dartlang-slack.herokuapp.com/"
+  } ]
+}, {
+  "category": "Dart Seed Projects",
+  "items": [ {
+    "name": "Angular 2 Dart Quickstart",
+    "url": "https://github.com/andresaraujo/ng2_dart_quickstart"
+  } ]
+}, {
+  "category": "Dart Demo, Samples, and Examples",
+  "items": [ {
+    "name": "Hackernews App",
+    "url": "https://github.com/andresaraujo/ng2_hackernews"
+  }, {
+    "name": "Router Demo",
+    "url": "https://github.com/andresaraujo/ng2_dart_router_demo"
+  } ]
+}, {
+  "category": "Traceur General Resources",
+  "items": [ {
+    "name": "Traceur Repository (GitHub)",
+    "url": "https://github.com/google/traceur-compiler"
+  } ]
+}, {
+  "category": "Traceur Seed Projects",
+  "items": [ {
+    "name": "GitHub: Angular2 ES6 Seed (Evan Plaice)",
+    "url": "https://github.com/evanplaice/angular2-es6-seed/"
+  } ]
+}, {
+  "category": "Babel General Resources",
+  "items": [ {
+    "name": "Babel",
+    "url": "https://babeljs.io/"
+  }, {
+    "name": "REPL",
+    "url": "https://babeljs.io/repl/"
+  }, {
+    "name": "Babel Repository (GitHub)",
+    "url": "https://github.com/babel/babel"
+  } ]
+}, {
+  "category": "Babel Angular 2 Online Playground",
+  "items": [ {
+    "name": "Plunker: Angular 2 + Babel",
+    "url": "http://plnkr.co/edit/PxCzCu?p=preview"
+  } ]
+}, {
+  "category": "Babel Seed Projects",
+  "items": [ {
+    "name": "babel-angular2-app",
+    "url": "https://github.com/shuhei/babel-angular2-app",
+    "description":"A skeleton Angular 2 app built with Babel and Browserify"
+  }, {
+    "name": "angular2-fullstack-starter",
+    "url": "https://github.com/jgodi/angular2-fullstack-starter"
+  }, {
+    "name": "angular2-es6-starter",
+    "url": "https://github.com/blacksonic/angular2-babel-esnext-starter"
+  }, {
+    "name": "angular-babel-seed",
+    "url": "https://github.com/rbnlffl/angular-babel-seed"
+  }]
+}, {
+  "category": "Babel Demo, Samples, and Examples",
+  "items": [ {
+    "name": "angular2-es6-todomvc",
+    "url": "https://github.com/blacksonic/angular2-esnext-todomvc"
+  }, {
+    "name": "ng1-ng2-webpack-lazy-uirouter",
+    "url": "https://github.com/swimlane/ng1-ng4-webpack-lazy-uirouter"
+  }]
+}, {
+  "category": "Babel Plugins",
+  "items": [ {
+    "name": "babel-preset-angular2",
+    "url": "https://github.com/shuhei/babel-preset-angular2"
+  }, {
+    "name": "babel-plugin-type-assertion",
+    "url": "https://github.com/shuhei/babel-plugin-type-assertion"
+  } ]
+}, {
+  "category": "ES5 Seed Projects",
+  "items": [ {
+    "name": "angular2-es5-starter-kit",
+    "url": "https://github.com/islam-muhammad/angular2-es5"
+  } ]
+}, {
+  "category": "Meteor in Angular 2"
+}, {
+  "category": "Meteor General Resources",
+  "items": [ {
+    "name": "Angular Meteor",
+    "url": "http://angular-meteor.com/"
+  }, {
+    "name": "Angular 2 Meteor",
+    "url": "https://www.angular-meteor.com/angular2"
+  } ]
+}, {
+  "category": "Meteor Seed Projects",
+  "items": [ {
+    "name": "Angular2 Meteor Seed",
+    "url": "https://github.com/KyneSilverhide/angular2-meteor-seed"
+  } ]
+}, {
+  "category": "Angular 2 in NativeScript"
+}, {
+  "category": "NativeScript General Resources",
+  "items": [ {
+    "name": "NativeScript",
+    "url": "https://www.nativescript.org/"
+  }, {
+    "name": "Using NativeScript",
+    "url": "http://www.syntaxsuccess.com/viewarticle/using-nativescript-with-angular-2.0"
+  } ]
+}, {
+  "category": "NativeScript Seed Projects",
+  "items": [ {
+    "name": "sample-Angular2",
+    "url": "https://github.com/NativeScript/sample-Angular2"
+  }, {
+    "name": "angular2-seed-advanced",
+    "url": "https://github.com/NathanWalker/angular-seed-advanced"
+  } ]
+}, {
+  "category": "Angular 2 in React Native"
+}, {
+  "category": "React Native General Resources",
+  "items": [ {
+    "name": "React Native",
+    "url": "https://facebook.github.io/react-native/"
+  } ]
+}, {
+  "category": "React Native Projects",
+  "items": [ {
+    "name": "Angular 2 React Native Renderer (GitHub)",
+    "url": "https://github.com/angular/react-native-renderer"
+  } ]
+}, {
+  "category": "Haxe General Resources",
+  "items": [ {
+    "name": "Haxe.org",
+    "url": "http://haxe.org"
+  }, {
+    "name": "Haxe on Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Haxe"
+  }, {
+    "name": "Haxe Playground ",
+    "url": "https://try.haxe.org/"
+  }, {
+    "name": "Haxe compiler targets",
+    "url": "http://haxe.org/documentation/introduction/compiler-targets.html"
+  }, {
+    "name": "Haxe discussion group",
+    "url": "https://groups.google.com/forum/#!forum/haxelang"
+  }, {
+    "name": "Haxe: working with JavaScript libraries",
+    "url": "http://philippe.elsass.me/2014/11/haxe-working-with-javascript-libraries/"
+  }, {
+    "name": "Learn haxe in Y minutes",
+    "url": "https://learnxinyminutes.com/docs/haxe/"
+  }, {
+    "name": "A success story for Haxe",
+    "url": "http://nadako.tumblr.com/post/113390739725/a-success-story-for-haxe"
+  }, {
+    "name": "News And Information For Haxe Developers",
+    "url": "https://haxe.io/"
+  } ]
+}, {
+  "category": "Haxe Seed Projects",
+  "items": [ {
+    "name": "angular2haxe",
+    "url": "https://github.com/nweedon/angular2haxe"
+  } ]
+}, {
+  "category": "Scala Seed Projects",
+  "items": [ {
+    "name": "play-angular2",
+    "url": "https://github.com/gdi2290/play-angular2"
+  } ]
+}, {
+  "category": "Bit Resources",
+  "items": [ {
+    "name": "Bit",
+    "url": "https://github.com/teambit/bit"
+  }, {
+    "name": "Bit-Javascript",
+    "url": "https://github.com/teambit/bit-javascript"
+  }, {
+    "name": "bitsrc",
+    "url": "https://bitsrc.io/"
+  } ]
+}, {
+  "category": "Security",
+  "items": [ {
+    "name": "Angular.io Security Guide",
+    "url": "https://angular.io/guide/security"
+  } ]
+}, {
+  "category": "Authentication",
+  "items": [ {
+    "name": "Angular 2 with OpenID Connect Implicit Flow from Damien Bowden",
+    "url": "https://damienbod.com/2016/03/02/angular2-openid-connect-implicit-flow-with-identityserver4/"
+  }, {
+    "name": "Angular 2 bootstrap4 OAuth2 Webpack from Michael Oryl",
+    "url": "https://github.com/michaeloryl/angular2-bootstrap4-oauth2-webpack"
+  }, {
+    "name": "Angular 2 OAuth2 OIDC from Manfred Steyer",
+    "url": "https://www.softwarearchitekt.at/post/2016/07/03/authentication-in-angular-2-with-oauth2-oidc-and-guards-for-the-newest-new-router-english-version.aspx"
+  }, {
+    "name": "Angular 2 authentication sample from auth0-blog",
+    "url": "https://github.com/auth0-blog/angular2-authentication-sample"
+  } ]
+}, {
+  "category": "NgRx",
+  "items": [ {
+    "name": "Comprehensive Introduction to @ngrx/store",
+    "url": "https://gist.github.com/btroncone/a6e4347326749f938510"
+  }, {
+    "description": "Part 1",
+    "name": "Adding Redux With NgRx/store and Angular2",
+    "url": "http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular-2-part-1/"
+  }, {
+    "name": "Adding Redux with NgRx/store to Angular2 – Part 2 (Testing Reducers)",
+    "url": "http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular2-part-2-testing-reducers/"
+  }, {
+    "name": "Angular 2 & NgRx/store: The NgModel In Between Use Case (from Angular 1)",
+    "url": "http://orizens.com/wp/topics/angular-2-ngrxstore-the-ngmodel-in-between-use-case-from-angular-1/"
+  }, {
+    "name": "Angular 2, Ngrx/Store & Ngrx/Effects – Intro To Functional Approach For A Chain Of Actions",
+    "url": "http://orizens.com/wp/topics/angular-2-ngrxstore-ngrxeffects-intro-to-functional-approach-for-a-chain-of-actions/"
+  }]
+} ]

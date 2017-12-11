@@ -1,0 +1,527 @@
+[ {
+  "category" : "Collections",
+  "items" : [ {
+    "name" : "node-simple-schema",
+    "url" : "https://github.com/aldeed/node-simple-schema/"
+  }, {
+    "name" : "aldeed:collection2",
+    "url" : "https://github.com/aldeed/meteor-collection2/"
+  }, {
+    "name" : "dburles:collection-helpers",
+    "url" : "https://github.com/dburles/meteor-collection-helpers/"
+  }, {
+    "name" : "matb33:collection-hooks",
+    "url" : "https://github.com/matb33/meteor-collection-hooks/"
+  }, {
+    "name" : "reywood:publish-composite",
+    "url" : "https://github.com/englue/meteor-publish-composite"
+  }, {
+    "name" : "jagi:astronomy",
+    "url" : "https://github.com/jagi/meteor-astronomy/"
+  } ]
+}, {
+  "category" : "REST",
+  "items" : [ {
+    "name" : "simple:rest",
+    "url" : "https://github.com/stubailo/meteor-rest"
+  }, {
+    "name" : "nimble:restivus",
+    "url" : "https://github.com/kahmali/meteor-restivus"
+  } ]
+}, {
+  "category" : "Forms and Templates",
+  "items" : [ {
+    "name" : "aldeed:autoform",
+    "url" : "https://github.com/aldeed/meteor-autoform"
+  }, {
+    "name" : "aldeed:template-extension",
+    "url" : "https://github.com/aldeed/meteor-template-extension"
+  }, {
+    "name" : "kadira:blaze-layout",
+    "url" : "https://github.com/kadirahq/blaze-layout"
+  }, {
+    "name" : "dispatch:scrollview",
+    "url" : "https://github.com/DispatchMe/meteor-scrollview"
+  }, {
+    "name" : "themeteorites:blaze-magic-events",
+    "url" : "https://github.com/themeteorites/blaze-magic-events"
+  }, {
+    "name" : "manuel:viewmodel",
+    "url" : "https://github.com/ManuelDeLeon/viewmodel"
+  }, {
+    "name" : "webix:webix",
+    "url" : "https://github.com/dandv/meteor-webix"
+  }, {
+    "description" : " Bunch of React components and helpers to easily generate and validate forms. Seamlessly integrate with aldeed:simple-schema and simpl-schema",
+    "name" : "uniforms",
+    "url" : "https://github.com/vazco/uniforms"
+  } ]
+}, {
+  "category" : "Users and Authentication",
+  "items" : [ {
+    "name" : "accounts-base",
+    "url" : "https://guide.meteor.com/accounts.html"
+  }, {
+    "name" : "alanning:roles",
+    "url" : "https://github.com/alanning/meteor-roles"
+  } ]
+}, {
+  "category" : "Deployment",
+  "items" : [ {
+    "name" : "When a Meteor finally hits production",
+    "url" : "https://medium.com/@davidyahalomi/when-a-meteor-finally-hits-production-6c37b81f795b"
+  }, {
+    "name" : "BulletProof Meteor",
+    "url" : "https://bulletproofmeteor.com/"
+  }, {
+    "name" : "meteorhacks:kadira",
+    "url" : "https://github.com/meteorhacks/kadira"
+  }, {
+    "name" : "meteor-up",
+    "url" : "https://github.com/arunoda/meteor-up"
+  }, {
+    "name" : "davidyaha:collection2-migrations",
+    "url" : "https://github.com/davidyaha/meteor-collection2-migrations"
+  }, {
+    "name" : "percolate:migrations",
+    "url" : "https://github.com/percolatestudio/meteor-migrations"
+  }, {
+    "name" : "meteorhacks:fast-render",
+    "url" : "https://github.com/kadirahq/fast-render"
+  }, {
+    "name" : "meteorhacks:cluster",
+    "url" : "https://github.com/meteorhacks/cluster"
+  }, {
+    "name" : "yogiben:admin",
+    "url" : "https://github.com/yogiben/meteor-admin"
+  }, {
+    "name" : "demeteorizer",
+    "url" : "https://github.com/onmodulus/demeteorizer"
+  }, {
+    "name" : "Amazon auto scaling and Meteor",
+    "url" : "https://allandequeirozblog.wordpress.com/2015/09/27/amazon-auto-scaling-and-meteor/"
+  }, {
+    "name" : "houston:admin",
+    "url" : "https://github.com/gterrono/houston"
+  }, {
+    "name" : "pm2-meteor",
+    "url" : "https://github.com/andruschka/pm2-meteor"
+  } ]
+}, {
+  "category" : "Routers",
+  "items" : [ {
+    "name" : "iron:router",
+    "url" : "https://github.com/iron-meteor/iron-router"
+  }, {
+    "name" : "kadira:flow-router",
+    "url" : "https://github.com/kadirahq/flow-router"
+  }, {
+    "name" : "meteorhacks:picker",
+    "url" : "https://github.com/meteorhacks/picker"
+  } ]
+}, {
+  "category" : "Offline",
+  "items" : [ {
+    "name" : "ground:db",
+    "url" : "https://github.com/GroundMeteor/db"
+  } ]
+}, {
+  "category" : "Testing",
+  "items" : [ {
+    "name" : "Meteor Testing Manual",
+    "url" : "http://www.meteortesting.com/"
+  }, {
+    "name" : "Velocity",
+    "url" : "http://velocity.meteor.com/"
+  }, {
+    "name" : "mike:mocha",
+    "url" : "https://github.com/mad-eye/meteor-mocha-web/"
+  }, {
+    "name" : "xolvio:chimp",
+    "url" : "https://github.com/xolvio/chimp"
+  }, {
+    "name" : "velocity:html-reporter",
+    "url" : "https://github.com/meteor-velocity/html-reporter"
+  }, {
+    "name" : "Gagarin",
+    "url" : "https://github.com/anticoders/gagarin"
+  } ]
+}, {
+  "category" : "Files",
+  "items" : [ {
+    "name" : "Meteor-CollectionFS",
+    "url" : "https://github.com/CollectionFS/Meteor-CollectionFS"
+  }, {
+    "name" : "ostrio:files",
+    "url" : "https://github.com/VeliovGroup/Meteor-Files"
+  }, {
+    "name" : "netanelgilad:excel",
+    "url" : "https://github.com/netanelgilad/meteor-excel"
+  } ]
+}, {
+  "category" : "Search, sort and paginate",
+  "items" : [ {
+    "name" : "tmeasday:publish-counts",
+    "url" : "https://github.com/percolatestudio/publish-counts"
+  }, {
+    "name" : "percolate:find-from-publication",
+    "url" : "https://github.com/versolearning/find-from-publication"
+  }, {
+    "name" : "meteorhacks:search-source",
+    "url" : "https://github.com/meteorhacks/search-source"
+  }, {
+    "name" : "matteodem:easy-search",
+    "url" : "https://github.com/matteodem/meteor-easy-search"
+  }, {
+    "name" : "alethes:pages",
+    "url" : "https://github.com/alethes/meteor-pages"
+  }, {
+    "name" : "Discover Meteor Blog about pagination",
+    "url" : "https://www.discovermeteor.com/blog/pagination-problems-meteor/"
+  } ]
+}, {
+  "category" : "Mobile",
+  "items" : [ {
+    "name" : "meteoric:ionic",
+    "url" : "https://github.com/meteoric/meteor-ionic"
+  }, {
+    "name" : "driftyco:ionic",
+    "url" : "https://github.com/driftyco/ionic"
+  }, {
+    "name" : "raix:push",
+    "url" : "https://github.com/raix/push"
+  }, {
+    "name" : "martijnwalraven:meteor-ios",
+    "url" : "https://github.com/martijnwalraven/meteor-ios"
+  }, {
+    "name" : "delight-im/Android-DDP",
+    "url" : "https://github.com/delight-im/Android-DDP"
+  }, {
+    "name" : "okland:accounts-phone",
+    "url" : "https://github.com/okland/accounts-phone"
+  }, {
+    "name" : "okland:camera-ui",
+    "url" : "https://github.com/okland/camera-ui"
+  }, {
+    "name" : "percolatestudio/cordova-plugin-safe-reload",
+    "url" : "https://github.com/percolatestudio/cordova-plugin-safe-reload"
+  } ]
+}, {
+  "category" : "Data Visualization",
+  "items" : [ {
+    "name" : "AnyChart-Meteor",
+    "url" : "https://github.com/AnyChart/AnyChart-Meteor"
+  }, {
+    "name" : "aldeed:tabular",
+    "url" : "https://github.com/aldeed/meteor-tabular"
+  } ]
+}, {
+  "category" : "Analytics",
+  "items" : [ {
+    "name" : "okgrow:analytics",
+    "url" : "https://github.com/okgrow/analytics/"
+  } ]
+}, {
+  "category" : "Cron Jobs",
+  "items" : [ {
+    "name" : "percolate:synced-cron",
+    "url" : "https://github.com/percolatestudio/meteor-synced-cron"
+  }, {
+    "name" : "vsivsi:job-collection",
+    "url" : "https://github.com/vsivsi/meteor-job-collection/"
+  } ]
+}, {
+  "category" : "Debugging Tools",
+  "items" : [ {
+    "name" : "msavin:mongol",
+    "url" : "https://github.com/msavin/Mongol/"
+  }, {
+    "name" : "msavin:jetsetter",
+    "url" : "https://github.com/msavin/JetSetter"
+  }, {
+    "name" : "meteorhacks:kadira-debug",
+    "url" : "https://github.com/kadirahq/meteor-debug"
+  }, {
+    "name" : "babrahams:constellation",
+    "url" : "https://github.com/JackAdams/constellation-distro/"
+  }, {
+    "name" : "Meteor DDP Monitor",
+    "url" : "https://github.com/thebakeryio/meteor-ddp-monitor"
+  }, {
+    "name" : "Dr. Mongo",
+    "url" : "http://www.drmongo.com/"
+  } ]
+}, {
+  "category" : "Package Managers",
+  "items" : [ {
+    "name" : "meteorhacks:npm",
+    "url" : "https://github.com/meteorhacks/npm/"
+  }, {
+    "name" : "cosmos:browserify",
+    "url" : "https://github.com/elidoran/cosmos-browserify"
+  } ]
+}, {
+  "category" : "Scaffolding",
+  "items" : [ {
+    "name" : "Meteor Kitchen",
+    "url" : "http://www.meteorkitchen.com/"
+  }, {
+    "name" : "iron-cli",
+    "url" : "https://github.com/iron-meteor/iron-cli"
+  }, {
+    "name" : "Differential",
+    "url" : "https://github.com/Differential/meteor-boilerplate"
+  }, {
+    "name" : "meteoris2",
+    "url" : "https://github.com/radiegtya/meteoris2"
+  }, {
+    "name" : "Base",
+    "url" : "https://github.com/themeteorchef/base"
+  } ]
+}, {
+  "category" : "Tooling",
+  "items" : [ {
+    "name" : "ESLint-plugin-Meteor",
+    "url" : "https://github.com/dferber90/eslint-plugin-meteor/"
+  } ]
+}, {
+  "category" : "Boilerplate",
+  "items" : [ {
+    "name" : "matteodem",
+    "url" : "https://github.com/matteodem/meteor-boilerplate"
+  }, {
+    "name" : "React with Webpack + Meteor as a backend",
+    "url" : "http://julian.io/react-with-webpack-meteor-as-a-backend/"
+  } ]
+}, {
+  "category" : "Open source apps",
+  "items" : [ {
+    "name" : "VulcanJS",
+    "url" : "https://github.com/VulcanJS/Vulcan"
+  }, {
+    "name" : "Microscope",
+    "url" : "https://github.com/DiscoverMeteor/Microscope"
+  }, {
+    "name" : "Wekan",
+    "url" : "https://github.com/wekan/wekan"
+  }, {
+    "name" : "Reaction Commerce",
+    "url" : "https://github.com/reactioncommerce/reaction"
+  }, {
+    "name" : "Crowducate Platform",
+    "url" : "https://github.com/Crowducate/crowducate-platform"
+  }, {
+    "name" : "Orion CMS",
+    "url" : "http://orionjs.org/"
+  } ]
+}, {
+  "category" : "Front End Frameworks",
+  "items" : [ {
+    "name" : "Blaze",
+    "url" : "http://blazejs.org/guide/introduction.html"
+  }, {
+    "name" : "React",
+    "url" : "http://react-in-meteor.readthedocs.org/en/latest/"
+  }, {
+    "name" : "Angular",
+    "url" : "https://github.com/Urigo/angular-meteor"
+  }, {
+    "name" : "Angular 2",
+    "url" : "https://github.com/Urigo/angular2-meteor"
+  }, {
+    "name" : "Famo.us",
+    "url" : "https://github.com/gadicc/meteor-famous-views/"
+  }, {
+    "name" : "Vue",
+    "url" : "https://github.com/Akryum/meteor-vue-component"
+  }, {
+    "name" : "frozeman:build-client",
+    "url" : "https://github.com/frozeman/meteor-build-client"
+  }, {
+    "name" : "Asteroid",
+    "url" : "https://github.com/mondora/asteroid"
+  }, {
+    "name" : "ddp.js",
+    "url" : "https://github.com/mondora/ddp.js"
+  } ]
+}, {
+  "category" : "Alternative Databases",
+  "items" : [ {
+    "name" : "meteor-pg",
+    "url" : "https://github.com/Richie765/meteor-pg"
+  }, {
+    "name" : "numtel:pg",
+    "url" : "https://github.com/numtel/meteor-pg"
+  }, {
+    "name" : "numtel:mysql",
+    "url" : "https://github.com/numtel/meteor-mysql"
+  }, {
+    "name" : "simple:rethink",
+    "url" : "https://github.com/Slava/meteor-rethinkdb"
+  } ]
+}, {
+  "category" : "Books",
+  "items" : [ {
+    "name" : "Meteor Explained",
+    "url" : "https://gumroad.com/l/meteor-explained"
+  }, {
+    "name" : "Meteor Tips",
+    "url" : "http://meteortips.com/"
+  }, {
+    "name" : "Meteor Cookbook",
+    "url" : "https://github.com/awatson1978/meteor-cookbook"
+  } ]
+}, {
+  "category" : "Courses",
+  "items" : [ {
+    "name" : "EventedMind",
+    "url" : "https://www.eventedmind.com/"
+  }, {
+    "name" : "Udemy — Meteor: Build a real-time web app using only JavaScript",
+    "url" : "https://www.udemy.com/meteor-course/"
+  }, {
+    "description" : " A Beginner's Guide to the Meteor JavaScript Framework",
+    "name" : "Udemy",
+    "url" : "https://www.udemy.com/meteorjs/"
+  }, {
+    "description" : " Single Page Web Apps with Meteor",
+    "name" : "tuts+",
+    "url" : "http://code.tutsplus.com/courses/single-page-web-apps-with-meteor"
+  }, {
+    "name" : "DevFreeCasts.org",
+    "url" : "http://devfreecasts.org/meteor/"
+  }, {
+    "name" : "MeteorTuts",
+    "url" : "http://meteortuts.com/"
+  } ]
+}, {
+  "category" : "Tutorials",
+  "items" : [ {
+    "name" : "Building a CMS-powered blog in Meteor",
+    "url" : "https://buttercms.com/blog/meteor-cms-blog-tutorial"
+  }, {
+    "description" : " Building a Slack Clone in Meteor",
+    "name" : "scotch.io",
+    "url" : "https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-getting-started"
+  }, {
+    "name" : "Rocket-Chat Slack Clone",
+    "url" : "https://rocket.chat/"
+  }, {
+    "name" : "Meteor Learning",
+    "url" : "https://github.com/ericdouglas/Meteor-Learning"
+  }, {
+    "name" : "Learning Resources for Meteor",
+    "url" : "https://www.yauh.de/best-learning-resources-for-meteorjs/"
+  }, {
+    "name" : "Phusion Passenger: Meteor tutorial",
+    "url" : "https://github.com/phusion/passenger/wiki/Phusion-Passenger:-Meteor-tutorial"
+  } ]
+}, {
+  "category" : "Blogs",
+  "items" : [ {
+    "name" : "Official Meteor blog",
+    "url" : "http://blog.meteor.com"
+  }, {
+    "name" : "Meteor Hacks Blog",
+    "url" : "https://meteorhacks.com/"
+  }, {
+    "name" : "Meteor Create",
+    "url" : "http://meteorcreate.com/"
+  }, {
+    "name" : "The Meteor podcast",
+    "url" : "http://podcast.crater.io"
+  }, {
+    "name" : "Meteor club podcast",
+    "url" : "https://podcast.meteorjs.club/"
+  }, {
+    "name" : "Blog about Optimistic UIs With Meteor Latency Compensation",
+    "url" : "http://info.meteor.com/blog/optimistic-ui-with-meteor-latency-compensation"
+  } ]
+}, {
+  "category" : "Websites",
+  "items" : [ {
+    "name" : "Official website",
+    "url" : "https://www.meteor.com/"
+  }, {
+    "name" : "Official Documentation",
+    "url" : "http://docs.meteor.com/"
+  }, {
+    "name" : "Official Guide",
+    "url" : "http://guide.meteor.com/"
+  }, {
+    "name" : "Atmosphere",
+    "url" : "https://atmospherejs.com/"
+  }, {
+    "name" : "BulletProof Meteor",
+    "url" : "https://bulletproofmeteor.com/"
+  }, {
+    "name" : "Meteorpedia",
+    "url" : "http://www.meteorpedia.com"
+  }, {
+    "name" : "DiscoverMeteor Encyclopedia",
+    "url" : "https://www.discovermeteor.com/encyclopedia"
+  }, {
+    "name" : "Roadmap",
+    "url" : "https://trello.com/b/hjBDflxp/meteor-roadmap"
+  }, {
+    "name" : "Meetups",
+    "url" : "http://meteor.meetup.com/"
+  }, {
+    "name" : "Reddit",
+    "url" : "https://www.reddit.com/r/meteor"
+  }, {
+    "name" : "YouTube",
+    "url" : "https://www.youtube.com/channel/UC3fBiJrFFMhKlsWM46AsAYw"
+  }, {
+    "name" : "Unofficial Meteor FAQ",
+    "url" : "https://github.com/oortcloud/unofficial-meteor-faq"
+  }, {
+    "name" : "The Meteor Chef",
+    "url" : "https://themeteorchef.com"
+  } ]
+}, {
+  "category" : "Q&A",
+  "items" : [ {
+    "name" : "Stack Overflow",
+    "url" : "http://stackoverflow.com/questions/tagged/meteor?sort=newest&pagesize=15"
+  }, {
+    "name" : "Meteor forums",
+    "url" : "https://forums.meteor.com/"
+  }, {
+    "name" : "Gitter IM channel",
+    "url" : "https://gitter.im/meteor/meteor"
+  }, {
+    "name" : "The Meteor Chef Slack channel",
+    "url" : "https://themeteorchef.slack.com"
+  } ]
+}, {
+  "category" : "Weekly",
+  "items" : [ {
+    "name" : "Meteor-Blog",
+    "url" : "http://info.meteor.com/blog"
+  }, {
+    "name" : "Meteor Weekly",
+    "url" : "https://goodbits.io"
+  }, {
+    "name" : "Crater.io",
+    "url" : "https://crater.io/"
+  }, {
+    "name" : "This Week In Meteor",
+    "url" : "https://goodbits.io"
+  } ]
+}, {
+  "category" : "Twitter",
+  "items" : [ {
+    "name" : "Official Meteor",
+    "url" : "https://twitter.com/meteorjs"
+  } ]
+}, {
+  "category" : "Job Boards",
+  "items" : [ {
+    "name" : "We Work Meteor",
+    "url" : "https://www.weworkmeteor.com/"
+  }, {
+    "name" : "Contributing",
+    "url" : "https://github.com/urigo/awesome-meteor/blob/master/CONTRIBUTING.md"
+  } ]
+} ]

@@ -1,0 +1,3873 @@
+[ {
+  "category": "Official Resources",
+  "items": [ {
+    "name": "Official Guide",
+    "url": "http://vuejs.org/guide/"
+  }, {
+    "name": "API Reference",
+    "url": "http://vuejs.org/api/"
+  }, {
+    "name": "GitHub Repo",
+    "url": "https://github.com/vuejs/vue"
+  }, {
+    "name": "Release Notes",
+    "url": "https://github.com/vuejs/vue/releases"
+  }, {
+    "name": "Style Guide",
+    "url": "https://vuejs.org/v2/style-guide/"
+  } ]
+}, {
+  "category": "External Resources",
+  "items": [ {
+    "name": "Vue.js資料まとめ(for japanese)",
+    "url": "https://gist.github.com/hashrock/f575928d0e109ace9ad0"
+  }, {
+    "name": "Vue.js Newsletter",
+    "url": "http://vue-newsletter.com/"
+  }, {
+    "name": "Vue.js Tips",
+    "url": "http://vuetips.com"
+  }, {
+    "name": "Vue.js Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Vue.js"
+  }, {
+    "name": "Vue.js Radar",
+    "url": "https://www.vuejsradar.com"
+  } ]
+}, {
+  "category": "Job Portal",
+  "items": [ {
+    "name": "Vue.js Jobs",
+    "url": "https://vuejobs.com/"
+  } ]
+}, {
+  "category": "Community",
+  "items": [ {
+    "name": "Twitter",
+    "url": "https://twitter.com/vuejs"
+  }, {
+    "name": "Official Forum",
+    "url": "http://forum.vuejs.org/"
+  }, {
+    "name": "vue-requests",
+    "url": "https://github.com/vuejs/vue-requests"
+  }, {
+    "description": "Telegram Channel & group (group link available in channel bio)",
+    "name": "VueJS Iran",
+    "url": "https://telegram.me/vue_js"
+  }, {
+    "description": "2300+ registered users worldwide",
+    "name": "vueslack",
+    "url": "https://vueslack.slack.com/"
+  }, {
+    "description": "Discord chat server",
+    "name": "Vue Land",
+    "url": "https://vue-land.js.org/"
+  }, {
+    "description": "Telegram Group Russian",
+    "name": "VueJS Russia",
+    "url": "https://t.me/vuejs_ru"
+  }, {
+    "description": "Facebook group",
+    "name": "VueJS Viet Nam",
+    "url": "https://www.facebook.com/groups/vuejsvietnam/"
+  }, {
+    "description": "Slack Group",
+    "name": "VueJS Spanish",
+    "url": "https://slack.vue-es.org/"
+  }, {
+    "description": "Slack Group",
+    "name": "VueJS Korean",
+    "url": "https://vuejs-korea.signup.team/"
+  }, {
+    "description": "Facebook Group",
+    "name": "VueJS Thailand",
+    "url": "https://www.facebook.com/groups/VuejsThailand/"
+  }, {
+    "description": "Telegram Group Portuguese",
+    "name": "VueJS Brasil",
+    "url": "https://t.me/vuejsbrasil"
+  }, {
+    "description": "Facebook Page Portuguese",
+    "name": "VueJS Brasil",
+    "url": "https://www.facebook.com/vuejsbrasil/"
+  }, {
+    "description": "Facebook Group Portuguese",
+    "name": "VueJS Brasil",
+    "url": "https://www.facebook.com/groups/vuejsbr/"
+  }, {
+    "description": "Facebook Group Spanish",
+    "name": "VueJS en español",
+    "url": "https://www.facebook.com/groups/vue.es/"
+  }, {
+    "description": "Discord chat server",
+    "name": "VueJS India",
+    "url": "https://goo.gl/mYXKUv"
+  }, {
+    "description": "Telegram Group Indonesian",
+    "name": "VueJS Indonesia",
+    "url": "https://t.me/vuejsid"
+  } ]
+}, {
+  "category": "Conferences",
+  "items": [ {
+    "name": "VueConf",
+    "url": "http://conf.vuejs.org"
+  }, {
+    "name": "Vue.js London",
+    "url": "http://vuejs.london"
+  } ]
+}, {
+  "category": "Podcasts",
+  "items": [ {
+    "name": "Full Stack Radio #30 (11-23-2015)",
+    "url": "http://www.fullstackradio.com/30"
+  }, {
+    "name": "JavaScript Jabber #187 (11-25-2015)",
+    "url": "https://devchat.tv/js-jabber/187-jsj-vue-js-with-evan-you"
+  }, {
+    "name": "Changelog #184 (11-27-2015)",
+    "url": "https://changelog.com/184/"
+  }, {
+    "name": "Software Engineering Daily (12-29-2015)",
+    "url": "http://softwareengineeringdaily.com/2015/12/29/front-end-javascript-with-evan-you/"
+  }, {
+    "name": "JavaScript Air 016 (03-30-2016)",
+    "url": "https://javascriptair.com/episodes/2016-03-30/"
+  }, {
+    "description": "Falando Sobre Vuejs e Web Components (2016-08-19 - pt-BR)",
+    "name": "Codecasts #2",
+    "url": "https://soundcloud.com/codecasts/2-falando-sobre-vuejs-e-web-components"
+  }, {
+    "name": "Full Stack Radio #50 (09-21-2016)",
+    "url": "http://www.fullstackradio.com/50"
+  }, {
+    "name": "和 Vue.js 框架的作者聊聊前端框架开发背后的故事",
+    "url": "http://teahour.fm/2015/08/16/vuejs-creator-evan-you.html"
+  }, {
+    "description": "Vue.js with Evan You and Sarah Drasner (04-27-2017)",
+    "name": "MW S04E08",
+    "url": "https://modernweb.podbean.com/e/mw-s04e09-evan-yu-sarah-drasner/"
+  }, {
+    "description": "Crowdfunding Open Source (Vue.js) (06-15-2017)",
+    "name": "Request For Commits #12",
+    "url": "https://changelog.com/rfc/12"
+  }, {
+    "name": "The Web Platform Podcast 132: Vue.js (07-27-2017)",
+    "url": "http://thewebplatformpodcast.com/132-vuejs"
+  }, {
+    "name": "JavaScript Jabber #276 with Maximilian Schwarzmüller (08-29-2017)",
+    "url": "https://devchat.tv/js-jabber/jsj-276-vue-js-maximilian-schwarzmuller"
+  }, {
+    "name": "Animating VueJS with Sarah Drasner(Software Engineering Daily 01-12-2017)",
+    "url": "https://softwareengineeringdaily.com/2017/12/01/animating-vuejs-with-sarah-drasner/"
+  } ]
+}, {
+  "category": "Official Examples",
+  "items": [ {
+    "name": "Basic Examples",
+    "url": "http://vuejs.org/guide/"
+  }, {
+    "name": "Vue.js TodoMVC",
+    "url": "https://github.com/vuejs/vue/tree/dev/examples/todomvc"
+  }, {
+    "name": "CoffeeScript Version",
+    "url": "https://github.com/anfelor/TodoMVC-CoffeeScript-and-Vue.js"
+  }, {
+    "name": "Vue.js HackerNews Clone",
+    "url": "https://github.com/vuejs/vue-hackernews"
+  }, {
+    "name": "Vue.js 2.0 HackerNews Clone",
+    "url": "https://github.com/vuejs/vue-hackernews-2.0"
+  } ]
+}, {
+  "category": "Tutorials",
+  "items": [ {
+    "name": "Vue.js screencasts",
+    "url": "https://laracasts.com/series/learn-vue-2-step-by-step"
+  }, {
+    "name": "What's New in Vue.js 1.0",
+    "url": "http://www.sitepoint.com/whats-new-in-vue-js-1-0/"
+  }, {
+    "name": "Vuejs 2 Authentication Tutorial",
+    "url": "https://auth0.com/blog/vuejs2-authentication-tutorial/"
+  }, {
+    "name": "Create a GitHub File Explorer Using Vue.js",
+    "url": "https://scotch.io/tutorials/create-a-github-file-explorer-using-vue-js"
+  }, {
+    "name": "Vue.js Tutorial",
+    "url": "http://vegibit.com/vue-js-tutorial/"
+  }, {
+    "name": "Vue.js build set-up from scratch with webpack, vue-loader and hot reload",
+    "url": "http://skyronic.com/2015/12/28/vue-project-scratch/"
+  }, {
+    "name": "Vuex basics: Tutorial and explanation",
+    "url": "http://skyronic.com/2016/01/03/vuex-basics-tutorial/"
+  }, {
+    "description": "James Browne from London Vue.js Meetup #1",
+    "name": "Vuex introduction video",
+    "url": "https://www.youtube.com/watch?v=l1KHL-TX3qs"
+  }, {
+    "name": "Vue.js 中文系列视频教程",
+    "url": "https://laravist.com/series/vue-js-1-0-in-action-series"
+  }, {
+    "name": "Vue.js: The Basics",
+    "url": "http://coligo.io/vuejs-the-basics/"
+  }, {
+    "name": "VueJs: Components",
+    "url": "https://coligo.io/vuejs-components/"
+  }, {
+    "name": "Dynamic Components in Vue.js",
+    "url": "https://coligo.io/dynamic-components-in-vuejs/"
+  }, {
+    "name": "Develop a Reactive Invoice App using Vue.js",
+    "url": "http://craigmckenna.com/develop-a-reactive-invoice-app-using-vue-js/"
+  }, {
+    "name": "Understanding Filters in Vue.js",
+    "url": "http://coligo.io/vuejs-filters/"
+  }, {
+    "name": "Hybrid App Example with Laravel and Vue.js in Portuguese",
+    "url": "https://www.youtube.com/watch?v=TGSJjDahlrQ"
+  }, {
+    "name": "Creating a Markdown Editor with VueJs and GitHub's API",
+    "url": "http://coligo.io/markdown-editor-vuejs/"
+  }, {
+    "name": "Building a Real-Time Web Analytics Dashboard with NodeJs, Socket.io, and VueJs",
+    "url": "http://coligo.io/real-time-analytics-with-nodejs-socketio-vuejs/"
+  }, {
+    "name": "Vue.js Introduction Turkish Language",
+    "url": "http://oguzhan.in/vue-js-ile-uygulama-gelistirme/"
+  }, {
+    "name": "Vue.js VideoTutoral Series in Spanish (3-8-2016)",
+    "url": "https://www.youtube.com/watch?v=IlFk3cyRB0Y&list=PLM-Y_YQmMEqD2EWfWpSbiV3WgShRRW3FE&index=7"
+  }, {
+    "name": "Building a Bookmarking App with Electron, VueJs, and Firebase",
+    "url": "http://coligo.io/bookmarking-app-electron-vuejs-firebase/"
+  }, {
+    "name": "Learn Vuex by Building a Notes App",
+    "url": "https://coligo.io/learn-vuex-by-building-notes-app/"
+  }, {
+    "name": "Vue.js Screencast Series in Spanish",
+    "url": "https://styde.net/curso-de-vue-js/"
+  }, {
+    "name": "讲解Vue.js 官网 中文-含代码、百度云、youtube",
+    "url": "https://github.com/bhnddowinf/vuejs-learn"
+  }, {
+    "name": "Exploring Real Time Apps with VueJS, ES2015 and Webpack",
+    "url": "https://blog.pusher.com/exploring-real-time-apps-with-vuejs-es2016-and-webpack/"
+  }, {
+    "name": "Vue.js in Bahasa Indonesia",
+    "url": "https://www.sekolahkoding.com/track/belajar-vue-js"
+  }, {
+    "name": "Building a Mobile App with Cordova and Vue.js",
+    "url": "https://coligo.io/building-a-mobile-app-with-cordova-vuejs/"
+  }, {
+    "name": "Vue.js from Scratch Series in Russian",
+    "url": "https://www.youtube.com/playlist?list=PL5r0NkdgM0UOxb4Hl81FV5UIgexwTf8h7"
+  }, {
+    "name": "Створення сервісу для зберігання файлів з Flask, RethinkDB та Vue.js, ч. 1",
+    "url": "http://codeguida.com/post/526/"
+  }, {
+    "name": "VueJS 2 French tutorial",
+    "url": "https://www.youtube.com/playlist?list=PLjwdMgw5TTLW-mAtlR46VajrKs4dep3y0"
+  }, {
+    "name": "Jayway Vue.js 2 workshop. Build an e-commerce site with vue-router, vuex and vue-resource",
+    "url": "https://github.com/jayway/vue-js-workshop"
+  }, {
+    "name": "How to Create Great VueJS Applications Using Wijmo Controls",
+    "url": "http://wijmo.com/blog/how-to-create-great-vuejs-applications-using-wijmo-controls/"
+  }, {
+    "name": "讲解Vue.js 2 官网 中文-含代码、百度云、youtube",
+    "url": "https://github.com/bhnddowinf/vuejs2-learn"
+  }, {
+    "name": "Vue.js Cheatsheet: Server-side Applications, Router, Vuex Store, GraphQL and more",
+    "url": "https://www.gitbook.com/book/xpepermint/vue-js-cheatsheet/details"
+  }, {
+    "name": "Medium like Image Loading with Vue.js",
+    "url": "https://www.theodo.fr/blog/2016/10/medium-like-image-loading-with-vue-js/"
+  }, {
+    "name": "How to Use Vuex in a Laravel Spark Project",
+    "url": "https://metricloop.com/blog/how-to-use-vuex-in-a-laravel-spark-project"
+  }, {
+    "name": "How To Set Up Modules in Vuex",
+    "url": "https://metricloop.com/blog/how-to-set-up-modules-in-vuex"
+  }, {
+    "name": "Learn Vue 2: Step By Step",
+    "url": "https://laracasts.com/series/learn-vue-2-step-by-step"
+  }, {
+    "name": "Vue.js 中文教程",
+    "url": "http://javascript.ctolib.com/docs/read/vue-js-c-index.html"
+  }, {
+    "name": "Up and Running with the Vue.js 2.0 Framework",
+    "url": "https://www.sitepoint.com/up-and-running-vue-js-2-0/"
+  }, {
+    "name": "How to make API Calls with Vuex",
+    "url": "https://metricloop.com/blog/how-to-make-api-calls-with-vuex"
+  }, {
+    "name": "How to Use Vuex to Build a Feature",
+    "url": "https://metricloop.com/blog/how-to-use-vuex-to-build-a-feature"
+  }, {
+    "name": "Vue.js 2.0 Fundamentals",
+    "url": "https://www.youtube.com/playlist?list=PLwAKR305CRO_1yAao-8aZiQnBqJeyng4O"
+  }, {
+    "name": "Vuex For The Clueless — The Missing Primer On Vue’s Application Data Store",
+    "url": "https://medium.com/js-dojo/vuex-for-the-clueless-the-missing-primer-on-vues-application-data-store-33fa51ffc3af#.2j25xpfui"
+  }, {
+    "name": "Real-time Grid Component Laravel, Vue.js, Vuex & Socket.io",
+    "url": "https://www.youtube.com/watch?v=Jxefsv5Zqkw&t=3s"
+  }, {
+    "description": "The Complete Guide (incl. Vuex)",
+    "name": "VueJS 2",
+    "url": "https://www.udemy.com/vuejs-2-the-complete-guide"
+  }, {
+    "name": "Develop Web Apps with Vue.js",
+    "url": "https://egghead.io/courses/develop-web-apps-with-vue-js"
+  }, {
+    "description": "Getting Started",
+    "name": "Vue.js 2",
+    "url": "https://www.youtube.com/playlist?list=PL55RiY5tL51p-YU-Uw90qQH419BM4Iz07"
+  }, {
+    "name": "Vue.js 2 & Vuex (Basics)",
+    "url": "https://www.youtube.com/playlist?list=PL55RiY5tL51pT0DNJraU93FhMzhXxtDAo"
+  }, {
+    "name": "Türkçe VueJS Eğitim Videoları",
+    "url": "https://www.youtube.com/playlist?list=PLa3NvhdFWNipwk1KXeUpVQnAiAfuBw4El"
+  }, {
+    "name": "Building a JSON Tree View Component in Vue.js from Scratch in Six Steps",
+    "url": "https://devblog.digimondo.io/building-a-json-tree-view-component-in-vue-js-from-scratch-in-six-steps-ce0c05c2fdd8#.738ok0l4p"
+  }, {
+    "description": "OpenLecture 2017.01 in Russian on YouTube by Illya Klymov",
+    "name": "Let's Vue!",
+    "url": "https://youtu.be/7pmw5gvWAf8"
+  }, {
+    "name": "Bootstrapping your first Vue.js application using vue-cli",
+    "url": "https://afropolymath.svbtle.com/bootstrapping-your-first-vue-js-project/"
+  }, {
+    "name": "Build vue-hackernews-2.0 from Scratch",
+    "url": "https://github.com/Detachment/Build-vue-hackernews-2.0-from-scratch"
+  }, {
+    "name": "Role Based Authorization for your Vue.js and Nuxt.js Applications Using vue-kindergarten",
+    "url": "https://medium.com/@JiriChara/role-based-authorization-for-your-vue-js-and-nuxt-js-applications-using-vue-kindergarten-fd483e013ec5#.kp81np177"
+  }, {
+    "description": "Creating a Simple Budgeting App with Vue",
+    "name": "Complete Vue.js Application Tutorial",
+    "url": "http://matthiashager.com/complete-vuejs-application-tutorial"
+  }, {
+    "name": "Vue.js Tutorial: A Prerendered, SEO-Friendly Example",
+    "url": "https://snipcart.com/blog/vuejs-tutorial-seo-example"
+  }, {
+    "name": "Vue.js Introduction For People Who Know Just Enough jQuery To Get By",
+    "url": "https://medium.com/@mattrothenberg/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77"
+  }, {
+    "name": "Fetching Data from a Third-Party API with Vue.js and Axios",
+    "url": "https://www.sitepoint.com/fetching-data-third-party-api-vue-axios/"
+  }, {
+    "name": "Fun Projects with Vue 2 (Video)",
+    "url": "https://www.packtpub.com/web-development/fun-projects-vue-2-video"
+  }, {
+    "name": "Vue JS: Simultaneously Running Express and Webpack Dev Server",
+    "url": "https://medium.com/dailyjs/vue-js-simultaneously-running-express-and-webpack-dev-server-292f4a7ed7a3"
+  }, {
+    "name": "Vue JS 2 Tutorials",
+    "url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa"
+  }, {
+    "name": "Add a headless CMS to VueJs in 5 Minutes",
+    "url": "https://www.storyblok.com/tp/add-a-headless-CMS-to-vuejs-in-5-minutes"
+  }, {
+    "name": "vue 架构中的 Watcher",
+    "url": "https://github.com/dengwanc/dengwanc.github.io/issues/11"
+  }, {
+    "name": "Building Your First App With Vue.js",
+    "url": "http://tutorialzine.com/2016/08/building-your-first-app-with-vue-js/"
+  }, {
+    "name": "5 Practical Examples For Learning Vue.js",
+    "url": "http://tutorialzine.com/2016/03/5-practical-examples-for-learning-vue-js/"
+  }, {
+    "name": "Migrating from KnockoutJS to VueJS",
+    "url": "https://jes.al/2017/05/migrating-from-knockoutjs-to-vuejs/"
+  }, {
+    "name": "Create a quiz with Vue.js",
+    "url": "https://medium.com/@rap2h/create-a-quiz-with-vue-js-ed1e8e0e8294"
+  }, {
+    "name": "Vue.js: Getting Started",
+    "url": "https://ecofic.com/courses/vue-getting-started/"
+  }, {
+    "description": "Building Real Time Single Page Web Applications",
+    "name": "Vue.js 2 & Firebase",
+    "url": "https://www.youtube.com/watch?v=we4zuQIXmnw"
+  }, {
+    "description": "Real-World Application With External API Access",
+    "name": "Vue.js 2 & Vue-Resource",
+    "url": "https://www.youtube.com/watch?v=p-7Zi9xYt2M"
+  }, {
+    "name": "Interactive Vue.js Screencasts For Beginners",
+    "url": "https://scrimba.com/playlist/playlist-38"
+  }, {
+    "name": "Vue.JS ile NASA API'ını Kullanarak Veri Çekme",
+    "url": "https://www.youtube.com/watch?v=uC5b2VDATDU"
+  }, {
+    "name": "Web development with Vue.js 2 (Video)",
+    "url": "https://www.packtpub.com/web-development/web-development-vuejs-2-video"
+  }, {
+    "name": "Build a realtime chart with VueJS and Pusher",
+    "url": "https://blog.pusher.com/build-realtime-chart-with-vuejs-pusher/"
+  }, {
+    "name": "Intro to Vue, repo for Frontend Masters Course",
+    "url": "https://github.com/sdras/intro-to-vue"
+  }, {
+    "name": "Vue Guide on CSS-Tricks",
+    "url": "https://css-tricks.com/guides/vue/"
+  }, {
+    "name": "Using Typescript in your VueJS app",
+    "url": "https://medium.com/coding-blocks/using-typescript-in-your-vue-app-c4aba0bbc8bc"
+  }, {
+    "name": "Vue.js视频系列，免费、入门、实战",
+    "url": "http://nodelover.me/courses"
+  }, {
+    "name": "Vue.js 预览",
+    "url": "https://ninghao.net/course/4256"
+  }, {
+    "name": "Vue.js: Development Machine Setup",
+    "url": "https://www.ecofic.com/about/blog/vue-dev-machine-setup/"
+  }, {
+    "name": "Building a Vue v2 JS app using Vue-router",
+    "url": "https://www.liquidlight.co.uk/blog/article/building-a-vue-v2-js-app-using-vue-router/"
+  }, {
+    "name": "Build your own carousel with Vue",
+    "url": "https://medium.com/@davidatomhernandez/how-to-a-simple-carousel-with-vue-138715d615d7"
+  }, {
+    "name": "Unit Testing Vue.js Components with the Official Vue Testing Tools and Jest",
+    "url": "https://alexjoverm.github.io/series/Unit-Testing-Vue-js-Components-with-the-Official-Vue-Testing-Tools-and-Jest/"
+  }, {
+    "name": "Creating Vue.js Transitions & Animation: Live Examples",
+    "url": "https://snipcart.com/blog/vuejs-transitions-animations"
+  }, {
+    "name": "Creating Custom Vue.js Plugins",
+    "url": "https://alligator.io/vuejs/creating-custom-plugins/"
+  }, {
+    "name": "Async in VueJS part 1",
+    "url": "https://medium.com/js-dojo/async-in-vue-js-part-1-28d96f751a2e"
+  }, {
+    "name": "Async in VueJS part 2",
+    "url": "https://medium.com/js-dojo/async-in-vuejs-part-2-45e81c836e38"
+  }, {
+    "name": "Using localStorage with Vuex store without a plugin",
+    "url": "https://www.mikestreety.co.uk/blog/vue-js-using-localstorage-with-the-vuex-store"
+  }, {
+    "name": "Using props for accessing URL parameters within components with Vue Router",
+    "url": "https://www.youtube.com/watch?v=ESg0k2zdME4"
+  }, {
+    "name": "Deploy Vue.js — SSR(Vuetify) on Production with Pm2 and Nginx",
+    "url": "https://medium.com/@kamerk22/deploy-vue-js-ssr-vuetify-on-production-with-pm2-and-nginx-ec7b5c0748a3"
+  }, {
+    "name": "Testing Vue Components",
+    "url": "http://testingvue.com"
+  }, {
+    "name": "Building a Full Stack Web App with Vue.js and Express.js",
+    "url": "https://www.youtube.com/watch?v=Fa4cRMaTDUI&t="
+  }, {
+    "name": "Vue.js 2 Recipes (Video)",
+    "url": "https://www.packtpub.com/application-development/vuejs-2-recipes-video"
+  }, {
+    "name": "Getting Started with Vue.js",
+    "url": "https://sabe.io/tutorials/getting-started-with-vue-js"
+  }, {
+    "name": "Building Your First Advanced CRUD Application with Vue 2 (Video)",
+    "url": "https://www.packtpub.com/web-development/building-your-first-advanced-crud-application-vue-2-video"
+  }, {
+    "name": "프론트엔드 개발자를 위한 Vue.js 입문서",
+    "url": "https://joshua1988.github.io/web-development/vuejs/vuejs-tutorial-for-beginner/"
+  }, {
+    "name": "누구나 다루기 쉬운 Vue.js (Video)",
+    "url": "https://www.inflearn.com/course/vue-pwa-vue-js-%EA%B8%B0%EB%B3%B8/"
+  }, {
+    "name": "Build a Vue.js Blog in 2 hours tops",
+    "url": "https://snipcart.com/blog/vuejs-blog-demo#tutorial"
+  }, {
+    "name": "Getting Started with VueJS 2",
+    "url": "https://www.udemy.com/getting-started-with-vue-js"
+  }, {
+    "name": "Getting Started with Vuex: Managing State in Vue.js",
+    "url": "https://sabe.io/tutorials/getting-started-with-vuex"
+  }, {
+    "name": "Vue2 ACL using CASL",
+    "url": "https://medium.com/@sergiy.stotskiy/vue-acl-with-casl-781a374b987a"
+  } ]
+}, {
+  "category": "Examples",
+  "items": [ {
+    "name": "Starter Application with JWT Auth + sample backend API in Laravel",
+    "url": "http://forum.vuejs.org/topic/39/starter-application-with-jwt-auth-sample-backend-api"
+  }, {
+    "name": "Node Webkit + Vue example",
+    "url": "https://github.com/brandonjpierce/node-webkit-boilerplate"
+  }, {
+    "name": "Vue Samples",
+    "url": "https://github.com/superlloyd/VueSamples"
+  }, {
+    "name": "HackerNews clone with vue.js + vue-router",
+    "url": "https://github.com/kazupon/vue-router-hackernews"
+  }, {
+    "name": "Electron + Vue example",
+    "url": "https://github.com/bradstewart/electron-boilerplate-vue"
+  }, {
+    "name": "Single page application example (Vue + Voie)",
+    "url": "https://github.com/inca/voie-example"
+  }, {
+    "description": "Task Manager SPA written in Vue + Lumen",
+    "name": "Begin",
+    "url": "https://github.com/rajabishek/begin"
+  }, {
+    "name": "Vue Mini Shop",
+    "url": "https://github.com/BosNaufal/vue-mini-shop"
+  }, {
+    "name": "Vue SoundCloud",
+    "url": "https://github.com/mul14/vue-soundcloud"
+  }, {
+    "name": "Feature Requests (Laravel + Vue Combo)",
+    "url": "https://github.com/haydenbbickerton/feature-requests-app"
+  }, {
+    "name": "Vue Cookbook (Vue1.0 + express)",
+    "url": "https://github.com/yjj5855/node-vue-server-webpack"
+  }, {
+    "description": "A starter project to build single page Vue.js apps as stand-alone or for Laravel / Laravel Spark projects, based on Browserify and Semantic-ui) by WebSemantics",
+    "name": "Strong Together",
+    "url": "https://github.com/websemantics/strong-together"
+  }, {
+    "name": "vuetest: an ad admin web with user auth, bootstrap ui, uploader, WYSIWYG editor in iframe",
+    "url": "https://github.com/sjerrys/vuetest"
+  }, {
+    "name": "vue-shopping",
+    "url": "https://github.com/andylei18/vue-shopping"
+  }, {
+    "name": "Vue-cnodejs,060",
+    "url": "https://github.com/shinygang/Vue-cnodejs"
+  }, {
+    "name": "vue-zhihu-daily",
+    "url": "https://github.com/hilongjw/vue-zhihu-daily"
+  }, {
+    "name": "jwt-example",
+    "url": "https://github.com/PetervMeijgaard/jwt-example"
+  }, {
+    "description": "Multiplayer online chess game  by gustaYo",
+    "name": "VueChess",
+    "url": "https://github.com/gustaYo/vue-chess"
+  }, {
+    "description": "Vue client for Ngexplorer",
+    "name": "Ngexplorer-vuejs-client",
+    "url": "https://github.com/gustaYo/ngexplorer-vuejs-client"
+  }, {
+    "name": "Vue 2048 (Vue + Webpack)",
+    "url": "https://pengfu.github.io/vue-2048/"
+  }, {
+    "name": "Vue Simple PWA",
+    "url": "https://github.com/BosNaufal/vue-simple-pwa"
+  }, {
+    "name": "Tour of Heroes (Vue 2.0)",
+    "url": "https://github.com/aweber1/tour-of-heroes-vue2"
+  }, {
+    "name": "vue-table-pagination",
+    "url": "https://github.com/echoVic/vue-table-pagination"
+  }, {
+    "name": "Feathers and Vue 2.0 Blog Admin Demo",
+    "url": "https://github.com/delay/feathers-vue-blog-admin-demo"
+  }, {
+    "name": "vue-zhihudaily-2.0",
+    "url": "https://github.com/cs1707/vue-zhihudaily-2.0"
+  }, {
+    "name": "vue-demo-todolist",
+    "url": "https://github.com/fishenal/Todos_Vuejs"
+  }, {
+    "name": "vue-AdminLte",
+    "url": "https://github.com/liujians/vue-adminLte-vue-router"
+  }, {
+    "name": "Vue(2.0) + Node.js: A blog content manage system (CMS)",
+    "url": "https://github.com/ycwalker/CMS-of-Blog"
+  }, {
+    "description": "Implementation of Ngexplorer with Quasar framework",
+    "name": "ngexplorer-quasar",
+    "url": "https://github.com/gustaYo/ngexplorer-quasar"
+  }, {
+    "name": "zhihu-daily-vue",
+    "url": "https://github.com/moonou/zhihu-daily-vue"
+  }, {
+    "name": "loopback-vue",
+    "url": "https://github.com/qxl1231/generator-loopback-vue"
+  }, {
+    "name": "vue-s3-dropzone",
+    "url": "https://github.com/kfei/vue-s3-dropzone"
+  }, {
+    "name": "easy-vue",
+    "url": "https://github.com/TIGERB/easy-vue"
+  }, {
+    "name": "TIGERB",
+    "url": "https://github.com/tigerb"
+  }, {
+    "name": "Vuex Events Messaging Demo",
+    "url": "https://github.com/metricloop/vuex-events-messaging-demo"
+  }, {
+    "name": "vue-memo",
+    "url": "https://github.com/akifo/vue-memo"
+  }, {
+    "name": "Resume Vue",
+    "url": "https://github.com/ChangJoo-Park/Resume-Vue"
+  }, {
+    "name": "App example with JWT Authentication",
+    "url": "https://github.com/Angarsk8/phoenix_vuejs_authentication_example"
+  }, {
+    "name": "Sample CRUD app with router in Vue 2.0",
+    "url": "https://github.com/shershen08/vue.js-v2-crud-application"
+  }, {
+    "name": "ASP.NET Core Vue.js server-side rendering sample",
+    "url": "https://github.com/mgyongyosi/VuejsSSRSample"
+  }, {
+    "description": "Documented Firebase integration w/ webpack and eslint, by @sejr",
+    "name": "vuefire-quickstart",
+    "url": "https://github.com/sejr/vuefire-quickstart"
+  }, {
+    "name": "hello-vue-django Vue.js and Django integration starter project with hot code reload",
+    "url": "https://github.com/rokups/hello-vue-django"
+  }, {
+    "name": "Real Time Social News App",
+    "url": "https://github.com/Angarsk8/loopa-news"
+  }, {
+    "name": "vue-calculator",
+    "url": "https://github.com/CaiYiLiang/simply-calculator-vuejs"
+  }, {
+    "name": "Wikipedia-viewer",
+    "url": "https://github.com/CaiYiLiang/vue-demos/tree/master/wikipediaViewer-vuejs"
+  }, {
+    "name": "vue2.x-douban",
+    "url": "https://github.com/superman66/vue2.x-douban"
+  }, {
+    "name": "vue-laravel-example",
+    "url": "https://github.com/jcc/vue-laravel-example"
+  }, {
+    "name": "vue-foundation",
+    "url": "https://github.com/hal0gen/vue-foundation"
+  }, {
+    "name": "aspnetcore-Vue-starter",
+    "url": "https://github.com/MarkPieszak/aspnetcore-Vue-starter"
+  }, {
+    "name": "vue-reddit-app",
+    "url": "https://github.com/yujiahaol68/reddit-app"
+  }, {
+    "name": "vue-music-qq",
+    "url": "https://github.com/pluto1114/vue-music-qq"
+  }, {
+    "name": "NavigationTab with Vue-Redux and Plain VueJSX",
+    "url": "https://github.com/ShuvoHabib/Vue-JSX-and-Vue-Redux-Navigation-Tab"
+  }, {
+    "name": "Veggie Map",
+    "url": "https://veggiemap.herokuapp.com/"
+  }, {
+    "name": "vuejs-d3",
+    "url": "https://github.com/johnnynotsolucky/samples/tree/master/vuejs-d3"
+  }, {
+    "name": "vue-twitter-client",
+    "url": "https://github.com/YuheiNakasaka/vue-twitter-client"
+  }, {
+    "name": "Douban",
+    "url": "https://github.com/jeneser/douban"
+  }, {
+    "name": "Storyblok vuejs-boilerplate",
+    "url": "https://github.com/storyblok/vuejs-boilerplate"
+  }, {
+    "name": "Vuexpresso",
+    "url": "https://github.com/Ethaan/vuexpresso"
+  }, {
+    "name": "Vue.js with Sails.js backend example project",
+    "url": "https://github.com/ndabAP/Vue.js-with-Sails.js-backend-example-project"
+  }, {
+    "name": "Vue.js & Pyramid web framework app",
+    "url": "https://github.com/eddyekofo94/pyramidVue.git"
+  }, {
+    "name": "vue-feathers-chat",
+    "url": "https://github.com/ErickPetru/vue-feathers-chat"
+  }, {
+    "name": "vue-xplan",
+    "url": "https://github.com/JackGit/xplan/"
+  }, {
+    "name": "vueSocketChatRoom",
+    "url": "https://github.com/Chanran/vueSocketChatroom"
+  }, {
+    "name": "vue-tetris (Use Vue, Vuex, Immutable to code Tetris)",
+    "url": "http://binaryify.github.io/vue-tetris/"
+  }, {
+    "name": "route-planner-vue",
+    "url": "https://kasheftin.github.io/route-planner-vue/"
+  }, {
+    "name": "MyDiary-Vue",
+    "url": "https://github.com/ssshooter/MyDiary-Vue/blob/master/README.En.md"
+  }, {
+    "name": "VueJS Example Projects",
+    "url": "https://github.com/vue-project"
+  }, {
+    "name": "todo-mvc-webpack",
+    "url": "https://github.com/voluntadpear/todomvc-vue-webpack"
+  }, {
+    "name": "Chess Storybook Example",
+    "url": "https://github.com/gustaYo/vue-chess-storybook"
+  }, {
+    "name": "Vue Weather Notifier",
+    "url": "https://github.com/sdras/vue-weather-notifier"
+  }, {
+    "name": "Nuxt Type",
+    "url": "https://github.com/sdras/nuxt-type"
+  }, {
+    "name": "VueBlog",
+    "url": "https://github.com/wmui/vueblog"
+  }, {
+    "name": "Cinemateka",
+    "url": "https://github.com/Piterden/cinemateka"
+  }, {
+    "name": "vue-2.x-boilerplate",
+    "url": "https://github.com/the6thm0nth/vue-2.x-boilerplate"
+  }, {
+    "description": "A deadly simple minesweeper game with vuejs by rhapsodyn",
+    "name": "vue-minesweeper",
+    "url": "https://github.com/rhapsodyn/vue-minesweeper"
+  }, {
+    "description": "A flowchart editor with SVG and Vue by OXOYO",
+    "name": "X-Flowchart-Vue",
+    "url": "https://github.com/OXOYO/X-Flowchart-Vue"
+  }, {
+    "name": "koa-vue-notes-web",
+    "url": "https://github.com/johndatserakis/koa-vue-notes-web"
+  }, {
+    "name": "Vuejs Shopping Cart",
+    "url": "https://github.com/ittus/vuejs-firebase-shopping-cart"
+  }, {
+    "name": "PokedexVueJs",
+    "url": "https://github.com/rchung95/PokedexVueJs"
+  }, {
+    "name": "vuefire-auth",
+    "url": "https://github.com/aofdev/vuefire-auth"
+  }, {
+    "name": "vuefire-realtimedatabase",
+    "url": "https://github.com/aofdev/vuefire-realtimedatabase"
+  }, {
+    "name": "vuefire-storage",
+    "url": "https://github.com/aofdev/vuefire-storage"
+  }, {
+    "name": "Vue2-PWA-Blog",
+    "url": "https://github.com/deepak-singh/vue-blog-pwa"
+  }, {
+    "name": "vue-firebase-auth-vuex",
+    "url": "https://github.com/aofdev/vue-firebase-auth-vuex"
+  }, {
+    "name": "vue-chart-stater-kit",
+    "url": "https://github.com/joshua1988/vue-chart-starter-kit"
+  }, {
+    "name": "vue2.0-demos",
+    "url": "https://github.com/qianyinghuanmie/vue2.0-demos"
+  }, {
+    "name": "conway",
+    "url": "https://github.com/edge/conway"
+  }, {
+    "name": "vuex-feature-scoped-structure",
+    "url": "https://github.com/igeligel/vuex-feature-scoped-structure"
+  }, {
+    "name": "vuex-examples",
+    "url": "https://github.com/ooade/vuex-examples"
+  }, {
+    "description": "Example TodoMVC Vue.js app with Vuex store and server backend via REST and full set of E2E tests using Cypress.io",
+    "name": "vue-vuex-todomvc",
+    "url": "https://github.com/bahmutov/vue-vuex-todomvc"
+  }, {
+    "name": "vuejs-sqljs-boilerplate",
+    "url": "https://github.com/skysign/public/tree/master/vue.js/boilerplate/vuejs-sqljs-boilerplate"
+  } ]
+}, {
+  "category": "Books",
+  "items": [ {
+    "name": "The Majesty Of Vue.js",
+    "url": "https://www.packtpub.com/web-development/majesty-vuejs"
+  }, {
+    "name": "Learning Vue.js 2",
+    "url": "https://www.packtpub.com/web-development/learning-vuejs-2"
+  }, {
+    "name": "The Majesty Of Vue.js 2",
+    "url": "https://leanpub.com/vuejs2"
+  }, {
+    "name": "Vue.js 2 Cookbook",
+    "url": "https://www.packtpub.com/web-development/vuejs-2-cookbook"
+  }, {
+    "name": "Vue.js in Action",
+    "url": "https://www.manning.com/books/vue-js-in-action"
+  }, {
+    "name": "Testing Vue.js Applications",
+    "url": "https://www.manning.com/books/testing-vuejs-applications"
+  }, {
+    "name": "Vue.js 2 and Bootstrap 4 Web Development",
+    "url": "https://www.packtpub.com/web-development/vuejs-2-and-bootstrap-4-web-development"
+  }, {
+    "name": "Front-end com Vue.js",
+    "url": "https://www.casadocodigo.com.br/products/livro-frontend-vue"
+  } ]
+}, {
+  "category": "Open Source",
+  "items": [ {
+    "name": "PageKit",
+    "url": "https://github.com/pagekit/pagekit"
+  }, {
+    "name": "npmcharts.com",
+    "url": "https://github.com/cheapsteak/npmcharts.com"
+  }, {
+    "name": "Koel",
+    "url": "https://github.com/phanan/koel"
+  }, {
+    "name": "RSS Reader",
+    "url": "https://github.com/mrgodhani/rss-reader"
+  }, {
+    "name": "Gokotta",
+    "url": "https://github.com/Zhangdroid/Gokotta"
+  }, {
+    "name": "CoPilot",
+    "url": "https://github.com/misterGF/CoPilot"
+  }, {
+    "name": "Retrospectify",
+    "url": "https://github.com/pepf/retrospectify"
+  }, {
+    "name": "jade-press",
+    "url": "https://github.com/jade-press/jade-press"
+  }, {
+    "name": "astralapp",
+    "url": "https://github.com/astralapp/astral"
+  }, {
+    "name": "EME",
+    "url": "https://github.com/egoist/eme"
+  }, {
+    "name": "Github-explorer",
+    "url": "https://github.com/SidKwok/github-explorer"
+  }, {
+    "name": "Hotel",
+    "url": "https://github.com/typicode/hotel"
+  }, {
+    "name": "Surfbird",
+    "url": "https://github.com/surfbirdapp/surfbird"
+  }, {
+    "name": "Approach0",
+    "url": "https://github.com/approach0/search-engine"
+  }, {
+    "name": "Flox",
+    "url": "https://github.com/devfake/flox"
+  }, {
+    "name": "JavaScript Guessing Game",
+    "url": "https://github.com/samiheikki/javascript-guessing-game"
+  }, {
+    "name": "vue-ghpages-blog",
+    "url": "https://github.com/viko16/vue-ghpages-blog"
+  }, {
+    "name": "Vuedo",
+    "url": "https://github.com/Vuedo/vuedo"
+  }, {
+    "name": "vue-music163",
+    "url": "https://github.com/pluto1114/vue-music163"
+  }, {
+    "name": "Tomato5",
+    "url": "https://github.com/zhangxin840/tomato5"
+  }, {
+    "name": "Web Learn",
+    "url": "https://github.com/freearhey/web-learn"
+  }, {
+    "name": "ExcelJSON",
+    "url": "https://github.com/palerdot/exceljson"
+  }, {
+    "name": "Materialize-blog",
+    "url": "https://github.com/forehalo/materialize-blog"
+  }, {
+    "name": "VueCompomnentGenerator",
+    "url": "https://github.com/ChangJoo-Park/vue-component-generator"
+  }, {
+    "name": "SDR News",
+    "url": "https://github.com/super-dev/SDR-News"
+  }, {
+    "name": "PJ Blog",
+    "url": "https://github.com/jcc/blog"
+  }, {
+    "name": "Lulumi-browser",
+    "url": "https://github.com/qazbnm456/lulumi-browser"
+  }, {
+    "name": "vue-wordpress-pwa",
+    "url": "https://github.com/bstavroulakis/vue-wordpress-pwa"
+  }, {
+    "name": "OpenAPI 3 viewer",
+    "url": "https://github.com/koumoul-dev/openapi-viewer"
+  }, {
+    "name": "Stacer",
+    "url": "https://github.com/oguzhaninan/Stacer"
+  }, {
+    "name": "Distrochooser.de",
+    "url": "https://github.com/cmllr/distrochooser"
+  }, {
+    "name": "Buka",
+    "url": "https://github.com/oguzhaninan/Buka"
+  }, {
+    "name": "Docute",
+    "url": "https://github.com/egoist/docute"
+  }, {
+    "name": "pm86",
+    "url": "https://github.com/ericjjj/pm86"
+  }, {
+    "name": "vms",
+    "url": "https://github.com/ericjjj/vms"
+  }, {
+    "name": "nativescript-vue",
+    "url": "https://github.com/rigor789/nativescript-vue"
+  }, {
+    "name": "piper",
+    "url": "https://github.com/fireyy/piper"
+  }, {
+    "name": "mmf-blog-vue2",
+    "url": "https://github.com/lincenying/mmf-blog-vue2"
+  }, {
+    "name": "Media Manager",
+    "url": "https://github.com/iutbay/mm"
+  }, {
+    "name": "dyu/bookmarks",
+    "url": "https://github.com/dyu/bookmarks"
+  }, {
+    "name": "JSON Schema Editor",
+    "url": "https://github.com/tangram-js/json-schema-editor"
+  }, {
+    "name": "npm-stats",
+    "url": "https://github.com/apertureless/npm-stats"
+  }, {
+    "name": "vue2-admin-lte",
+    "url": "https://github.com/devjin0617/vue2-admin-lte"
+  }, {
+    "name": "Dockeron",
+    "url": "https://github.com/dockeron/dockeron"
+  }, {
+    "name": "Flamme",
+    "url": "https://github.com/alicin/flamme"
+  }, {
+    "name": "Goldfish",
+    "url": "https://github.com/Caiyeon/goldfish"
+  }, {
+    "description": "An Admin dashboard based on Vuetify",
+    "name": "Adminify",
+    "url": "https://github.com/wxs77577/adminify"
+  }, {
+    "name": "promptie",
+    "url": "https://github.com/alicin/promptie"
+  }, {
+    "name": "Hare",
+    "url": "https://github.com/clarkdo/hare"
+  }, {
+    "name": "Paper-Dashboard",
+    "url": "https://github.com/cristijora/vue-paper-dashboard"
+  }, {
+    "name": "AdminLTE-VueJS2",
+    "url": "https://github.com/otezz/AdminLTE-VueJS2"
+  }, {
+    "name": "Material Dashboard",
+    "url": "https://github.com/lucduong/vue-material-dashboard"
+  }, {
+    "name": "Explore-Github",
+    "url": "https://github.com/mazipan/explore-github"
+  }, {
+    "name": "CoreUI",
+    "url": "https://github.com/mrholek/CoreUI-Free-Bootstrap-Admin-Template"
+  }, {
+    "name": "ChuckNorris",
+    "url": "https://github.com/mazipan/chucknorris"
+  }, {
+    "name": "LeafPlayer",
+    "url": "https://github.com/paulschwoerer/leafplayer"
+  }, {
+    "name": "JSON Editor",
+    "url": "https://github.com/tangram-js/json-editor"
+  }, {
+    "name": "Voten",
+    "url": "https://github.com/voten-co/voten"
+  }, {
+    "name": "News Weaver",
+    "url": "https://github.com/Rud156/News-Weaver"
+  }, {
+    "name": "Wake Up Billie Joe!",
+    "url": "https://wakeupbilliejoe.com"
+  }, {
+    "name": "Astrum",
+    "url": "https://github.com/NoDivide/astrum"
+  }, {
+    "name": "vue2-pwa-vision",
+    "url": "https://github.com/aofdev/vue-pwa-vision"
+  }, {
+    "name": "vue2-pwa-rekognition",
+    "url": "https://github.com/aofdev/vue-pwa-rekognition"
+  }, {
+    "name": "AmmoBin.ca",
+    "url": "https://github.com/ammobinDOTca/ammobin-client"
+  }, {
+    "name": "SPA-asp.net-api-vuejs-",
+    "url": "https://github.com/mubaidr/SPA-asp.net-api-vuejs-"
+  }, {
+    "name": "Book-Trading-Club",
+    "url": "https://github.com/mubaidr/Book-Trading-Club"
+  }, {
+    "name": "vuejs-extension-pack vscode",
+    "url": "https://github.com/mubaidr/vuejs-extension-pack"
+  }, {
+    "name": "Wiki.js",
+    "url": "https://github.com/Requarks/wiki"
+  }, {
+    "name": "vue-pwa-speech",
+    "url": "https://github.com/aofdev/vue-pwa-speech"
+  }, {
+    "name": "vue-speech-streaming",
+    "url": "https://github.com/aofdev/vue-speech-streaming"
+  }, {
+    "name": "My Animation List",
+    "url": "https://github.com/limichange/my-animation-list"
+  }, {
+    "name": "vue-input-streaming",
+    "url": "https://github.com/aofdev/vue-input-streaming"
+  }, {
+    "name": "TidyTab",
+    "url": "https://github.com/eggplanetio/tidytab"
+  }, {
+    "name": "peregrine-cms",
+    "url": "https://github.com/headwirecom/peregrine-cms"
+  }, {
+    "name": "concept-to-clinic",
+    "url": "https://github.com/concept-to-clinic/concept-to-clinic"
+  }, {
+    "name": "grid-awesome",
+    "url": "https://github.com/louisbourque/grid-awesome"
+  }, {
+    "name": "Light Bootstrap Dashboard",
+    "url": "https://github.com/cristijora/vue-light-bootstrap-dashboard"
+  }, {
+    "name": "Hubaga",
+    "url": "https://github.com/picocodes/hubaga"
+  }, {
+    "name": "vue-webpack-buefy",
+    "url": "https://github.com/ndro/vue-webpack-buefy"
+  }, {
+    "name": "Coypu",
+    "url": "https://github.com/bkzl/coypu"
+  }, {
+    "name": "core-server",
+    "url": "https://github.com/skyhark-projects/core-server"
+  }, {
+    "description": "A Vue.js animated discord logo generator based on SVGs. (Github Page",
+    "name": "discord-logo",
+    "url": "https://github.com/NNTin/discord-logo"
+  }, {
+    "name": "node-vue-template",
+    "url": "https://github.com/mubaidr/node-vue-template"
+  } ]
+}, {
+  "category": "Commercial Products",
+  "items": [ {
+    "name": "Wijmo",
+    "url": "http://wijmo.com/products/wijmo-5/"
+  }, {
+    "name": "Collate Notes",
+    "url": "http://www.collatenotes.com/"
+  }, {
+    "name": "Formester",
+    "url": "https://www.formester.com/"
+  }, {
+    "name": "ChatWoot",
+    "url": "https://www.chatwoot.com/"
+  }, {
+    "name": "VueA",
+    "url": "https://themeforest.net/item/vuejs-laravel-admin-template/20119122?ref=jyostna&utm_source=awesomevue"
+  }, {
+    "name": "Teleo",
+    "url": "https://www.teleo.co/?utm_source=AwesomeVue"
+  } ]
+}, {
+  "category": "Apps/Websites",
+  "items": [ {
+    "name": "Laravel Spark",
+    "url": "https://spark.laravel.com/"
+  }, {
+    "name": "Vice Video",
+    "url": "https://video.vice.com/"
+  }, {
+    "name": "Formlets",
+    "url": "https://www.formlets.com"
+  }, {
+    "name": "Laracasts",
+    "url": "https://laracasts.com"
+  }, {
+    "name": "esa.io",
+    "url": "https://esa.io/"
+  }, {
+    "name": "稀土掘金",
+    "url": "http://gold.xitu.io"
+  }, {
+    "name": "Prague Airport",
+    "url": "http://www.prague-airport.com/"
+  }, {
+    "name": "Portfolio Site",
+    "url": "http://corentinbac.com/"
+  }, {
+    "name": "Grammarly",
+    "url": "https://grammarly.com/"
+  }, {
+    "name": "Laravist",
+    "url": "https://laravist.com/"
+  }, {
+    "name": "Atiiv",
+    "url": "https://atiiv.com"
+  }, {
+    "name": "Statamic",
+    "url": "https://statamic.com"
+  }, {
+    "name": "Embalses!",
+    "url": "http://embalses.azurewebsites.net/"
+  }, {
+    "name": "TravelMap",
+    "url": "http://clem.travelmap.fr"
+  }, {
+    "name": "Proper Cloth Shirt Builder",
+    "url": "https://propercloth.com/design-a-shirt"
+  }, {
+    "name": "CheckIt",
+    "url": "https://check-it.io"
+  }, {
+    "name": "Reddit News",
+    "url": "https://github.com/Mati365/reddit-news"
+  }, {
+    "name": "Powerpuff Yourself by Cartoon Networks",
+    "url": "https://www.powerpuffyourself.com/"
+  }, {
+    "name": "小桃酱",
+    "url": "https://app.xiaotaojiang.com/"
+  }, {
+    "name": "cloudradioo",
+    "url": "http://cloudradioo.com"
+  }, {
+    "name": "vNotes",
+    "url": "https://halfeld.github.io/v-notes/#!/"
+  }, {
+    "name": "Open Function Computers",
+    "url": "http://www.openfunctioncomputers.com/#!/home"
+  }, {
+    "name": "Dermail",
+    "url": "https://github.com/zllovesuki/dermail-webmail"
+  }, {
+    "name": "octimine",
+    "url": "https://www.octimine.com/"
+  }, {
+    "name": "Draxed",
+    "url": "https://www.draxed.com/"
+  }, {
+    "name": "Leapspotleap",
+    "url": "http://www.leapspotleap.com"
+  }, {
+    "name": "X-SONGTAO",
+    "url": "http://xiangsongtao.com"
+  }, {
+    "name": "Jobinja",
+    "url": "https://jobinja.ir"
+  }, {
+    "name": "滚蛋吧！莆田系",
+    "url": "https://putianxi.github.io/"
+  }, {
+    "name": "Jobi : Recruiting Platform ",
+    "url": "https://www.jobi.tn/"
+  }, {
+    "name": "The Spice House",
+    "url": "https://www.thespicehouse.com"
+  }, {
+    "name": "Livestorm",
+    "url": "http://livestorm.co"
+  }, {
+    "name": "Metric Loop",
+    "url": "https://metricloop.com"
+  }, {
+    "name": "Holden",
+    "url": "https://www.holden.com.au"
+  }, {
+    "name": "Global-Exam",
+    "url": "https://global-exam.com"
+  }, {
+    "name": "SlugSurvival",
+    "url": "https://github.com/zllovesuki/slugsurvival"
+  }, {
+    "name": "FreePoll.Online",
+    "url": "https://www.freepoll.online"
+  }, {
+    "name": "GitRelease",
+    "url": "https://github.com/ChangJoo-Park/gitrelease-app"
+  }, {
+    "name": "12BAY.VN",
+    "url": "https://12bay.vn"
+  }, {
+    "name": "PLAYCODE.IO",
+    "url": "https://playcode.io"
+  }, {
+    "name": "The Void Radio",
+    "url": "http://thevoidrad.io"
+  }, {
+    "name": "Bitly Vue",
+    "url": "https://alpixel.github.io/bitly-vuejs"
+  }, {
+    "name": "Storyblok",
+    "url": "https://www.storyblok.com"
+  }, {
+    "name": "WizzAir",
+    "url": "https://wizzair.com/"
+  }, {
+    "name": "Moving to HTTPS",
+    "url": "https://movingtohttps.com/"
+  }, {
+    "name": "Booknshelf",
+    "url": "https://booknshelf.com/"
+  }, {
+    "name": "Top HN",
+    "url": "https://tophn.info/"
+  }, {
+    "name": "Euronews",
+    "url": "http://www.euronews.com"
+  }, {
+    "name": "Roozame روزامه",
+    "url": "http://www.roozame.com"
+  }, {
+    "name": "Koumoul",
+    "url": "https://koumoul.com"
+  }, {
+    "name": "NinjaCalc",
+    "url": "http://ninja-calc.mbedded.ninja"
+  }, {
+    "description": "The latest Vue.js news, tutorials, plugins, and more. Made with Vue.js and Laravel, based on **Vuedo",
+    "name": "Vue.js Feed",
+    "url": "https://vuejsfeed.com/"
+  }, {
+    "name": "蒜瓣",
+    "url": "https://github.com/JasonBai007/suanban"
+  }, {
+    "description": "A 'guess the word' game",
+    "name": "Guess Right",
+    "url": "https://kdcinfo.com/guessright/"
+  }, {
+    "name": "GRAP",
+    "url": "https://grap.io"
+  }, {
+    "name": "Easy Mock",
+    "url": "https://easy-mock.com"
+  }, {
+    "name": "mmf-blog-vue2-ssr",
+    "url": "https://github.com/lincenying/mmf-blog-vue2-ssr"
+  }, {
+    "name": "JSON Schema Editor",
+    "url": "https://json-schema-editor.tangramjs.com"
+  }, {
+    "name": "Winsome Trivia",
+    "url": "https://splode.github.io/trivia/"
+  }, {
+    "name": "Moon Organizer",
+    "url": "https://moonorganizer.com/calendar/"
+  }, {
+    "name": "Flash-Vue",
+    "url": "https://flash-vue.com"
+  }, {
+    "name": "Kinderbesteck",
+    "url": "https://www.kinderbesteck-gravur.de/"
+  }, {
+    "name": "n2ex",
+    "url": "https://github.com/OrangeXC/n2ex"
+  }, {
+    "name": "Power Thesaurus",
+    "url": "https://www2.powerthesaurus.org"
+  }, {
+    "name": "Chattanosy",
+    "url": "https://chattanosy.com"
+  }, {
+    "name": "PAIXIN",
+    "url": "http://www.paixin.com/"
+  }, {
+    "name": "CodeBottle",
+    "url": "https://codebottle.io/"
+  }, {
+    "name": "1XBET",
+    "url": "https://1xbet.com"
+  }, {
+    "name": "MyOwnTV",
+    "url": "http://myowntv.org"
+  }, {
+    "name": "CrowdCircus",
+    "url": "https://crowdcircus.com"
+  }, {
+    "name": "Talk to Someone",
+    "url": "https://talktosomeone.net"
+  }, {
+    "name": "轮子工厂",
+    "url": "http://www.wheelsfactory.cn"
+  }, {
+    "name": "ابیات ناب پارسی",
+    "url": "http://naaab.ir"
+  }, {
+    "name": "Ripplectron",
+    "url": "https://github.com/devjin0617/ripplectron"
+  }, {
+    "name": "PingBreak",
+    "url": "https://pingbreak.com"
+  }, {
+    "name": "Todoist Tribute",
+    "url": "https://github.com/rohitpaulk/todoist-tribute/"
+  }, {
+    "name": "JSON Editor",
+    "url": "https://json-editor.tangramjs.com"
+  }, {
+    "name": "Develteam",
+    "url": "https://www.develteam.com"
+  }, {
+    "name": "Mixsii",
+    "url": "https://www.mixsii.com"
+  }, {
+    "name": "PipQuest",
+    "url": "http://pipquest.gregorterrill.com"
+  }, {
+    "name": "Matryx",
+    "url": "https://matryx.ai/"
+  }, {
+    "description": "YouTube™ Player",
+    "name": "iPrevYou",
+    "url": "https://chrome.google.com/webstore/detail/iprevyou-youtube-player/blijlgfnjhnhmnaldaiienmjggbjhbaa"
+  }, {
+    "name": "Item Manager",
+    "url": "https://itemmanager.uk"
+  }, {
+    "name": "Frontend Masters Intro to Vue",
+    "url": "https://frontendmasters.com/courses/vue/"
+  }, {
+    "name": "TR-101",
+    "url": "https://inverted3.gitlab.io/drum-machine/"
+  }, {
+    "name": "Boardbang",
+    "url": "https://boardbang.com"
+  }, {
+    "name": "WynnStats",
+    "url": "https://maple3142.github.io/wynn/"
+  }, {
+    "name": "Save Coins",
+    "url": "https://savecoins.me"
+  }, {
+    "name": "Vectr",
+    "url": "https://vectr.com/new"
+  }, {
+    "name": "brain bits",
+    "url": "https://github.com/dashersw/brain-bits"
+  }, {
+    "name": "Coin Dashboard",
+    "url": "https://www.coin-dashboard.com"
+  }, {
+    "name": "Habitica",
+    "url": "https://habitica.com/"
+  }, {
+    "name": "MadeWithVueJs",
+    "url": "https://madewithvuejs.com/"
+  }, {
+    "name": "CodeDependencyScanner",
+    "url": "https://github.com/NeutroniumCore/CodeDependencyScanner/"
+  }, {
+    "name": "Thousand Ether Homepage",
+    "url": "https://thousandetherhomepage.com"
+  }, {
+    "name": "Let's Enchance",
+    "url": "https://letsenhance.io/"
+  }, {
+    "description": "Online Invoicing and Accounting",
+    "name": "Pi.TEAM",
+    "url": "https://pi.team"
+  }, {
+    "name": "Vuethwallet",
+    "url": "https://github.com/sc0vu/vuethwallet"
+  }, {
+    "name": "Tipe",
+    "url": "https://tipe.io"
+  }, {
+    "name": "Vuethexplore",
+    "url": "https://github.com/sc0Vu/vuethexplore"
+  }, {
+    "name": "Fintechers",
+    "url": "https://www.fintechers.io"
+  } ]
+}, {
+  "category": "Interactive Experiences",
+  "items": [ {
+    "name": "Jean-Pierre Morin | 1700 LAPOSTE",
+    "url": "http://1700laposte.com/jean-pierre-morin/"
+  }, {
+    "name": "Facebook NewsFeed",
+    "url": "https://newsfeed.fb.com/"
+  }, {
+    "name": "YouTube AdBlitz 2016",
+    "url": "https://adblitz.withyoutube.com/#!/advertisers"
+  }, {
+    "name": "Omnisense Experience",
+    "url": "http://omnisense.net"
+  }, {
+    "name": "Louis Ansa Website (portfolio)",
+    "url": "http://louisansa.com"
+  }, {
+    "name": "Djeco.com",
+    "url": "http://www.djeco.com/en"
+  }, {
+    "name": "Tolks.io",
+    "url": "https://tolks.io"
+  }, {
+    "name": "Meet Graham",
+    "url": "http://www.meetgraham.com.au"
+  }, {
+    "name": "NOIZE original",
+    "url": "http://noizeoriginal.com"
+  }, {
+    "name": "TR-101 Synth Drum Machine",
+    "url": "https://inverted3.gitlab.io/drum-machine"
+  } ]
+}, {
+  "category": "Enterprise Usage",
+  "items": [ {
+    "name": "Sainsbury's",
+    "url": "https://sainsburys.jobs/"
+  }, {
+    "name": "AREX",
+    "url": "https://arex.io/"
+  }, {
+    "name": "GitLab",
+    "url": "https://about.gitlab.com/2016/10/20/why-we-chose-vue/"
+  }, {
+    "name": "Clemenger BBDO Melbourne",
+    "url": "http://clemengerbbdo.com.au"
+  }, {
+    "name": "ZenMate",
+    "url": "https://zenmate.com"
+  }, {
+    "name": "Codeship",
+    "url": "https://blog.codeship.com/consider-vuejs-next-web-project/"
+  }, {
+    "name": "Storyblok",
+    "url": "https://app.storyblok.com"
+  }, {
+    "name": "Monito",
+    "url": "https://www.monito.com"
+  }, {
+    "name": "Hypefactors",
+    "url": "https://hypefactors.com"
+  } ]
+}, {
+  "category": "Table",
+  "items": [ {
+    "name": "vuetable-2",
+    "url": "https://github.com/ratiw/vuetable-2"
+  }, {
+    "name": "vue-tables-2",
+    "url": "https://github.com/matfish2/vue-tables-2"
+  }, {
+    "name": "vue-datasource",
+    "url": "https://github.com/coderdiaz/vue-datasource"
+  }, {
+    "name": "ag-grid-vue",
+    "url": "https://github.com/ceolter/ag-grid-vue"
+  }, {
+    "name": "vue-data-tables",
+    "url": "https://github.com/njleonzhang/vue-data-tables"
+  }, {
+    "name": "vue-floatThead",
+    "url": "https://github.com/tmlee/vue-floatThead"
+  }, {
+    "name": "vuetiful-datatable",
+    "url": "https://github.com/andrewcourtice/vuetiful/tree/master/src/components/datatable"
+  }, {
+    "name": "vue-materialize-datatable",
+    "url": "https://github.com/MicroDroid/vue-materialize-datatable"
+  }, {
+    "name": "vue-good-table",
+    "url": "https://github.com/xaksis/vue-good-table"
+  }, {
+    "name": "vue-grid",
+    "url": "https://github.com/dzwillia/vue-grid"
+  }, {
+    "name": "vue-easytable",
+    "url": "https://github.com/huangshuwei/vue-easytable"
+  }, {
+    "name": "vue2-datatable-component",
+    "url": "https://github.com/OneWayTech/vue2-datatable"
+  }, {
+    "name": "vue-js-grid",
+    "url": "https://github.com/euvl/vue-js-grid"
+  }, {
+    "name": "vue-handsontable-official",
+    "url": "https://github.com/handsontable/vue-handsontable-official"
+  }, {
+    "name": "vue-grid",
+    "url": "https://github.com/liqueflies/vue-grid"
+  } ]
+}, {
+  "category": "Notification",
+  "items": [ {
+    "name": "vue-notifications",
+    "url": "https://github.com/se-panfilov/vue-notifications"
+  }, {
+    "name": "vue-easy-toast",
+    "url": "https://github.com/noru/vue-easy-toast"
+  }, {
+    "name": "vue-toasted",
+    "url": "https://github.com/shakee93/vue-toasted"
+  }, {
+    "name": "vue-notifikation",
+    "url": "https://github.com/happyCoda/vue-notifikation"
+  }, {
+    "name": "vue-notification",
+    "url": "https://github.com/euvl/vue-notification"
+  }, {
+    "name": "vs-notify",
+    "url": "https://github.com/NxtChg/pieces/tree/master/js/vue/vs-notify"
+  }, {
+    "name": "vue2-notify",
+    "url": "https://github.com/websmurf/vue2-notify"
+  }, {
+    "name": "vue-notifyjs",
+    "url": "https://github.com/cristijora/vue-notifyjs"
+  }, {
+    "name": "vueup",
+    "url": "https://github.com/chryb/vueup"
+  }, {
+    "name": "vuex-flash",
+    "url": "https://github.com/ahmed-dinar/vuex-flash"
+  }, {
+    "name": "vue-snotify",
+    "url": "https://github.com/artemsky/vue-snotify"
+  }, {
+    "name": "vue-notify-me",
+    "url": "https://github.com/PygmySlowLoris/vue-notify-me"
+  }, {
+    "name": "vue-noty",
+    "url": "https://github.com/renoguyon/vuejs-noty"
+  }, {
+    "name": "vue-notice",
+    "url": "https://github.com/nikitamarcius/vue-notice"
+  } ]
+}, {
+  "category": "Loader",
+  "items": [ {
+    "name": "vue-radial-progress",
+    "url": "https://github.com/wyzant-dev/vue-radial-progress"
+  }, {
+    "name": "vue-simple-spinner",
+    "url": "https://github.com/dzwillia/vue-simple-spinner"
+  }, {
+    "name": "vuex-loading",
+    "url": "https://github.com/f/vuex-loading"
+  }, {
+    "name": "vue-spinner-component",
+    "url": "https://sergeyloysha.github.io/vue-spinner-component/"
+  }, {
+    "name": "vue-progress-path",
+    "url": "https://github.com/Akryum/vue-progress-path"
+  }, {
+    "name": "vue-blockui",
+    "url": "https://github.com/realdah/vue-blockui"
+  } ]
+}, {
+  "category": "Progress Bar",
+  "items": [ {
+    "name": "vue-progressbar",
+    "url": "https://github.com/hilongjw/vue-progressbar"
+  }, {
+    "name": "vue2-loading-bar",
+    "url": "https://github.com/BosNaufal/vue2-loading-bar"
+  }, {
+    "name": "vue-top-progress",
+    "url": "https://github.com/dalphyx/vue-top-progress"
+  }, {
+    "name": "vue-nprogress",
+    "url": "https://github.com/vue-bulma/nprogress"
+  }, {
+    "name": "vue-progress-button",
+    "url": "https://github.com/websmurf/vue-progress-button"
+  }, {
+    "name": "vue-simple-progress",
+    "url": "https://github.com/dzwillia/vue-simple-progress"
+  } ]
+}, {
+  "category": "Tooltip",
+  "items": [ {
+    "name": "v-tooltip",
+    "url": "https://github.com/Akryum/vue-tooltip"
+  }, {
+    "name": "vue-popper-component",
+    "url": "https://github.com/antongorodezkiy/vue-popper-component"
+  }, {
+    "description": "Simple, flexible tooltip directive based on Popper.js",
+    "name": "vue-directive-tooltip",
+    "url": "https://github.com/hekigan/vue-directive-tooltip"
+  }, {
+    "description": "VueJS 2.x popover component based popper.js",
+    "name": "vue-popperjs",
+    "url": "https://github.com/RobinCK/vue-popper"
+  }, {
+    "description": "VueJS 2.x tooltip component based tooltipster.js",
+    "name": "vue-tooltipster",
+    "url": "https://github.com/cpfarher/vue-tooltipster"
+  } ]
+}, {
+  "category": "Overlay",
+  "items": [ {
+    "name": "vuedals",
+    "url": "https://github.com/javisperez/vuedals"
+  }, {
+    "name": "sweet-modal-vue",
+    "url": "https://github.com/adeptoas/sweet-modal-vue"
+  }, {
+    "name": "vue-js-modal",
+    "url": "https://github.com/euvl/vue-js-modal"
+  }, {
+    "name": "vudal",
+    "url": "https://github.com/Egorvah/vudal"
+  }, {
+    "name": "vodal",
+    "url": "https://github.com/chenjiahan/vodal"
+  }, {
+    "name": "vue-image-lightbox",
+    "url": "https://github.com/pexea12/vue-image-lightbox"
+  }, {
+    "name": "vue2-simplert",
+    "url": "https://github.com/mazipan/vue2-simplert"
+  }, {
+    "name": "Vue-Semantic-Modal",
+    "url": "https://github.com/David-Desmaisons/Vue-Semantic-Modal"
+  }, {
+    "name": "v-img",
+    "url": "https://github.com/crowdbotics/v-img"
+  }, {
+    "name": "vue-dialog-drag",
+    "url": "https://github.com/emiliorizzo/vue-dialog-drag"
+  }, {
+    "name": "vue-ya-semantic-modal",
+    "url": "https://github.com/qgp9/vue-ya-semantic-modal"
+  }, {
+    "name": "vue-pure-lightbox",
+    "url": "https://github.com/DCzajkowski/vue-pure-lightbox"
+  }, {
+    "description": "Image viewer component for vue, supports rotation, scale, zoom and so on, based on viewer.js",
+    "name": "v-viewer",
+    "url": "https://github.com/mirari/v-viewer"
+  }, {
+    "name": "vue-messagebox",
+    "url": "https://github.com/zhangxiang958/vue-messageBox"
+  }, {
+    "name": "vuejs-dialog",
+    "url": "https://github.com/Godofbrowser/vuejs-dialog"
+  }, {
+    "name": "@hscmap/vue-window",
+    "url": "https://github.com/michitaro/vue-window"
+  }, {
+    "name": "vue-gallery",
+    "url": "https://github.com/RobinCK/vue-gallery"
+  }, {
+    "name": "vue-swal",
+    "url": "https://github.com/anteriovieira/vue-swal"
+  }, {
+    "name": "vue-modal-dialogs",
+    "url": "https://github.com/hjkcai/vue-modal-dialogs"
+  } ]
+}, {
+  "category": "Parallax",
+  "items": [ {
+    "name": "vue-parallax",
+    "url": "https://github.com/vue-comps/vue-parallax"
+  }, {
+    "name": "vue-parallaxy",
+    "url": "https://github.com/apertureless/vue-parallax"
+  } ]
+}, {
+  "category": "Icons",
+  "items": [ {
+    "name": "vue-awesome",
+    "url": "https://github.com/Justineo/vue-awesome"
+  }, {
+    "name": "vue-icon-font",
+    "url": "https://github.com/ganl/vue-icon-font"
+  }, {
+    "name": "vue-ionicons",
+    "url": "https://github.com/mazipan/vue-ionicons"
+  }, {
+    "name": "vue-ico",
+    "url": "https://github.com/paulcollett/vue-ico"
+  }, {
+    "name": "mdi-vue",
+    "url": "https://github.com/therufa/mdi-vue"
+  } ]
+}, {
+  "category": "Menu",
+  "items": [ {
+    "name": "vue-side-nav",
+    "url": "https://github.com/vue-comps/vue-side-nav"
+  }, {
+    "name": "vue-accordion",
+    "url": "https://github.com/zeratulmdq/vue-accordion"
+  }, {
+    "name": "vue-js-dropdown",
+    "url": "https://github.com/euvl/vue-js-dropdown"
+  }, {
+    "description": "Vue implementation of the popular library slideout",
+    "name": "vue-slideout",
+    "url": "https://github.com/vouill/vue-slideout"
+  }, {
+    "name": "vue-quick-menu",
+    "url": "https://github.com/AshleyLv/vue-quick-menu"
+  }, {
+    "name": "@hscmap/vue-menu",
+    "url": "https://github.com/michitaro/vue-menu"
+  }, {
+    "name": "vue-router-nav",
+    "url": "https://github.com/classicalconditioning/vue-router-nav"
+  } ]
+}, {
+  "category": "Carousel",
+  "items": [ {
+    "name": "vue-easy-slider",
+    "url": "https://github.com/shhdgit/vue-easy-slider"
+  }, {
+    "name": "vue-l-carousel",
+    "url": "https://github.com/lsycxyj/vue-l-carousel"
+  }, {
+    "name": "vue-awesome-swiper",
+    "url": "https://github.com/surmon-china/vue-awesome-swiper"
+  }, {
+    "name": "vue-lory",
+    "url": "https://github.com/vue-bulma/lory"
+  }, {
+    "name": "vue-slick",
+    "url": "https://github.com/staskjs/vue-slick"
+  }, {
+    "name": "vue-flickity",
+    "url": "https://github.com/drewjbartlett/vue-flickity"
+  }, {
+    "name": "vue-carousel-3d",
+    "url": "https://github.com/wlada/vue-carousel-3d"
+  }, {
+    "name": "vue-carousel",
+    "url": "https://github.com/SSENSE/vue-carousel"
+  }, {
+    "name": "vue-coverflow",
+    "url": "https://github.com/OrangeXC/vue-coverflow"
+  }, {
+    "name": "vue-agile",
+    "url": "https://github.com/lukaszflorczak/vue-agile"
+  }, {
+    "name": "vue-tiny-slider",
+    "url": "https://github.com/viktorlarsson/vue-tiny-slider"
+  }, {
+    "name": "vue2-text-swimlane",
+    "url": "https://github.com/mubaidr/vue-swimlane"
+  } ]
+}, {
+  "category": "Charts",
+  "items": [ {
+    "name": "vue-morris",
+    "url": "https://github.com/bbonnin/vue-morris"
+  }, {
+    "name": "vue-charts",
+    "url": "https://github.com/haydenbbickerton/vue-charts"
+  }, {
+    "name": "vue-chartjs",
+    "url": "https://github.com/apertureless/vue-chartjs"
+  }, {
+    "name": "hchs-vue-charts",
+    "url": "https://github.com/hchstera/vue-charts"
+  }, {
+    "name": "vue-echarts",
+    "url": "https://github.com/Justineo/vue-echarts"
+  }, {
+    "name": "vuetrend",
+    "url": "https://github.com/QingWei-Li/vue-trend"
+  }, {
+    "name": "vue-highcharts",
+    "url": "https://github.com/weizhenye/vue-highcharts"
+  }, {
+    "name": "vue-echarts-v3",
+    "url": "https://github.com/xlsdg/vue-echarts-v3"
+  }, {
+    "name": "vue-chartist",
+    "url": "https://github.com/lakb248/vue-chartist"
+  }, {
+    "name": "g2-vue",
+    "url": "https://github.com/fireyy/g2-vue"
+  }, {
+    "name": "vuebars",
+    "url": "https://github.com/DeviaVir/vue-bar"
+  }, {
+    "name": "vue-d3-network",
+    "url": "https://github.com/emiliorizzo/vue-d3-network"
+  }, {
+    "description": "Vue2 wrapper for Visjs",
+    "name": "vue2vis",
+    "url": "https://github.com/alexcode/vue2vis"
+  }, {
+    "name": "vue-c3",
+    "url": "https://github.com/chryb/vue-c3"
+  }, {
+    "name": "vue-d2b",
+    "url": "https://github.com/d2bjs/vue-d2b"
+  } ]
+}, {
+  "category": "Time",
+  "items": [ {
+    "name": "vue-timeago",
+    "url": "https://github.com/egoist/vue-timeago"
+  }, {
+    "name": "vue-moment-jalaali",
+    "url": "https://github.com/saman/vue-moment-jalaali"
+  }, {
+    "name": "vue-countdown-timer",
+    "url": "https://github.com/sagarkbhatt/vuejs-countdown-timer"
+  } ]
+}, {
+  "category": "Calendar",
+  "items": [ {
+    "name": "vue-fullcalendar",
+    "url": "https://github.com/Wanderxx/vue-fullcalendar"
+  }, {
+    "name": "vue-event-calendar",
+    "url": "https://github.com/GeoffZhu/vue-event-calendar"
+  }, {
+    "name": "vue-calendar-picker",
+    "url": "https://github.com/FranckFreiburger/vue-calendar-picker"
+  }, {
+    "name": "vue-lunar-calendar",
+    "url": "https://github.com/KimWooHyun/vue-lunar-calendar"
+  }, {
+    "name": "vue-simple-calendar",
+    "url": "https://github.com/richardtallent/vue-simple-calendar"
+  }, {
+    "name": "vue2-calendar",
+    "url": "https://github.com/Trekels/vue2-calendar"
+  }, {
+    "name": "vue-jlunar-datepicker",
+    "url": "https://github.com/tuhe32/vue-jLunar-datePicker"
+  }, {
+    "name": "vue-datepicker-local",
+    "url": "https://github.com/weifeiyue/vue-datepicker-local"
+  }, {
+    "description": "A complete fullcalendar.io",
+    "name": "vue-full-calendar",
+    "url": "https://github.com/CroudSupport/vue-fullcalendar"
+  } ]
+}, {
+  "category": "Map",
+  "items": [ {
+    "name": "vue2-google-maps",
+    "url": "https://github.com/xkjyeah/vue-google-maps"
+  }, {
+    "name": "vue2-leaflet",
+    "url": "https://github.com/KoRiGaN/Vue2Leaflet"
+  }, {
+    "name": "vue-mapbox-gl",
+    "url": "https://github.com/phegman/vue-mapbox-gl"
+  }, {
+    "name": "vue-yandex-maps",
+    "url": "https://github.com/PNKBizz/vue-yandex-map"
+  }, {
+    "name": "vue-baidu-map",
+    "url": "https://github.com/Dafrok/vue-baidu-map"
+  }, {
+    "name": "vue-choropleth",
+    "url": "https://github.com/voluntadpear/vue-choropleth"
+  }, {
+    "name": "vuelayers",
+    "url": "https://github.com/ghettovoice/vuelayers"
+  }, {
+    "name": "vue-googlemaps",
+    "url": "https://github.com/Akryum/vue-googlemaps"
+  }, {
+    "name": "vue-static-map",
+    "url": "https://github.com/eperedo/vue-static-map"
+  } ]
+}, {
+  "category": "Audio / Video",
+  "items": [ {
+    "name": "vue-aplayer",
+    "url": "https://github.com/SevenOutman/vue-aplayer"
+  }, {
+    "name": "vue-audio",
+    "url": "https://github.com/shershen08/vuejs-sound-player"
+  }, {
+    "name": "vue-dplayer",
+    "url": "https://github.com/sinchang/vue-dplayer"
+  }, {
+    "name": "vue-canvasvideo",
+    "url": "https://github.com/chrishurlburt/vue-canvasvideo"
+  }, {
+    "name": "vue-music",
+    "url": "https://github.com/petsgre/music"
+  } ]
+}, {
+  "category": "Infinite Scroll",
+  "items": [ {
+    "name": "vue-infinite-loading",
+    "url": "https://github.com/PeachScript/vue-infinite-loading"
+  }, {
+    "name": "vue-mugen-scroll",
+    "url": "https://github.com/egoist/vue-mugen-scroll"
+  }, {
+    "name": "vue-infinite-scroll",
+    "url": "https://github.com/ElemeFE/vue-infinite-scroll"
+  }, {
+    "name": "vue-loop",
+    "url": "https://github.com/lookstudios/vue-loop"
+  } ]
+}, {
+  "category": "Pull-to-refresh",
+  "items": [ {
+    "name": "vue-pull-refresh",
+    "url": "https://github.com/lakb248/vue-pull-refresh"
+  }, {
+    "name": "vue-pull-to",
+    "url": "https://github.com/stackjie/vue-pull-to"
+  }, {
+    "name": "vue-data-loading",
+    "url": "https://github.com/bedlate/vue-data-loading"
+  } ]
+}, {
+  "category": "Markdown",
+  "items": [ {
+    "name": "vue-markdown",
+    "url": "https://github.com/miaolz123/vue-markdown"
+  }, {
+    "name": "vue-mavonEditor",
+    "url": "https://github.com/hinesboy/mavonEditor"
+  }, {
+    "name": "vue-simple-markdown",
+    "url": "https://github.com/Vivify-Ideas/vue-simple-markdown"
+  } ]
+}, {
+  "category": "PDF",
+  "items": [ {
+    "name": "vue-pdf",
+    "url": "https://github.com/FranckFreiburger/vue-pdf"
+  } ]
+}, {
+  "category": "Tree",
+  "items": [ {
+    "description": "A Tree View based on D3.js",
+    "name": "Vue.D3.tree",
+    "url": "https://github.com/David-Desmaisons/Vue.D3.tree"
+  }, {
+    "name": "vue-json-tree-view",
+    "url": "https://github.com/arvidkahl/vue-json-tree-view"
+  }, {
+    "name": "vue-tree",
+    "url": "https://github.com/halower/vue2-tree"
+  } ]
+}, {
+  "category": "Social Sharing",
+  "items": [ {
+    "name": "vue-social-sharing",
+    "url": "https://github.com/nicolasbeauvais/vue-social-sharing"
+  }, {
+    "name": "vue-goodshare",
+    "url": "https://github.com/koddr/vue-goodshare"
+  } ]
+}, {
+  "category": "QR Code",
+  "items": [ {
+    "name": "vue-qriously",
+    "url": "https://github.com/theomessin/vue-qriously"
+  }, {
+    "name": "vue-qart",
+    "url": "https://github.com/superman66/vue-qart"
+  }, {
+    "name": "vue-qrcode-reader",
+    "url": "https://github.com/gruhn/vue-qrcode-reader"
+  } ]
+}, {
+  "category": "Search",
+  "items": [ {
+    "name": "vue-fuse",
+    "url": "https://github.com/shayneo/vue-fuse"
+  }, {
+    "description": "The ultimate toolbox for creating instant-search experiences using Algolia",
+    "name": "vue-instantsearch",
+    "url": "https://community.algolia.com/vue-instantsearch/"
+  } ]
+}, {
+  "category": "Miscellaneous",
+  "items": [ {
+    "name": "vue-avatar",
+    "url": "https://github.com/eliep/vue-avatar"
+  }, {
+    "name": "vue-touch-ripple",
+    "url": "https://github.com/surmon-china/vue-touch-ripple"
+  }, {
+    "name": "vue-typer",
+    "url": "https://github.com/cngu/vue-typer"
+  }, {
+    "name": "vue-keyboard",
+    "url": "https://github.com/MartyWallace/vue-keyboard"
+  }, {
+    "name": "vue-twentytwenty",
+    "url": "https://github.com/mhayes/vue-twentytwenty"
+  }, {
+    "name": "vue-cookie-law",
+    "url": "https://github.com/apertureless/vue-cookie-law"
+  }, {
+    "name": "vue-gravatar",
+    "url": "https://github.com/JiriChara/vue-gravatar"
+  }, {
+    "name": "vue-clipboard2",
+    "url": "https://github.com/Inndy/vue-clipboard2"
+  }, {
+    "name": "vue-flashcard",
+    "url": "https://github.com/cuduy197/vue-flashcard"
+  }, {
+    "name": "vue-truncate-collapsed",
+    "url": "https://github.com/kavalcante/vue-truncate-collapsed"
+  }, {
+    "name": "vue-kanban",
+    "url": "https://github.com/BrockReece/vue-kanban"
+  }, {
+    "name": "vue-letter-avatar",
+    "url": "https://github.com/aidewoode/vue-letter-avatar"
+  }, {
+    "name": "vue-highlightjs",
+    "url": "https://github.com/metachris/vue-highlightjs"
+  }, {
+    "name": "v-clipboard",
+    "url": "https://github.com/euvl/v-clipboard"
+  }, {
+    "name": "vue-invisible-recaptcha",
+    "url": "https://github.com/MicroDroid/vue-invisible-recaptcha"
+  }, {
+    "name": "vue-embed",
+    "url": "https://github.com/Gomah/vue-embed"
+  }, {
+    "name": "vue-particles",
+    "url": "https://github.com/creotip/vue-particles"
+  }, {
+    "name": "vue-uniq-ids",
+    "url": "https://github.com/termosa/vue-uniq-ids"
+  }, {
+    "name": "vue-multivue",
+    "url": "https://github.com/drewjbartlett/vue-multivue"
+  }, {
+    "name": "vue-affix",
+    "url": "https://github.com/eddiemf/vue-affix"
+  }, {
+    "name": "X-Browser-Update-Vue",
+    "url": "https://github.com/OXOYO/X-Browser-Update-Vue"
+  }, {
+    "name": "vue-query-builder",
+    "url": "https://github.com/dabernathy89/vue-query-builder"
+  }, {
+    "name": "vue-info-card",
+    "url": "https://github.com/karakanb/vue-info-card"
+  }, {
+    "name": "v-offline",
+    "url": "https://github.com/vinayakkulkarni/v-offline"
+  }, {
+    "name": "vue-word-cloud",
+    "url": "https://github.com/SeregPie/VueWordCloud"
+  }, {
+    "description": "A Vue component for flat surface shader",
+    "name": "vue-flat-surface-shader",
+    "url": "https://github.com/grzhan/vue-flat-surface-shader"
+  }, {
+    "name": "vue-easteregg",
+    "url": "https://github.com/ddgll/vue-easteregg"
+  }, {
+    "name": "vue-barcode-scanner",
+    "url": "https://github.com/noomerzx/vue-barcode-scanner"
+  }, {
+    "name": "vue-heatmapjs",
+    "url": "https://github.com/BrockReece/vue-heatmapjs"
+  }, {
+    "name": "vue-maze",
+    "url": "https://github.com/meganetaaan/vue-maze"
+  }, {
+    "name": "vue-drag-verify",
+    "url": "https://github.com/AshleyLv/vue-drag-verify"
+  }, {
+    "name": "vue-balloon",
+    "url": "https://github.com/kevinwarne/vue-balloon"
+  }, {
+    "name": "vue-sticker",
+    "url": "https://github.com/KamilOcean/vue-sticker"
+  }, {
+    "name": "v-rating",
+    "url": "https://github.com/vinayakkulkarni/v-rating"
+  } ]
+}, {
+  "category": "Tabs",
+  "items": [ {
+    "name": "vue-tabs",
+    "url": "https://github.com/cristijora/vue-tabs"
+  }, {
+    "name": "vue-swipe-tabs",
+    "url": "https://github.com/zhangxiang958/vue-tab"
+  }, {
+    "name": "vue-tabs-component",
+    "url": "https://github.com/spatie/vue-tabs-component"
+  } ]
+}, {
+  "category": "Form"
+}, {
+  "category": "Editable",
+  "items": [ {
+    "name": "vue-xeditable",
+    "url": "https://github.com/Kar-Wai-Wong/vue-xeditable"
+  } ]
+}, {
+  "category": "Picker",
+  "items": [ {
+    "name": "vue-smooth-picker",
+    "url": "https://github.com/hiyali/vue-smooth-picker"
+  } ]
+}, {
+  "category": "Generator",
+  "items": [ {
+    "name": "vue-json-schema",
+    "url": "https://github.com/demsking/vue-json-schema"
+  } ]
+}, {
+  "category": "Date Picker",
+  "items": [ {
+    "name": "vue-datepicker",
+    "url": "https://github.com/hilongjw/vue-datepicker"
+  }, {
+    "name": "vue2-timepicker",
+    "url": "https://github.com/phoenixwong/vue2-timepicker"
+  }, {
+    "name": "vuejs-datepicker",
+    "url": "https://github.com/charliekassel/vuejs-datepicker"
+  }, {
+    "name": "vuedt",
+    "url": "https://github.com/nkoehring/vuedt"
+  }, {
+    "name": "vue-flatpickr-component",
+    "url": "https://github.com/ankurk91/vue-flatpickr-component"
+  }, {
+    "name": "vue-bootstrap-datetimepicker",
+    "url": "https://github.com/ankurk91/vue-bootstrap-datetimepicker"
+  }, {
+    "name": "vue-jalaali-datepicker",
+    "url": "https://github.com/pepour/vue-jalaali-datepicker"
+  }, {
+    "name": "vue-date-picker",
+    "url": "https://github.com/ridewn/vue-date-picker"
+  }, {
+    "name": "vue-monthly-picker",
+    "url": "https://github.com/ittus/vue-monthly-picker"
+  }, {
+    "name": "vue-hotel-datepicker",
+    "url": "https://github.com/krystalcampioni/vue-hotel-datepicker"
+  }, {
+    "name": "vue2-persian-datepicker",
+    "url": "https://github.com/dyonir/vue2-persian-datepicker"
+  }, {
+    "name": "vue-datetime",
+    "url": "https://github.com/mariomka/vue-datetime"
+  }, {
+    "name": "vue-rangedate-picker",
+    "url": "https://github.com/bliblidotcom/vue-rangedate-picker"
+  } ]
+}, {
+  "category": "Select",
+  "items": [ {
+    "name": "vue-select",
+    "url": "https://github.com/sagalbot/vue-select"
+  }, {
+    "name": "vue-multiselect",
+    "url": "https://github.com/monterail/vue-multiselect"
+  }, {
+    "name": "stf-vue-select",
+    "url": "https://github.com/stfalcon-studio/stf-vue-select"
+  }, {
+    "name": "vue-select-image",
+    "url": "https://github.com/mazipan/vue-select-image"
+  }, {
+    "name": "@riophae/vue-treeselect",
+    "url": "https://github.com/riophae/vue-treeselect"
+  }, {
+    "name": "@k186/pd-select",
+    "url": "https://github.com/k186/pd-select"
+  } ]
+}, {
+  "category": "Slider",
+  "items": [ {
+    "name": "vue-slider-component",
+    "url": "https://github.com/NightCatSama/vue-slider-component"
+  }, {
+    "name": "vue-circle-slider",
+    "url": "https://github.com/devstark-com/vue-circle-slider"
+  } ]
+}, {
+  "category": "Drag and Drop",
+  "items": [ {
+    "name": "vuedraggable",
+    "url": "https://github.com/SortableJS/Vue.Draggable"
+  }, {
+    "name": "vue-dragula",
+    "url": "https://github.com/Astray-git/vue-dragula"
+  }, {
+    "name": "vue2-dragula",
+    "url": "https://github.com/kristianmandrup/vue2-dragula"
+  }, {
+    "name": "awe-dnd",
+    "url": "https://github.com/hilongjw/vue-dragging"
+  }, {
+    "name": "vue-draggable-resizable",
+    "url": "https://github.com/mauricius/vue-draggable-resizable"
+  }, {
+    "name": "vddl",
+    "url": "https://github.com/hejianxian/vddl"
+  }, {
+    "name": "vue-drag-drop",
+    "url": "https://github.com/cameronhimself/vue-drag-drop"
+  }, {
+    "name": "vue-swing",
+    "url": "https://github.com/goweiwen/vue-swing"
+  } ]
+}, {
+  "category": "Autocomplete",
+  "items": [ {
+    "name": "vue-instant",
+    "url": "https://github.com/santiblanko/vue-instant"
+  }, {
+    "name": "v-autocomplete",
+    "url": "https://github.com/paliari/v-autocomplete"
+  }, {
+    "name": "vue-awesomplete",
+    "url": "https://github.com/sandi-racy/vue-awesomplete"
+  }, {
+    "name": "vue-auto-complete",
+    "url": "https://github.com/charliekassel/vuejs-autocomplete"
+  }, {
+    "name": "vue-autosuggest",
+    "url": "https://github.com/Educents/vue-autosuggest"
+  } ]
+}, {
+  "category": "Type Select",
+  "items": [ {
+    "name": "vue-tagsinput",
+    "url": "https://github.com/Ginhing/vue-tagsinput"
+  }, {
+    "name": "vue-input-tag",
+    "url": "https://github.com/matiastucci/vue-input-tag"
+  }, {
+    "name": "v-distpicker",
+    "url": "https://github.com/jcc/v-distpicker"
+  }, {
+    "name": "vue-img-inputer",
+    "url": "https://github.com/waynecz/vue-img-inputer"
+  }, {
+    "name": "vue-img-preview",
+    "url": "https://github.com/dameety/vue-image-preview"
+  }, {
+    "name": "v-image",
+    "url": "https://github.com/vinayakkulkarni/v-image"
+  } ]
+}, {
+  "category": "Color Picker",
+  "items": [ {
+    "name": "vue-color",
+    "url": "https://github.com/xiaokaike/vue-color"
+  } ]
+}, {
+  "category": "Switch",
+  "items": [ {
+    "name": "vue-switches",
+    "url": "https://github.com/drewjbartlett/vue-switches"
+  }, {
+    "name": "vue-js-toggle-button",
+    "url": "https://github.com/euvl/vue-js-toggle-button"
+  }, {
+    "name": "vue-checkbox-radio",
+    "url": "https://github.com/mariomka/vue-checkbox-radio"
+  }, {
+    "name": "vue-enhanced-check",
+    "url": "https://github.com/Keiwen/vue-enhancedCheck"
+  } ]
+}, {
+  "category": "Masked Input",
+  "items": [ {
+    "name": "vue-masked-input",
+    "url": "https://github.com/niksmr/vue-masked-input"
+  }, {
+    "name": "vue-text-mask",
+    "url": "https://github.com/text-mask/text-mask"
+  }, {
+    "name": "vue-ip-input",
+    "url": "https://github.com/lakb248/vue-ip-input"
+  }, {
+    "name": "vue-numeric",
+    "url": "https://github.com/kevinongko/vue-numeric"
+  }, {
+    "name": "awesome-mask",
+    "url": "https://github.com/moip/awesome-mask"
+  }, {
+    "name": "v-money",
+    "url": "https://github.com/vuejs-tips/v-money"
+  }, {
+    "name": "vue-autonumeric",
+    "url": "https://github.com/autoNumeric/vue-autoNumeric"
+  }, {
+    "name": "vue-inputmask",
+    "url": "https://github.com/scleriot/vue-inputmask"
+  }, {
+    "name": "vue-input-number",
+    "url": "https://github.com/joseluisq/vue-input-number"
+  }, {
+    "name": "v-unicode",
+    "url": "https://github.com/ndelvalle/v-unicode"
+  } ]
+}, {
+  "category": "Rich Text Editing",
+  "items": [ {
+    "name": "vue-quill-editor",
+    "url": "https://github.com/surmon-china/vue-quill-editor"
+  }, {
+    "name": "vue-mobiledoc-editor",
+    "url": "https://github.com/alidcastano/vue-mobiledoc-editor"
+  }, {
+    "name": "vue2-medium-editor",
+    "url": "https://github.com/FranzSkuffka/vue-medium-editor"
+  }, {
+    "name": "vue-froala",
+    "url": "https://github.com/helpbase/vue-froala"
+  }, {
+    "name": "vue-froala-wysiwyg",
+    "url": "https://github.com/froala/vue-froala-wysiwyg"
+  }, {
+    "name": "vue-at",
+    "url": "https://github.com/fritx/vue-at"
+  }, {
+    "name": "vue-wysiwyg",
+    "url": "https://github.com/chmln/vue-wysiwyg"
+  }, {
+    "name": "vue-trumbowyg",
+    "url": "https://github.com/ankurk91/vue-trumbowyg"
+  }, {
+    "name": "vue-pell-editor",
+    "url": "https://github.com/CinKon/vue-pell-editor"
+  }, {
+    "name": "vue-tinymce-editor",
+    "url": "https://github.com/dyonir/vue-tinymce-editor"
+  }, {
+    "name": "vue-mce",
+    "url": "https://github.com/Eazymov/vue-mce"
+  }, {
+    "name": "Vue2-Editor",
+    "url": "https://github.com/davidroyer/vue2-editor"
+  } ]
+}, {
+  "category": "Image Manipulation",
+  "items": [ {
+    "name": "vue-core-image-upload",
+    "url": "https://github.com/Vanthink-UED/vue-core-image-upload"
+  }, {
+    "name": "vue-croppa",
+    "url": "https://github.com/zhanziyang/vue-croppa"
+  }, {
+    "name": "vue-cropper",
+    "url": "https://github.com/xyxiao001/vue-cropper"
+  } ]
+}, {
+  "category": "File Upload",
+  "items": [ {
+    "name": "vue-clip",
+    "url": "https://github.com/thetutlage/vue-clip"
+  }, {
+    "name": "vue-simple-upload",
+    "url": "https://github.com/saivarunk/vue-simple-upload"
+  }, {
+    "name": "vue2-multi-uploader",
+    "url": "https://github.com/abarta/vue2-multi-uploader"
+  }, {
+    "name": "vue-dropzone",
+    "url": "https://github.com/rowanwins/vue-dropzone"
+  }, {
+    "name": "vue-transmit",
+    "url": "https://github.com/alexsasharegan/vue-transmit"
+  }, {
+    "name": "vue-upload-component",
+    "url": "https://github.com/lian-yue/vue-upload-component"
+  }, {
+    "name": "vue-uploader",
+    "url": "https://github.com/simple-uploader/vue-uploader"
+  } ]
+}, {
+  "category": "Context Menu",
+  "items": [ {
+    "name": "vue-context-menu",
+    "url": "https://github.com/vmaimone/vue-context-menu"
+  }, {
+    "name": "vue-lil-context-menu",
+    "url": "https://github.com/timwis/vue-lil-context-menu"
+  }, {
+    "name": "vue-mouse-menu",
+    "url": "https://github.com/zgj233/vue-mouse-menu"
+  }, {
+    "name": "@hscmap/vue-menu",
+    "url": "https://github.com/michitaro/vue-menu"
+  } ]
+}, {
+  "category": "Miscellaneous",
+  "items": [ {
+    "name": "vue-gmaps",
+    "url": "https://github.com/ridermansb/vue-gmaps"
+  }, {
+    "name": "vuep",
+    "url": "https://github.com/QingWei-Li/vuep"
+  }, {
+    "name": "vue-places",
+    "url": "https://github.com/Gomah/vue-places"
+  }, {
+    "name": "vue-password-strength-meter",
+    "url": "https://github.com/apertureless/vue-password-strength-meter"
+  }, {
+    "name": "vue-float-label",
+    "url": "https://github.com/bkzl/vue-float-label"
+  }, {
+    "name": "vue-longpress",
+    "url": "https://github.com/javisperez/vuelongpress"
+  }, {
+    "name": "vue-google-autocomplete",
+    "url": "https://github.com/olefirenko/vue-google-autocomplete"
+  }, {
+    "name": "vue-ip-input",
+    "url": "https://github.com/lakb248/vue-ip-input"
+  }, {
+    "name": "vue-default-value",
+    "url": "https://github.com/termosa/vue-default-value"
+  }, {
+    "name": "vue-model-autoset",
+    "url": "https://github.com/outluch/vue-model-autoset"
+  }, {
+    "description": "Simple implementation of Ladda",
+    "name": "vue-submit",
+    "url": "https://github.com/NxtChg/pieces/tree/master/js/vue/vue-submit"
+  }, {
+    "name": "vue-rate",
+    "url": "https://github.com/SinanMtl/vue-rate"
+  }, {
+    "name": "vuetify-google-autocomplete",
+    "url": "https://github.com/MadimetjaShika/vuetify-google-autocomplete"
+  }, {
+    "name": "vue-ripple-directive",
+    "url": "https://github.com/PygmySlowLoris/vue-ripple-directive"
+  }, {
+    "name": "vue-fab",
+    "url": "https://github.com/PygmySlowLoris/vue-fab"
+  }, {
+    "name": "vue-complexify",
+    "url": "https://github.com/mazipan/vue-complexify"
+  }, {
+    "name": "vue-mc",
+    "url": "https://github.com/FiguredLimited/vue-mc"
+  }, {
+    "name": "vue-stars",
+    "url": "https://www.tallent.us/vue-stars/"
+  } ]
+}, {
+  "category": "Wizard",
+  "items": [ {
+    "name": "vue-form-wizard",
+    "url": "https://github.com/cristijora/vue-form-wizard"
+  }, {
+    "name": "vue-stepper",
+    "url": "https://github.com/PygmySlowLoris/vue-stepper"
+  }, {
+    "name": "vue-waterfall",
+    "url": "https://github.com/MopTym/vue-waterfall"
+  }, {
+    "name": "vueisotope",
+    "url": "https://github.com/David-Desmaisons/Vue.Isotope"
+  }, {
+    "name": "vue-grid-layout",
+    "url": "https://github.com/jbaysolutions/vue-grid-layout"
+  }, {
+    "name": "vue-drag-zone",
+    "url": "https://github.com/surmon-china/vue-drag-zone"
+  }, {
+    "name": "vue-masonry",
+    "url": "https://github.com/shershen08/vue-masonry"
+  }, {
+    "name": "vue-fraction-grid",
+    "url": "https://github.com/bkzl/vue-fraction-grid"
+  }, {
+    "name": "vue-virtual-scroll-list",
+    "url": "https://github.com/tangbc/vue-virtual-scroll-list"
+  }, {
+    "name": "vue-virtual-scroller",
+    "url": "https://github.com/Akryum/vue-virtual-scroller"
+  }, {
+    "description": "Vue 2.x",
+    "name": "vue-virtualscroll",
+    "url": "https://github.com/ddgll/vue-virtualscroll"
+  }, {
+    "description": "Vue 2.x",
+    "name": "vue-inview",
+    "url": "https://github.com/rachmanzz/vue-inview"
+  }, {
+    "name": "dnd-grid",
+    "url": "https://github.com/dattn/dnd-grid"
+  }, {
+    "name": "vue-extend-layout",
+    "url": "https://github.com/ktquez/vue-extend-layout"
+  }, {
+    "name": "vue-masonry-css",
+    "url": "https://github.com/paulcollett/vue-masonry-css"
+  } ]
+}, {
+  "category": "Responsive",
+  "items": [ {
+    "name": "quasar-framework",
+    "url": "https://github.com/quasarframework/quasar"
+  }, {
+    "name": "vue-material",
+    "url": "https://github.com/vuematerial/vue-material"
+  }, {
+    "name": "vuetify",
+    "url": "https://github.com/vuetifyjs/vuetify"
+  }, {
+    "name": "muse-ui",
+    "url": "https://github.com/museui/muse-ui"
+  }, {
+    "name": "buefy",
+    "url": "https://github.com/rafaelpimpa/buefy"
+  }, {
+    "name": "element-ui",
+    "url": "https://github.com/ElemeFE/element"
+  }, {
+    "name": "vulma",
+    "url": "https://vulma.org"
+  }, {
+    "name": "vue-bulma-components",
+    "url": "https://github.com/vouill/vue-bulma-components"
+  }, {
+    "name": "iview-ui",
+    "url": "https://www.iviewui.com"
+  }, {
+    "name": "AT-UI",
+    "url": "https://at.aotu.io"
+  }, {
+    "description": "Implementation of semantic-ui",
+    "name": "v-semantic",
+    "url": "https://www.npmjs.com/package/v-semantic"
+  }, {
+    "description": "Implementation of bootstrap-4",
+    "name": "bootstrap-vue",
+    "url": "https://bootstrap-vue.github.io"
+  }, {
+    "name": "fish-ui",
+    "url": "https://myliang.github.io/fish-ui"
+  }, {
+    "name": "Zircle UI",
+    "url": "https://zircleui.github.io/zircleUI/"
+  }, {
+    "description": "Material Components integration for Vue.js as per MDC Team's guidelines",
+    "name": "vue-mdc-adapter",
+    "url": "https://github.com/stasson/vue-mdc-adapter"
+  }, {
+    "description": "wrapper around material-components-web",
+    "name": "Material Components Vue",
+    "url": "https://github.com/matsp/material-components-vue"
+  } ]
+}, {
+  "category": "Mobile",
+  "items": [ {
+    "name": "Framework7-Vue",
+    "url": "https://github.com/nolimits4web/Framework7-Vue"
+  }, {
+    "name": "vux",
+    "url": "https://github.com/airyland/vux"
+  }, {
+    "name": "vue-onsenui",
+    "url": "https://github.com/OnsenUI/OnsenUI"
+  }, {
+    "name": "Weex",
+    "url": "https://weex.incubator.apache.org/"
+  } ]
+}, {
+  "category": "Component Collections",
+  "items": [ {
+    "name": "vue-mdc",
+    "url": "https://github.com/posva/vue-mdc"
+  }, {
+    "name": "keen-ui",
+    "url": "https://github.com/JosephusPaye/Keen-UI"
+  }, {
+    "name": "vue-admin",
+    "url": "https://github.com/vue-bulma/vue-admin"
+  }, {
+    "name": "vuikit",
+    "url": "https://github.com/vuikit/vuikit"
+  }, {
+    "name": "uiv",
+    "url": "https://github.com/wxsms/uiv"
+  }, {
+    "name": "yuche/vue-strap",
+    "url": "https://github.com/yuche/vue-strap"
+  }, {
+    "name": "wffranco/vue-strap",
+    "url": "https://github.com/wffranco/vue-strap"
+  }, {
+    "name": "N3-components",
+    "url": "https://github.com/N3-components/N3-components"
+  }, {
+    "name": "jsmod-vue-pc",
+    "url": "https://github.com/chaogao/jsmod-pc-vue"
+  }, {
+    "name": "guilhermewaess/SemVue",
+    "url": "https://github.com/guilhermewaess/SemVue"
+  }, {
+    "name": "office-ui-fabric-vue",
+    "url": "https://github.com/aidewoode/office-ui-fabric-vue"
+  }, {
+    "name": "vuestic-admin",
+    "url": "https://github.com/epicmaxco/vuestic-admin"
+  } ]
+}, {
+  "category": "Mobile",
+  "items": [ {
+    "name": "mint-ui",
+    "url": "https://github.com/ElemeFE/mint-ui"
+  }, {
+    "name": "vant",
+    "url": "https://github.com/youzan/vant"
+  }, {
+    "name": "cube-ui",
+    "url": "https://didi.github.io/cube-ui"
+  } ]
+}, {
+  "category": "Admin Template",
+  "items": [ {
+    "name": "iView Vue Admin",
+    "url": "https://github.com/TonyLuo/iview-vue-admin"
+  }, {
+    "name": "element Vue Admin",
+    "url": "https://github.com/TonyLuo/element-vue-admin"
+  } ]
+}, {
+  "category": "Other",
+  "items": [ {
+    "name": "nuxt",
+    "url": "https://github.com/nuxt/nuxt.js"
+  }, {
+    "name": "app-framework",
+    "url": "https://github.com/scriptPilot/app-framework"
+  }, {
+    "name": "Myfirebase",
+    "url": "https://github.com/myfirebase/myfirebase"
+  } ]
+}, {
+  "category": "Event Handling",
+  "items": [ {
+    "name": "vue-shortkey",
+    "url": "https://github.com/iFgR/vue-shortkey"
+  }, {
+    "name": "vue-throttle-event",
+    "url": "https://github.com/scaccogatto/vue-throttle-event"
+  }, {
+    "name": "vue-waypoint",
+    "url": "https://github.com/scaccogatto/vue-waypoint"
+  }, {
+    "name": "vue-clickaway",
+    "url": "https://github.com/simplesmiler/vue-clickaway"
+  }, {
+    "name": "vue-scrollfire",
+    "url": "https://github.com/vue-comps/vue-scrollfire"
+  }, {
+    "name": "vue-resize-directive",
+    "url": "https://github.com/David-Desmaisons/Vue.resize"
+  }, {
+    "name": "v-click-outside",
+    "url": "https://github.com/ndelvalle/v-click-outside"
+  }, {
+    "name": "vue-outside-events",
+    "url": "https://github.com/nchutchind/vue-outside-events"
+  }, {
+    "name": "vue-selectable",
+    "url": "https://github.com/JSmith01/vue-selectable"
+  }, {
+    "name": "vue-click-helper",
+    "url": "https://github.com/huangshuwei/vue-click-helper"
+  }, {
+    "name": "v-hotkey",
+    "url": "https://github.com/Dafrok/v-hotkey"
+  }, {
+    "name": "vue-resize",
+    "url": "https://github.com/Akryum/vue-resize"
+  }, {
+    "name": "vue-observe-visibility",
+    "url": "https://github.com/Akryum/vue-observe-visibility"
+  }, {
+    "name": "v-dragged",
+    "url": "https://github.com/zhanziyang/v-dragged"
+  }, {
+    "name": "vue-esc",
+    "url": "https://github.com/ianaya89/vue-esc"
+  }, {
+    "name": "vue-global-events",
+    "url": "https://github.com/shentao/vue-global-events/"
+  } ]
+}, {
+  "category": "Responsive Design",
+  "items": [ {
+    "name": "vue-viewports",
+    "url": "https://github.com/scaccogatto/vue-viewports"
+  }, {
+    "name": "vue-responsive",
+    "url": "https://github.com/reinerBa/Vue-Responsive"
+  }, {
+    "name": "vue-match-media",
+    "url": "https://github.com/drenglish/vue-match-media"
+  }, {
+    "name": "vue-media-query-mixin",
+    "url": "https://github.com/jofftiquez/vue-media-query-mixin"
+  }, {
+    "name": "vue-breakpoints",
+    "url": "https://github.com/apertureless/vue-breakpoints"
+  }, {
+    "name": "vue-mq",
+    "url": "https://github.com/AlexandreBonaventure/vue-mq"
+  } ]
+}, {
+  "category": "Form",
+  "items": [ {
+    "name": "vue-formly",
+    "url": "https://github.com/formly-js/vue-formly"
+  }, {
+    "name": "vue-focus",
+    "url": "https://github.com/simplesmiler/vue-focus"
+  }, {
+    "name": "vue-form-generator",
+    "url": "https://github.com/icebob/vue-form-generator"
+  }, {
+    "name": "vue-json-schema",
+    "url": "https://github.com/demsking/vue-json-schema"
+  } ]
+}, {
+  "category": "Validation",
+  "items": [ {
+    "name": "vue-validator",
+    "url": "https://github.com/kazupon/vue-validator"
+  }, {
+    "name": "vee-validate",
+    "url": "https://github.com/logaretm/vee-validate"
+  }, {
+    "name": "vue-rawmodel",
+    "url": "https://github.com/xpepermint/vue-rawmodel"
+  }, {
+    "name": "vuelidate",
+    "url": "https://github.com/monterail/vuelidate"
+  }, {
+    "name": "simple-vue-validator",
+    "url": "https://github.com/semisleep/simple-vue-validator"
+  }, {
+    "name": "vue-vform",
+    "url": "https://github.com/joseluisq/vue-vform"
+  }, {
+    "name": "vue-form",
+    "url": "https://github.com/fergaldoyle/vue-form"
+  }, {
+    "name": "vuelidation",
+    "url": "https://github.com/cj/vuelidation"
+  }, {
+    "name": "laravel-vue-validator",
+    "url": "https://github.com/val-bubbleflat/laravel-vue-validator"
+  }, {
+    "name": "vuejs-model-validator",
+    "url": "https://github.com/deulos/vuejs-model-validator"
+  } ]
+}, {
+  "category": "Scroll",
+  "items": [ {
+    "name": "vue-chat-scroll",
+    "url": "https://github.com/theomessin/vue-chat-scroll"
+  }, {
+    "name": "vue-scrollto",
+    "url": "https://github.com/rigor789/vue-scrollTo"
+  }, {
+    "name": "VBar",
+    "url": "https://github.com/luiguild/v-bar"
+  }, {
+    "name": "Vuebar",
+    "url": "http://serafin.io/vuebar/"
+  }, {
+    "name": "vue-detached-scrollbar",
+    "url": "https://github.com/ozangulle/vue-detached-scrollbar"
+  }, {
+    "name": "vuescroll",
+    "url": "https://github.com/wangyi7099/vuescroll"
+  }, {
+    "name": "vue-scrollview",
+    "url": "https://github.com/chrishurlburt/vue-scrollview"
+  }, {
+    "name": "vue-scrollactive",
+    "url": "https://github.com/eddiemf/vue-scrollactive"
+  }, {
+    "name": "vue-intersect",
+    "url": "https://github.com/heavyy/vue-intersect"
+  }, {
+    "name": "vue-scrollmonitor",
+    "url": "https://github.com/AlexandreBonaventure/vue-scrollmonitor"
+  }, {
+    "name": "vue-stroll",
+    "url": "https://github.com/xiaoluoboding/vue-stroll"
+  }, {
+    "name": "navscroll-js",
+    "url": "https://github.com/nash403/navscroll-js"
+  }, {
+    "name": "vue-scroll-behavior",
+    "url": "https://github.com/jeneser/vue-scroll-behavior"
+  } ]
+}, {
+  "category": "Routing",
+  "items": [ {
+    "name": "vue-router",
+    "url": "https://github.com/vuejs/vue-router"
+  }, {
+    "name": "vue-router-storage",
+    "url": "https://github.com/ElderJames/vue-router-storage"
+  }, {
+    "name": "vue-tidyroutes",
+    "url": "https://github.com/edgarnadal/vue-tidyroutes"
+  } ]
+}, {
+  "category": "Lazy Load",
+  "items": [ {
+    "name": "vue-lazyload",
+    "url": "https://github.com/hilongjw/vue-lazyload"
+  }, {
+    "name": "vue-lazy-background-images",
+    "url": "https://github.com/darrynten/vue-lazy-background-images"
+  }, {
+    "name": "vue-progressive-image",
+    "url": "https://github.com/MatteoGabriele/vue-progressive-image"
+  }, {
+    "name": "vue-l-lazyload",
+    "url": "https://github.com/lsycxyj/vue-l-lazyload"
+  }, {
+    "name": "vue-lazyload-img",
+    "url": "https://github.com/JALBAA/vue-lazyload-img"
+  }, {
+    "name": "vue-lazy-images",
+    "url": "https://github.com/yyh1102/vue-lazyload-images"
+  }, {
+    "name": "v-lazy-img",
+    "url": "https://github.com/nkoehring/v-lazy-img"
+  }, {
+    "name": "vue-clazy-load",
+    "url": "https://github.com/matheusgrieger/vue-clazy-load"
+  }, {
+    "name": "vue-lazy-this",
+    "url": "https://github.com/thangman22/vue-lazy-this"
+  } ]
+}, {
+  "category": "Pagination",
+  "items": [ {
+    "name": "vue-paginate",
+    "url": "https://github.com/TahaSh/vue-paginate"
+  }, {
+    "name": "vue-pagination-2",
+    "url": "https://github.com/matfish2/vue-pagination-2"
+  }, {
+    "name": "vuejs-uib-pagination",
+    "url": "https://github.com/sant123/vuejs-uib-pagination"
+  }, {
+    "name": "vuejs-paginate",
+    "url": "https://github.com/lokyoung/vuejs-paginate"
+  }, {
+    "name": "vue-pagination-bootstrap",
+    "url": "https://github.com/brunoseco/vue-pagination-bootstrap"
+  }, {
+    "name": "laravel-vue-semantic-ui-pagination",
+    "url": "https://github.com/vinayakkulkarni/laravel-vue-semantic-ui-pagination"
+  } ]
+}, {
+  "category": "Animation",
+  "items": [ {
+    "name": "vue2-animate",
+    "url": "https://github.com/asika32764/vue2-animate"
+  }, {
+    "name": "animated-vue",
+    "url": "https://github.com/radical-dreamers/animated-vue"
+  }, {
+    "name": "vue-lottie",
+    "url": "https://github.com/chenqingspring/vue-lottie"
+  }, {
+    "name": "Vueg",
+    "url": "https://github.com/jaweii/vueg"
+  }, {
+    "name": "v-animate-css",
+    "url": "https://jofftiquez.github.io/v-animate-css/"
+  }, {
+    "name": "vue-mixin-tween",
+    "url": "https://github.com/lukechinworth/vue-mixin-tween"
+  }, {
+    "name": "v-odometer",
+    "url": "https://github.com/JefferyHus/v-odometer"
+  } ]
+}, {
+  "category": "Meta Tags",
+  "items": [ {
+    "name": "vue-head",
+    "url": "https://github.com/ktquez/vue-head"
+  }, {
+    "name": "vue-meta",
+    "url": "https://github.com/declandewet/vue-meta"
+  } ]
+}, {
+  "category": "Portal",
+  "items": [ {
+    "name": "vue-dom-portal",
+    "url": "https://github.com/calebroseland/vue-dom-portal"
+  }, {
+    "name": "portal-vue",
+    "url": "https://linusborg.github.io/portal-vue"
+  } ]
+}, {
+  "category": "Filters",
+  "items": [ {
+    "name": "vue2-filters",
+    "url": "https://github.com/freearhey/vue2-filters"
+  }, {
+    "name": "morphling",
+    "url": "https://github.com/jofftiquez/morphling"
+  }, {
+    "name": "vue-currency-filter",
+    "url": "https://github.com/mazipan/vue-currency-filter"
+  }, {
+    "name": "vue-trans",
+    "url": "https://github.com/Trekels/vue-trans"
+  }, {
+    "name": "vue-string-filter",
+    "url": "https://github.com/mazipan/vue-string-filter"
+  } ]
+}, {
+  "category": "SVG",
+  "items": [ {
+    "name": "vue-svgicon",
+    "url": "https://github.com/MMF-FE/vue-svgicon"
+  }, {
+    "name": "vue-content-loading",
+    "url": "https://github.com/LucasLeandro1204/vue-content-loading"
+  } ]
+}, {
+  "category": "Miscellaneous",
+  "items": [ {
+    "name": "vue-resource-progressbar-interceptor",
+    "url": "https://github.com/staskjs/vue-resource-progressbar-interceptor"
+  }, {
+    "name": "vue-images-loaded",
+    "url": "https://github.com/David-Desmaisons/Vue.ImagesLoaded"
+  }, {
+    "name": "vue-visible",
+    "url": "https://github.com/javisperez/vue-visible"
+  }, {
+    "name": "vue-resize-sensor",
+    "url": "https://github.com/FranckFreiburger/vue-resize-sensor"
+  }, {
+    "name": "v-blur",
+    "url": "https://github.com/ndelvalle/v-blur"
+  }, {
+    "name": "vue-async-methods",
+    "url": "https://github.com/mokkabonna/vue-async-methods"
+  }, {
+    "name": "vue-openseadragon",
+    "url": "https://github.com/braceslab/vue-openseadragon"
+  }, {
+    "name": "vue-match-heights",
+    "url": "https://github.com/samturrell/vue-match-heights"
+  }, {
+    "name": "vue-conditional-attrs",
+    "url": "https://github.com/FL3NKEY/vue-conditional-attrs"
+  } ]
+}, {
+  "category": "WebGL",
+  "items": [ {
+    "name": "vue-3d-model",
+    "url": "https://github.com/hujiulong/vue-3d-model"
+  }, {
+    "name": "vue-pano",
+    "url": "https://github.com/ChiChou/vue-pano"
+  }, {
+    "name": "vue-threejs",
+    "url": "https://github.com/fritx/vue-threejs"
+  }, {
+    "name": "VueGL",
+    "url": "https://github.com/vue-gl/vue-gl"
+  } ]
+}, {
+  "category": "Fullscreen",
+  "items": [ {
+    "name": "vue-fullscreen",
+    "url": "https://github.com/mirari/vue-fullscreen"
+  }, {
+    "name": "vue-underscore",
+    "url": "https://github.com/HKskn/vue-underscore"
+  } ]
+}, {
+  "category": "Typescript",
+  "items": [ {
+    "name": "vue-typed",
+    "url": "https://github.com/vue-typed/vue-typed"
+  }, {
+    "name": "vue-typescript",
+    "url": "https://github.com/itsFrank/vue-typescript"
+  }, {
+    "name": "vue-property-decorator",
+    "url": "https://github.com/kaorun343/vue-property-decorator"
+  }, {
+    "name": "vue-typescript-component",
+    "url": "https://github.com/locoslab/vue-typescript-component"
+  }, {
+    "name": "vue-typescript-import-dts",
+    "url": "https://github.com/locoslab/vue-typescript-import-dts"
+  }, {
+    "name": "vue-ts-loader",
+    "url": "https://github.com/HerringtonDarkholme/vue-ts-loader"
+  } ]
+}, {
+  "category": "HTTP Requests",
+  "items": [ {
+    "name": "vue-resource",
+    "url": "https://github.com/pagekit/vue-resource"
+  }, {
+    "name": "vue-async-computed",
+    "url": "https://github.com/foxbenjaminfox/vue-async-computed"
+  }, {
+    "name": "vue-jsonp",
+    "url": "https://github.com/LancerComet/vue-jsonp"
+  }, {
+    "name": "v-model",
+    "url": "https://github.com/huanleguang/v-model"
+  }, {
+    "name": "vue-resource-mock",
+    "url": "https://github.com/noru/vue-resource-mock"
+  }, {
+    "name": "vue-async-data-2",
+    "url": "https://github.com/kamijin-fanta/vue-async-data"
+  }, {
+    "name": "vue-api-request",
+    "url": "https://github.com/ftgibran/vue-api-request"
+  }, {
+    "name": "vue-fast-axios",
+    "url": "https://github.com/leonardovilarinho/vue-fast-axios"
+  }, {
+    "name": "vue-async-properties",
+    "url": "https://github.com/blainehansen/vue-async-properties"
+  }, {
+    "name": "vue-axios-plugin",
+    "url": "https://github.com/yugasun/vue-axios-plugin"
+  }, {
+    "name": "vuex-api",
+    "url": "https://github.com/vouill/vuex-api"
+  } ]
+}, {
+  "category": "i18n",
+  "items": [ {
+    "name": "vue-i18n",
+    "url": "https://github.com/kazupon/vue-i18n"
+  }, {
+    "name": "vue-translate-plugin",
+    "url": "https://github.com/javisperez/vuetranslate"
+  }, {
+    "name": "vuex-i18n",
+    "url": "https://github.com/dkfbasel/vuex-i18n"
+  }, {
+    "name": "vue-gettext",
+    "url": "https://github.com/Polyconseil/vue-gettext"
+  }, {
+    "name": "vue-i18n",
+    "url": "https://github.com/MattyRad/vue-i18n"
+  }, {
+    "name": "vue-multilanguage",
+    "url": "https://github.com/leonardovilarinho/vue-multilanguage"
+  }, {
+    "name": "vue-ts-locale",
+    "url": "https://github.com/twcapps/vue-ts-locale"
+  }, {
+    "name": "vue-i18next",
+    "url": "https://github.com/panter/vue-i18next"
+  }, {
+    "name": "vue-polyglot",
+    "url": "https://github.com/guillaumevincent/vue-polyglot"
+  }, {
+    "name": "v-localize",
+    "url": "https://github.com/neetjn/v-localize"
+  }, {
+    "name": "vue-simple-i18n",
+    "url": "https://github.com/ClassicOldSong/vue-simple-i18n"
+  } ]
+}, {
+  "category": "Custom Events",
+  "items": [ {
+    "name": "vue-events",
+    "url": "https://github.com/cklmercer/vue-events"
+  }, {
+    "name": "vue-event-handler",
+    "url": "https://github.com/sandeepk01/vue-event-handler"
+  }, {
+    "name": "vue-event-manager",
+    "url": "https://github.com/pagekit/vue-event-manager"
+  }, {
+    "name": "vue-geb",
+    "url": "https://github.com/vouill/vue-geb"
+  }, {
+    "name": "vue-bus",
+    "url": "https://github.com/fffixed/vue-bus"
+  } ]
+}, {
+  "category": "Persistence",
+  "items": [ {
+    "name": "vue-localstorage",
+    "url": "https://github.com/pinguinjkeke/vue-local-storage"
+  }, {
+    "name": "vue-ls",
+    "url": "https://github.com/RobinCK/vue-ls"
+  }, {
+    "name": "vue-pouch",
+    "url": "https://github.com/qurateinc/vue-pouch"
+  }, {
+    "name": "vue-idb",
+    "url": "https://github.com/ddgll/vue-idb"
+  }, {
+    "name": "vuejs-storage",
+    "url": "https://github.com/maple3142/vuejs-storage"
+  }, {
+    "name": "vue-browserstore",
+    "url": "https://github.com/gvost/vue-browserstore"
+  }, {
+    "name": "VueStorage",
+    "url": "https://github.com/SeregPie/VueStorage"
+  }, {
+    "name": "vue-web-storage",
+    "url": "https://github.com/ankurk91/vue-web-storage"
+  } ]
+}, {
+  "category": "State Management",
+  "items": [ {
+    "name": "vuex",
+    "url": "https://github.com/vuejs/vuex"
+  }, {
+    "name": "vue-sync",
+    "url": "https://github.com/buhrmi/vue-sync"
+  }, {
+    "name": "vuelm",
+    "url": "https://github.com/keuller/vuelm"
+  }, {
+    "name": "vue-duo",
+    "url": "https://github.com/haoxins/vue-duo"
+  }, {
+    "name": "vuez",
+    "url": "https://github.com/markselby9/vuez"
+  }, {
+    "name": "vuet",
+    "url": "https://github.com/medevicex/vuet"
+  }, {
+    "name": "vue-ya-stash",
+    "url": "https://github.com/qgp9/vue-ya-stash"
+  }, {
+    "name": "vue-assign-model",
+    "url": "https://github.com/midnightSuyama/vue-assign-model"
+  }, {
+    "name": "vue-stash",
+    "url": "https://github.com/cklmercer/vue-stash"
+  }, {
+    "name": "vue-mc",
+    "url": "https://github.com/FiguredLimited/vue-mc"
+  }, {
+    "name": "vue-model",
+    "url": "https://github.com/aarondfrancis/vue-model"
+  } ]
+}, {
+  "category": "Redux",
+  "items": [ {
+    "name": "revue",
+    "url": "https://github.com/revue/revue"
+  }, {
+    "name": "vuedeux",
+    "url": "https://github.com/Vuedeux/vuedeux"
+  }, {
+    "name": "redux-store-mixin",
+    "url": "https://github.com/kolesoffac/redux-store-mixin"
+  }, {
+    "name": "vuejs-redux",
+    "url": "https://github.com/titouancreach/vuejs-redux"
+  } ]
+}, {
+  "category": "Mobx",
+  "items": [ {
+    "name": "movue",
+    "url": "https://github.com/nighca/movue"
+  } ]
+}, {
+  "category": "Authentication/Authorization",
+  "items": [ {
+    "name": "vue-kindergarten",
+    "url": "https://github.com/JiriChara/vue-kindergarten"
+  }, {
+    "name": "vue-authenticate",
+    "url": "https://github.com/dgrubelic/vue-authenticate"
+  } ]
+}, {
+  "category": "Vuex Utilities",
+  "items": [ {
+    "name": "vuex-persistedstate",
+    "url": "https://github.com/robinvdvleuten/vuex-persistedstate"
+  }, {
+    "name": "vuex-plugin-jsdata",
+    "url": "https://github.com/AlexandreBonaventure/vuex-jsdata-plugin"
+  }, {
+    "name": "vuex-local",
+    "url": "https://github.com/ktsn/vuex-local"
+  }, {
+    "name": "vuex-action",
+    "url": "https://github.com/varHarrie/vuex-action"
+  }, {
+    "name": "vuex-rest-api",
+    "url": "https://github.com/christianmalek/vuex-rest-api"
+  }, {
+    "name": "vuex-cache",
+    "url": "https://github.com/superwf/vuex-cache"
+  }, {
+    "name": "vuex-persist",
+    "url": "https://github.com/championswimmer/vuex-persist"
+  }, {
+    "name": "vuex-local-state",
+    "url": "https://github.com/biluochun/vuex-localState"
+  }, {
+    "name": "vuex-cli-scaffold",
+    "url": "https://github.com/ndabAP/vuex-cli-scaffold"
+  }, {
+    "name": "vuex-action-reload",
+    "url": "https://github.com/chlab/vuex-action-reload"
+  }, {
+    "name": "vuejs-storage",
+    "url": "https://github.com/maple3142/vuejs-storage"
+  }, {
+    "name": "vuex-orm",
+    "url": "https://github.com/revolver-app/vuex-orm"
+  }, {
+    "name": "object-to-vuex-store",
+    "url": "https://github.com/Raiondesu/object-to-vuex-store"
+  }, {
+    "name": "vuex-async-module",
+    "url": "https://github.com/liqueflies/vuex-async-module"
+  }, {
+    "name": "vuex-api",
+    "url": "https://github.com/vouill/vuex-api"
+  }, {
+    "name": "vuex-queries",
+    "url": "https://github.com/whtsky/vuex-queries"
+  } ]
+}, {
+  "category": "Sync Between Tabs",
+  "items": [ {
+    "name": "vuex-basement",
+    "url": "https://github.com/RashadSaleh/vuex-basement"
+  }, {
+    "name": "vuex-shared-mutations",
+    "url": "https://github.com/xanf/vuex-shared-mutations"
+  } ]
+}, {
+  "category": "Concurrency Management",
+  "items": [ {
+    "name": "vuency",
+    "url": "https://github.com/alidcastano/vuency"
+  } ]
+}, {
+  "category": "Code Style",
+  "items": [ {
+    "name": "vue-types",
+    "url": "https://github.com/dwightjack/vue-types"
+  }, {
+    "name": "vue-factory",
+    "url": "https://github.com/ye-will/vue-factory"
+  }, {
+    "name": "eslint-plugin-vue",
+    "url": "https://github.com/vuejs/eslint-plugin-vue"
+  }, {
+    "name": "vue-decorators",
+    "url": "https://github.com/partyka95/vue-decorators"
+  }, {
+    "name": "vue-computed-helpers",
+    "url": "https://github.com/michalsnik/vue-computed-helpers"
+  } ]
+}, {
+  "category": "CSS",
+  "items": [ {
+    "name": "vue-bem-cn",
+    "url": "https://github.com/c01nd01r/vue-bem-cn"
+  }, {
+    "name": "vue-css",
+    "url": "https://github.com/NxtChg/pieces/tree/master/js/vue/vue-css"
+  }, {
+    "name": "vue-mods-names",
+    "url": "https://github.com/RGRU/vue-mods-names"
+  } ]
+}, {
+  "category": "Asset Management",
+  "items": [ {
+    "name": "vue-script2",
+    "url": "https://github.com/taoeffect/vue-script2"
+  }, {
+    "name": "vue-loader",
+    "url": "https://github.com/vuejs/vue-loader"
+  }, {
+    "name": "vueify",
+    "url": "https://github.com/vuejs/vueify"
+  }, {
+    "name": "vue-compiler",
+    "url": "https://github.com/paulpflug/vue-compiler"
+  }, {
+    "name": "vue-brunch",
+    "url": "https://github.com/nblackburn/vue-brunch"
+  }, {
+    "name": "poi",
+    "url": "https://github.com/egoist/poi"
+  }, {
+    "name": "http-vue-loader",
+    "url": "https://github.com/FranckFreiburger/http-vue-loader"
+  }, {
+    "name": "vue-jsx-hot-loader",
+    "url": "https://github.com/skyrpex/vue-jsx-hot-loader"
+  } ]
+}, {
+  "category": "Page Navigation",
+  "items": [ {
+    "name": "vue-navigation",
+    "url": "https://github.com/zack24q/vue-navigation"
+  }, {
+    "name": "vue-acl",
+    "url": "https://github.com/leonardovilarinho/vue-acl"
+  }, {
+    "name": "vue-breadcrumbs",
+    "url": "https://github.com/samturrell/vue-breadcrumbs"
+  }, {
+    "name": "vue-2-breadcrumbs",
+    "url": "https://github.com/GitScrum/vue-2-breadcrumbs"
+  }, {
+    "name": "vs-crumbs",
+    "url": "https://github.com/NxtChg/pieces/tree/master/js/vue/vs-crumbs"
+  }, {
+    "name": "vue-nav",
+    "url": "https://github.com/nearspears/vue-nav"
+  } ]
+}, {
+  "category": "Miscellaneous",
+  "items": [ {
+    "name": "vue-container",
+    "url": "https://github.com/dealloc/vuec"
+  }, {
+    "name": "vue-super",
+    "url": "https://github.com/rpkilby/vue-super"
+  }, {
+    "name": "@skyrpex/props-to-local",
+    "url": "https://github.com/skyrpex/props-to-local"
+  }, {
+    "name": "vue-inject",
+    "url": "https://github.com/jpex-js/vue-inject"
+  }, {
+    "name": "vue-deepset",
+    "url": "https://github.com/bhoriuchi/vue-deepset"
+  }, {
+    "name": "vue-gaspard",
+    "url": "https://github.com/lucaperret/vue-gaspard"
+  }, {
+    "name": "vue-configuration",
+    "url": "https://github.com/alex-oleshkevich/vue-config"
+  } ]
+}, {
+  "category": "Web Workers",
+  "items": [ {
+    "name": "vue-worker",
+    "url": "https://github.com/israelss/vue-worker"
+  } ]
+}, {
+  "category": "JSX",
+  "items": [ {
+    "name": "jsx-vue-functional",
+    "url": "https://github.com/nickmessing/babel-plugin-jsx-vue-functional"
+  }, {
+    "name": "jsx-event-modifiers",
+    "url": "https://github.com/nickmessing/babel-plugin-jsx-event-modifiers"
+  }, {
+    "name": "jsx-v-model",
+    "url": "https://github.com/nickmessing/babel-plugin-jsx-v-model"
+  } ]
+}, {
+  "category": "Migration",
+  "items": [ {
+    "name": "vue-backbone",
+    "url": "https://github.com/mikeapr4/vue-backbone"
+  } ]
+}, {
+  "category": "Web Sockets",
+  "items": [ {
+    "name": "vue-socket.io",
+    "url": "https://github.com/MetinSeylan/Vue-Socket.io"
+  }, {
+    "name": "vue-websocket",
+    "url": "https://github.com/icebob/vue-websocket"
+  }, {
+    "name": "vue-echo",
+    "url": "https://github.com/happyDemon/vue-echo"
+  }, {
+    "name": "vue-socket-cluster",
+    "url": "https://github.com/nigeltiany/vue-socket-cluster"
+  } ]
+}, {
+  "category": "Payment"
+}, {
+  "category": "Stripe",
+  "items": [ {
+    "name": "vue-stripe-checkout",
+    "url": "https://github.com/jofftiquez/vue-stripe-checkout"
+  }, {
+    "name": "vue-stripe-payment",
+    "url": "https://github.com/samturrell/vue-stripe-payment"
+  }, {
+    "name": "vue-disqus",
+    "url": "https://github.com/ktquez/vue-disqus"
+  }, {
+    "name": "vue-youtube-embed",
+    "url": "https://github.com/kaorun343/vue-youtube-embed"
+  }, {
+    "name": "vue-add-to-calendar",
+    "url": "https://github.com/nicolasbeauvais/vue-add-to-calendar"
+  }, {
+    "name": "Vue + Meteor",
+    "url": "https://github.com/Akryum/vue-meteor"
+  }, {
+    "name": "vue-apollo",
+    "url": "https://github.com/Akryum/vue-apollo"
+  }, {
+    "name": "av-ts",
+    "url": "https://github.com/HerringtonDarkholme/av-ts"
+  }, {
+    "name": "Neutronium",
+    "url": "https://github.com/NeutroniumCore/Neutronium"
+  }, {
+    "name": "vue-typescript-jest",
+    "url": "https://github.com/locoslab/vue-typescript-jest"
+  }, {
+    "name": "vue-jest-utils",
+    "url": "https://github.com/locoslab/vue-jest-utils"
+  }, {
+    "name": "vue-custom-element",
+    "url": "https://github.com/karol-f/vue-custom-element"
+  }, {
+    "name": "vue-cordova",
+    "url": "https://github.com/kartsims/vue-cordova"
+  }, {
+    "name": "vue-wamp",
+    "url": "https://github.com/lajosbencz/vue-wamp"
+  }, {
+    "name": "express-vue",
+    "url": "https://github.com/danmademe/express-vue"
+  }, {
+    "name": "vue-grecaptcha",
+    "url": "https://github.com/drozdzynski/vue-grecaptcha"
+  }, {
+    "name": "vue-recaptcha",
+    "url": "https://github.com/DanSnow/vue-recaptcha"
+  }, {
+    "name": "require-vuejs",
+    "url": "https://github.com/edgardleal/require-vuejs"
+  }, {
+    "name": "facebook-login-vuejs",
+    "url": "https://github.com/iliran11/facebook-login-vue.git"
+  }, {
+    "name": "vuejs/vuefire",
+    "url": "https://github.com/vuejs/vuefire"
+  }, {
+    "name": "vuefire",
+    "url": "https://github.com/nigeltiany/vuefire"
+  }, {
+    "name": "vue-runkit",
+    "url": "https://github.com/maple3142/vue-runkit"
+  }, {
+    "description": "Provides a simple layer for you to use your imagination while over the YouTube IFrame Player API",
+    "name": "vue-youtube",
+    "url": "https://github.com/anteriovieira/vue-youtube"
+  }, {
+    "description": "Integrates intro.js step-by-step guide and feature introduction with Vue.js http://introjs.com/",
+    "name": "vue-introjs",
+    "url": "https://github.com/alex-oleshkevich/vue-introjs"
+  }, {
+    "name": "vue-loopback",
+    "url": "https://github.com/InCuca/vue-loopback"
+  }, {
+    "name": "vue-laroute",
+    "url": "https://github.com/samturrell/vue-laroute"
+  } ]
+}, {
+  "category": "Google Analytics",
+  "items": [ {
+    "name": "vue-ua",
+    "url": "https://github.com/ScreamZ/vue-analytics"
+  }, {
+    "name": "vue-analytics",
+    "url": "https://github.com/MatteoGabriele/vue-analytics"
+  }, {
+    "name": "vue-gtm",
+    "url": "https://github.com/mib200/vue-gtm"
+  } ]
+}, {
+  "category": "Yandex Metrika",
+  "items": [ {
+    "name": "vue-ya-metrica",
+    "url": "https://github.com/shershen08/vue-ya-metrica"
+  }, {
+    "description": "Vue plugin for Yandex Metrika with router integration, plugin options by (@vchaptsev",
+    "name": "vue-yandex-metrika",
+    "url": "https://github.com/vchaptsev/vue-yandex-metrika"
+  }, {
+    "name": "vue-dev-server",
+    "url": "https://github.com/paulpflug/vue-dev-server"
+  }, {
+    "name": "vuepack.org",
+    "url": "http://vuepack.org"
+  }, {
+    "name": "Storybook",
+    "url": "https://storybook.js.org"
+  }, {
+    "name": "Font Awesome Finder",
+    "url": "https://chrome.google.com/webstore/detail/font-awesome-icon-finder/kjejboahkcobalmgldloeinebmbomgog"
+  }, {
+    "name": "vue-dummy",
+    "url": "https://github.com/paulcollett/vue-dummy"
+  } ]
+}, {
+  "category": "Inspect",
+  "items": [ {
+    "name": "Vue.js devtools",
+    "url": "https://github.com/vuejs/vue-devtools"
+  }, {
+    "name": "DejaVue",
+    "url": "https://github.com/MiCottOn/DejaVue"
+  }, {
+    "name": "vue-clicky",
+    "url": "https://github.com/Herteby/vue-clicky"
+  }, {
+    "name": "vuejs-logger",
+    "url": "https://github.com/justinkames/vuejs-logger"
+  }, {
+    "description": "Vue.js plugin for bugsnag",
+    "name": "vue-bugsnag",
+    "url": "https://github.com/ankurk91/vue-bugsnag"
+  } ]
+}, {
+  "category": "Docs",
+  "items": [ {
+    "name": "vue-markdown-loader",
+    "url": "https://github.com/QingWei-Li/vue-markdown-loader"
+  }, {
+    "name": "vue-play",
+    "url": "https://github.com/vue-play/vue-play"
+  }, {
+    "name": "vue-styleguide-generator",
+    "url": "https://github.com/shershen08/vue-styleguide-generator"
+  }, {
+    "name": "CheatSheet",
+    "url": "https://vuejs-tips.github.io/cheatsheet"
+  }, {
+    "name": "propdoc",
+    "url": "https://github.com/propellant/doctor"
+  }, {
+    "name": "Vuex CheatSheet",
+    "url": "https://vuejs-tips.github.io/vuex-cheatsheet"
+  }, {
+    "name": "vue-styleguidist",
+    "url": "https://github.com/vue-styleguidist/vue-styleguidist"
+  }, {
+    "name": "vue-elucidate",
+    "url": "https://github.com/mattrothenberg/vue-elucidate"
+  }, {
+    "name": "vue-md-loader",
+    "url": "https://github.com/wxsms/vue-md-loader"
+  }, {
+    "name": "@vuedoc/parser",
+    "url": "https://github.com/vuedoc/parser"
+  }, {
+    "name": "@vuedoc/md",
+    "url": "https://github.com/vuedoc/md"
+  }, {
+    "name": "jsdoc-vue-component",
+    "url": "https://github.com/ccqgithub/jsdoc-vue-component"
+  }, {
+    "name": "jsdoc-vuedoc",
+    "url": "https://github.com/ccqgithub/jsdoc-vuedoc"
+  } ]
+}, {
+  "category": "Test",
+  "items": [ {
+    "name": "avoriaz",
+    "url": "https://github.com/eddyerburgh/avoriaz"
+  }, {
+    "name": "vue-container",
+    "url": "https://github.com/dealloc/vuec"
+  }, {
+    "name": "vuenit",
+    "url": "https://github.com/jackmellis/vuenit"
+  }, {
+    "name": "vue-unit",
+    "url": "https://github.com/wrseward/vue-unit"
+  }, {
+    "name": "vue-a2b",
+    "url": "https://github.com/fromAtoB/vue-a2b"
+  }, {
+    "name": "vue-test-utils",
+    "url": "https://github.com/vuejs/vue-test-utils"
+  } ]
+}, {
+  "category": "Browser-less require",
+  "items": [ {
+    "name": "vuegister",
+    "url": "https://github.com/iatsiuk/vuegister"
+  }, {
+    "name": "vue-node",
+    "url": "https://github.com/knpwrs/vue-node"
+  } ]
+}, {
+  "category": "Source Code Editing"
+}, {
+  "category": "Atom",
+  "items": [ {
+    "name": "language-vue@atom.io",
+    "url": "https://github.com/hedefalk/atom-vue"
+  }, {
+    "name": "language-vue-component@atom.io",
+    "url": "https://github.com/CYBAI/language-vue-component"
+  }, {
+    "name": "vue-autocomplete@atom.io",
+    "url": "https://github.com/ealves-pt/atom-vue-autocomplete"
+  }, {
+    "name": "vue-snippets@atom.io",
+    "url": "https://github.com/ealves-pt/atom-vue-snippets"
+  }, {
+    "name": "vue-autocompile@atom.io",
+    "url": "https://github.com/paulpflug/vue-autocompile"
+  }, {
+    "name": "lint-sass-vue@atom.io",
+    "url": "https://github.com/fsblemos/lint-sass-vue"
+  }, {
+    "name": "vuejs2-snippets@atom.io",
+    "url": "https://github.com/CorentinAndre/Vuejs-snippets"
+  } ]
+}, {
+  "category": "Sublime Text",
+  "items": [ {
+    "name": "Vue Syntax Highlight",
+    "url": "https://github.com/vuejs/vue-syntax-highlight"
+  }, {
+    "name": "VUEFormatter",
+    "url": "https://github.com/baixuexiyang/VUEFormatter"
+  }, {
+    "name": "vuejs-sublime-complete",
+    "url": "https://github.com/BrainBuzzer/vuejs-sublime-complete"
+  }, {
+    "name": "Vue Next Formatter",
+    "url": "https://github.com/luozhihua/sublime-vue-formatter"
+  } ]
+}, {
+  "category": "Vim",
+  "items": [ {
+    "name": "Vim Vue",
+    "url": "https://github.com/posva/vim-vue"
+  } ]
+}, {
+  "category": "Visual Studio Code",
+  "items": [ {
+    "name": "Vetur",
+    "url": "https://github.com/octref/vetur"
+  } ]
+}, {
+  "category": "Visual Studio",
+  "items": [ {
+    "name": "VuePack",
+    "url": "https://github.com/madskristensen/VuePack"
+  } ]
+}, {
+  "category": "Brackets",
+  "items": [ {
+    "name": "Brackets Vue",
+    "url": "https://github.com/pandao/brackets-vue"
+  } ]
+}, {
+  "category": "Intellij",
+  "items": [ {
+    "name": "Vue.js Plugin",
+    "url": "https://github.com/postalservice14/vuejs-plugin"
+  }, {
+    "name": "Vue.js support for WebStorm",
+    "url": "https://github.com/JetBrains/intellij-plugins/tree/master/vuejs"
+  } ]
+}, {
+  "category": "Emacs",
+  "items": [ {
+    "name": "Vue Mode",
+    "url": "https://github.com/CodeFalling/vue-mode"
+  } ]
+}, {
+  "category": "Kate",
+  "items": [ {
+    "name": "Kate Syntax Files",
+    "url": "https://github.com/mtorromeo/kate-syntax-files"
+  }, {
+    "name": "vue-cli",
+    "url": "https://github.com/vuejs/vue-cli"
+  }, {
+    "name": "Vue-Django",
+    "url": "https://github.com/NdagiStanley/vue-django"
+  }, {
+    "name": "python-vuejs",
+    "url": "https://github.com/cstrap/python-vuejs"
+  }, {
+    "name": "generator-vue-plugin",
+    "url": "https://github.com/jeneser/generator-vue-plugin"
+  }, {
+    "name": "vue-seed",
+    "url": "https://github.com/dulin666/vue-seed"
+  }, {
+    "name": "nuxt-seed",
+    "url": "https://github.com/dulin666/nuxt-seed"
+  }, {
+    "name": "rails_vue_melt",
+    "url": "https://github.com/midnightSuyama/rails_vue_melt"
+  }, {
+    "name": "vue-starter",
+    "url": "https://github.com/rohitkrai03/vue-starter"
+  }, {
+    "name": "vue-standalone-component",
+    "url": "https://github.com/InCuca/vue-standalone-component"
+  }, {
+    "name": "vuejs-wordpress-theme-starter",
+    "url": "https://github.com/EvanAgee/vuejs-wordpress-theme-starter"
+  }, {
+    "name": "Cordovue",
+    "url": "https://github.com/TheMushrr00m/cordovue"
+  }, {
+    "description": "Django+VueJS+Docker customizable project generator with a large number of settings/integrations by (@vchaptsev",
+    "name": "Cookiecutter-Django-Vue",
+    "url": "https://github.com/vchaptsev/cookiecutter-django-vue"
+  } ]
+}, {
+  "category": "Client",
+  "items": [ {
+    "name": "Vue Plugin Boilerplate",
+    "url": "https://github.com/kazupon/vue-plugin-boilerplate"
+  }, {
+    "name": "Bourgeon",
+    "url": "https://github.com/rayfranco/bourgeon"
+  }, {
+    "name": "VuePack",
+    "url": "https://github.com/egoist/vuepack"
+  }, {
+    "name": "Vue Settler",
+    "url": "https://github.com/weavingbird/vue-settler"
+  }, {
+    "name": "vue-build",
+    "url": "https://github.com/brianvoe/vue-build"
+  }, {
+    "name": "Vue Element Starter",
+    "url": "https://github.com/Metnew/vue-element-starter"
+  }, {
+    "name": "vue-multiple-pages",
+    "url": "https://github.com/Plortinus/vue-multiple-pages"
+  }, {
+    "name": "vue-typescript-boilerplate",
+    "url": "https://github.com/twcapps/vue-typescript-boilerplate"
+  }, {
+    "name": "vue-tachyons-template",
+    "url": "https://github.com/colorful-tones/vue-tachyons-template"
+  }, {
+    "name": "Vuets",
+    "url": "https://github.com/AkiraLaine/Vuets"
+  }, {
+    "name": "MMF-FE/vue-typescript",
+    "url": "https://github.com/MMF-FE/vue-typescript"
+  }, {
+    "name": "Friendly Vue Starter",
+    "url": "https://github.com/mcongy/friendly-vue-starter"
+  }, {
+    "name": "vue-webpack-typescript",
+    "url": "https://github.com/ducksoupdev/vue-webpack-typescript"
+  }, {
+    "name": "vue-ts-amd",
+    "url": "https://github.com/Micene09/vue-ts-amd"
+  }, {
+    "description": "Vue 2 boilerplate for developing medium to large single page applications by petervmeijgaard",
+    "name": "vue-2-boilerplate",
+    "url": "https://github.com/petervmeijgaard/vue-2-boilerplate"
+  }, {
+    "name": "layout",
+    "url": "https://github.com/ktquez/layout"
+  }, {
+    "name": "layout-simple",
+    "url": "https://github.com/ktquez/layout-simple"
+  } ]
+}, {
+  "category": "Universal",
+  "items": [ {
+    "name": "SPA Starter Kit",
+    "url": "https://github.com/codecasts/spa-starter-kit"
+  }, {
+    "name": "SSR Boilerplate",
+    "url": "https://github.com/fenivana/vue-ssr-boilerplate"
+  }, {
+    "name": "neutrino-preset-vue-static",
+    "url": "https://github.com/shyiko/neutrino-preset-vue-static"
+  }, {
+    "name": "Vueniverse",
+    "url": "https://github.com/rlindskog/vueniverse"
+  }, {
+    "name": "vue-preload",
+    "url": "https://github.com/shershen08/vue-preload"
+  } ]
+}, {
+  "category": "Server",
+  "items": [ {
+    "name": "Vuetober",
+    "url": "https://github.com/scottbedard/oc-vuetober-theme"
+  }, {
+    "name": "Toucan",
+    "url": "https://github.com/mrellipse/toucan"
+  }, {
+    "name": "vue-server-demo",
+    "url": "https://github.com/fritx/vue-server-demo"
+  } ]
+}, {
+  "category": "Electron",
+  "items": [ {
+    "name": "Electron Vue",
+    "url": "https://github.com/SimulatedGREG/electron-vue"
+  }, {
+    "name": "VuePack",
+    "url": "https://github.com/egoist/vuepack"
+  }, {
+    "name": "vue-flexible-link",
+    "url": "https://github.com/saintplay/vue-flexible-link"
+  } ]
+}, {
+  "category": "Parts",
+  "items": [ {
+    "name": "vue-generator",
+    "url": "https://github.com/hjeti/vue-generator"
+  }, {
+    "name": "vue-component-generator",
+    "url": "https://github.com/lakb248/vue-component-generator"
+  }, {
+    "name": "rapydml_cmp",
+    "url": "https://github.com/valq7711/rapydml_cmp"
+  } ]
+}, {
+  "category": "Command Line / Terminal",
+  "items": [ {
+    "name": "blessed-vue",
+    "url": "https://github.com/lyonlai/blessed-vue"
+  }]
+} ]

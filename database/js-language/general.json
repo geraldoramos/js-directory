@@ -1,0 +1,2360 @@
+[ {
+  "category" : "Package Managers",
+  "items" : [ null, {
+    "description" : "npm is the package manager for javascript.",
+    "name" : "npm",
+    "url" : "https://www.npmjs.com/"
+  }, {
+    "description" : "A package manager for the web.",
+    "name" : "Bower",
+    "url" : "https://github.com/bower/bower"
+  }, {
+    "description" : "Client package management for building better web applications.",
+    "name" : "component",
+    "url" : "https://github.com/componentjs/component"
+  }, {
+    "description" : "Brand new static package manager.",
+    "name" : "spm",
+    "url" : "https://github.com/spmjs/spm"
+  }, {
+    "description" : "A package manager using a browser-focused and RequireJS compatible repository.",
+    "name" : "jam",
+    "url" : "https://github.com/caolan/jam"
+  }, {
+    "description" : "Frictionless browser package management.",
+    "name" : "jspm",
+    "url" : "https://github.com/jspm/jspm-cli"
+  }, {
+    "description" : "The no-library library.",
+    "name" : "Ender",
+    "url" : "https://github.com/ender-js/Ender"
+  }, {
+    "description" : "Create front end projects from templates, add dependencies, and automate the resulting projects.",
+    "name" : "volo",
+    "url" : "https://github.com/volojs/volo"
+  }, {
+    "description" : "Next-generation package manager that blends the best ideas from Component, Browserify and Go to make organizing and writing front-end code quick and painless.",
+    "name" : "Duo",
+    "url" : "https://github.com/duojs/duo"
+  }, {
+    "description" : "Fast, reliable, and secure dependency management.",
+    "name" : "yarn",
+    "url" : "https://yarnpkg.com/"
+  } ]
+}, {
+  "category" : "Loaders",
+  "items" : [ null, {
+    "description" : "A file and module loader for JavaScript.",
+    "name" : "RequireJS",
+    "url" : "https://github.com/requirejs/requirejs"
+  }, {
+    "description" : "Browser-side require() the node.js way.",
+    "name" : "browserify",
+    "url" : "https://github.com/substack/node-browserify"
+  }, {
+    "description" : "A Module Loader for the Web.",
+    "name" : "SeaJS",
+    "url" : "https://github.com/seajs/seajs"
+  }, {
+    "description" : "The only script in your HEAD.",
+    "name" : "HeadJS",
+    "url" : "https://github.com/headjs/headjs"
+  }, {
+    "description" : "A small, fast, extensible module loader that handles AMD, CommonJS Modules/1.1, CSS, HTML/text, and legacy scripts.",
+    "name" : "curl",
+    "url" : "https://github.com/cujojs/curl"
+  }, {
+    "description" : "Tiny, dependency-free async JavaScript and CSS loader.",
+    "name" : "lazyload",
+    "url" : "https://github.com/rgrove/lazyload/"
+  }, {
+    "description" : "Asyncronous JavaScript loader and dependency manager.",
+    "name" : "script.js",
+    "url" : "https://github.com/ded/script.js"
+  }, {
+    "description" : "AMD, CJS & ES6 spec-compliant module loader.",
+    "name" : "systemjs",
+    "url" : "https://github.com/systemjs/systemjs"
+  }, {
+    "description" : "Module loader based on AMD",
+    "name" : "LodJS",
+    "url" : "https://github.com/yanhaijing/lodjs"
+  }, {
+    "description" : "Module loader browser first, support lazy define and AMD.",
+    "name" : "ESL",
+    "url" : "https://github.com/ecomfe/esl"
+  }, {
+    "description" : "Lightweight JavaScript module system.",
+    "name" : "modulejs",
+    "url" : "https://github.com/lrsjng/modulejs"
+  } ]
+}, {
+  "category" : "Bundlers",
+  "items" : [ {
+    "description" : "Browserify lets you require('modules') in the browser by bundling up all of your dependencies.",
+    "name" : "browserify",
+    "url" : "https://github.com/substack/node-browserify"
+  }, {
+    "description" : "Packs CommonJs/AMD modules for the browser.",
+    "name" : "webpack",
+    "url" : "https://github.com/webpack/webpack"
+  }, {
+    "description" : "Next-generation ES6 module bundler.",
+    "name" : "Rollup",
+    "url" : "https://github.com/rollup/rollup"
+  }, {
+    "description" : "Fast front-end web app build tool with simple declarative config.",
+    "name" : "Brunch",
+    "url" : "https://github.com/brunch/brunch"
+  }, {
+    "description" : "Blazing fast, zero configuration web application bundler",
+    "name" : "Parcel",
+    "url" : "https://github.com/parcel-bundler/parcel"
+  } ]
+}, null, {
+  "category" : "Testing Frameworks",
+  "items" : [ {
+    "description" : "Simple, flexible, fun javascript test framework for node.js & the browser.",
+    "name" : "mocha",
+    "url" : "https://github.com/mochajs/mocha"
+  }, {
+    "description" : "DOM-less simple JavaScript testing framework.",
+    "name" : "jasmine",
+    "url" : "https://github.com/jasmine/jasmine"
+  }, {
+    "description" : "An easy-to-use JavaScript Unit Testing framework.",
+    "name" : "qunit",
+    "url" : "https://github.com/jquery/qunit"
+  }, {
+    "description" : "Painless Javascript Unit Testing.",
+    "name" : "jest",
+    "url" : "https://github.com/facebook/jest"
+  }, {
+    "description" : "Node & Browser test runner based on Tape and Browserify",
+    "name" : "prova",
+    "url" : "https://github.com/azer/prova"
+  }, {
+    "description" : "Automated cross browser functional testing with JavaScript",
+    "name" : "DalekJS",
+    "url" : "https://github.com/dalekjs/dalek"
+  }, {
+    "description" : "Protractor is an end-to-end test framework for AngularJS applications.",
+    "name" : "Protractor",
+    "url" : "https://github.com/angular/protractor"
+  }, {
+    "description" : "Tap-producing test harness for node and browsers.",
+    "name" : "tape",
+    "url" : "https://github.com/substack/tape"
+  }, {
+    "description" : "Automated browser testing for the modern web development stack.",
+    "name" : "TestCafe",
+    "url" : "https://github.com/DevExpress/testcafe"
+  }, {
+    "description" : "🚀 Futuristic JavaScript test runner",
+    "name" : "ava",
+    "url" : "https://github.com/avajs/ava"
+  } ]
+}, {
+  "category" : "Assertion",
+  "items" : [ {
+    "description" : "BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.",
+    "name" : "chai",
+    "url" : "https://github.com/chaijs/chai"
+  }, {
+    "description" : "Enzyme is a JavaScript Testing utility for React that makes it easier to assert, manipulate, and traverse your React Components' output.",
+    "name" : "Enzyme",
+    "url" : "http://airbnb.io/enzyme/index.html"
+  }, {
+    "description" : "Test spies, stubs, and mocks for JavaScript.",
+    "name" : "Sinon.JS",
+    "url" : "https://github.com/sinonjs/sinon"
+  }, {
+    "description" : "Minimalistic BDD-style assertions for Node.JS and the browser.",
+    "name" : "expect.js",
+    "url" : "https://github.com/Automattic/expect.js"
+  } ]
+}, {
+  "category" : "Coverage",
+  "items" : [ {
+    "description" : "Yet another JS code coverage tool.",
+    "name" : "istanbul",
+    "url" : "https://github.com/gotwarlost/istanbul"
+  }, {
+    "description" : "A simple code coverage library for javascript. Designed to be easy to install and use, for both browser and nodejs.",
+    "name" : "blanket",
+    "url" : "https://github.com/alex-seville/blanket"
+  }, {
+    "description" : "JSCover is a tool that measures code coverage for JavaScript programs.",
+    "name" : "JSCover",
+    "url" : "https://github.com/tntim96/JSCover"
+  } ]
+}, {
+  "category" : "Runner",
+  "items" : [ {
+    "description" : "Scriptable Headless WebKit.",
+    "name" : "phantomjs",
+    "url" : "https://github.com/ariya/phantomjs"
+  }, {
+    "description" : "A PhantomJS-like tool running Gecko.",
+    "name" : "slimerjs",
+    "url" : "https://github.com/laurentj/slimerjs"
+  }, {
+    "description" : "Navigation scripting & testing utility for PhantomJS and SlimerJS.",
+    "name" : "casperjs",
+    "url" : "https://github.com/casperjs/casperjs"
+  }, {
+    "description" : "Insanely fast, full-stack, headless browser testing using node.js.",
+    "name" : "zombie",
+    "url" : "https://github.com/assaf/zombie"
+  }, {
+    "description" : "A simple and stable cross-browser testing tool.",
+    "name" : "totoro",
+    "url" : "https://github.com/totorojs/totoro"
+  }, {
+    "description" : "Spectacular Test Runner for JavaScript.",
+    "name" : "karma",
+    "url" : "https://github.com/karma-runner/karma"
+  }, {
+    "description" : "UI automated testing framework based on node.js and selenium webdriver.",
+    "name" : "nightwatch",
+    "url" : "https://github.com/nightwatchjs/nightwatch"
+  }, {
+    "description" : "A next-generation code testing stack for JavaScript.",
+    "name" : "intern",
+    "url" : "https://github.com/theintern/intern"
+  }, {
+    "description" : "A statement-by-statement javascript interpreter in the browser.",
+    "name" : "yolpo",
+    "url" : "http://www.yolpo.com"
+  } ]
+}, {
+  "category" : "QA Tools",
+  "items" : [ {
+    "description" : "Prettier is an opinionated code formatter.",
+    "name" : "prettier",
+    "url" : "https://github.com/prettier/prettier"
+  }, {
+    "description" : "JSHint is a tool that helps to detect errors and potential problems in your JavaScript code.",
+    "name" : "JSHint",
+    "url" : "https://github.com/jshint/jshint/"
+  }, {
+    "description" : "JavaScript Code Style checker.",
+    "name" : "jscs",
+    "url" : "https://github.com/jscs-dev/node-jscs"
+  }, {
+    "description" : "For formatting, searching, and rewriting JavaScript.",
+    "name" : "jsfmt",
+    "url" : "https://github.com/rdio/jsfmt"
+  }, {
+    "description" : "Detect copy-pasted and structurally similar code.",
+    "name" : "jsinspect",
+    "url" : "https://github.com/danielstjules/jsinspect"
+  }, {
+    "description" : "Magic number detection for JavaScript.",
+    "name" : "buddy.js",
+    "url" : "https://github.com/danielstjules/buddy.js"
+  }, {
+    "description" : "A fully pluggable tool for identifying and reporting on patterns in JavaScript.",
+    "name" : "ESLint",
+    "url" : "https://github.com/eslint/eslint"
+  }, {
+    "description" : "High-standards, strict & opinionated code quality tool, aiming to keep only good parts of the language.",
+    "name" : "JSLint",
+    "url" : "https://github.com/douglascrockford/JSLint"
+  } ]
+}, {
+  "category" : "MVC Frameworks and Libraries",
+  "items" : [ {
+    "description" : "HTML enhanced for web apps.",
+    "name" : "angular.js",
+    "url" : "https://github.com/angular/angular.js"
+  }, {
+    "description" : "A Javascript client framework for mobile, desktop and web.",
+    "name" : "aurelia",
+    "url" : "http://aurelia.io"
+  }, {
+    "description" : "Give your JS App some Backbone with Models, Views, Collections, and Events.",
+    "name" : "backbone",
+    "url" : "https://github.com/jashkenas/backbone"
+  }, {
+    "description" : "A JavaScript framework for creating ambitious web applications.",
+    "name" : "ember.js",
+    "url" : "https://github.com/emberjs/ember.js"
+  }, {
+    "description" : "An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework.",
+    "name" : "meteor",
+    "url" : "https://github.com/meteor/meteor"
+  }, {
+    "description" : "Next-generation DOM manipulation.",
+    "name" : "ractive",
+    "url" : "https://github.com/ractivejs/ractive"
+  }, {
+    "description" : "Intuitive, fast & composable MVVM for building interactive interfaces.",
+    "name" : "vue",
+    "url" : "https://github.com/vuejs/vue"
+  }, {
+    "description" : "Knockout makes it easier to create rich, responsive UIs with JavaScript.",
+    "name" : "knockout",
+    "url" : "https://github.com/knockout/knockout"
+  }, {
+    "description" : "Lightweight MVC library for building JavaScript applications.",
+    "name" : "spine",
+    "url" : "https://github.com/spine/spine"
+  }, {
+    "description" : "A minimal javascript library for crafting user interfaces.",
+    "name" : "espresso.js",
+    "url" : "https://github.com/techlayer/espresso.js"
+  }, {
+    "description" : "Can do JS, better, faster, easier.",
+    "name" : "canjs",
+    "url" : "https://github.com/canjs/canjs"
+  }, {
+    "description" : "A library for building user interfaces. It's declarative, efficient, and extremely flexible. Works with a Virtual DOM.",
+    "name" : "react",
+    "url" : "https://facebook.github.io/react/"
+  }, {
+    "description" : "1kb JavaScript library for building frontend applications. ",
+    "name" : "hyperapp",
+    "url" : "https://github.com/hyperapp/hyperapp"
+  }, {
+    "description" : "Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.",
+    "name" : "preact",
+    "url" : "https://github.com/developit/preact"
+  }, {
+    "description" : "Build truly native cross-platform iOS and Android apps with JavaScript",
+    "name" : "nativescript",
+    "url" : "https://github.com/NativeScript/NativeScript"
+  }, {
+    "description" : "A framework for building native apps with React.",
+    "name" : "react-native",
+    "url" : "https://github.com/facebook/react-native"
+  }, {
+    "description" : "React-like library, but with very small size.",
+    "name" : "riot",
+    "url" : "https://github.com/riot/riot"
+  }, {
+    "description" : "Strengthening your Backbone.",
+    "name" : "thorax",
+    "url" : "https://github.com/walmartlabs/thorax"
+  }, {
+    "description" : "An architecture for JavaScript applications using the Backbone.js library.",
+    "name" : "chaplin",
+    "url" : "https://github.com/chaplinjs/chaplin"
+  }, {
+    "description" : "A composite application library for Backbone.js that aims to simplify the construction of large scale JavaScript applications.",
+    "name" : "marionette",
+    "url" : "https://github.com/marionettejs/backbone.marionette"
+  }, {
+    "description" : "A tiny foundation for building reactive views.",
+    "name" : "ripple",
+    "url" : "https://github.com/ripplejs/ripple"
+  }, {
+    "description" : "Lightweight and powerful data binding + templating solution.",
+    "name" : "rivets",
+    "url" : "https://github.com/mikeric/rivets"
+  }, {
+    "description" : "MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers.",
+    "name" : "derby",
+    "url" : "https://github.com/derbyjs/derby"
+  }, {
+    "description" : "A collection of awesome derby components",
+    "name" : "derby-awesome",
+    "url" : "https://github.com/russll/awesome-derby"
+  }, {
+    "description" : "Simple, lightweight, persistent two-way databinding.",
+    "name" : "way.js",
+    "url" : "https://github.com/gwendall/way.js"
+  }, {
+    "description" : "Mithril is a client-side MVC framework (Light-weight, Robust, Fast).",
+    "name" : "mithril.js",
+    "url" : "https://github.com/lhorie/mithril.js"
+  }, {
+    "description" : "jsblocks is better MV-ish framework.",
+    "name" : "jsblocks",
+    "url" : "https://github.com/astoilkov/jsblocks"
+  }, {
+    "description" : "Transparent MVC framework for building user interfaces.",
+    "name" : "LiquidLava",
+    "url" : "http://www.lava-framework.com/"
+  }, {
+    "description" : "A minimalist real-time JavaScript framework for tomorrow's apps.",
+    "name" : "feathers",
+    "url" : "https://github.com/feathersjs/feathers"
+  }, {
+    "description" : "Functional stateless React components with Shadow DOM support.",
+    "name" : "Keo",
+    "url" : "https://github.com/Wildhoney/Keo"
+  } ]
+}, {
+  "category" : "Node-Powered CMS Frameworks",
+  "items" : [ {
+    "description" : "powerful CMS and web app framework",
+    "name" : "KeystoneJS",
+    "url" : "https://github.com/keystonejs/keystone"
+  }, {
+    "description" : "reactive CMS, real-time architecture and design",
+    "name" : "Reaction Commerce",
+    "url" : "https://github.com/reactioncommerce/reaction"
+  }, {
+    "description" : "simple, powerful publishing platform",
+    "name" : "Ghost",
+    "url" : "https://github.com/tryghost/Ghost"
+  }, {
+    "description" : "CMS with content editing and essential services",
+    "name" : "Apostrophe",
+    "url" : "https://github.com/punkave/apostrophe"
+  }, {
+    "description" : "framework for real time apps, sites or blogs",
+    "name" : "We.js",
+    "url" : "https://github.com/wejs/we/"
+  }, {
+    "description" : "CMS platform with social features.",
+    "name" : "Hatch.js",
+    "url" : "https://github.com/inventures/hatchjs"
+  }, {
+    "description" : "fast and minimalist CMS based on Node.js.",
+    "name" : "TaracotJS",
+    "url" : "https://github.com/xtremespb/taracotjs-generator/"
+  }, {
+    "description" : "CMS for CoffeeScript lovers",
+    "name" : "Nodizecms",
+    "url" : "https://github.com/nodize/nodizecms"
+  }, {
+    "description" : "CMS with WSYWYG editor",
+    "name" : "Cody",
+    "url" : "https://github.com/jcoppieters/cody"
+  }, {
+    "description" : "CMS and blogging platform",
+    "name" : "PencilBlue",
+    "url" : "https://github.com/pencilblue/pencilblue/"
+  } ]
+}, {
+  "category" : "Templating Engines",
+  "items" : [ null, {
+    "description" : "Minimal templating with {{mustaches}} in JavaScript.",
+    "name" : "mustache.js",
+    "url" : "https://github.com/janl/mustache.js"
+  }, {
+    "description" : "An extension to the Mustache templating language.",
+    "name" : "handlebars.js",
+    "url" : "https://github.com/wycats/handlebars.js/"
+  }, {
+    "description" : "A compiler for the Mustache templating language.",
+    "name" : "hogan.js",
+    "url" : "https://github.com/twitter/hogan.js"
+  }, {
+    "description" : "The fastest + concise javascript template engine for nodejs and browsers.",
+    "name" : "doT",
+    "url" : "https://github.com/olado/doT"
+  }, {
+    "description" : "Asynchronous templates for the browser and node.js.",
+    "name" : "dustjs",
+    "url" : "https://github.com/linkedin/dustjs/"
+  }, {
+    "description" : "Embedded CoffeeScript templates.",
+    "name" : "eco",
+    "url" : "https://github.com/sstephenson/eco/"
+  }, {
+    "description" : "< 1KB lightweight, fast & powerful JavaScript templating engine with zero dependencies.",
+    "name" : "JavaScript-Templates",
+    "url" : "https://github.com/blueimp/JavaScript-Templates"
+  }, {
+    "description" : "A tiny javascript templating framework in ~400 bytes gzipped.",
+    "name" : "t.js",
+    "url" : "https://github.com/jasonmoo/t.js"
+  }, {
+    "description" : "Robust, elegant, feature rich template engine for nodejs. (formerly known as Jade)",
+    "name" : "Pug",
+    "url" : "https://github.com/pugjs/pug"
+  }, {
+    "description" : "Effective JavaScript templating.",
+    "name" : "EJS",
+    "url" : "https://github.com/mde/ejs"
+  }, {
+    "description" : "eXtensible Template Engine lib for node and the browser",
+    "name" : "xtemplate",
+    "url" : "https://github.com/xtemplate/xtemplate"
+  }, {
+    "description" : "A fast, lightweight, HTML-based templating engine for Node.js and the browser with async, streaming, custom tags and CommonJS modules as compiled output.",
+    "name" : "marko",
+    "url" : "https://github.com/marko-js/marko"
+  }, {
+    "description" : "A simple, powerful, and extendable Node.js and browser-based JavaScript template engine.",
+    "name" : "swig",
+    "url" : "http://paularmstrong.github.io/swig/"
+  } ]
+}, {
+  "category" : "Articles and Posts",
+  "items" : [ {
+    "description" : "Article about concepts of JavaScript Functional.",
+    "name" : "The JavaScript that you should know",
+    "url" : "https://medium.com/@pedropolisenso/o-javasscript-que-você-deveria-conhecer-b70e94d1d706"
+  } ]
+}, {
+  "category" : "Data Visualization",
+  "items" : [ null, {
+    "description" : "A JavaScript visualization library for HTML and SVG.",
+    "name" : "d3",
+    "url" : "https://github.com/d3/d3"
+  }, {
+    "description" : "A library optimized for concise, principled data graphics and layouts.",
+    "name" : "metrics-graphics",
+    "url" : "https://github.com/mozilla/metrics-graphics"
+  }, {
+    "description" : "Well designed d3.js charting without the complexity of d3.js.",
+    "name" : "pykcharts.js",
+    "url" : "https://github.com/pykih/PykCharts.js"
+  }, {
+    "description" : "JavaScript 3D library.",
+    "name" : "three.js",
+    "url" : "https://github.com/mrdoob/three.js"
+  }, {
+    "description" : "Simple HTML5 Charts using the <canvas> tag.",
+    "name" : "Chart.js",
+    "url" : "https://github.com/chartjs/Chart.js"
+  }, {
+    "description" : "The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.",
+    "name" : "paper.js",
+    "url" : "https://github.com/paperjs/paper.js"
+  }, {
+    "description" : "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser.",
+    "name" : "fabric.js",
+    "url" : "https://github.com/kangax/fabric.js"
+  }, {
+    "description" : "Progressive <svg> bar, line and pie charts.",
+    "name" : "peity",
+    "url" : "https://github.com/benpickles/peity"
+  }, {
+    "description" : "JavaScript Vector Library.",
+    "name" : "raphael",
+    "url" : "https://github.com/DmitryBaranovskiy/raphael"
+  }, {
+    "description" : "Enterprise Charts.",
+    "name" : "echarts",
+    "url" : "https://github.com/ecomfe/echarts"
+  }, {
+    "description" : "Dynamic, browser-based visualization library.",
+    "name" : "vis",
+    "url" : "https://github.com/almende/vis"
+  }, {
+    "description" : "A renderer agnostic two-dimensional drawing api for the web.",
+    "name" : "two.js",
+    "url" : "https://github.com/jonobr1/two.js"
+  }, {
+    "description" : "Charts for Raphaël.",
+    "name" : "g.raphael",
+    "url" : "https://github.com/DmitryBaranovskiy/g.raphael"
+  }, {
+    "description" : "A JavaScript library dedicated to graph drawing.",
+    "name" : "sigma.js",
+    "url" : "https://github.com/jacomyal/sigma.js"
+  }, {
+    "description" : "A graph visualization library using web workers and jQuery.",
+    "name" : "arbor",
+    "url" : "https://github.com/samizdatco/arbor"
+  }, {
+    "description" : "A D3 plugin for visualizing time series.",
+    "name" : "cubism",
+    "url" : "https://github.com/square/cubism"
+  }, {
+    "description" : "Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js",
+    "name" : "dc.js",
+    "url" : "https://github.com/dc-js/dc.js"
+  }, {
+    "description" : "A visualization grammar.",
+    "name" : "vega",
+    "url" : "https://github.com/trifacta/vega"
+  }, {
+    "description" : "Processing.js makes your data visualizations work using web standards and without any plug-ins",
+    "name" : "processing.js",
+    "url" : "http://processingjs.org/"
+  }, {
+    "description" : "Dynamic HTML5 visualization.",
+    "name" : "envisionjs",
+    "url" : "https://github.com/HumbleSoftware/envisionjs"
+  }, {
+    "description" : "JavaScript toolkit for creating interactive real-time graphs.",
+    "name" : "rickshaw",
+    "url" : "https://github.com/shutterstock/rickshaw"
+  }, {
+    "description" : "Attractive JavaScript charts for jQuery.",
+    "name" : "flot",
+    "url" : "https://github.com/flot/flot"
+  }, {
+    "description" : "Pretty time-series line graphs.",
+    "name" : "morris.js",
+    "url" : "https://github.com/morrisjs/morris.js"
+  }, {
+    "description" : "Build re-usable charts and chart components for d3.js",
+    "name" : "nvd3",
+    "url" : "https://github.com/novus/nvd3"
+  }, {
+    "description" : "A lightweight library for manipulating and animating SVG.",
+    "name" : "svg.js",
+    "url" : "https://github.com/wout/svg.js"
+  }, {
+    "description" : "JavaScript Library for HTML5 canvas based heatmaps.",
+    "name" : "heatmap.js",
+    "url" : "https://github.com/pa7/heatmap.js"
+  }, {
+    "description" : "A plugin for the jQuery javascript library to generate small sparkline charts directly in the browser.",
+    "name" : "jquery.sparkline",
+    "url" : "https://github.com/gwatts/jquery.sparkline"
+  }, {
+    "description" : "A D3-based library for building custom charts and graphs.",
+    "name" : "xCharts",
+    "url" : "https://github.com/tenxer/xCharts"
+  }, {
+    "description" : "Low poly style background generator with d3.js",
+    "name" : "trianglify",
+    "url" : "https://github.com/qrohlf/trianglify"
+  }, {
+    "description" : "Create word clouds in JavaScript.",
+    "name" : "d3-cloud",
+    "url" : "https://github.com/jasondavies/d3-cloud"
+  }, {
+    "description" : "A friendly reusable charts DSL for D3.",
+    "name" : "d4",
+    "url" : "https://github.com/heavysixer/d4"
+  }, {
+    "description" : " Easy charts for business analytics powered by d3",
+    "name" : "dimple.js",
+    "url" : "http://dimplejs.org"
+  }, {
+    "description" : "Simple responsive charts.",
+    "name" : "chartist-js",
+    "url" : "https://github.com/gionkunz/chartist-js"
+  }, {
+    "description" : "A general purpose real-time charting library.",
+    "name" : "epoch",
+    "url" : "https://github.com/epochjs/epoch"
+  }, {
+    "description" : "D3-based reusable chart library.",
+    "name" : "c3",
+    "url" : "https://github.com/c3js/c3"
+  }, {
+    "description" : "A framework for building 3D games with HTML 5 and WebGL.",
+    "name" : "BabylonJS",
+    "url" : "https://github.com/BabylonJS/Babylon.js"
+  }, {
+    "description" : "Redefined chart library built with React and D3",
+    "name" : "recharts",
+    "url" : "https://github.com/recharts/recharts"
+  }, {
+    "description" : "A lightweight JavaScript graphics library with the intuitive API, based on SVG/VML technology.",
+    "name" : "GraphicsJS",
+    "url" : "https://www.graphicsjs.org"
+  }, {
+    "name" : "amchart",
+    "url" : "https://www.amcharts.com/"
+  } ]
+}, {
+  "category" : "Timeline",
+  "items" : [ {
+    "description" : "A Storytelling Timeline built in JavaScript.",
+    "name" : "TimelineJS",
+    "url" : "https://github.com/NUKnightLab/TimelineJS"
+  }, {
+    "description" : "JavaScript library for simple HTML5 & CSS3 time sheets.",
+    "name" : "timesheet.js",
+    "url" : "https://github.com/semu/timesheet.js"
+  } ]
+}, {
+  "category" : "Spreadsheet",
+  "items" : [ {
+    "description" : "Handsontable is a JavaScript/HTML5 Spreadsheet Library for Developers",
+    "name" : "HANDSONTABLE",
+    "url" : "https://github.com/handsontable/handsontable"
+  } ]
+}, {
+  "category" : "Editors",
+  "items" : [ {
+    "description" : "Ace (Ajax.org Cloud9 Editor).",
+    "name" : "ace",
+    "url" : "https://github.com/ajaxorg/ace"
+  }, {
+    "description" : "In-browser code editor.",
+    "name" : "CodeMirror",
+    "url" : "https://github.com/codemirror/CodeMirror"
+  }, {
+    "description" : "ECMAScript parsing infrastructure for multipurpose analysis.",
+    "name" : "esprima",
+    "url" : "https://github.com/ariya/esprima"
+  }, {
+    "description" : "A cross browser rich text editor with an API.",
+    "name" : "quill",
+    "url" : "https://github.com/quilljs/quill"
+  }, {
+    "description" : "Medium.com WYSIWYG editor clone.",
+    "name" : "medium-editor",
+    "url" : "https://github.com/yabwe/medium-editor"
+  }, {
+    "description" : "enjoy live editing (+markdown).",
+    "name" : "pen",
+    "url" : "https://github.com/sofish/pen"
+  }, {
+    "description" : "A simple, clean and elegant text editor. Inspired by the awesomeness of Medium.",
+    "name" : "jquery-notebook",
+    "url" : "https://github.com/raphaelcruzeiro/jquery-notebook"
+  }, {
+    "description" : "Tiny bootstrap-compatible WYSIWYG rich text editor.",
+    "name" : "bootstrap-wysiwyg",
+    "url" : "https://github.com/mindmup/bootstrap-wysiwyg"
+  }, {
+    "description" : "The best web text editor for everyone.",
+    "name" : "ckeditor-releases",
+    "url" : "https://github.com/ckeditor/ckeditor-releases"
+  }, {
+    "description" : "A markdown editor. still on development.",
+    "name" : "editor",
+    "url" : "https://github.com/lepture/editor"
+  }, {
+    "description" : "An embeddable JavaScript Markdown editor with split fullscreen editing, live previewing, automatic draft saving, offline support, and more.",
+    "name" : "EpicEditor",
+    "url" : "https://github.com/OscarGodson/EpicEditor"
+  }, {
+    "description" : "A web-based tool to view, edit and format JSON.",
+    "name" : "jsoneditor",
+    "url" : "https://github.com/josdejong/jsoneditor"
+  }, {
+    "description" : "JavaScript port of Vim with a persistent ~/.vimrc",
+    "name" : "vim.js",
+    "url" : "https://github.com/coolwanglu/vim.js"
+  }, {
+    "description" : "HTML5 rich text editor.",
+    "name" : "Squire",
+    "url" : "https://github.com/neilj/Squire"
+  }, {
+    "description" : "The JavaScript Rich Text editor.",
+    "name" : "TinyMCE",
+    "url" : "https://github.com/tinymce/tinymce"
+  }, {
+    "description" : "A rich text editor for everyday writing. By Basecamp.",
+    "name" : "trix",
+    "url" : "https://github.com/basecamp/trix"
+  }, {
+    "description" : "A lightweight and amazing WYSIWYG JavaScript editor.",
+    "name" : "Trumbowyg",
+    "url" : "https://github.com/Alex-D/Trumbowyg"
+  }, {
+    "description" : "A React framework for building text editors.",
+    "name" : "Draft.js",
+    "url" : "https://github.com/facebook/draft-js"
+  }, {
+    "description" : "Simple, beautiful wysiwyg editor",
+    "name" : "bootstrap-wysihtml5",
+    "url" : "https://github.com/jhollingworth/bootstrap-wysihtml5"
+  }, {
+    "description" : "Open source rich text editor based on HTML5 and the progressive-enhancement approach. Uses a sophisticated security concept and aims to generate fully valid HTML5 markup by preventing unmaintainable tag soups and inline styles.",
+    "name" : "wysihtml5",
+    "url" : "https://github.com/xing/wysihtml5"
+  }, {
+    "description" : "Raptor, an HTML5 WYSIWYG content editor!",
+    "name" : "raptor-editor",
+    "url" : "https://github.com/PANmedia/raptor-editor"
+  }, {
+    "description" : "Popline is an HTML5 Rich-Text-Editor Toolbar",
+    "name" : "popline",
+    "url" : "https://github.com/kenshin54/popline"
+  } ]
+}, {
+  "category" : "Documentation",
+  "items" : [ {
+    "name" : "DevDocs",
+    "url" : "http://devdocs.io/"
+  }, {
+    "name" : "dexy",
+    "url" : "http://www.dexy.it/"
+  }, {
+    "name" : "docco",
+    "url" : "http://jashkenas.github.io/docco/"
+  }, {
+    "name" : "styledocco",
+    "url" : "http://jacobrask.github.io/styledocco/"
+  }, {
+    "name" : "Ronn",
+    "url" : "https://github.com/rtomayko/ronn"
+  }, {
+    "name" : "dox",
+    "url" : "https://github.com/tj/dox"
+  }, {
+    "name" : "jsdox",
+    "url" : "https://github.com/sutoiku/jsdox"
+  }, {
+    "name" : "ESDoc",
+    "url" : "https://github.com/esdoc/esdoc"
+  }, {
+    "name" : "YUIDoc",
+    "url" : "http://yui.github.io/yuidoc/"
+  }, {
+    "name" : "coddoc",
+    "url" : "http://doug-martin.github.io/coddoc/"
+  }, {
+    "name" : "sphinx",
+    "url" : "http://www.sphinx-doc.org/"
+  }, {
+    "name" : "Using JSDoc",
+    "url" : "http://usejsdoc.org/"
+  }, {
+    "name" : "Beautiful docs",
+    "url" : "http://beautifuldocs.com/"
+  }, {
+    "description" : "API documentation generator with support for ES2015+ and flow annotation.",
+    "name" : "documentation.js",
+    "url" : "http://documentation.js.org"
+  }, {
+    "description" : "API documentation generator made for Sencha JavaScript frameworks, but can be used for other frameworks too.",
+    "name" : "jsduck",
+    "url" : "https://github.com/senchalabs/jsduck"
+  } ]
+}, {
+  "category" : "Files",
+  "items" : [ null, {
+    "description" : "A powerful CSV library that supports parsing CSV files/strings and also exporting to CSV.",
+    "name" : "Papa Parse",
+    "url" : "https://github.com/mholt/PapaParse"
+  }, {
+    "description" : "High-level I/O (loading, parsing, manipulating, serializing, saving) for binary files with declarative syntax for describing file types and data structures.",
+    "name" : "jBinary",
+    "url" : "https://github.com/jDataView/jBinary"
+  }, {
+    "description" : "Git diff output parser and pretty HTML generator.",
+    "name" : "diff2html",
+    "url" : "https://github.com/rtfpessoa/diff2html"
+  }, {
+    "description" : "JavaScript PDF generation.",
+    "name" : "jsPDF",
+    "url" : "https://github.com/MrRio/jsPDF"
+  } ]
+}, {
+  "category" : "Functional Programming",
+  "items" : [ null, {
+    "description" : "JavaScript's utility _ belt.",
+    "name" : "underscore",
+    "url" : "https://github.com/jashkenas/underscore"
+  }, {
+    "description" : "A utility library delivering consistency, customization, performance, & extras.",
+    "name" : "lodash",
+    "url" : "https://github.com/lodash/lodash"
+  }, {
+    "description" : "A Javascript library for working with native objects.",
+    "name" : "Sugar",
+    "url" : "https://github.com/andrewplummer/Sugar"
+  }, {
+    "description" : "Like Underscore, but lazier.",
+    "name" : "lazy.js",
+    "url" : "https://github.com/dtao/lazy.js"
+  }, {
+    "description" : "A practical functional library for Javascript programmers.",
+    "name" : "ramda",
+    "url" : "https://github.com/CrossEye/ramda"
+  }, {
+    "description" : "Modular JavaScript Utilities.",
+    "name" : "mout",
+    "url" : "https://github.com/mout/mout"
+  }, {
+    "description" : "Streamable data synchronization utility.",
+    "name" : "mesh",
+    "url" : "https://github.com/crcn/mesh.js"
+  }, {
+    "description" : "Hardcore Functional Programming for JavaScript.",
+    "name" : "preludejs",
+    "url" : "https://github.com/alanrsoares/prelude-js"
+  } ]
+}, {
+  "category" : "Reactive Programming",
+  "items" : [ null, {
+    "description" : "The Reactive Extensions for JavaScript.",
+    "name" : "RxJs",
+    "url" : "https://github.com/Reactive-Extensions/RxJS"
+  }, {
+    "description" : "FRP (functional reactive programming) library for Javascript.",
+    "name" : "Bacon",
+    "url" : "https://github.com/baconjs/bacon.js"
+  }, {
+    "description" : "FRP library for JavaScript inspired by Bacon.js and RxJS with focus on high performance and low memory consumption.",
+    "name" : "Kefir",
+    "url" : "https://github.com/pozadi/kefir"
+  }, {
+    "description" : "Re-thinking the JavaScript utility belt, Highland manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.",
+    "name" : "Highland",
+    "url" : "http://highlandjs.org/"
+  }, {
+    "description" : "high performance FRP library.",
+    "name" : "Most.js",
+    "url" : "https://github.com/cujojs/most"
+  }, {
+    "description" : "TFRP library for simple, scalable state management.",
+    "name" : "MobX",
+    "url" : "https://github.com/mobxjs/mobx"
+  }, {
+    "description" : "A functional and reactive JavaScript library for cleaner code.",
+    "name" : "Cycle.js",
+    "url" : "https://cycle.js.org"
+  } ]
+}, {
+  "category" : "Data Structure",
+  "items" : [ null, {
+    "description" : "Immutable Data Collections including Sequence, Range, Repeat, Map, OrderedMap, Set and a sparse Vector.",
+    "name" : "immutable-js",
+    "url" : "https://github.com/facebook/immutable-js"
+  }, {
+    "description" : "A library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.",
+    "name" : "mori",
+    "url" : "https://github.com/swannodette/mori"
+  }, {
+    "description" : "A complete, fully tested and documented data structure library written in JavaScript.",
+    "name" : "buckets",
+    "url" : "https://github.com/mauriciosantos/Buckets-JS"
+  }, {
+    "description" : "Simple hashmap implementation that supports any kind of keys.",
+    "name" : "hashmap",
+    "url" : "https://github.com/flesler/hashmap"
+  } ]
+}, {
+  "category" : "Date",
+  "items" : [ null, {
+    "description" : "Parse, validate, manipulate, and display dates in javascript.",
+    "name" : "moment",
+    "url" : "https://github.com/moment/moment"
+  }, {
+    "description" : "Timezone support for moment.js.",
+    "name" : "moment-timezone",
+    "url" : "https://github.com/moment/moment-timezone"
+  }, {
+    "description" : "A jQuery plugin that makes it easy to support automatically updating fuzzy timestamps (e.g. \"4 minutes ago\").",
+    "name" : "jquery-timeago",
+    "url" : "https://github.com/rmm5t/jquery-timeago"
+  }, {
+    "description" : "Timezone-enabled JavaScript Date object. Uses Olson zoneinfo files for timezone data.",
+    "name" : "timezone-js",
+    "url" : "https://github.com/mde/timezone-js"
+  }, {
+    "description" : "Date() for humans.",
+    "name" : "date",
+    "url" : "https://github.com/MatthewMueller/date"
+  }, {
+    "description" : "Tiny millisecond conversion utility.",
+    "name" : "ms.js",
+    "url" : "https://github.com/rauchg/ms.js"
+  }, {
+    "description" : "Super simple countdowns.",
+    "name" : "countdown.js",
+    "url" : "https://github.com/gumroad/countdown.js"
+  }, {
+    "description" : "Simple library (less then 2kb) used to format date with *** time ago statement.",
+    "name" : "timeago.js",
+    "url" : "https://github.com/hustcc/timeago.js"
+  }, {
+    "description" : "Lightweight date formatting and parsing (~2KB). Meant to replace parsing and formatting functionality of moment.js.",
+    "name" : "fecha",
+    "url" : "https://github.com/taylorhakes/fecha"
+  } ]
+}, {
+  "category" : "String",
+  "items" : [ null, {
+    "description" : "The ultimate JavaScript string library",
+    "name" : "voca",
+    "url" : "https://github.com/panzerdp/voca"
+  }, {
+    "description" : "A library that allows you to access the text selected by the user",
+    "name" : "selecting",
+    "url" : "https://github.com/EvandroLG/selecting"
+  }, {
+    "description" : "String manipulation extensions for Underscore.js javascript library.",
+    "name" : "underscore.string",
+    "url" : "https://github.com/epeli/underscore.string"
+  }, {
+    "description" : "Extra JavaScript string methods.",
+    "name" : "string.js",
+    "url" : "https://github.com/jprichardson/string.js"
+  }, {
+    "description" : "A robust HTML entity encoder/decoder written in JavaScript.",
+    "name" : "he",
+    "url" : "https://github.com/mathiasbynens/he"
+  }, {
+    "description" : "Multiline strings in JavaScript.",
+    "name" : "multiline",
+    "url" : "https://github.com/sindresorhus/multiline"
+  }, {
+    "description" : "Parse and stringify URL query strings.",
+    "name" : "query-string",
+    "url" : "https://github.com/sindresorhus/query-string"
+  }, {
+    "description" : "Javascript URL mutation library.",
+    "name" : "URI.js",
+    "url" : "https://github.com/medialize/URI.js/"
+  }, {
+    "description" : "Lightweight URL manipulation with JavaScript.",
+    "name" : "jsurl",
+    "url" : "https://github.com/Mikhus/domurl"
+  }, {
+    "description" : "A sprintf implementation.",
+    "name" : "sprintf.js",
+    "url" : "https://github.com/alexei/sprintf.js"
+  }, {
+    "description" : "Easier than regex string matching patterns for urls and other strings. Turn strings into data or data into strings",
+    "name" : "url-pattern",
+    "url" : "https://github.com/snd/url-pattern"
+  } ]
+}, {
+  "category" : "Number",
+  "items" : [ {
+    "description" : "A javascript library for formatting and manipulating numbers.",
+    "name" : "Numeral-js",
+    "url" : "https://github.com/adamwdraper/Numeral-js"
+  }, {
+    "description" : "Random generator helper in Javascript. Can generate numbers, strings etc.",
+    "name" : "chance.js",
+    "url" : "https://github.com/chancejs/chancejs"
+  }, {
+    "description" : "Smoothly transitions numbers with ease.",
+    "name" : "odometer",
+    "url" : "https://github.com/HubSpot/odometer"
+  }, {
+    "description" : "A lightweight JavaScript library for number, money and currency formatting - fully localisable, zero dependencies.",
+    "name" : "accounting.js",
+    "url" : "https://github.com/josscrowcroft/accounting.js"
+  }, {
+    "description" : "A tiny (1kb) javascript currency conversion library, for web & nodeJS.",
+    "name" : "money.js",
+    "url" : "https://github.com/josscrowcroft/money.js"
+  }, {
+    "description" : "A rational number library for JavaScript",
+    "name" : "Fraction.js",
+    "url" : "https://github.com/infusion/Fraction.js"
+  }, {
+    "description" : "A complex number library for JavaScript",
+    "name" : "Complex.js",
+    "url" : "https://github.com/infusion/Complex.js"
+  }, {
+    "description" : "A polynomials library for JavaScript",
+    "name" : "Polynomial.js",
+    "url" : "https://github.com/infusion/Polynomial.js"
+  } ]
+}, {
+  "category" : "Storage",
+  "items" : [ {
+    "description" : "LocalStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage, and userData behavior under the hood.",
+    "name" : "store.js",
+    "url" : "https://github.com/marcuswestin/store.js"
+  }, {
+    "description" : "Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.",
+    "name" : "localForage",
+    "url" : "https://github.com/mozilla/localForage"
+  }, {
+    "description" : "jStorage is a simple key/value database to store data on browser side.",
+    "name" : "jStorage",
+    "url" : "https://github.com/andris9/jStorage"
+  }, {
+    "description" : "Cross domain local storage, with permissions.",
+    "name" : "cross-storage",
+    "url" : "https://github.com/zendesk/cross-storage"
+  }, {
+    "description" : "A script and resource loader for caching & loading scripts with localStorage.",
+    "name" : "basket.js",
+    "url" : "https://github.com/addyosmani/basket.js"
+  }, {
+    "description" : "A caching script and resource loader, similar to basket.js, but with additional k/v interface and localStorage / websql / indexedDB support.",
+    "name" : "bag.js",
+    "url" : "https://github.com/nodeca/bag.js"
+  }, {
+    "description" : "The missing Javascript smart persistent layer.",
+    "name" : "basil.js",
+    "url" : "https://github.com/Wisembly/basil.js"
+  }, {
+    "description" : "A simple, lightweight jQuery plugin for reading, writing and deleting cookies.",
+    "name" : "jquery-cookie",
+    "url" : "https://github.com/carhartl/jquery-cookie"
+  }, {
+    "description" : "A simple, lightweight JavaScript API for handling browser cookies",
+    "name" : "js-cookie",
+    "url" : "https://github.com/js-cookie/js-cookie"
+  }, {
+    "description" : "JavaScript Client-Side Cookie Manipulation Library.",
+    "name" : "Cookies",
+    "url" : "https://github.com/ScottHamper/Cookies"
+  }, {
+    "description" : "Promise based IndexDB Wrapper library",
+    "name" : "DB.js",
+    "url" : "https://github.com/aaronpowell/db.js/"
+  }, {
+    "description" : "Simple client-side JSON storage.",
+    "name" : "lawnchair.js",
+    "url" : "https://github.com/brianleroux/lawnchair/"
+  }, {
+    "description" : "SQLite compiled to JavaScript through Emscripten.",
+    "name" : "sql.js",
+    "url" : "https://github.com/kripken/sql.js"
+  } ]
+}, {
+  "category" : "Color",
+  "items" : [ {
+    "description" : "A color generator for JavaScript.",
+    "name" : "randomColor",
+    "url" : "https://github.com/davidmerfield/randomColor"
+  }, {
+    "description" : "JavaScript library for all kinds of color manipulations.",
+    "name" : "chroma.js",
+    "url" : "https://github.com/gka/chroma.js"
+  }, {
+    "description" : "JavaScript color conversion and manipulation library.",
+    "name" : "color",
+    "url" : "https://github.com/Qix-/color"
+  }, {
+    "description" : "Smarter defaults for colors on the web.",
+    "name" : "colors",
+    "url" : "https://github.com/mrmrs/colors"
+  }, {
+    "description" : "JavaScript Library for creating random pleasing colors and color schemes.",
+    "name" : "PleaseJS",
+    "url" : "https://github.com/Fooidge/PleaseJS"
+  }, {
+    "description" : "Fast, small color manipulation and conversion for JavaScript.",
+    "name" : "TinyColor",
+    "url" : "https://github.com/bgrins/TinyColor"
+  }, {
+    "description" : "Extract prominent colors from an image.",
+    "name" : "Vibrant.js",
+    "url" : "https://github.com/jariz/vibrant.js/"
+  } ]
+}, {
+  "category" : "I18n And L10n",
+  "items" : [ null, {
+    "description" : "internationalisation (i18n) with javascript the easy way.",
+    "name" : "i18next",
+    "url" : "https://github.com/i18next/i18next"
+  }, {
+    "description" : "tiny i18n helper library.",
+    "name" : "polyglot",
+    "url" : "https://github.com/airbnb/polyglot.js"
+  }, {
+    "description" : "i18n with human friendly API and built in plurals support.",
+    "name" : "babelfish",
+    "url" : "https://github.com/nodeca/babelfish/"
+  } ]
+}, {
+  "category" : "Class",
+  "items" : [ {
+    "description" : "One of the fastest and most convenient class systems in the world",
+    "name" : "ClassManager",
+    "url" : "https://github.com/kogarashisan/ClassManager"
+  }, {
+    "description" : "A utility for creating expressive classes in JavaScript.",
+    "name" : "klass",
+    "url" : "https://github.com/ded/klass"
+  }, {
+    "description" : "The world's smallest and fastest classical JavaScript inheritance pattern.",
+    "name" : "augment",
+    "url" : "https://github.com/javascript/augment"
+  } ]
+}, {
+  "category" : "Control Flow",
+  "items" : [ {
+    "description" : "Async utilities for node and the browser.",
+    "name" : "async",
+    "url" : "https://github.com/caolan/async"
+  }, {
+    "description" : "A tool for making and composing asynchronous promises in JavaScript.",
+    "name" : "q",
+    "url" : "https://github.com/kriskowal/q"
+  }, {
+    "description" : "An async control-flow library that makes stepping through logic easy.",
+    "name" : "step",
+    "url" : "https://github.com/creationix/step/"
+  }, {
+    "description" : "Asynchronous flow control with a functional taste to it.",
+    "name" : "contra",
+    "url" : "https://github.com/bevacqua/contra/"
+  }, {
+    "description" : "fully featured promise library with focus on innovative features and performance.",
+    "name" : "Bluebird",
+    "url" : "https://github.com/petkaantonov/bluebird/"
+  }, {
+    "description" : "A solid, fast Promises/A+ and when() implementation, plus other async goodies.",
+    "name" : "when",
+    "url" : "https://github.com/cujojs/when"
+  }, {
+    "description" : "Provide a prototype that add support to event listeners (with same behavior of EventTarget from DOMElements available on browsers).",
+    "name" : "ObjectEventTarget",
+    "url" : "https://github.com/gartz/ObjectEventTarget"
+  } ]
+}, {
+  "category" : "Routing",
+  "items" : [ {
+    "description" : "A tiny and isomorphic URL router for JavaScript.",
+    "name" : "director",
+    "url" : "https://github.com/flatiron/director"
+  }, {
+    "description" : "Micro client-side router inspired by the Express router (~1200 bytes).",
+    "name" : "page.js",
+    "url" : "https://github.com/visionmedia/page.js"
+  }, {
+    "description" : "Simple, lightweight routing for web browsers.",
+    "name" : "pathjs",
+    "url" : "https://github.com/mtrpcic/pathjs"
+  }, {
+    "description" : "JavaScript Routes.",
+    "name" : "crossroads",
+    "url" : "https://github.com/millermedeiros/crossroads.js"
+  }, {
+    "description" : "RESTful degradable JavaScript routing using pushState.",
+    "name" : "davis.js",
+    "url" : "https://github.com/olivernn/davis.js"
+  } ]
+}, {
+  "category" : "Security",
+  "items" : [ {
+    "description" : "A DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG.",
+    "name" : "DOMPurify",
+    "url" : "https://github.com/cure53/DOMPurify"
+  }, {
+    "description" : "Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist.",
+    "name" : "js-xss",
+    "url" : "https://github.com/leizongmin/js-xss"
+  }, {
+    "description" : "Secure XSS Filters by Yahoo",
+    "name" : "xss-filters",
+    "url" : "https://github.com/yahoo/xss-filters"
+  } ]
+}, {
+  "category" : "Log",
+  "items" : [ {
+    "description" : "Console.log with style.",
+    "name" : "log",
+    "url" : "https://github.com/adamschwartz/log"
+  }, {
+    "description" : "A debug panel built in javascript that wraps javascript native console object methods and functionality in a panel displayed inside the page.",
+    "name" : "Conzole",
+    "url" : "https://github.com/Oaxoa/Conzole"
+  }, {
+    "description" : "Log to the console in any browser with clarity.",
+    "name" : "console.log-wrapper",
+    "url" : "https://github.com/patik/console.log-wrapper"
+  }, {
+    "description" : "Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods.",
+    "name" : "loglevel",
+    "url" : "https://github.com/pimterry/loglevel"
+  }, {
+    "name" : "minilog",
+    "url" : "http://mixu.net/minilog/"
+  }, {
+    "description" : "Universal logging library + Chrome extension; it lets you see all client and server tasks triggered by a user action in a single place.",
+    "name" : "storyboard",
+    "url" : "http://guigrpa.github.io/storyboard/"
+  } ]
+}, {
+  "category" : "RegExp",
+  "items" : [ {
+    "description" : "Online regex tester and debugger for JavaScript. Also supports Python, PHP and PCRE.",
+    "name" : "RegEx101",
+    "url" : "https://regex101.com/#javascript"
+  }, {
+    "description" : "HTML/JS based tool for creating, testing, and learning about Regular Expressions.",
+    "name" : "RegExr",
+    "url" : "http://regexr.com"
+  }, {
+    "description" : "Create regular expressions using chained methods.",
+    "name" : "RegExpBuilder",
+    "url" : "https://github.com/thebinarysearchtree/regexpbuilderjs"
+  } ]
+}, {
+  "category" : "Voice Command",
+  "items" : [ {
+    "description" : "A JavaScript library for adding voice commands to your site, using speech recognition.",
+    "name" : "annyang",
+    "url" : "https://github.com/TalAter/annyang"
+  }, {
+    "description" : "A JavaScript library to add voice commands to your sites, apps or games.",
+    "name" : "voix.js",
+    "url" : "https://github.com/pazguille/voix"
+  } ]
+}, {
+  "category" : "API",
+  "items" : [ {
+    "description" : "A powerful rate limiter that makes throttling easy.",
+    "name" : "bottleneck",
+    "url" : "https://github.com/SGrondin/bottleneck"
+  }, {
+    "description" : "JavaScript OAuth 1.0a signature generator for node and the browser.",
+    "name" : "oauth-signature-js",
+    "url" : "https://github.com/bettiolo/oauth-signature-js"
+  }, {
+    "description" : "RESTful HTTP client for JavaScript powered web applications.",
+    "name" : "amygdala",
+    "url" : "https://github.com/lincolnloop/amygdala"
+  }, {
+    "description" : "A jQuery plugin for easy consumption of RESTful APIs.",
+    "name" : "jquery.rest",
+    "url" : "https://github.com/jpillora/jquery.rest"
+  } ]
+}, {
+  "category" : "Streaming",
+  "items" : [ {
+    "description" : "Streaming layout service for front-end microservices, inspired by Facebook's BigPipe.",
+    "name" : "Tailor",
+    "url" : "https://github.com/zalando/tailor"
+  } ]
+}, {
+  "category" : "Vision Detection",
+  "items" : [ {
+    "description" : "A modern approach for Computer Vision on the web.",
+    "name" : "tracking.js",
+    "url" : "https://github.com/eduardolundgren/tracking.js"
+  }, {
+    "description" : "OCR in Javascript via Emscripten.",
+    "name" : "ocrad.js",
+    "url" : "https://github.com/antimatter15/ocrad.js"
+  } ]
+}, {
+  "category" : "Machine Learning",
+  "items" : [ {
+    "description" : "Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.",
+    "name" : "ConvNetJS",
+    "url" : "https://github.com/karpathy/convnetjs"
+  }, {
+    "description" : "Digital Neural Networks Architecture.",
+    "name" : "DN2A",
+    "url" : "https://github.com/dn2a/dn2a-javascript"
+  }, {
+    "description" : "Neural networks in JavaScript.",
+    "name" : "Brain.js",
+    "url" : "https://github.com/harthur/brain"
+  }, {
+    "description" : "A flexible neural network library.",
+    "name" : "Mind.js",
+    "url" : "https://github.com/stevenmiller888/mind"
+  }, {
+    "description" : "Architecture-free neural network library for node.js and the browser.",
+    "name" : "Synaptic.js",
+    "url" : "https://github.com/cazala/synaptic"
+  } ]
+}, {
+  "category" : "Browser Detection",
+  "items" : [ {
+    "description" : "a browser detector",
+    "name" : "bowser",
+    "url" : "https://github.com/ded/bowser"
+  } ]
+}, {
+  "category" : "Benchmark",
+  "items" : [ {
+    "description" : "A benchmarking library. As used on jsPerf.com.",
+    "name" : "benchmark.js",
+    "url" : "https://github.com/bestiejs/benchmark.js"
+  }, {
+    "description" : "A caffeine driven, simplistic approach to benchmarking.",
+    "name" : "matcha",
+    "url" : "https://github.com/logicalparadox/matcha"
+  } ]
+}, {
+  "category" : "Code highlighting",
+  "items" : [ {
+    "description" : "Javascript syntax highlighter.",
+    "name" : "Highlight.js",
+    "url" : "https://github.com/isagalaev/highlight.js"
+  }, {
+    "description" : "Lightweight, robust, elegant syntax highlighting.",
+    "name" : "PrismJS",
+    "url" : "https://github.com/PrismJS/prism"
+  } ]
+}, {
+  "category" : "Loading Status",
+  "items" : [ null, {
+    "description" : "Create Google Material Design progress linear bars.",
+    "name" : "Mprogress.js",
+    "url" : "https://github.com/lightningtgc/MProgress.js"
+  }, {
+    "description" : "Slim progress bars for Ajax'y applications.",
+    "name" : "NProgress",
+    "url" : "http://ricostacruz.com/nprogress/"
+  }, {
+    "description" : "A spinning activity indicator.",
+    "name" : "Spin.js",
+    "url" : "https://github.com/fgnass/spin.js"
+  }, {
+    "description" : "Create and manage progress bar for every objects on the page.",
+    "name" : "progress.js",
+    "url" : "https://github.com/usablica/progress.js"
+  }, {
+    "description" : "Beautiful and responsive progress bars with animated SVG paths.",
+    "name" : "progressbar.js",
+    "url" : "https://github.com/kimmobrunfeldt/progressbar.js"
+  }, {
+    "description" : "Automatically add a progress bar to your site.",
+    "name" : "pace",
+    "url" : "https://github.com/HubSpot/pace"
+  }, {
+    "description" : "Tiny & beautiful site-wide progress indicator.",
+    "name" : "topbar",
+    "url" : "https://github.com/buunguyen/topbar"
+  }, {
+    "description" : "Very lightweight progress bars. No jQuery.",
+    "name" : "nanobar",
+    "url" : "https://github.com/jacoborus/nanobar"
+  }, {
+    "description" : "Modern ways of revealing new content using SVG animations.",
+    "name" : "PageLoadingEffects",
+    "url" : "https://github.com/codrops/PageLoadingEffects"
+  }, {
+    "description" : "A collection of loading indicators animated with CSS.",
+    "name" : "SpinKit",
+    "url" : "https://github.com/tobiasahlin/SpinKit"
+  }, {
+    "description" : "Buttons with built-in loading indicators.",
+    "name" : "Ladda",
+    "url" : "https://github.com/hakimel/Ladda"
+  }, {
+    "description" : "A collection of loading spinners animated with CSS",
+    "name" : "css-loaders",
+    "url" : "https://github.com/lukehaas/css-loaders"
+  }, {
+    "name" : "Collection on Codepen and generators like Ajaxload, Preloaders and CSSload",
+    "url" : "http://codepen.io/collection/HtAne/"
+  } ]
+}, {
+  "category" : "Validation",
+  "items" : [ {
+    "description" : "Validate your forms, frontend, without writing a single line of javascript.",
+    "name" : "Parsley.js",
+    "url" : "https://github.com/guillaumepotier/Parsley.js"
+  }, {
+    "description" : "jQuery Validation Plugin.",
+    "name" : "jquery-validation",
+    "url" : "https://github.com/jzaefferer/jquery-validation"
+  }, {
+    "description" : "String validation and sanitization.",
+    "name" : "validator.js",
+    "url" : "https://github.com/chriso/validator.js"
+  }, {
+    "description" : "Lightweight JavaScript form validation library inspired by CodeIgniter.",
+    "name" : "validate.js",
+    "url" : "https://github.com/rickharrison/validate.js"
+  }, {
+    "description" : "Cross Browser HTML5 Form Validation.",
+    "name" : "validatr",
+    "url" : "https://github.com/jaymorrow/validatr/"
+  }, {
+    "description" : "The best jQuery plugin to validate form fields. Formerly BootstrapValidator.",
+    "name" : "FormValidation",
+    "url" : "http://formvalidation.io/"
+  }, {
+    "description" : " Check types, regexps, presence, time and more.",
+    "name" : "is.js",
+    "url" : "https://github.com/arasatasaygin/is.js"
+  }, {
+    "description" : "multipurpose validation library. Supports both sync and async validation.",
+    "name" : "FieldVal",
+    "url" : "https://github.com/FieldVal/fieldval-js"
+  } ]
+}, {
+  "category" : "Keyboard Wrappers",
+  "items" : [ {
+    "description" : "Simple library for handling keyboard shortcuts in Javascript.",
+    "name" : "mousetrap",
+    "url" : "https://github.com/ccampbell/mousetrap"
+  }, {
+    "description" : "A simple micro-library for defining and dispatching keyboard shortcuts.",
+    "name" : "keymaster",
+    "url" : "https://github.com/madrobby/keymaster"
+  }, {
+    "description" : "A keyboard input capturing utility in which any key can be a modifier key.",
+    "name" : "Keypress",
+    "url" : "https://github.com/dmauro/Keypress"
+  }, {
+    "description" : "A JavaScript library for binding keyboard combos without the pain of key codes and key combo conflicts.",
+    "name" : "KeyboardJS",
+    "url" : "https://github.com/RobertWHurst/KeyboardJS"
+  }, {
+    "description" : "jQuery Hotkeys lets you watch for keyboard events anywhere in your code supporting almost any key combination.",
+    "name" : "jquery.hotkeys",
+    "url" : "https://github.com/jeresig/jquery.hotkeys"
+  }, {
+    "description" : "Awesome handling of keyboard events.",
+    "name" : "jwerty",
+    "url" : "https://github.com/keithamus/jwerty"
+  } ]
+}, {
+  "category" : "Tours And Guides",
+  "items" : [ {
+    "description" : "A better way for new feature introduction and step-by-step users guide for your website and project.",
+    "name" : "intro.js",
+    "url" : "https://github.com/usablica/intro.js"
+  }, {
+    "description" : "Guide your users through a tour of your app.",
+    "name" : "shepherd",
+    "url" : "https://github.com/HubSpot/shepherd"
+  }, {
+    "description" : "Quick and easy product tours with Twitter Bootstrap Popovers.",
+    "name" : "bootstrap-tour",
+    "url" : "https://github.com/sorich87/bootstrap-tour"
+  }, {
+    "description" : "Simple, flexible tours for your app.",
+    "name" : "tourist",
+    "url" : "https://github.com/easelinc/tourist"
+  }, {
+    "description" : "Simple overlay instructions for your apps.",
+    "name" : "chardin.js",
+    "url" : "https://github.com/heelhook/chardin.js"
+  }, {
+    "description" : "An interactive guide for web page elements using jQuery and CSS3.",
+    "name" : "pageguide",
+    "url" : "https://github.com/tracelytics/pageguide"
+  }, {
+    "description" : "A framework to make it easy for developers to add product tours to their pages.",
+    "name" : "hopscotch",
+    "url" : "https://github.com/linkedin/hopscotch"
+  }, {
+    "description" : "jQuery feature tour plugin.",
+    "name" : "joyride",
+    "url" : "https://github.com/zurb/joyride"
+  }, {
+    "description" : "Set a spotlight focus on DOM element adding a overlay layer to the rest of the page.",
+    "name" : "focusable",
+    "url" : "https://github.com/zzarcon/focusable"
+  } ]
+}, {
+  "category" : "Notifications",
+  "items" : [ {
+    "description" : "Elegant, responsive, flexible and lightweight notification plugin with no dependencies.",
+    "name" : "iziToast",
+    "url" : "https://github.com/dolce/iziToast"
+  }, {
+    "description" : "Growl-style alerts and messages for your app.",
+    "name" : "messenger",
+    "url" : "https://github.com/HubSpot/messenger"
+  }, {
+    "description" : "jQuery notification plugin.",
+    "name" : "noty",
+    "url" : "https://github.com/needim/noty"
+  }, {
+    "description" : "JavaScript notifications for Bootstrap, jQuery UI, and the Web Notifications Draft.",
+    "name" : "pnotify",
+    "url" : "https://github.com/sciactive/pnotify"
+  }, {
+    "description" : "Simple javascript toast notifications.",
+    "name" : "toastr",
+    "url" : "https://github.com/CodeSeven/toastr"
+  }, {
+    "description" : "A simple, modern, browser notification system.",
+    "name" : "humane-js",
+    "url" : "https://github.com/wavded/humane-js"
+  }, {
+    "description" : "Framework-agnostic styled alert system for javascript.",
+    "name" : "smoke.js",
+    "url" : "https://github.com/hxgf/smoke.js"
+  }, {
+    "description" : "Simple notifications and inputs with no dependencies.",
+    "name" : "notie",
+    "url" : "https://github.com/jaredreich/notie"
+  } ]
+}, {
+  "category" : "Sliders",
+  "items" : [ {
+    "description" : "Mobile touch slider and framework with hardware accelerated transitions.",
+    "name" : "Swiper",
+    "url" : "https://github.com/nolimits4web/Swiper"
+  }, {
+    "description" : "The last carousel you'll ever need.",
+    "name" : "slick",
+    "url" : "https://github.com/kenwheeler/slick"
+  }, {
+    "description" : "Is a ressponsive slideshow plug-in for JQuery(1.7.1+) with features like touch and CSS3 transitions",
+    "name" : "slidesJs",
+    "url" : "http://www.slidesjs.com"
+  }, {
+    "description" : "An awesome, fully responsive jQuery slider plugin.",
+    "name" : "FlexSlider",
+    "url" : "https://github.com/woothemes/FlexSlider"
+  }, {
+    "description" : "The simplest jQuery slider there is.",
+    "name" : "unslider",
+    "url" : "https://github.com/idiot/unslider"
+  }, {
+    "description" : "JavaScript library for one-directional scrolling with item based navigation support.",
+    "name" : "sly",
+    "url" : "https://github.com/darsain/sly"
+  }, {
+    "description" : "A jQuery plugin to add beautiful fullscreen backgrounds to your webpages. It even allows Slideshows.",
+    "name" : "vegas",
+    "url" : "https://github.com/jaysalvat/vegas"
+  }, {
+    "description" : "CSS animation framework for creating responsive sliders, presentations, banners, and other step-based applications.",
+    "name" : "Sequence",
+    "url" : "https://github.com/IanLunn/Sequence"
+  }, {
+    "description" : "A framework for easily creating beautiful presentations using HTML.",
+    "name" : "reveal.js",
+    "url" : "https://github.com/hakimel/reveal.js"
+  }, {
+    "description" : "It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.",
+    "name" : "impress.js",
+    "url" : "https://github.com/impress/impress.js"
+  }, {
+    "description" : "DIY Presentation Micro-Framework",
+    "name" : "bespoke.js",
+    "url" : "https://github.com/bespokejs/bespoke"
+  }, {
+    "description" : "Strut - An Impress.js and Bespoke.js Presentation Editor",
+    "name" : "Strut",
+    "url" : "https://github.com/tantaman/Strut"
+  }, {
+    "description" : "JavaScript image gallery for mobile and desktop, modular, framework independent.",
+    "name" : "PhotoSwipe",
+    "url" : "https://github.com/dimsemenov/PhotoSwipe"
+  }, {
+    "description" : "A responsive slider jQuery plugin with CSS animations.",
+    "name" : "jcSlider",
+    "url" : "https://github.com/JoanClaret/jcSlider"
+  }, {
+    "description" : "Simple to use, simple to theme, simple to customise.",
+    "name" : "basic-jquery-slider",
+    "url" : "https://github.com/jcobb/basic-jquery-slider"
+  }, {
+    "description" : "A jQuery plugin for a slider with adaptive colored figcaption and navigation.",
+    "name" : "jQuery.adaptive-slider",
+    "url" : "https://github.com/creative-punch/jQuery.adaptive-slider/"
+  }, {
+    "description" : "add some slide effects.",
+    "name" : "slidr",
+    "url" : "https://github.com/bchanx/slidr"
+  }, {
+    "description" : "Touch, responsive, flickable galleries.",
+    "name" : "Flickity",
+    "url" : "https://github.com/metafizzy/flickity"
+  }, {
+    "description" : "Responsive and touch-friendly jQuery slider. It's simple, lightweight and fast.",
+    "name" : "Glide.js",
+    "url" : "https://github.com/jedrzejchalubek/glidejs"
+  }, {
+    "description" : "A jQuery plugin for a slider with adaptive colored figcaption and navigation.",
+    "name" : "jQuery.adaptive-slider",
+    "url" : "https://github.com/creative-punch/jQuery.adaptive-slider/"
+  } ]
+}, {
+  "category" : "Range Sliders",
+  "items" : [ {
+    "description" : "Powerful and easily customizable range slider with many options and skin support.",
+    "name" : "Ion.RangeSlider",
+    "url" : "https://github.com/IonDen/ion.rangeSlider"
+  }, {
+    "description" : "A javascript slider selector that supports dates.",
+    "name" : "jQRangeSlider",
+    "url" : "https://github.com/ghusse/jQRangeSlider"
+  }, {
+    "description" : "A lightweight, highly customizable range slider without bloat.",
+    "name" : "noUiSlider",
+    "url" : "https://github.com/leongersen/noUiSlider"
+  }, {
+    "description" : "HTML5 input range slider element polyfill.",
+    "name" : "rangeslider.js",
+    "url" : "https://github.com/andreruffert/rangeslider.js"
+  } ]
+}, {
+  "category" : "Form Widgets"
+}, {
+  "category" : "Input",
+  "items" : [ {
+    "description" : "A fast and fully-featured autocomplete library.",
+    "name" : "typeahead.js",
+    "url" : "https://github.com/twitter/typeahead.js"
+  }, {
+    "description" : "A jQuery UI plugin to handle multi-tag fields as well as tag suggestions/autocomplete.",
+    "name" : "tag-it",
+    "url" : "https://github.com/aehlke/tag-it"
+  }, {
+    "description" : "Add Github like mentions autocomplete to your application.",
+    "name" : "At.js",
+    "url" : "https://github.com/ichord/At.js"
+  }, {
+    "description" : "A JavaScript polyfill for the HTML5 placeholder attribute.",
+    "name" : "Placeholders.js",
+    "url" : "https://github.com/jamesallardice/Placeholders.js"
+  }, {
+    "description" : "Makes typing in input fields fun with CSS3 effects.",
+    "name" : "fancyInput",
+    "url" : "https://github.com/yairEO/fancyInput"
+  }, {
+    "description" : "Magically convert a simple text input into a cool tag list with this jQuery plugin.",
+    "name" : "jQuery-Tags-Input",
+    "url" : "https://github.com/xoxco/jQuery-Tags-Input"
+  }, {
+    "description" : "A pure javascript mask input.",
+    "name" : "vanilla-masker",
+    "url" : "https://github.com/BankFacil/vanilla-masker"
+  }, {
+    "description" : "jQuery plugin for styling checkboxes and radio-buttons. With skin support.",
+    "name" : "Ion.CheckRadio",
+    "url" : "https://github.com/IonDen/ion.checkRadio"
+  }, {
+    "description" : "Ultra lightweight, usable, beautiful autocomplete with zero dependencies. - http://leaverou.github.io/awesomplete/",
+    "name" : "awesomplete",
+    "url" : "https://github.com/LeaVerou/awesomplete"
+  } ]
+}, {
+  "category" : "Calendar",
+  "items" : [ {
+    "description" : "The mobile-friendly, responsive, and lightweight jQuery date & time input picker.",
+    "name" : "pickadate.js",
+    "url" : "https://github.com/amsul/pickadate.js"
+  }, {
+    "description" : "A datepicker for @twitter bootstrap forked from Stefan Petre's (of eyecon.ro), improvements by @eternicode.",
+    "name" : "bootstrap-datepicker",
+    "url" : "https://github.com/eternicode/bootstrap-datepicker"
+  }, {
+    "description" : "A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS.",
+    "name" : "Pikaday",
+    "url" : "https://github.com/dbushell/Pikaday"
+  }, {
+    "description" : "Full-sized drag & drop event calendar (jQuery plugin).",
+    "name" : "fullcalendar",
+    "url" : "https://github.com/fullcalendar/fullcalendar"
+  }, {
+    "description" : "A customizable date (and time) picker. Dependency free, opt-in UI.",
+    "name" : "rome",
+    "url" : "https://github.com/bevacqua/rome"
+  }, {
+    "description" : " datedropper is a jQuery plugin that provides a quick and easy way to manage dates for input fields.",
+    "name" : "datedropper",
+    "url" : "https://github.com/felicegattuso/datedropper"
+  } ]
+}, {
+  "category" : "Select",
+  "items" : [ {
+    "description" : "Selectize is the hybrid of a textbox and select box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.",
+    "name" : "selectize.js",
+    "url" : "https://github.com/brianreavis/selectize.js"
+  }, {
+    "description" : "a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.",
+    "name" : "select2",
+    "url" : "https://github.com/select2/select2"
+  }, {
+    "description" : "A library for making long, unwieldy select boxes more friendly.",
+    "name" : "chosen",
+    "url" : "https://github.com/harvesthq/chosen"
+  } ]
+}, {
+  "category" : "File Uploader",
+  "items" : [ {
+    "description" : "File Upload widget with multiple file selection, drag&amp;drop support, progress bar, validation and preview images, audio and video for jQuery.",
+    "name" : "jQuery-File-Upload",
+    "url" : "https://github.com/blueimp/jQuery-File-Upload"
+  }, {
+    "description" : "Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.",
+    "name" : "dropzone",
+    "url" : "https://github.com/enyo/dropzone"
+  }, {
+    "description" : "A JavaScript library providing multiple simultaneous, stable, fault-tolerant and resumable/restartable file uploads via the HTML5 File API.",
+    "name" : "flow.js",
+    "url" : "https://github.com/flowjs/flow.js"
+  }, {
+    "description" : "Multiple file upload plugin with progress-bar, drag-and-drop, direct-to-S3 uploading.",
+    "name" : "fine-uploader",
+    "url" : "https://github.com/FineUploader/fine-uploader"
+  }, {
+    "description" : "A set of javascript tools for working with files. Multiupload, drag'n'drop and chunked file upload. Images: crop, resize and auto orientation by EXIF.",
+    "name" : "FileAPI",
+    "url" : "https://github.com/mailru/FileAPI"
+  }, {
+    "description" : "A JavaScript API for dealing with file uploads it supports features like multiple file selection, file type filtering, request chunking, client side image scaling and it uses different runtimes to achieve this such as HTML 5, Silverlight and Flash.",
+    "name" : "plupload",
+    "url" : "https://github.com/moxiecode/plupload"
+  } ]
+}, {
+  "category" : "Other",
+  "items" : [ {
+    "description" : "jQuery Form Plugin.",
+    "name" : "form",
+    "url" : "https://github.com/malsup/form"
+  }, {
+    "description" : "Automatically persist your forms' text and select field values locally, until the form is submitted.",
+    "name" : "Garlic.js",
+    "url" : "https://github.com/guillaumepotier/Garlic.js"
+  }, {
+    "description" : "A JavaScript function to add live paragraph-, word- and character-counting to an HTML element.",
+    "name" : "Countable",
+    "url" : "https://github.com/RadLikeWhoa/Countable"
+  }, {
+    "description" : "Make your credit card form better in one line of code.",
+    "name" : "card",
+    "url" : "https://github.com/jessepollak/card"
+  }, {
+    "description" : "Form element autosizing, the way it should be.",
+    "name" : "stretchy",
+    "url" : "https://github.com/LeaVerou/stretchy"
+  } ]
+}, {
+  "category" : "Tips",
+  "items" : [ {
+    "description" : "Facebook-style tooltips plugin for jQuery.",
+    "name" : "tipsy",
+    "url" : "https://github.com/jaz303/tipsy"
+  }, {
+    "description" : "An open source javascript tooltip based on the prototype framework.",
+    "name" : "opentip",
+    "url" : "https://github.com/enyo/opentip"
+  }, {
+    "description" : "Pretty powerful tooltips.",
+    "name" : "qTip2",
+    "url" : "https://github.com/qTip2/qTip2"
+  }, {
+    "description" : "A jQuery tooltip plugin.",
+    "name" : "tooltipster",
+    "url" : "https://github.com/iamceege/tooltipster"
+  }, {
+    "description" : "A simple CSS tooltip made with Sass.",
+    "name" : "simptip",
+    "url" : "https://github.com/arashmanteghi/simptip"
+  }, {
+    "description" : "jQuery plugin for responsive and accessible modal windows and tooltips.",
+    "name" : "jquery-popup-overlay",
+    "url" : "https://github.com/vast-engineering/jquery-popup-overlay"
+  }, {
+    "description" : "A tooltip style toolbar jQuery plugin",
+    "name" : "toolbar",
+    "url" : "https://github.com/paulkinzett/toolbar"
+  }, {
+    "description" : "A tooltip library in CSS for your lovely websites.",
+    "name" : "hint.css",
+    "url" : "https://github.com/chinchang/hint.css"
+  } ]
+}, {
+  "category" : "Modals and Popups",
+  "items" : [ {
+    "description" : "Light and responsive lightbox script with focus on performance.",
+    "name" : "Magnific-Popup",
+    "url" : "https://github.com/dimsemenov/Magnific-Popup"
+  }, {
+    "description" : "jQuery PopBox UI Element.",
+    "name" : "jquery-popbox",
+    "url" : "https://github.com/gristmill/jquery-popbox"
+  }, {
+    "description" : "A jQuery plugin with new modal concept for popups.",
+    "name" : "jquery.avgrund.js",
+    "url" : "https://github.com/voronianski/jquery.avgrund.js"
+  }, {
+    "description" : "A modern dialog library which is highly configurable and easy to style.",
+    "name" : "vex",
+    "url" : "https://github.com/HubSpot/vex"
+  }, {
+    "description" : "Extends the default Bootstrap Modal class. Responsive, stackable, ajax and more.",
+    "name" : "bootstrap-modal",
+    "url" : "https://github.com/jschr/bootstrap-modal"
+  }, {
+    "description" : "A modal built out of pure CSS.",
+    "name" : "css-modal",
+    "url" : "https://github.com/drublic/css-modal"
+  }, {
+    "description" : "jQuery plugin for responsive and accessible modal windows and tooltips.",
+    "name" : "jquery-popup-overlay",
+    "url" : "https://github.com/vast-engineering/jquery-popup-overlay"
+  }, {
+    "description" : "An awesome replacement for JavaScript's alert.",
+    "name" : "SweetAlert",
+    "url" : "https://github.com/t4t5/sweetalert"
+  }, {
+    "description" : "Simple and easy to use lightbox script written in pure JavaScript.",
+    "name" : "baguetteBox.js",
+    "url" : "https://github.com/feimosi/baguetteBox.js"
+  }, {
+    "description" : "A light-weight, customizable lightbox plugin for jQuery.",
+    "name" : "colorbox",
+    "url" : "https://github.com/jackmoore/colorbox"
+  }, {
+    "description" : "A tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages.",
+    "name" : "fancyBox",
+    "url" : "https://github.com/fancyapps/fancyBox"
+  }, {
+    "description" : "A touchable jQuery lightbox",
+    "name" : "swipebox",
+    "url" : "https://github.com/brutaldesign/swipebox"
+  }, {
+    "description" : "jBox is a powerful and flexible jQuery plugin, taking care of all your popup windows, tooltips, notices and more.",
+    "name" : "jBox",
+    "url" : "https://github.com/StephanWagner/jBox"
+  } ]
+}, {
+  "category" : "Scroll",
+  "items" : [ {
+    "description" : "A simple and fast API to monitor elements as you scroll.",
+    "name" : "scrollMonitor",
+    "url" : "https://github.com/stutrek/scrollMonitor"
+  }, {
+    "description" : "Give your pages some headroom. Hide your header until you need it.",
+    "name" : "headroom",
+    "url" : "https://github.com/WickyNilliams/headroom.js"
+  }, {
+    "description" : "Create an Apple-like one page scroller website (iPhone 5S website) with One Page Scroll plugin.",
+    "name" : "onepage-scroll",
+    "url" : "https://github.com/peachananr/onepage-scroll"
+  }, {
+    "description" : "iScroll is a high performance, small footprint, dependency free, multi-platform javascript scroller.",
+    "name" : "iscroll",
+    "url" : "https://github.com/cubiq/iscroll"
+  }, {
+    "description" : "Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery.",
+    "name" : "skrollr",
+    "url" : "https://github.com/Prinzhorn/skrollr"
+  }, {
+    "description" : "Parallax Engine that reacts to the orientation of a smart device.",
+    "name" : "parallax",
+    "url" : "https://github.com/wagerfield/parallax"
+  }, {
+    "description" : "Parallax scrolling made easy.",
+    "name" : "stellar.js",
+    "url" : "https://github.com/markdalgleish/stellar.js"
+  }, {
+    "description" : "jQuery powered parallaxing.",
+    "name" : "plax",
+    "url" : "https://github.com/cameronmcefee/plax"
+  }, {
+    "description" : "jQuery plugin for creating interactive parallax effect.",
+    "name" : "jparallax",
+    "url" : "https://github.com/stephband/jparallax"
+  }, {
+    "description" : "A simple and easy to use plugin to create fullscreen scrolling websites (also known as single page websites).",
+    "name" : "fullPage",
+    "url" : "https://github.com/alvarotrigo/fullPage.js"
+  }, {
+    "description" : "A new interface to replace old boring scrollbar.",
+    "name" : "ScrollMenu",
+    "url" : "https://github.com/s-yadav/ScrollMenu"
+  }, {
+    "description" : "Tiny vanilla JS plugin to display large data sets easily.",
+    "name" : "Clusterize.js",
+    "url" : "https://github.com/NeXTs/Clusterize.js"
+  } ]
+}, {
+  "category" : "Menu",
+  "items" : [ {
+    "description" : "jQuery plugin to fire events when user's cursor aims at particular dropdown menu items. For making responsive mega dropdowns like Amazon's.",
+    "name" : "jQuery-menu-aim",
+    "url" : "https://github.com/kamens/jQuery-menu-aim"
+  }, {
+    "description" : " contextMenu manager.",
+    "name" : "jQuery contextMenu",
+    "url" : "https://github.com/swisnl/jQuery-contextMenu"
+  }, {
+    "description" : "A responsive touch slideout navigation menu for mobile web apps.",
+    "name" : "Slideout",
+    "url" : "https://github.com/mango/slideout"
+  }, {
+    "description" : "A sliding swipe menu that works with touchSwipe library.",
+    "name" : "Slide and swipe",
+    "url" : "https://github.com/JoanClaret/slide-and-swipe-menu"
+  } ]
+}, {
+  "category" : "Table/Grid",
+  "items" : [ {
+    "description" : "A jQuery plugin to create AJAX based CRUD tables.",
+    "name" : "jTable",
+    "url" : "https://github.com/hikalkan/jtable"
+  }, {
+    "description" : "(jQuery plug-in) It is a highly flexible tool, based upon the foundations of progressive enhancement, and will add advanced interaction controls to any HTML table.",
+    "name" : "DataTables",
+    "url" : "https://www.datatables.net/"
+  }, {
+    "description" : "(jQuery plug-in) lock any table's header while scrolling within the body. Works on any table and requires no custom html or css.",
+    "name" : "floatThead",
+    "url" : "https://github.com/mkoryak/floatThead"
+  }, {
+    "description" : "A cascading grid layout library.",
+    "name" : "Masonry",
+    "url" : "http://masonry.desandro.com/"
+  }, {
+    "description" : "A grid layout library that uses a bin-packing algorithm. Useable for draggable layouts.",
+    "name" : "Packery",
+    "url" : "http://packery.metafizzy.co/"
+  }, {
+    "description" : "A filterable, sortable, grid layout library. Can implement Masonry, Packery, and other layouts.",
+    "name" : "Isotope",
+    "url" : "http://isotope.metafizzy.co/"
+  }, {
+    "description" : "Grid based on CSS3 flexbox",
+    "name" : "flexboxgrid",
+    "url" : "https://github.com/kristoferjoseph/flexboxgrid/"
+  } ]
+}, {
+  "category" : "Frameworks",
+  "items" : [ {
+    "description" : "UI Kit with lots of themes and elements",
+    "name" : "Semantic UI",
+    "url" : "http://semantic-ui.com/"
+  }, {
+    "description" : "A set of jQuery plugins for front-end development of data-driven web applications.",
+    "name" : "w2ui",
+    "url" : "http://w2ui.com/"
+  }, {
+    "description" : "The worlds smallest fully-responsive css framework",
+    "name" : "fluidity",
+    "url" : "https://github.com/mrmrs/fluidity"
+  }, {
+    "description" : "An HTML5/CSS3 framework used at SAPO for fast and efficient website design and prototyping",
+    "name" : "Ink",
+    "url" : "https://github.com/sapo/Ink"
+  } ]
+}, {
+  "category" : "Boilerplates",
+  "items" : [ {
+    "description" : "A professional front-end template for building fast, robust, and adaptable web apps or sites.",
+    "name" : "html5-boilerplate",
+    "url" : "https://github.com/h5bp/html5-boilerplate"
+  }, {
+    "description" : "A front-end template that helps you build fast, modern mobile web apps.",
+    "name" : "mobile-boilerplate",
+    "url" : "https://github.com/h5bp/mobile-boilerplate"
+  }, {
+    "description" : "An awesome front-end framework that lets you stay focused on building your site or app while remaining really easy to use.",
+    "name" : "webplate",
+    "url" : "https://github.com/chrishumboldt/webplate"
+  }, {
+    "description" : "A few simple, but solid patterns for responsive HTML emails. Even in Outlook.",
+    "name" : "Cerberus",
+    "url" : "https://github.com/TedGoas/Cerberus"
+  }, {
+    "description" : "An intro page with a full width background image, a bold animated menu and an iOS-like blurred effect behind the navigation",
+    "name" : "full-page-intro-and-navigation",
+    "url" : "https://github.com/CodyHouse/full-page-intro-and-navigation"
+  }, {
+    "description" : "A fluid grid of square units.",
+    "name" : "Fluid-Squares",
+    "url" : "https://github.com/crozynski/Fluid-Squares"
+  }, {
+    "description" : "An example of a mobile-first responsive web design",
+    "name" : "Mobile-First-RWD",
+    "url" : "https://github.com/bradfrost/Mobile-First-RWD"
+  }, {
+    "description" : "This Is Responsive",
+    "name" : "this-is-responsive",
+    "url" : "https://github.com/bradfrost/this-is-responsive"
+  }, {
+    "name" : "npm run-scripts",
+    "url" : "https://gist.github.com/addyosmani/9f10c555e32a8d06ddb0"
+  } ]
+}, {
+  "category" : "Gesture",
+  "items" : [ {
+    "description" : "A javascript library for multi-touch gestures.",
+    "name" : "hammer.js",
+    "url" : "https://github.com/hammerjs/hammer.js"
+  }, {
+    "description" : "Emulate touch input on your desktop.",
+    "name" : "touchemulator",
+    "url" : "https://github.com/hammerjs/touchemulator"
+  }, {
+    "description" : "Drag and drop so simple it hurts",
+    "name" : "Dragula",
+    "url" : "https://github.com/bevacqua/dragula/"
+  } ]
+}, {
+  "category" : "Maps",
+  "items" : [ {
+    "description" : "JavaScript library for mobile-friendly interactive maps.",
+    "name" : "Leaflet",
+    "url" : "https://github.com/Leaflet/Leaflet"
+  }, {
+    "description" : "Open Source WebGL virtual globe and map engine.",
+    "name" : "Cesium",
+    "url" : "https://github.com/AnalyticalGraphicsInc/cesium"
+  }, {
+    "description" : "The easiest way to use Google Maps.",
+    "name" : "gmaps",
+    "url" : "https://github.com/HPNeo/gmaps"
+  }, {
+    "description" : "A free JavaScript library for making dynamic, interactive maps in modern web browsers.",
+    "name" : "polymaps",
+    "url" : "https://github.com/simplegeo/polymaps"
+  }, {
+    "description" : "Open source JavaScript renderer for Kartograph SVG maps.",
+    "name" : "kartograph.js",
+    "url" : "https://github.com/kartograph/kartograph.js"
+  }, {
+    "description" : "Mapbox JavaScript API, a Leaflet Plugin.",
+    "name" : "mapbox.js",
+    "url" : "https://github.com/mapbox/mapbox.js"
+  }, {
+    "description" : "jQuery Vector Map Library.",
+    "name" : "jqvmap",
+    "url" : "https://github.com/manifestinteractive/jqvmap"
+  }, {
+    "description" : "A high-performance, feature-packed library for all your mapping needs.",
+    "name" : "OpenLayers3",
+    "url" : "http://openlayers.org/"
+  } ]
+}, {
+  "category" : "Video/Audio",
+  "items" : [ {
+    "description" : "Prettier embeds for your YouTubes - with nice options like high-res preview images, advanced customization of embed options, and optional FitVids support.",
+    "name" : "prettyembed.js",
+    "url" : "https://github.com/mike-zarandona/prettyembed.js"
+  }, {
+    "description" : " Enables <video> and <audio> tags in all major browsers. <https://html5media.info/>",
+    "name" : "html5media",
+    "url" : "https://github.com/etianen/html5media"
+  }, {
+    "description" : " Play'em is a javascript component that manages a music/video track queue and plays a sequence of songs by embedding several players in a HTML DIV including Youtube, Soundcloud and Vimeo.",
+    "name" : "Play-em JS",
+    "url" : "https://github.com/adrienjoly/playemjs"
+  }, {
+    "description" : "Rule YouTube, Soundcloud and Vimeo player with one API",
+    "name" : "polyplayer",
+    "url" : "https://github.com/Acconut/polyplayer"
+  }, {
+    "description" : " The HTML5 video player for the web",
+    "name" : "flowplayer",
+    "url" : "https://github.com/flowplayer/flowplayer"
+  }, null, {
+    "description" : " HTML5 <audio> or <video> player with Flash and Silverlight shims that mimics the HTML5 MediaElement API, enabling a consistent UI in all browsers. <http://mediaelementjs.com/>",
+    "name" : "mediaelement",
+    "url" : "https://github.com/johndyer/mediaelement"
+  }, {
+    "description" : "A library to make working with audio on the web easier. It provides a consistent API for playing audio in different browsers.",
+    "name" : "SoundJS",
+    "url" : "https://github.com/CreateJS/SoundJS"
+  }, {
+    "description" : "Video.js - open source HTML5 & Flash video player",
+    "name" : "video.js",
+    "url" : "https://github.com/videojs/video.js"
+  }, {
+    "description" : "A lightweight, easy-to-use jQuery plugin for fluid width video embeds.",
+    "name" : "FitVids.js",
+    "url" : "https://github.com/davatron5000/FitVids.js"
+  }, {
+    "description" : "Simple sounds on any web page",
+    "name" : "Ion.Sound",
+    "url" : "https://github.com/IonDen/ion.sound"
+  }, {
+    "description" : "A widget that allows users to take their avatar pictures on your site",
+    "name" : "photobooth-js",
+    "url" : "https://github.com/WolframHempel/photobooth-js"
+  }, {
+    "description" : "An extensible media player for the web http://clappr.io",
+    "name" : "clappr",
+    "url" : "https://github.com/clappr/clappr"
+  } ]
+}, {
+  "category" : "Typography",
+  "items" : [ {
+    "description" : "Web typography at its finest: font-size and line-height based on element width.",
+    "name" : "FlowType.JS",
+    "url" : "https://github.com/simplefocus/FlowType.JS"
+  }, {
+    "description" : "jQuery plugin, calculates the font-size and word-spacing needed to match a line of text to a specific width.",
+    "name" : "BigText",
+    "url" : "https://github.com/zachleat/BigText"
+  }, {
+    "description" : "A jQuery plugin that lets you curve type on the web",
+    "name" : "circletype",
+    "url" : "https://github.com/peterhry/circletype"
+  }, {
+    "description" : "A jQuery plugin for producing big, bold & responsive headlines",
+    "name" : "slabText",
+    "url" : "https://github.com/freqDec/slabText/"
+  }, {
+    "description" : "Add a super simple rotating text to your website with little to no markup",
+    "name" : "simple-text-rotator",
+    "url" : "https://github.com/peachananr/simple-text-rotator"
+  }, {
+    "description" : "Text Neon Golden effect jQuery plug-in.",
+    "name" : "novacancy.js",
+    "url" : "https://github.com/chuckyglitch/novacancy.js"
+  }, {
+    "description" : "Make your text sizing responsive!",
+    "name" : "jquery-responsive-text",
+    "url" : "https://github.com/ghepting/jquery-responsive-text"
+  }, {
+    "description" : "A jQuery plugin for inflating web type",
+    "name" : "FitText.js",
+    "url" : "https://github.com/davatron5000/FitText.js"
+  }, {
+    "description" : "A lightweight, easy to use Javascript <span> injector for radical Web Typography",
+    "name" : "Lettering.js",
+    "url" : "https://github.com/davatron5000/Lettering.js"
+  } ]
+}, {
+  "category" : "Animations",
+  "items" : [ {
+    "description" : "Accelerated JavaScript animation.",
+    "name" : "velocity",
+    "url" : "https://github.com/julianshapiro/velocity"
+  }, {
+    "description" : "Super-smooth CSS3 transformations and transitions for jQuery.",
+    "name" : "jquery.transit",
+    "url" : "https://github.com/rstacruz/jquery.transit"
+  }, {
+    "description" : "Make Prezi-like presentations with CSS3 transformations/transitions in an HTML document.",
+    "name" : "imrpess.js",
+    "url" : "https://github.com/impress/impress.js"
+  }, {
+    "description" : "Create tasty CSS3 powered animations in no time.",
+    "name" : "bounce.js",
+    "url" : "https://github.com/tictail/bounce.js"
+  }, {
+    "description" : "High-performance HTML5 animations that work in all major browsers.",
+    "name" : "GreenSock-JS",
+    "url" : "https://github.com/greensock/GreenSock-JS"
+  }, {
+    "description" : "TransitionEnd is an agnostic and cross-browser library to work with transitionend event.",
+    "name" : "TransitionEnd",
+    "url" : "https://github.com/EvandroLG/transitionEnd"
+  }, {
+    "description" : "Javascript library to create physics-based CSS animations.",
+    "name" : "Dynamic.js",
+    "url" : "https://github.com/michaelvillar/dynamics.js"
+  }, {
+    "description" : "The Cube is an experiment with CSS3 transitions.",
+    "name" : "the-cube",
+    "url" : "https://github.com/pstadler/the-cube"
+  }, {
+    "description" : "A Performant Transitions and Animations Library",
+    "name" : "Effeckt.css",
+    "url" : "https://github.com/h5bp/Effeckt.css"
+  }, {
+    "description" : "A cross-browser library of CSS animations. As easy to use as an easy thing.",
+    "name" : "animate.css",
+    "url" : "https://github.com/daneden/animate.css"
+  }, {
+    "description" : "A simple plugin for CSS3 text animations",
+    "name" : "textillate",
+    "url" : "https://github.com/jschr/textillate"
+  }, {
+    "description" : "CSS3 backed JavaScript animation framework",
+    "name" : "move.js",
+    "url" : "https://github.com/visionmedia/move.js"
+  }, {
+    "description" : "One property, two values, endless possiblities",
+    "name" : "animatable",
+    "url" : "https://github.com/LeaVerou/animatable"
+  }, {
+    "description" : " The Simplest Way to shuffle through images in a Creative Way http://www.thepetedesign.com/demos/shuffle-images_demo.html",
+    "name" : "shuffle-images",
+    "url" : "https://github.com/peachananr/shuffle-images"
+  }, {
+    "description" : "Unobtrusive page transitions with jQuery. http://smoothstate.com/",
+    "name" : "smoothState.js",
+    "url" : "https://github.com/miguel-perez/smoothState.js"
+  } ]
+}, {
+  "category" : "Image Processing",
+  "items" : [ {
+    "description" : "A Library for image processing with filters and util functions.",
+    "name" : "lena.js",
+    "url" : "https://github.com/davidsonfellipe/lena.js"
+  }, {
+    "description" : "High quality image resize (with fast Lanczos filter, implemented in pure JS).",
+    "name" : "pica",
+    "url" : "https://github.com/nodeca/pica"
+  }, {
+    "description" : "A simple jQuery image cropping plugin.",
+    "name" : "cropper",
+    "url" : "https://github.com/fengyuanchen/cropper"
+  } ]
+}, {
+  "category" : "ES6",
+  "items" : [ {
+    "description" : "Overview of ECMAScript 6 features.",
+    "name" : "es6features",
+    "url" : "https://github.com/lukehoban/es6features"
+  }, {
+    "description" : "ECMAScript 6: Feature Overview & Comparison.",
+    "name" : "es6-features",
+    "url" : "https://github.com/rse/es6-features"
+  }, {
+    "description" : "ES2015 (ES6) cheatsheet containing tips, tricks, best practices and code snippets.",
+    "name" : "es6-cheatsheet",
+    "url" : "https://github.com/DrkSephy/es6-cheatsheet"
+  }, {
+    "description" : "Compatibility tables for all ECMAScript 6 features on a variety of environments.",
+    "name" : "ECMAScript 6 compatibility table",
+    "url" : "http://kangax.github.io/compat-table/es6/"
+  }, {
+    "description" : "Turn ES6+ code into vanilla ES5 with no runtime.",
+    "name" : "Babel (Formerly 6to5)",
+    "url" : "https://github.com/babel/babel"
+  }, {
+    "description" : "ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.",
+    "name" : "Traceur compiler",
+    "url" : "https://github.com/google/traceur-compiler"
+  } ]
+}, {
+  "category" : "SDK",
+  "items" : [ {
+    "description" : "Javascript SDK design guide extracted from work and personal experience",
+    "name" : "javascript-sdk-design",
+    "url" : "https://github.com/huei90/javascript-sdk-design"
+  }, {
+    "description" : "Entity oriented SDK to work with the Spotify Web API.",
+    "name" : "Spotify SDK",
+    "url" : "https://github.com/loverajoel/spotify-sdk"
+  } ]
+}, {
+  "category" : "Misc",
+  "items" : [ {
+    "description" : "Lazy-loading images with data-* attributes.",
+    "name" : "echo",
+    "url" : "https://github.com/toddmotto/echo"
+  }, {
+    "description" : "A responsive image polyfill for &lt;picture&gt;, srcset, sizes.",
+    "name" : "picturefill",
+    "url" : "https://github.com/scottjehl/picturefill"
+  }, {
+    "description" : "A platform detection library that works on nearly all JavaScript platforms.",
+    "name" : "platform.js",
+    "url" : "https://github.com/bestiejs/platform.js"
+  }, {
+    "description" : "A modern JSON implementation compatible with nearly all JavaScript platforms.",
+    "name" : "json3",
+    "url" : "https://github.com/bestiejs/json3"
+  }, {
+    "description" : "A game about JavaScript specificities.",
+    "name" : "Logical Or Not",
+    "url" : "http://gabinaureche.com/logicalornot/"
+  }, {
+    "description" : "A JavaScript Bit-Vector implementation",
+    "name" : "BitSet.js",
+    "url" : "https://github.com/infusion/BitSet.js"
+  }, {
+    "description" : "SPOILER ALERT! A happy little jquery plugin to hide spoilers on your site.",
+    "name" : "spoiler-alert",
+    "url" : "https://github.com/joshbuddy/spoiler-alert"
+  }, {
+    "description" : "Vibration API Wrappers",
+    "name" : "jquery.vibrate.js",
+    "url" : "https://github.com/illyism/jquery.vibrate.js"
+  }, {
+    "description" : " Adds search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.",
+    "name" : "list.js",
+    "url" : "https://github.com/javve/list.js"
+  }, null, {
+    "description" : "MixItUp - A Filter & Sort Plugin",
+    "name" : "mixitup",
+    "url" : "https://github.com/patrickkunka/mixitup"
+  }, {
+    "description" : "Drag and drop library for two-dimensional, resizable and responsive lists.",
+    "name" : "grid",
+    "url" : "https://github.com/hootsuite/grid"
+  }, {
+    "description" : "a responsive equal heights plugin for jQuery.",
+    "name" : "jquery-match-height",
+    "url" : "https://github.com/liabru/jquery-match-height"
+  }, {
+    "description" : "JavaScript Survey Engine. It uses JSON for survey metadata and results. http://surveyjs.org/",
+    "name" : "survey.js",
+    "url" : "https://github.com/surveyjs/surveyjs"
+  } ]
+}, {
+  "category" : "Podcasts",
+  "items" : [ {
+    "description" : "The live video broadcast podcast all about JavaScript and the Web platform.",
+    "name" : "JavaScript Air",
+    "url" : "https://javascriptair.com/"
+  }, {
+    "description" : "Podcast about JavaScript for beginners.",
+    "name" : "Web of Tomorrow",
+    "url" : "http://www.weboftomorrowpodcast.com/"
+  }, {
+    "description" : "A weekly podcast about JavaScript, including Node.js, Front-End Technologies, Careers, Teams and more.",
+    "name" : "Javascript Jabber",
+    "url" : "https://devchat.tv/js-jabber"
+  } ]
+} ]

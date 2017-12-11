@@ -1,0 +1,118 @@
+[ {
+  "category" : "Frameworks",
+  "items" : [ {
+    "name" : "Knockout",
+    "url" : "https://github.com/knockout/knockout"
+  }, {
+    "name" : "Knockback",
+    "url" : "https://github.com/kmalakoff/knockback"
+  }, {
+    "name" : "Durandal",
+    "url" : "https://github.com/BlueSpire/Durandal/"
+  }, {
+    "name" : "Falconjs",
+    "url" : "https://github.com/stoodder/falconjs"
+  } ]
+}, {
+  "category" : "Integrations",
+  "items" : [ {
+    "name" : "UI",
+    "url" : "https://github.com/madcapnmckay/Knockout-UI"
+  }, {
+    "name" : "Kendo",
+    "url" : "https://github.com/kendo-labs/knockout-kendo"
+  }, {
+    "name" : "Bootstrap",
+    "url" : "https://github.com/billpull/knockout-bootstrap"
+  }, {
+    "name" : "ASP.NET MVC",
+    "url" : "https://github.com/AndreyAkinshin/knockout-mvc"
+  }, {
+    "name" : "Rails",
+    "url" : "https://github.com/dnagir/knockout-rails"
+  }, {
+    "name" : "Meteor",
+    "url" : "https://github.com/steveluscher/knockout.meteor"
+  } ]
+}, {
+  "category" : "Plugins and libraries",
+  "items" : [ {
+    "name" : "Mapping",
+    "url" : "https://github.com/SteveSanderson/knockout.mapping"
+  }, {
+    "name" : "Validation",
+    "url" : "https://github.com/Knockout-Contrib/Knockout-Validation"
+  }, {
+    "name" : "Sortable",
+    "url" : "https://github.com/rniemeyer/knockout-sortable"
+  }, {
+    "name" : "Grid",
+    "url" : "https://github.com/Knockout-Contrib/KoGrid"
+  }, {
+    "name" : "External Template Engine",
+    "url" : "https://github.com/ifandelse/Knockout.js-External-Template-Engine"
+  }, {
+    "name" : "Postbox",
+    "url" : "https://github.com/rniemeyer/knockout-postbox"
+  }, {
+    "name" : "Deferred Updates",
+    "url" : "https://github.com/mbest/knockout-deferred-updates"
+  }, {
+    "name" : "Delegated Events",
+    "url" : "https://github.com/rniemeyer/knockout-delegatedEvents"
+  }, {
+    "name" : "Projections",
+    "url" : "https://github.com/profiscience/ko-projections"
+  }, {
+    "name" : "Viewmodel",
+    "url" : "https://github.com/coderenaissance/knockout.viewmodel"
+  }, {
+    "name" : "Observable Dictionary",
+    "url" : "https://github.com/jamesfoster/knockout.observableDictionary"
+  }, {
+    "name" : "Model",
+    "url" : "https://github.com/thelinuxlich/knockout.model"
+  }, {
+    "name" : "Namespaces",
+    "url" : "https://github.com/hunterloftis/knockout.namespaces"
+  }, {
+    "name" : "Rest",
+    "url" : "https://github.com/frapontillo/knockout-rest"
+  }, {
+    "name" : "Local Storage",
+    "url" : "https://github.com/jimrhoskins/knockout.localStorage"
+  }, {
+    "name" : "Router",
+    "url" : "https://github.com/profiscience/ko-component-router"
+  } ]
+}, {
+  "category" : "Custom Bindings",
+  "items" : [ {
+    "name" : "Punches",
+    "url" : "https://github.com/mbest/knockout.punches"
+  }, {
+    "name" : "Switch Case",
+    "url" : "https://github.com/mbest/knockout-switch-case"
+  }, {
+    "name" : "Repeat",
+    "url" : "https://github.com/mbest/knockout-repeat"
+  }, {
+    "name" : "Table",
+    "url" : "https://github.com/mbest/knockout-table"
+  } ]
+}, {
+  "category" : "Components",
+  "items" : [ {
+    "name" : "Cart",
+    "url" : "https://github.com/robconery/knockout-cart"
+  }, {
+    "name" : "Testing",
+    "url" : "https://github.com/profiscience/ko-component-tester"
+  } ]
+}, {
+  "category" : "Examples",
+  "items" : [ {
+    "name" : "WebSockets",
+    "url" : "https://github.com/carlhoerberg/knockout-websocket-example"
+  } ]
+} ]

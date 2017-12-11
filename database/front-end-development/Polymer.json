@@ -1,0 +1,345 @@
+[ {
+  "category" : "General resources",
+  "items" : [ {
+    "name" : "Official Site",
+    "url" : "https://www.polymer-project.org"
+  }, {
+    "name" : "Blog",
+    "url" : "https://blog.polymer-project.org/"
+  }, {
+    "name" : "Google+ Profile",
+    "url" : "https://plus.google.com/+PolymerProject/"
+  }, {
+    "name" : "Github",
+    "url" : "https://github.com/polymer"
+  }, {
+    "name" : "Project",
+    "url" : "https://github.com/polymer/project"
+  } ]
+}, {
+  "category" : "Polymer Communities",
+  "items" : [ {
+    "name" : "StackOverflow",
+    "url" : "http://stackoverflow.com/questions/tagged/polymer"
+  }, {
+    "name" : "GoogleGroup",
+    "url" : "https://groups.google.com/forum/#!forum/polymer-dev"
+  }, {
+    "name" : "Twitter",
+    "url" : "https://twitter.com/polymer"
+  }, {
+    "name" : "Google+ Community",
+    "url" : "https://plus.google.com/u/1/communities/115626364525706131031"
+  }, {
+    "name" : "Slack channel",
+    "url" : "http://polymer-slack.herokuapp.com/"
+  } ]
+}, {
+  "category" : "Tutorials/Guides",
+  "items" : [ {
+    "name" : "Official Codelabs",
+    "url" : "https://codelabs.developers.google.com/polymer-summit"
+  }, {
+    "name" : "Test your elements",
+    "url" : "https://www.polymer-project.org/2.0/docs/tools/tests"
+  }, {
+    "name" : "Testing Tips",
+    "url" : "https://medium.com/google-developer-experts/polymer-testing-tips-f217ba94a64"
+  }, {
+    "name" : "Unit Testing",
+    "url" : "https://medium.com/@granze/polymer-unit-testing-d6a69910dc31"
+  }, {
+    "name" : "Deploy with Firebase",
+    "url" : "https://www.polymer-project.org/2.0/start/toolbox/deploy"
+  }, {
+    "name" : "Migration guide",
+    "url" : "https://www.polymer-project.org/1.0/docs/migration.html"
+  }, {
+    "name" : "Using elements",
+    "url" : "https://elements.polymer-project.org/guides/using-elements"
+  }, {
+    "name" : "Flexbox layout with iron-flex-layout",
+    "url" : "https://elements.polymer-project.org/guides/flex-layout"
+  }, {
+    "name" : "Using Neon Animations",
+    "url" : "https://elements.polymer-project.org/guides/using-neon-animations"
+  }, {
+    "name" : "Build a real-time to-do app",
+    "url" : "https://scotch.io/tutorials/build-a-real-time-polymer-to-do-app"
+  }, {
+    "name" : "Taming Polymer with SystemJS and TypeScript",
+    "url" : "http://blog.charto.net/typescript/Taming-Polymer-with-SystemJS-and-TypeScript-part-1/"
+  }, {
+    "name" : "Aurelia Integration",
+    "url" : "http://aurelia.io/hub.html#/doc/article/aurelia/framework/latest/integrating-with-polymer"
+  }, {
+    "name" : "Polymer 3.0 Preview — Building a mini card game",
+    "url" : "https://medium.com/@jecelynyeen/polymer-3-0-preview-building-a-mini-card-game-ce8948265fd6"
+  } ]
+}, {
+  "category" : "Articles",
+  "items" : [ {
+    "name" : "Encapsulated Routing with Elements",
+    "url" : "https://www.polymer-project.org/1.0/articles/routing.html"
+  }, {
+    "name" : "Building web components using ES6 classes",
+    "url" : "https://www.polymer-project.org/1.0/articles/es6.html"
+  }, {
+    "name" : "Write web components with ES2015 (ES6)",
+    "url" : "http://www.revillweb.com/tutorials/web-components-with-es2015-es6/"
+  }, {
+    "name" : "Live-reload for Polymer Chrome Apps",
+    "url" : "http://codingwithgerwin.blogspot.it/2015/07/live-reload-for-polymer-chrome-apps.html"
+  }, {
+    "name" : "Using Polymer with Flux and a global app state",
+    "url" : "http://paulusschoutsen.nl/blog/2015/07/using-polymer-with-flux-and-a-global-app-state/"
+  }, {
+    "name" : "Guitar Tuner with Web audio API",
+    "url" : "https://aerotwist.com/blog/guitar-tuner/"
+  }, {
+    "name" : "Polymer for the Performance-obsessed",
+    "url" : "https://aerotwist.com/blog/polymer-for-the-performance-obsessed/"
+  }, {
+    "name" : "What is shady DOM",
+    "url" : "https://www.polymer-project.org/1.0/articles/shadydom.html"
+  }, {
+    "name" : "Using Polymer webcomponents with Angular JS",
+    "url" : "http://jcrowther.io/2015/05/26/using-polymer-webcomponents-with-angular-js/"
+  }, {
+    "name" : "Upgrading to 1.0",
+    "url" : "https://www.bithound.io/blog/post/upgrading-to-polymer-10"
+  }, {
+    "name" : "Setting up your Production-ready Polymer 1.0 Application Development",
+    "url" : "http://blogs.walkingtree.in/2015/06/29/setting-up-your-production-ready-polymer-1-0-application-development/"
+  }, {
+    "name" : "Dynamically Loading Elements & ES6 Modules",
+    "url" : "http://addyosmani.github.io/webcomponent-samples/polymer/modules/"
+  }, {
+    "name" : "NET-A-PORTER case study",
+    "url" : "https://developers.google.com/web/showcase/case-study/net-a-porter"
+  }, {
+    "name" : "Polymer loves Redux",
+    "url" : "https://medium.com/collaborne-engineering/polymer-loves-redux-f89a863394d9#.7f4z92ppy"
+  }, {
+    "name" : "How to use Polymer with Webpack",
+    "url" : "https://medium.com/dev-channel/how-to-use-polymer-with-webpack-b41812d78b15"
+  } ]
+}, {
+  "category" : "Videos",
+  "items" : [ {
+    "name" : "Polycasts",
+    "url" : "https://www.youtube.com/playlist?list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN"
+  }, {
+    "name" : "Summit 2017",
+    "url" : "https://www.youtube.com/watch?v=TDpiyrcOO30&list=PLNYkxOF6rcIDP0PqVaJxqNWwIgvoEPzJi"
+  }, {
+    "name" : "Summit 2016",
+    "url" : "https://www.youtube.com/watch?v=0iM0DZjYGqg&list=PLNYkxOF6rcICc687SxHQRuo9TVNOJelSZ"
+  }, {
+    "name" : "Summit 2015",
+    "url" : "https://www.youtube.com/playlist?list=PLNYkxOF6rcICdISJclfQhj2S8QZGjXV8J"
+  }, {
+    "name" : "The Web Platform Podcast 46: Polymer 1.0",
+    "url" : "https://www.youtube.com/watch?v=d9tNO3n0RlM"
+  }, {
+    "description" : " Future, Faster: Unlock the Power of Web Components with Polymer",
+    "name" : "Google I/O 2017",
+    "url" : "https://www.youtube.com/watch?v=cuoZenpQveQ"
+  }, {
+    "description" : " Polymer and modern web APIs: In production at Google scale",
+    "name" : "Google I/O 2015",
+    "url" : "https://www.youtube.com/watch?v=fD2As5RmM8Q"
+  }, {
+    "name" : "Componentize your app with Polymer Elements",
+    "url" : "https://youtu.be/7WgEuNZCCHk"
+  }, {
+    "name" : "Learn Polymer 1.0",
+    "url" : "https://www.youtube.com/playlist?list=PLPaj_o9gjMYll0sSb47TrzQCjIo5iqQZm"
+  }, {
+    "name" : "Level up Tutorials",
+    "url" : "https://www.youtube.com/playlist?list=PLLnpHn493BHGhoGAb2PRKzv4Zw3QoatK-"
+  } ]
+}, {
+  "category" : "Podcasts",
+  "items" : [ {
+    "name" : "Polymer Podcast",
+    "url" : "http://www.polymerpodcast.com/"
+  } ]
+}, {
+  "category" : "Boilerplates",
+  "items" : [ {
+    "name" : "Polymer boilerplate",
+    "url" : "https://github.com/webcomponents/polymer-boilerplate"
+  }, {
+    "name" : "Starter kit",
+    "url" : "https://developers.google.com/web/tools/polymer-starter-kit/"
+  }, {
+    "name" : "Seed element",
+    "url" : "https://github.com/polymerlabs/seed-element"
+  }, {
+    "name" : "Polymer Admin",
+    "url" : "https://github.com/akveo/polymer-admin"
+  }, {
+    "name" : "Meteor-Polymer Starter Kit",
+    "url" : "https://github.com/aruntk/kickstart-meteor-polymer"
+  }, {
+    "name" : "Meteor-Polymer Starter Kit Including Auth",
+    "url" : "https://github.com/aruntk/kickstart-meteor-polymer-with-auth"
+  } ]
+}, {
+  "category" : "Generators",
+  "items" : [ {
+    "name" : "Generator Polymer",
+    "url" : "https://github.com/yeoman/generator-polymer"
+  }, {
+    "name" : "Generator element",
+    "url" : "https://www.npmjs.com/package/generator-element"
+  } ]
+}, {
+  "category" : "Official Elements",
+  "items" : [ {
+    "name" : "Elements Catalog",
+    "url" : "https://www.webcomponents.org/collection/Polymer/elements"
+  }, {
+    "name" : "Iron",
+    "url" : "https://www.webcomponents.org/collection/PolymerElements/iron-elements"
+  }, {
+    "name" : "Paper",
+    "url" : "https://www.webcomponents.org/collection/PolymerElements/paper-elements"
+  }, {
+    "name" : "Google web components",
+    "url" : "https://www.webcomponents.org/collection/GoogleWebComponents/google-web-components"
+  }, {
+    "name" : "Gold",
+    "url" : "https://www.webcomponents.org/collection/PolymerElements/gold-elements"
+  }, {
+    "name" : "Platinum",
+    "url" : "https://www.webcomponents.org/collection/PolymerElements/platinum-elements"
+  }, {
+    "name" : "Molecules",
+    "url" : "https://www.webcomponents.org/collection/PolymerElements/molecules"
+  }, {
+    "name" : "App",
+    "url" : "https://www.webcomponents.org/collection/PolymerElements/app-elements"
+  }, {
+    "name" : "Data",
+    "url" : "https://www.webcomponents.org/collection/PolymerElements/data-elements"
+  }, {
+    "name" : "Layout",
+    "url" : "https://www.webcomponents.org/collection/PolymerElements/layout-elements"
+  } ]
+}, {
+  "category" : "Directories",
+  "items" : [ {
+    "name" : "Built with Polymer",
+    "url" : "http://builtwithpolymer.org/"
+  }, {
+    "name" : "Webcomponents.org",
+    "url" : "https://webcomponents.org/"
+  }, {
+    "name" : "Components Kitchen",
+    "url" : "http://component.kitchen/"
+  }, {
+    "name" : "open-elements",
+    "url" : "http://open-elements.org"
+  } ]
+}, {
+  "category" : "Tools",
+  "items" : [ {
+    "name" : "Polyserve",
+    "url" : "https://github.com/polymerlabs/polyserve"
+  }, {
+    "name" : "Polybuild",
+    "url" : "https://github.com/PolymerLabs/polybuild"
+  }, {
+    "name" : "Polyup",
+    "url" : "https://github.com/PolymerLabs/polyup"
+  }, {
+    "name" : "Polylint",
+    "url" : "https://github.com/PolymerLabs/polylint"
+  }, {
+    "name" : "Polygit",
+    "url" : "http://polygit.org/"
+  }, {
+    "name" : "Polydev",
+    "url" : "https://github.com/PolymerLabs/polydev"
+  }, {
+    "name" : "Polymer Ready",
+    "url" : "https://chrome.google.com/webstore/detail/polymer-ready/aaifiopbmiecbpladpjaoemohhfjcbdk"
+  }, {
+    "name" : "Vulcanize",
+    "url" : "https://github.com/Polymer/vulcanize"
+  }, {
+    "name" : "Crisper",
+    "url" : "https://github.com/PolymerLabs/crisper"
+  }, {
+    "name" : "Snippets for Atom editor",
+    "url" : "https://atom.io/packages/polymer-snippets"
+  }, {
+    "name" : "Snippets for Sublime Text editor",
+    "url" : "https://packagecontrol.io/packages/Polymer%20%26%20Web%20Component%20Snippets"
+  }, {
+    "name" : "Synthesis",
+    "url" : "https://github.com/meteorwebcomponents/synthesis"
+  }, {
+    "name" : "MWC-Layout",
+    "url" : "https://github.com/meteorwebcomponents/layout"
+  }, {
+    "name" : "WC-Loader",
+    "url" : "https://github.com/aruntk/wc-loader"
+  }, {
+    "name" : "Polymer Webpack Loader",
+    "url" : "https://github.com/webpack-contrib/polymer-webpack-loader"
+  }, {
+    "name" : "Polymer CDN",
+    "url" : "https://github.com/download/polymer-cdn"
+  } ]
+}, {
+  "category" : "Testing",
+  "items" : [ {
+    "name" : "Web components tester",
+    "url" : "https://github.com/Polymer/web-component-tester"
+  }, {
+    "name" : "Web components tester istambul",
+    "url" : "https://github.com/thedeeno/web-component-tester-istanbul"
+  }, {
+    "name" : "test-fixture",
+    "url" : "https://github.com/PolymerElements/test-fixture"
+  }, {
+    "name" : "iron-test-helpers",
+    "url" : "https://github.com/PolymerElements/iron-test-helpers"
+  } ]
+}, {
+  "category" : "Behaviors",
+  "items" : [ {
+    "name" : "Polymer-Apollo",
+    "url" : "https://github.com/aruntk/polymer-apollo"
+  }, {
+    "name" : "MWC-Mixin",
+    "url" : "https://github.com/meteorwebcomponents/mixin"
+  }, {
+    "name" : "MWC-Router",
+    "url" : "https://github.com/meteorwebcomponents/router"
+  }, {
+    "name" : "Polymer-Redux",
+    "url" : "https://github.com/tur-nr/polymer-redux"
+  } ]
+}, {
+  "category" : "Theming/Styling",
+  "items" : [ {
+    "name" : "Polymer Themes",
+    "url" : "https://polymerthemes.com/"
+  }, {
+    "name" : "Material Palette",
+    "url" : "https://www.materialpalette.com/"
+  }, {
+    "name" : "Polystyle",
+    "url" : "https://poly-style.appspot.com/demo/"
+  } ]
+}, {
+  "category" : "Notable projects",
+  "items" : [ {
+    "name" : "Polymer Projects",
+    "url" : "https://github.com/abdonrd/PolymerProjects"
+  } ]
+} ]

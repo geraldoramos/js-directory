@@ -1,0 +1,509 @@
+[ {
+  "category" : "Samples",
+  "items" : [ {
+    "description" : "Sample apps illustrating usage of Electron APIs.",
+    "name" : "Electron API usage",
+    "url" : "https://github.com/hokein/electron-sample-apps"
+  }, {
+    "description" : "WebRTC screen recorder.",
+    "name" : "Screen Recorder",
+    "url" : "https://github.com/hokein/electron-screen-recorder"
+  }, {
+    "description" : "Shows a doughnut chart of the CPU system, user, and idle activity time.",
+    "name" : "Activity Monitor",
+    "url" : "https://electronjs.org/blog/simple-samples#activity-monitor"
+  }, {
+    "description" : "Shows the hash values of entered text using different algorithms.",
+    "name" : "Hash",
+    "url" : "https://electronjs.org/blog/simple-samples#hash"
+  }, {
+    "description" : "Shows the current price of oil, gold, and silver using the Yahoo Finance API.",
+    "name" : "Prices",
+    "url" : "https://electronjs.org/blog/simple-samples#prices"
+  }, {
+    "description" : "Example of macOS Touch Bar integration.",
+    "name" : "Touch Bar API",
+    "url" : "https://github.com/Rawnly/touchbar-api-sample"
+  } ]
+}, {
+  "category" : "Boilerplates",
+  "items" : [ {
+    "name" : "electron-boilerplate",
+    "url" : "https://github.com/sindresorhus/electron-boilerplate"
+  }, {
+    "description" : "Scaffold out an app boilerplate.",
+    "name" : "generator-electron",
+    "url" : "https://github.com/sindresorhus/generator-electron"
+  }, {
+    "description" : "Boilerplate based on React and webpack.",
+    "name" : "electron-react-boilerplate",
+    "url" : "https://github.com/chentsulin/electron-react-boilerplate"
+  }, {
+    "description" : "ClojureScript boilerplate for creating an app.",
+    "name" : "descjop",
+    "url" : "https://github.com/karad/lein_template_descjop"
+  }, {
+    "description" : "Clone the repo to try a simple app.",
+    "name" : "electron-quick-start",
+    "url" : "https://github.com/electron/electron-quick-start"
+  }, {
+    "description" : "Scaffold, run, test, and package your app.",
+    "name" : "bozon",
+    "url" : "https://github.com/railsware/bozon"
+  }, {
+    "description" : "Easily build your app with Vue and common plugins.",
+    "name" : "electron-vue",
+    "url" : "https://github.com/SimulatedGREG/electron-vue"
+  }, {
+    "description" : "Boilerplate to build your app with Next.js.",
+    "name" : "electron-next-skeleton",
+    "url" : "https://github.com/leo/electron-next-skeleton"
+  }, {
+    "description" : "Boilerplate and tutorial for creating secure apps (sandbox & communication over IPC).",
+    "name" : "electron-sandbox",
+    "url" : "https://github.com/kewde/electron-sandbox"
+  } ]
+}, null, {
+  "category" : "Tools",
+  "items" : [ {
+    "description" : "Create installers.",
+    "name" : "electron-builder",
+    "url" : "https://github.com/electron-userland/electron-builder"
+  }, {
+    "description" : "Official DevTools extension.",
+    "name" : "devtron",
+    "url" : "https://github.com/electron/devtron"
+  }, {
+    "description" : "Package and distribute your app.",
+    "name" : "electron-packager",
+    "url" : "https://github.com/electron-userland/electron-packager"
+  }, {
+    "description" : "Adds useful debug features.",
+    "name" : "electron-debug",
+    "url" : "https://github.com/sindresorhus/electron-debug"
+  }, {
+    "description" : "Check if Electron is running in development.",
+    "name" : "electron-is-dev",
+    "url" : "https://github.com/sindresorhus/electron-is-dev"
+  }, {
+    "description" : "Add keyboard shortcuts locally to a window.",
+    "name" : "electron-localshortcut",
+    "url" : "https://github.com/parro-it/electron-localshortcut"
+  }, {
+    "description" : "Auto-update by releasing on GitHub.",
+    "name" : "electron-gh-release",
+    "url" : "https://github.com/jenslind/electron-gh-releases"
+  }, {
+    "description" : "Publish a new release of your app to GitHub.",
+    "name" : "electron-release",
+    "url" : "https://github.com/jenslind/electron-release"
+  }, {
+    "description" : "Auto-updater leveraging npm to deploy updates.",
+    "name" : "electron-updater",
+    "url" : "https://github.com/evolvelabs/electron-updater"
+  }, {
+    "description" : "Fix the $PATH on macOS when run from a GUI app. Useful when spawning a child process.",
+    "name" : "fix-path",
+    "url" : "https://github.com/sindresorhus/fix-path"
+  }, {
+    "description" : "Launch apps at system startup.",
+    "name" : "auto-launch",
+    "url" : "https://github.com/Teamwork/node-auto-launch"
+  }, {
+    "description" : "Releases server with auto-updater and GitHub as a backend.",
+    "name" : "nuts",
+    "url" : "https://github.com/GitbookIO/nuts"
+  }, {
+    "description" : "Simplified file downloads.",
+    "name" : "electron-dl",
+    "url" : "https://github.com/sindresorhus/electron-dl"
+  }, {
+    "description" : "Self-hosted release server with front-end & auto-updater support.",
+    "name" : "electron-release-server",
+    "url" : "https://github.com/ArekSredzki/electron-release-server"
+  }, {
+    "description" : "Rebuild native Node.js modules against the currently installed Electron version.",
+    "name" : "electron-rebuild",
+    "url" : "https://github.com/electron/electron-rebuild"
+  }, {
+    "description" : "Use ES2015, CoffeeScript, Less, Stylus in your app without a precompilation step.",
+    "name" : "electron-compile",
+    "url" : "https://github.com/electron/electron-compile"
+  }, {
+    "description" : "Position windows at common spots.",
+    "name" : "electron-positioner",
+    "url" : "https://github.com/jenslind/electron-positioner"
+  }, {
+    "description" : "Persist window sizes and positions.",
+    "name" : "electron-window-state",
+    "url" : "https://github.com/mawie81/electron-window-state"
+  }, {
+    "description" : "Improved window dragging.",
+    "name" : "electron-drag",
+    "url" : "https://github.com/kapetan/electron-drag"
+  }, {
+    "description" : "Chrome-like \"inspect element\" context-menu.",
+    "name" : "debug-menu",
+    "url" : "https://github.com/parro-it/debug-menu"
+  }, {
+    "description" : "Create a Debian package.",
+    "name" : "electron-installer-debian",
+    "url" : "https://github.com/unindented/electron-installer-debian"
+  }, {
+    "description" : "Create a Red Hat package.",
+    "name" : "electron-installer-redhat",
+    "url" : "https://github.com/unindented/electron-installer-redhat"
+  }, {
+    "description" : "Create a Windows package.",
+    "name" : "electron-installer-windows",
+    "url" : "https://github.com/unindented/electron-installer-windows"
+  }, {
+    "description" : "Subprocesses with administrative privileges.",
+    "name" : "electron-sudo",
+    "url" : "https://github.com/automation-stack/electron-sudo"
+  }, {
+    "description" : "Write and read user settings.",
+    "name" : "electron-json-storage",
+    "url" : "https://github.com/jviotti/electron-json-storage"
+  }, {
+    "description" : "Download the Electron release zip from GitHub.",
+    "name" : "electron-download",
+    "url" : "https://github.com/electron-userland/electron-download"
+  }, {
+    "description" : "Duplex stream over IPC.",
+    "name" : "ipc-stream",
+    "url" : "https://github.com/jprichardson/electron-ipc-stream"
+  }, {
+    "description" : "Check if your code is running in main or renderer.",
+    "name" : "is-electron-renderer",
+    "url" : "https://github.com/jprichardson/is-electron-renderer"
+  }, {
+    "description" : "Code-signing for macOS apps.",
+    "name" : "electron-osx-sign",
+    "url" : "https://github.com/electron-userland/electron-osx-sign"
+  }, {
+    "description" : "Restart an Electron app as a detached process.",
+    "name" : "electron-detach",
+    "url" : "https://github.com/parro-it/electron-detach"
+  }, {
+    "description" : "Build, test, and package Ember apps.",
+    "name" : "ember-electron",
+    "url" : "https://github.com/felixrieseberg/ember-electron"
+  }, {
+    "description" : "Package Meteor apps.",
+    "name" : "electrify",
+    "url" : "https://github.com/arboleya/electrify"
+  }, {
+    "description" : "Test Electron apps using ChromeDriver.",
+    "name" : "spectron",
+    "url" : "https://github.com/electron/spectron"
+  }, {
+    "description" : "Babel preset that only compiles what's necessary for a particular Electron version.",
+    "name" : "babel-preset-electron",
+    "url" : "https://github.com/emorikawa/babel-preset-electron"
+  }, {
+    "description" : "Utility functions.",
+    "name" : "electron-is",
+    "url" : "https://github.com/delvedor/electron-is"
+  }, {
+    "description" : "Simplified API for accessing macOS's appearance settings.",
+    "name" : "electron-osx-appearance",
+    "url" : "https://github.com/danhp/electron-osx-appearance"
+  }, {
+    "description" : "Save and load data like user preferences, app state, cache, etc.",
+    "name" : "electron-store",
+    "url" : "https://github.com/sindresorhus/electron-store"
+  }, {
+    "description" : "Extensible context menu.",
+    "name" : "electron-context-menu",
+    "url" : "https://github.com/sindresorhus/electron-context-menu"
+  }, {
+    "description" : "Simplified require.",
+    "name" : "electron-require",
+    "url" : "https://github.com/brrd/electron-require"
+  }, {
+    "description" : "Embedded persistent or in-memory database.",
+    "name" : "NeDB",
+    "url" : "https://github.com/louischatriot/nedb"
+  }, {
+    "description" : "Install DevTools extensions from the Chrome Web Store.",
+    "name" : "electron-devtools-installer",
+    "url" : "https://github.com/GPMDP/electron-devtools-installer"
+  }, {
+    "description" : "Simple logging.",
+    "name" : "electron-log",
+    "url" : "https://github.com/megahertz/electron-log"
+  }, {
+    "description" : "Synchronize Redux state across windows.",
+    "name" : "electron-redux",
+    "url" : "https://github.com/hardchor/electron-redux"
+  }, {
+    "description" : "Add vibrancy (blur) to windows.",
+    "name" : "electron-vibrancy",
+    "url" : "https://github.com/arkenthera/electron-vibrancy"
+  }, {
+    "description" : "'About This App' window.",
+    "name" : "electron-about-window",
+    "url" : "https://github.com/rhysd/electron-about-window"
+  }, {
+    "description" : "Live-reload your app during development.",
+    "name" : "elemon",
+    "url" : "https://github.com/manidlou/elemon"
+  }, {
+    "description" : "Check if a string is a valid accelerator.",
+    "name" : "electron-is-accelerator",
+    "url" : "https://github.com/brrd/electron-is-accelerator"
+  }, {
+    "description" : "View PDF files in browser windows.",
+    "name" : "electron-pdf-window",
+    "url" : "https://github.com/gerhardberger/electron-pdf-window"
+  }, {
+    "description" : "Router tidying up IPC message passing.",
+    "name" : "electron-router",
+    "url" : "https://github.com/m0n0l0c0/electron-router"
+  }, {
+    "description" : "Automatically move your app to /Applications on macOS.",
+    "name" : "electron-lets-move",
+    "url" : "https://github.com/tommoor/electron-lets-move"
+  }, {
+    "description" : "Reads and writes user settings to disk.",
+    "name" : "electron-settings",
+    "url" : "https://github.com/nathanbuchar/electron-settings"
+  }, {
+    "description" : "Simplified HTTP requests.",
+    "name" : "got",
+    "url" : "https://github.com/sindresorhus/got"
+  }, {
+    "description" : "Catch unhandled errors and promise rejections.",
+    "name" : "electron-unhandled",
+    "url" : "https://github.com/sindresorhus/electron-unhandled"
+  }, {
+    "description" : "Process manager UI (like Chrome's task manager).",
+    "name" : "electron-process-manager",
+    "url" : "https://github.com/getstation/electron-process-manager"
+  }, {
+    "description" : "Flux-like state and action management across processes.",
+    "name" : "ipc-flux",
+    "url" : "https://github.com/harryparkdotio/ipc-flux"
+  }, {
+    "description" : "Useful utilities for developing apps and modules.",
+    "name" : "electron-util",
+    "url" : "https://github.com/sindresorhus/electron-util"
+  } ]
+}, null, {
+  "category" : "Components",
+  "items" : [ {
+    "description" : "UI toolkit for building beautiful apps.",
+    "name" : "Photon",
+    "url" : "http://photonkit.com"
+  }, {
+    "description" : "Photon components built with React.",
+    "name" : "React PhotonKit",
+    "url" : "https://github.com/react-photonkit/react-photonkit"
+  }, {
+    "description" : "Menubar app framework.",
+    "name" : "menubar",
+    "url" : "https://github.com/maxogden/menubar"
+  }, {
+    "description" : "Adds support for document.cookie.",
+    "name" : "cookies",
+    "url" : "https://github.com/hstove/electron-cookies"
+  }, {
+    "description" : "Create and manage windows.",
+    "name" : "window",
+    "url" : "https://github.com/jprichardson/electron-window"
+  }, {
+    "description" : "UI toolkit for macOS and Windows built with React.",
+    "name" : "React Desktop",
+    "url" : "https://github.com/gabrielbull/react-desktop"
+  }, {
+    "description" : "Context menu for input elements.",
+    "name" : "electron-input-menu",
+    "url" : "https://github.com/parro-it/electron-input-menu"
+  }, {
+    "description" : "Chrome like tabs.",
+    "name" : "chrome-tabs",
+    "url" : "https://github.com/adamschwartz/chrome-tabs"
+  }, {
+    "description" : "Emulate the macOS window titlebar.",
+    "name" : "titlebar",
+    "url" : "https://github.com/kapetan/titlebar"
+  }, {
+    "description" : "Build and manage UI components with Photon and Etch.",
+    "name" : "Brightwheel",
+    "url" : "https://github.com/loranallensmith/brightwheel"
+  }, {
+    "description" : "Widget toolkit for building native-like apps.",
+    "name" : "Xel",
+    "url" : "https://xel-toolkit.org"
+  } ]
+}, {
+  "category" : "Documentation",
+  "items" : [ {
+    "name" : "Quick Start",
+    "url" : "https://electronjs.org/docs/tutorial/quick-start"
+  }, {
+    "name" : "Official docs",
+    "url" : "https://electronjs.org/docs"
+  }, {
+    "description" : "Concise overview.",
+    "name" : "Essential Electron",
+    "url" : "http://jlord.us/essential-electron/"
+  } ]
+}, {
+  "category" : "Articles",
+  "items" : [ {
+    "name" : "Electron Fundamentals",
+    "url" : "http://maxogden.com/electron-fundamentals.html"
+  }, {
+    "name" : "Building a desktop application with Electron",
+    "url" : "https://medium.com/@bojzi/building-a-desktop-application-with-electron-204203eeb658"
+  }, {
+    "name" : "Codesigning your app for macOS",
+    "url" : "http://jbavari.github.io/blog/2015/08/14/codesigning-electron-applications/"
+  }, {
+    "name" : "Auto-updating apps for macOS and Windows: The complete guide",
+    "url" : "https://medium.com/@svilen/auto-updating-apps-for-windows-and-osx-using-electron-the-complete-guide-4aa7a50b904c"
+  }, {
+    "name" : "How To Make Your Electron App Sexy",
+    "url" : "https://blog.dcpos.ch/how-to-make-your-electron-app-sexy"
+  }, {
+    "description" : "Blog about working with Electron.",
+    "name" : "Electron Rocks!",
+    "url" : "http://electron.rocks"
+  }, {
+    "name" : "Building a desktop app with Electron, React, and Redux",
+    "url" : "https://anadea.info/blog/building-desktop-app-with-electron"
+  }, {
+    "description" : "New Electron API to embed web apps with fewer bugs and improved performance.",
+    "name" : "Introducing BrowserView for Electron",
+    "url" : "https://blog.figma.com/introducing-browserview-for-electron-7b40b4b493d5"
+  }, {
+    "description" : "Slack rewrote their Electron app with BrowserView, Redux, Rx, and TypeScript, to fix its performance problems.",
+    "name" : "Migrating Slack’s Desktop App to BrowserView",
+    "url" : "https://slack.engineering/growing-pains-migrating-slacks-desktop-app-to-browserview-2759690d9c7b"
+  }, {
+    "description" : "Realm rewrote their database browser app with Electron for cross-platform support.",
+    "name" : "Bringing Native Performance to Electron",
+    "url" : "https://blog.realm.io/native-performance-electron-realm/"
+  } ]
+}, {
+  "category" : "Books",
+  "items" : [ {
+    "name" : "Developing an Electron Edge",
+    "url" : "https://bleedingedgepress.com/developing-an-electron-edge/"
+  }, {
+    "description" : "Electron in Action guides you, step-by-step, as you learn to build desktop applications that run on Windows, OSX, and Linux",
+    "name" : "Electron in Action",
+    "url" : "https://www.manning.com/books/electron-in-action?a_aid=electroninaction"
+  }, {
+    "name" : "Cross-Platform Desktop Applications",
+    "url" : "https://www.manning.com/books/cross-platform-desktop-applications"
+  } ]
+}, {
+  "category" : "Videos",
+  "items" : [ {
+    "name" : "Getting Started with Electron 1.x",
+    "url" : "https://www.youtube.com/watch?v=jKzBJAowmGg"
+  }, {
+    "name" : "Packaging and Distributing Electron Desktop Apps",
+    "url" : "https://www.youtube.com/watch?v=dz5SnmBzBXc"
+  }, {
+    "name" : "Multi Window Electron Desktop Apps",
+    "url" : "https://www.youtube.com/watch?v=K-H2amwQ_pU"
+  }, {
+    "name" : "The State of Electron",
+    "url" : "https://www.youtube.com/watch?v=RaPmi-33rfc"
+  }, {
+    "name" : "Cross-Platform Desktop Apps with Electron",
+    "url" : "https://www.youtube.com/watch?v=9xX_G0l5jLU"
+  }, {
+    "name" : "Building Native Desktop apps using Electron",
+    "url" : "https://www.youtube.com/watch?v=nXIrFq5-FC8"
+  }, {
+    "name" : "The New Desktop: Electron, React, & Pixel-Perfect Native-Feeling Experiences",
+    "url" : "https://www.youtube.com/watch?v=jRPUB-D1Wx0"
+  }, {
+    "name" : "Building Desktop Apps with Node.js and Electron",
+    "url" : "https://www.youtube.com/watch?v=rbSvc8_BHaw"
+  }, {
+    "name" : "Electron Fundamentals course - Pluralsight",
+    "url" : "https://www.pluralsight.com/courses/electron-fundamentals"
+  }, {
+    "name" : "Electron: Building Cross Platform Desktop Apps - Lynda",
+    "url" : "https://www.lynda.com/Electron-tutorials/Electron-Building-Cross-Platform-Desktop-Apps/518051-2.html"
+  }, {
+    "name" : "Automatically Build and Publish Node and Electron Applications for Linux",
+    "url" : "https://pusher.com/sessions/meetup/london-node-user-group/automatically-build-and-publish-node-and-electron-applications-for-linux"
+  }, {
+    "name" : "Build a desktop application with Electron - Egghead",
+    "url" : "https://egghead.io/courses/build-a-desktop-application-with-electron"
+  }, {
+    "name" : "Build Cross-Platform Desktop Apps with Electron - Frontend Masters",
+    "url" : "https://frontendmasters.com/courses/electron/"
+  }, {
+    "description" : "Includes some good talks on improving app startup time, debugging crashes, etc.",
+    "name" : "Electron Meetup SF, November 2017",
+    "url" : "https://www.youtube.com/watch?v=DDjVaHPvRdM"
+  } ]
+}, {
+  "category" : "Podcasts",
+  "items" : [ {
+    "name" : "JavaScript Jabber: Electron with Jessica Lord and Amy Palamountain",
+    "url" : "https://devchat.tv/js-jabber/193-jsj-electron-with-jessica-lord-and-amy-palamountain"
+  }, {
+    "name" : "Hanselminutes: Creating cross-platform Electron apps with Jessica Lord",
+    "url" : "http://hanselminutes.com/534/creating-cross-platform-electron-apps-with-jessica-lord"
+  }, {
+    "name" : "JavaScript Air: Electron Apps with @jlord and @emorikawa",
+    "url" : "https://javascriptair.com/episodes/2016-07-06"
+  }, {
+    "name" : "The Changelog #216: GitHub's Electron with Zeke Sikelianos",
+    "url" : "https://changelog.com/216/"
+  }, {
+    "name" : "Full Stack Radio #48: Jessica Lord - Building Desktop Apps with Electron",
+    "url" : "http://www.fullstackradio.com/48"
+  }, {
+    "name" : "NodeUp: Electron with Jessica Lord",
+    "url" : "http://nodeup.com/onehundredseven"
+  } ]
+}, {
+  "category" : "Community",
+  "items" : [ {
+    "name" : "Discuss",
+    "url" : "https://discuss.atom.io/c/electron"
+  }, {
+    "name" : "Reddit",
+    "url" : "https://www.reddit.com/r/electronjs"
+  }, {
+    "name" : "Stack Overflow",
+    "url" : "http://stackoverflow.com/questions/tagged/electron"
+  }, {
+    "name" : "@electronjs on Twitter",
+    "url" : "https://twitter.com/electronjs"
+  }, {
+    "name" : "#atom-shell on Freenode",
+    "url" : "http://webchat.freenode.net/?channels=atom-shell"
+  }, {
+    "name" : "#electron on Atom Slack",
+    "url" : "http://atom-slack.herokuapp.com"
+  }, {
+    "name" : "electron-jp",
+    "url" : "https://electron-jp-slackin.herokuapp.com"
+  }, {
+    "name" : "electron-br",
+    "url" : "https://electron-br.slack.com"
+  }, {
+    "name" : "electron-kr",
+    "url" : "http://www.meetup.com/electronkr"
+  }, {
+    "name" : "@electron_ru on Telegram",
+    "url" : "https://telegram.me/electron_ru"
+  }, {
+    "name" : "electronjs on Facebook",
+    "url" : "https://www.facebook.com/groups/electronjs/"
+  }, {
+    "name" : "Product Hunt",
+    "url" : "https://www.producthunt.com/@sindresorhus/collections/electron-apps"
+  } ]
+} ]

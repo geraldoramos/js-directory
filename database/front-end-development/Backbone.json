@@ -1,0 +1,359 @@
+[ {
+  "category" : "General",
+  "items" : [ {
+    "name" : "Backbone.js",
+    "url" : "http://backbonejs.org/"
+  }, {
+    "name" : "Github repository",
+    "url" : "https://github.com/jashkenas/backbone"
+  }, {
+    "name" : "Annotated source",
+    "url" : "http://backbonejs.org/docs/backbone.html"
+  }, {
+    "name" : "Backbone plugins",
+    "url" : "http://backplug.io/"
+  }, {
+    "name" : "Backbone Index",
+    "url" : "https://backboneindex.com/"
+  }, {
+    "name" : "BackboneConf",
+    "url" : "http://backboneconf.com/"
+  }, {
+    "name" : "StackOverflow",
+    "url" : "http://stackoverflow.com/questions/tagged/backbone.js"
+  }, {
+    "name" : "Yeoman generator for Backbone.js",
+    "url" : "https://github.com/yeoman/generator-backbone"
+  } ]
+}, {
+  "category" : "Tutorials and articles",
+  "items" : [ {
+    "name" : "A pragmatic guide to Backbone.js apps",
+    "url" : "http://pragmatic-backbone.com/"
+  }, {
+    "name" : "Getting Started with Backbone",
+    "url" : "http://www.korenlc.com/backbone-js-tutorial-getting-started-with-backbone/"
+  }, {
+    "name" : "A Complete Guide for Learning Backbone.js",
+    "url" : "http://www.codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/"
+  }, {
+    "name" : "Hello Backbone.js",
+    "url" : "http://jasongiedymin.github.io/hello-backbonejs/"
+  }, {
+    "name" : "Part 1",
+    "url" : "http://coenraets.org/blog/2011/12/backbone-js-wine-cellar-tutorial-part-1-getting-started/"
+  }, {
+    "name" : "Backbone patterns",
+    "url" : "http://ricostacruz.com/backbone-patterns/"
+  }, {
+    "name" : "Complex Single Page Application Architecture with Backbone.js",
+    "url" : "http://blog.soom.la/2013/10/complex-single-page-application.html"
+  }, {
+    "name" : "Building large Backbone applications",
+    "url" : "http://victorsavkin.com/post/59496656297/building-large-backbone-applications"
+  }, {
+    "name" : "A Guide to Writing Backbone Apps at Coursera",
+    "url" : "http://blog.pamelafox.org/2013/07/a-guide-to-writing-backbone-apps-at.html"
+  }, {
+    "name" : "Part 1",
+    "url" : "http://www.jamesyu.org/2011/01/27/cloudedit-a-backbone-js-tutorial-by-example"
+  }, {
+    "name" : "Our First Node.js App: Backbone on the Client and Server",
+    "url" : "http://nerds.airbnb.com/weve-launched-our-first-nodejs-app-to-product/"
+  }, {
+    "name" : "Using Backbone.js With Require.js",
+    "url" : "http://gregfranko.com/blog/using-backbone-dot-js-with-require-dot-js/"
+  }, {
+    "name" : "Backbone Model Unit Testing with Jasmine",
+    "url" : "http://blog.katworksgames.com/2013/03/30/bb_model_test_jasmine/"
+  }, {
+    "name" : "Backbone.js and Socket.io",
+    "url" : "http://developer.teradata.com/blog/jasonstrimpel/2011/11/backbone-js-and-socket-io"
+  }, {
+    "name" : "Presenter First in Backbone.js",
+    "url" : "http://spin.atomicobject.com/2012/01/03/presenter-first-in-backbone-js/"
+  }, {
+    "name" : "Websockets for Backbone",
+    "url" : "http://www.artandlogic.com/blog/2014/06/websockets-for-backbone/"
+  }, {
+    "name" : "Part 1",
+    "url" : "http://www.artandlogic.com/blog/2012/06/fun-with-coffeescript-and-backbone-js-part-1/"
+  }, {
+    "name" : "Components with Backbone.js and Marionette.js",
+    "url" : "http://blog.jeremyfairbank.com/javascript/components-with-backbone-js-and-marionette-js/"
+  }, {
+    "name" : "Boilerplate web app using Backbone.js, Express.js, Node.js, MongoDB",
+    "url" : "http://kroltech.com/2013/12/boilerplate-web-app-using-backbone-js-expressjs-node-js-mongodb/"
+  }, {
+    "name" : "Backbone.js Tips And Patterns",
+    "url" : "http://www.smashingmagazine.com/2013/08/09/backbone-js-tips-patterns/"
+  }, {
+    "name" : "Leveraging Deferreds in Backbone.js",
+    "url" : "http://quickleft.com/blog/leveraging-deferreds-in-backbonejs"
+  }, {
+    "description" : " UI architecture",
+    "name" : "Backbone.js for large scale applications",
+    "url" : "http://orizens.com/wp/topics/backbone-js-for-large-scale-applications-ui-architecture/"
+  }, {
+    "name" : "Decorating A Backbone.Model With Features, For A UI Component",
+    "url" : "http://derickbailey.com/2014/09/09/decorating-a-backbone-model-with-features-for-a-ui-component/"
+  }, {
+    "name" : "Backbone.fwd: Forward Events From One Backbone Object, Through Another",
+    "url" : "http://derickbailey.com/2014/05/13/backbone-fwd-forward-events-from-one-backbone-object-through-another/"
+  }, {
+    "description" : " Rendering A Collection",
+    "name" : "Backbone.View Patterns",
+    "url" : "http://orizens.com/wp/topics/backbone-view-patterns-rendering-a-collection/"
+  }, {
+    "description" : " How & Why Use Subviews",
+    "name" : "Backbone.View Patterns",
+    "url" : "http://orizens.com/wp/topics/backbone-view-patterns-how-why-to-use-subviews/"
+  }, {
+    "description" : " The \"Render\" Method",
+    "name" : "Backbone.View Patterns",
+    "url" : "http://orizens.com/wp/topics/backbone-view-patterns-the-render-method/"
+  }, {
+    "name" : "Building progressively enhanced websites using bulletproof Backbone & CSS transforms",
+    "url" : "http://azumbrunnen.me/blog/building-progressively-enhanced-websites-with-bulletproof-backbone/"
+  }, {
+    "name" : "Decoupling Backbone Apps From WebSockets",
+    "url" : "http://lostechies.com/derickbailey/2012/04/19/decoupling-backbone-apps-from-websockets/"
+  }, {
+    "name" : "Backbone.js And JavaScript Garbage Collection",
+    "url" : "http://lostechies.com/derickbailey/2012/03/19/backbone-js-and-javascript-garbage-collection/"
+  }, {
+    "name" : "Getting familiar with Backbone.js",
+    "url" : "https://blog.safaribooksonline.com/2013/11/16/getting-familiar-with-backbone-js/"
+  }, {
+    "name" : "Backbone Antipatterns",
+    "url" : "http://blog.shinetech.com/2013/11/26/backbone-antipatterns/"
+  }, {
+    "name" : "Part 1",
+    "url" : "http://adrianmejia.com/blog/2012/09/11/backbone-dot-js-for-absolute-beginners-getting-started/"
+  }, {
+    "name" : "Part 1",
+    "url" : "http://javascriptplayground.com/blog/2013/02/express-backbone-application-part1"
+  }, {
+    "name" : "Backbone with ES6",
+    "url" : "http://mikefowler.me/2014/06/11/backbone-with-es6/"
+  }, {
+    "name" : "How to share Backbone.js models with Node.js",
+    "url" : "http://amirmalik.net/2010/11/27/how-to-share-backbonejs-models-with-nodejs"
+  }, {
+    "name" : "Backbone.js tricks or treats",
+    "url" : "http://tiagorg.github.io/talk-backbone-tricks-or-treats-html5devconf"
+  }, {
+    "name" : "Part 1",
+    "url" : "http://www.foraker.com/backbone-js-organizational-patterns/"
+  }, {
+    "name" : "Backbone Cleanup",
+    "url" : "http://www.webdeveasy.com/backbone-cleanup/"
+  }, {
+    "name" : "Lazy loading Backbone collections with Promises",
+    "url" : "http://tech.adroll.com/blog/web/2013/11/12/lazyloading-backbone-collection-with-promises.html"
+  }, {
+    "name" : "5 Ways to Level-Up Your Backbone.js Code",
+    "url" : "https://blog.engineyard.com/2015/5-ways-to-level-up-your-backbone-code"
+  }, {
+    "name" : "Why Backbone.js and ES6 Classes Don't Mix",
+    "url" : "http://benmccormick.org/2015/04/07/es6-classes-and-backbone-js/"
+  }, {
+    "name" : "Top 8 Common Backbone.js Developer Mistakes",
+    "url" : "http://www.toptal.com/backbone-js/top-8-common-backbone-js-developer-mistakes"
+  }, {
+    "name" : "8 Great Backbone.js Interview Questions",
+    "url" : "http://www.toptal.com/backbone-js/interview-questions"
+  }, {
+    "name" : "Integrating React With Backbone",
+    "url" : "https://quickleft.com/blog/integrating-react-with-backbone/"
+  }, {
+    "name" : "Using BackboneJS to improve your JavaScript code organization over a Ruby on Rails app",
+    "url" : "https://medium.com/@ezekielriva/using-backbonejs-to-improve-your-javascript-code-organization-over-a-ruby-on-rails-app-11784575a4f2"
+  }, {
+    "name" : "Part 1",
+    "url" : "https://medium.com/@coreyhowell/javascript-for-the-impatient-backbonejs-part-1-7f4dba8fcea"
+  }, {
+    "name" : "Building Backbone apps using Flux",
+    "url" : "https://medium.com/@victordoss/building-backbone-apps-using-flux-f656fd8a873a"
+  }, {
+    "name" : "Bringing Meteor’s reactive collections to Backbone",
+    "url" : "https://mixmax.com/blog/meteor-and-backbone"
+  } ]
+}, {
+  "category" : "Books",
+  "items" : [ {
+    "name" : "Developing Backbone.js Applications",
+    "url" : "http://addyosmani.github.io/backbone-fundamentals/"
+  }, {
+    "name" : "Backbone Tutorials",
+    "url" : "https://leanpub.com/backbonetutorials"
+  }, {
+    "name" : "Building Backbone Plugins",
+    "url" : "https://leanpub.com/building-backbone-plugins"
+  }, {
+    "name" : "Mastering Backbone.js",
+    "url" : "http://www.amazon.com/dp/1783288493"
+  }, {
+    "name" : "Backbone.js Testing",
+    "url" : "http://backbone-testing.com/"
+  }, {
+    "name" : "Backbone.js Patterns and Best Practices",
+    "url" : "http://www.amazon.com/dp/1783283572"
+  }, {
+    "name" : "Backbone.js Cookbook",
+    "url" : "http://www.amazon.com/dp/1782162720/"
+  }, {
+    "name" : "Instant Backbone.js Application Development",
+    "url" : "http://www.amazon.com/dp/1782165665"
+  }, {
+    "name" : "Beginning Backbone.js",
+    "url" : "http://www.amazon.com/dp/1430263342/"
+  }, {
+    "name" : "Backbone.js Blueprints",
+    "url" : "http://www.amazon.com/dp/1783286997/"
+  }, {
+    "name" : "Recipes with Backbone",
+    "url" : "http://recipeswithbackbone.com/"
+  }, {
+    "name" : "Full Stack Web Development with Backbone.js",
+    "url" : "http://shop.oreilly.com/product/0636920030799.do"
+  }, {
+    "name" : "Developing Single Page Apps with Backbone.js",
+    "url" : "https://singlepagebook.supportbee.com/"
+  } ]
+}, {
+  "category" : "Videos",
+  "items" : [ {
+    "name" : "BackboneConf 2013",
+    "url" : "https://www.youtube.com/playlist?list=PLlgxAbM67lYLJm9_Ub3gStXa2vjb51aUX"
+  }, {
+    "name" : "BackboneConf 2014",
+    "url" : "https://www.youtube.com/playlist?list=PLlgxAbM67lYIGw8DnANC7VgREbzJRQged"
+  }, {
+    "name" : "Introduction to Backbone.js",
+    "url" : "https://www.youtube.com/playlist?list=PLCE344BDBD8FAC282"
+  }, {
+    "name" : "Backbone App Walkthrough",
+    "url" : "https://www.youtube.com/playlist?list=PL0C57F698BD4766B1"
+  }, {
+    "name" : "Backbone.js Tutorial",
+    "url" : "http://www.youtube.com/playlist?list=PLTjRvDozrdlwn9IsHWEs9IQv3HQob4bH3"
+  }, {
+    "name" : "Backbone-Require-Boilerplate Explained",
+    "url" : "http://gregfranko.com/blog/backbone-require-boilerplate-explained/"
+  }, {
+    "name" : "BackboneRails Screencasts",
+    "url" : "http://www.backbonerails.com/"
+  }, {
+    "name" : "Backbone.js with Derick Bailey",
+    "url" : "https://www.youtube.com/watch?v=VERQEr-bVTs"
+  }, {
+    "name" : "JavaScript Application Architecture with Backbone.js",
+    "url" : "http://www.youtube.com/watch?v=PGgZ7qRvoGE"
+  }, {
+    "name" : "An Introduction to Backbone.js",
+    "url" : "http://www.youtube.com/watch?v=PcTVQyrWSSs"
+  }, {
+    "name" : "Put Some Backbone.js in your Apps",
+    "url" : "http://www.youtube.com/watch?v=jM8KE_Fa6JI"
+  }, {
+    "name" : "Evolving Your JavaScript with Backbone.js",
+    "url" : "http://wordpress.tv/2013/09/05/k-adam-white-evolving-your-javascript-with-backbone-js/"
+  } ]
+}, {
+  "category" : "Examples and boilerplates",
+  "items" : [ {
+    "name" : "Backbone Require Boilerplate",
+    "url" : "https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate"
+  }, {
+    "name" : "Wine Cellar Sample Application",
+    "url" : "https://github.com/ccoenraets/backbone-cellar"
+  }, {
+    "name" : "Employee Directory",
+    "url" : "https://github.com/ccoenraets/directory-backbone-bootstrap"
+  }, {
+    "name" : "Backbone Contact Manager",
+    "url" : "https://github.com/dmytroyarmak/backbone-contact-manager"
+  }, {
+    "name" : "Backbone Boilerplates",
+    "url" : "https://github.com/addyosmani/backbone-boilerplates"
+  }, {
+    "name" : "Backbone TodoMVC example",
+    "url" : "http://todomvc.com/examples/backbone/"
+  } ]
+}, {
+  "category" : "Courses",
+  "items" : [ {
+    "name" : "Anatomy of Backbone.js",
+    "url" : "https://www.codeschool.com/courses/anatomy-of-backbone-js"
+  }, {
+    "name" : "Advanced Backbone Patterns and Techniques",
+    "url" : "http://code.tutsplus.com/courses/advanced-backbone-patterns-and-techniques"
+  }, {
+    "name" : "Connected to the Backbone",
+    "url" : "http://code.tutsplus.com/courses/connected-to-the-backbone"
+  }, {
+    "name" : "Structuring Your Web Apps via Backbone.js",
+    "url" : "https://github.com/hegdeashwin/Backbone"
+  }, {
+    "name" : "Backbone.JS In-Depth and Introduction to Testing with Mocha and Sinon",
+    "url" : "https://frontendmasters.com/courses/backbone-js-in-depth-testing-mocha-sinon/"
+  }, {
+    "name" : "Up and Running with Backbone.js",
+    "url" : "http://www.lynda.com/Backbonejs-tutorials/Up-Running-Backbonejs/163089-2.html"
+  }, {
+    "name" : "Application Building Patterns with Backbone.js",
+    "url" : "http://www.pluralsight.com/courses/playing-with-backbonejs"
+  }, {
+    "name" : "Backbone.js Fundamentals",
+    "url" : "http://www.pluralsight.com/courses/backbone-fundamentals"
+  } ]
+}, {
+  "category" : "Libraries",
+  "items" : [ {
+    "name" : "Backbone.Relational",
+    "url" : "https://github.com/PaulUithol/Backbone-relational"
+  }, {
+    "name" : "Backbone-forms",
+    "url" : "https://github.com/powmedia/backbone-forms"
+  }, {
+    "name" : "Backgrid.js",
+    "url" : "https://github.com/wyuenho/backgrid"
+  }, {
+    "name" : "Backbone.localStorage",
+    "url" : "https://github.com/jeromegn/Backbone.localStorage"
+  }, {
+    "name" : "Backbone.stickit",
+    "url" : "https://github.com/NYTimes/backbone.stickit"
+  }, {
+    "name" : "Backbone.paginator",
+    "url" : "https://github.com/backbone-paginator/backbone.paginator"
+  }, {
+    "name" : "Backbone.validation",
+    "url" : "https://github.com/thedersen/backbone.validation"
+  }, {
+    "name" : "Exoskeleton",
+    "url" : "https://github.com/paulmillr/exoskeleton"
+  }, {
+    "name" : "Backbone.dualstorage",
+    "url" : "https://github.com/nilbus/Backbone.dualStorage"
+  }, {
+    "name" : "Backbone.iobind",
+    "url" : "https://github.com/noveogroup/backbone.iobind"
+  }, {
+    "name" : "Backbone-associations",
+    "url" : "https://github.com/dhruvaray/backbone-associations"
+  }, {
+    "name" : "Backbone-tastypie",
+    "url" : "https://github.com/PaulUithol/backbone-tastypie"
+  }, {
+    "name" : "Backbone.Radio",
+    "url" : "https://github.com/marionettejs/backbone.radio"
+  }, {
+    "name" : "Backbone.BabySitter",
+    "url" : "https://github.com/marionettejs/backbone.babysitter"
+  }, {
+    "name" : "Backbone.History.Polyfill",
+    "url" : "https://github.com/FidelityInternational/BackboneHistoryPolyfill"
+  } ]
+} ]

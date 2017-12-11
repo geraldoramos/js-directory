@@ -1,0 +1,210 @@
+[ {
+  "category" : "Community",
+  "items" : [ {
+    "name" : "Slack",
+    "url" : "https://zeit.chat"
+  }, {
+    "name" : "GitHub",
+    "url" : "https://github.com/zeit/next.js"
+  } ]
+}, {
+  "category" : "Essentials",
+  "items" : [ {
+    "name" : "Blog",
+    "url" : "https://zeit.co/blog/next"
+  }, {
+    "name" : "Learn",
+    "url" : "https://learnnextjs.com/"
+  } ]
+}, {
+  "category" : "Articles",
+  "items" : [ {
+    "name" : "Build a Universal JavaScript App with Next.js",
+    "url" : "https://auth0.com/blog/building-universal-apps-with-nextjs"
+  }, {
+    "name" : "Getting Started with Next.js — Setting Up Your App",
+    "url" : "https://labs.redantler.com/getting-started-with-next-js-article-one-a1d9780ea9e0#.863nl4wnq"
+  }, {
+    "name" : "Getting Started with Next.js — Bringing Data In",
+    "url" : "https://labs.redantler.com/getting-started-with-next-js-bringing-data-in-bf40558698e2#.twjv5xk5w"
+  }, {
+    "name" : "How to build a Next.js React Universal App",
+    "url" : "https://medium.com/cosmicjs/how-to-build-a-next-js-react-universal-app-e610a0bc2124#.b8ayt9f39"
+  }, {
+    "name" : "Next on Next.js",
+    "url" : "https://jsmantra.com/next-on-next-js-1a134505f346#.sf2f64u4r"
+  }, {
+    "name" : "Accept payments on your site with nextjs, stripe, and micro",
+    "url" : "https://hackernoon.com/accept-payments-on-your-site-with-nextjs-stripe-and-micro-371de95b22d5?source=activity---post_recommended"
+  }, {
+    "name" : "Next.js on Cloud Functions for Firebase with Firebase Hosting",
+    "url" : "https://medium.com/@jthegedus/next-js-on-cloud-functions-for-firebase-with-firebase-hosting-7911465298f2"
+  }, {
+    "name" : "Building a Blog With Next.js",
+    "url" : "https://timber.io/blog/building-a-blog-with-next-js"
+  }, {
+    "name" : "Using Google Analytics with Next.js",
+    "url" : "https://malloc.fi/using-google-analytics-with-next-js"
+  }, {
+    "name" : "Build a Universal JavaScript App with Next.js and Redux (Russian)",
+    "url" : "https://habrahabr.ru/post/323588/"
+  }, {
+    "name" : "Next.js — React Server Side Rendering Done Right",
+    "url" : "https://hackernoon.com/next-js-react-server-side-rendering-done-right-f9700078a3b6"
+  }, {
+    "name" : "5 (of the Many Reasons) to love Zeit's Next.js",
+    "url" : "https://www.codementor.io/tgreco/5-of-the-many-things-to-love-about-zeit-s-next-js-bpszu99g1"
+  } ]
+}, {
+  "category" : "Boilerplates",
+  "items" : [ {
+    "name" : "Next Simple Starter",
+    "url" : "https://github.com/ooade/NextSimpleStarter"
+  }, {
+    "name" : "NextJS Starter",
+    "url" : "https://github.com/iaincollins/nextjs-starter"
+  }, {
+    "name" : "RAN!",
+    "url" : "https://github.com/sly777/ran"
+  }, {
+    "name" : "Next Simple Blog",
+    "url" : "https://github.com/tscanlin/next-blog"
+  }, {
+    "name" : "Create-Next-App",
+    "url" : "https://open.segment.com/create-next-app"
+  }, {
+    "name" : "phox",
+    "url" : "https://github.com/herschel666/phox"
+  } ]
+}, {
+  "category" : "Extensions",
+  "items" : [ {
+    "name" : "Next Routes",
+    "url" : "https://github.com/fridays/next-routes"
+  } ]
+}, {
+  "category" : "Apps",
+  "items" : [ {
+    "name" : "Nextgram",
+    "url" : "https://github.com/zeit/nextgram"
+  }, {
+    "name" : "NextJS GOT",
+    "url" : "https://github.com/auth0-blog/nextjs-got"
+  }, {
+    "name" : "Next Episode",
+    "url" : "https://github.com/timneutkens/next-episode"
+  }, {
+    "name" : "Relate",
+    "url" : "https://github.com/RelateNow/relate"
+  }, {
+    "name" : "Next News",
+    "url" : "https://github.com/now-examples/next-news"
+  }, {
+    "name" : "Password",
+    "url" : "https://github.com/dotcypress/password"
+  }, {
+    "name" : "Next Todos",
+    "url" : "https://github.com/lipp/next-todos"
+  }, {
+    "name" : "Hacker News",
+    "url" : "https://github.com/lipp/hackernews"
+  }, {
+    "name" : "Jet Chat",
+    "url" : "https://github.com/lipp/jet-chat"
+  }, {
+    "name" : "Nextgram",
+    "url" : "https://github.com/arunoda/nextgram"
+  }, {
+    "name" : "Rauchg Blog",
+    "url" : "https://github.com/rauchg/blog"
+  }, {
+    "name" : "Next JPH",
+    "url" : "https://github.com/renatorib/next-jph"
+  }, {
+    "name" : "Mailto",
+    "url" : "https://github.com/dawsbot/mailto"
+  }, {
+    "name" : "Plate",
+    "url" : "https://github.com/knipferrc/plate"
+  }, {
+    "name" : "Dashboard",
+    "url" : "https://github.com/danielbayerlein/dashboard"
+  }, {
+    "name" : "Snape",
+    "url" : "https://github.com/ritz078/snape"
+  }, {
+    "name" : "Trello Resume",
+    "url" : "https://github.com/juliandavidmr/TrelloResume"
+  }, {
+    "name" : "Server Authentication with JWT",
+    "url" : "https://github.com/estrada9166/server-authentication-next.js"
+  }, {
+    "name" : "Alexander Kachkaev’s website",
+    "url" : "https://gitlab.com/kachkaev/website-frontend/"
+  }, {
+    "name" : "Cookie handler with server render",
+    "url" : "https://github.com/estrada9166/cookie-handler-next.js"
+  }, {
+    "name" : "Gank",
+    "url" : "https://github.com/OrangeXC/gank"
+  }, {
+    "name" : "Decoupled CMS example with GraphQL and Next.js",
+    "url" : "https://github.com/janit/decoupled-cms-nextjs-graphql"
+  }, {
+    "name" : "DS",
+    "url" : "https://github.com/divyenduz/ds"
+  } ]
+}, {
+  "category" : "Videos",
+  "items" : [ {
+    "name" : "Create your first ReactJS application with NextJS (Spanish)",
+    "url" : "https://www.youtube.com/watch?v=-7Ft5LxPeWs"
+  }, {
+    "name" : "React Server Side Rendering with NextJS",
+    "url" : "https://www.youtube.com/watch?v=JEBkh_vleTs&t"
+  }, {
+    "description" : " Next.js by Example",
+    "name" : "Guillermo Rauch",
+    "url" : "https://www.youtube.com/watch?v=DLGJfa3Xv-0"
+  }, {
+    "description" : " Next.js: Universal React Made Easy and Simple",
+    "name" : "Guillermo Rauch",
+    "url" : "https://www.youtube.com/watch?v=evaMpdSiZKk"
+  }, {
+    "name" : "Introduction to Next.js",
+    "url" : "https://www.youtube.com/watch?v=Fnw3lNeH-XI"
+  }, {
+    "name" : "Next.js in production",
+    "url" : "https://www.youtube.com/watch?v=h6rETZH6Ym0"
+  }, {
+    "name" : "Parameterized Routing with Next.js",
+    "url" : "https://www.youtube.com/watch?v=2cJya4h5ync"
+  }, {
+    "description" : " Static and Dynamic Next.js",
+    "name" : "JSHeroes 2017 | Guillermo Rauch",
+    "url" : "https://www.youtube.com/watch?v=lLNJsuXB4CI"
+  }, {
+    "description" : " Guillermo Rauch · JSConf China 2017",
+    "name" : "Programming the Universal Future with Next.js",
+    "url" : "https://www.youtube.com/watch?v=w9Or7B4kTRY"
+  }, {
+    "description" : " Introduction to Next.js",
+    "name" : "BPJS: Special",
+    "url" : "https://www.youtube.com/watch?v=4cfozXTyjWQ"
+  }, {
+    "name" : "Next for Next.js",
+    "url" : "https://www.youtube.com/watch?v=ms2aOV06_qk"
+  }, {
+    "name" : "Data Management With Next.js and GraphQL",
+    "url" : "https://www.youtube.com/watch?v=g_LA1quUIi8"
+  }, {
+    "name" : "Next.js Register User",
+    "url" : "https://www.youtube.com/watch?v=oQ60Grn4RYQ"
+  } ]
+}, {
+  "category" : "Contributing",
+  "items" : [ {
+    "name" : "blog",
+    "url" : "https://goodheads.io"
+  } ]
+} ]

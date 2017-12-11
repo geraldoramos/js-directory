@@ -1,0 +1,288 @@
+[ {
+  "category" : "Examples",
+  "items" : [ {
+    "name" : "TodoMVC",
+    "url" : "http://todomvc.com/examples/emberjs/"
+  }, {
+    "name" : "Vine",
+    "url" : "https://vine.co/"
+  }, {
+    "name" : "Travis CI",
+    "url" : "https://travis-ci.org/"
+  }, {
+    "name" : "Twitch.tv",
+    "url" : "http://www.twitch.tv/directory"
+  }, {
+    "name" : "Discourse",
+    "url" : "http://try.discourse.org/"
+  }, {
+    "name" : "Fnd.io",
+    "url" : "https://fnd.io/"
+  }, {
+    "name" : "Built with Ember",
+    "url" : "http://builtwithember.io/"
+  } ]
+}, {
+  "category" : "Documentation",
+  "items" : [ {
+    "name" : "Ember Guides",
+    "url" : "http://emberjs.com/guides/"
+  }, {
+    "name" : "Ember Cookbook",
+    "url" : "http://emberjs.com/guides/cookbook/"
+  }, {
+    "name" : "Ember API",
+    "url" : "http://emberjs.com/api/"
+  }, {
+    "name" : "Ember Data API",
+    "url" : "http://emberjs.com/api/data/"
+  } ]
+}, {
+  "category" : "Tools",
+  "items" : [ {
+    "name" : "Ember-cli",
+    "url" : "http://ember-cli.com/"
+  }, {
+    "name" : "Ember Inspector",
+    "url" : "https://github.com/emberjs/ember-inspector"
+  }, {
+    "name" : "gulp-ember-handlebars",
+    "url" : "https://github.com/fuseelements/gulp-ember-handlebars"
+  }, {
+    "name" : "Ember Data Sails Adapter",
+    "url" : "https://github.com/bmac/ember-data-sails-adapter"
+  }, {
+    "name" : "Ember Data WordPress Adapter",
+    "url" : "https://github.com/HeyHumanAgency/Ember-Data-WordPress"
+  }, {
+    "name" : "Ember Gist",
+    "url" : "http://ember-gist.joostdvrs.com/"
+  }, {
+    "name" : "Ember Twiddle",
+    "url" : "https://ember-twiddle.com/"
+  }, {
+    "name" : "Ember Perf",
+    "url" : "https://github.com/mike-north/ember-perf"
+  } ]
+}, {
+  "category" : "Tutorials",
+  "items" : [ {
+    "name" : "Discover Ember 2",
+    "url" : "https://www.ludu.co/course/ember"
+  }, {
+    "name" : "Ember.js Tutorial",
+    "url" : "http://yoember.com"
+  }, {
+    "name" : "Getting into Ember.js",
+    "url" : "http://code.tutsplus.com/tutorials/getting-into-emberjs--net-30709"
+  }, {
+    "name" : "Ember Components: A Deep Dive",
+    "url" : "http://code.tutsplus.com/tutorials/ember-components-a-deep-dive--net-35551"
+  }, {
+    "name" : "Getting Started with Ember.js using Ember CLI",
+    "url" : "http://thetechcofounder.com/getting-started-with-ember-js-using-ember-cli/"
+  }, {
+    "name" : "Ember runloop handbook",
+    "url" : "https://github.com/eoinkelly/ember-runloop-handbook"
+  }, {
+    "description" : "Developing an Ember front-end alongside a JSON API",
+    "name" : "Ember with Phoenix (AKA The PEEP Stack)",
+    "url" : "https://medium.com/peep-stack"
+  } ]
+}, {
+  "category" : "Screencasts",
+  "items" : [ {
+    "name" : "EmberCasts",
+    "url" : "http://www.embercasts.com/"
+  }, {
+    "name" : "EmberWatch",
+    "url" : "http://emberwatch.com/screencasts.html"
+  }, {
+    "name" : "Ember 101",
+    "url" : "http://ember101.com/"
+  }, {
+    "name" : "Ember Screencasts",
+    "url" : "https://www.emberscreencasts.com/"
+  } ]
+}, {
+  "category" : "Talks",
+  "items" : [ {
+    "name" : "EmberConf 2016",
+    "url" : "https://www.youtube.com/playlist?list=PL4eq2DPpyBblc8aQAd516-jGMdAhEeUiW"
+  }, {
+    "name" : "EmberConf 2015",
+    "url" : "https://www.youtube.com/playlist?list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU"
+  }, {
+    "name" : "EmberConf 2014",
+    "url" : "https://www.youtube.com/playlist?list=PLE7tQUdRKcyaOyfBnAndJxQ9PNVmKva0d"
+  }, {
+    "name" : "Wicked Good Ember",
+    "url" : "https://www.youtube.com/channel/UCwFd5yPBeWsbZHDWc-3KhjA"
+  }, {
+    "name" : "Moving from Angular to Ember",
+    "url" : "https://www.youtube.com/watch?v=EFmgLyR-Svo"
+  } ]
+}, {
+  "category" : "Books",
+  "items" : [ {
+    "name" : "ember-cli 101",
+    "url" : "https://leanpub.com/ember-cli-101"
+  }, {
+    "name" : "Ember.js in Action",
+    "url" : "http://manning.com/skeie/"
+  } ]
+}, {
+  "category" : "News",
+  "items" : [ {
+    "name" : "Official Ember blog",
+    "url" : "http://emberjs.com/blog/"
+  }, {
+    "name" : "EmberFlare",
+    "url" : "https://emberflare.com"
+  }, {
+    "description" : " Weekly email newsletter",
+    "name" : "Ember Weekly",
+    "url" : "http://emberweekly.com/"
+  } ]
+}, {
+  "category" : "Community",
+  "items" : [ {
+    "name" : "StackOverflow",
+    "url" : "http://stackoverflow.com/questions/tagged/ember.js"
+  }, {
+    "name" : "Forum",
+    "url" : "http://discuss.emberjs.com/"
+  }, {
+    "name" : "GitHub issues",
+    "url" : "https://github.com/emberjs/ember.js/issues"
+  }, {
+    "name" : "Reddit",
+    "url" : "https://www.reddit.com/r/emberjs/"
+  } ]
+}, {
+  "category" : "Twitter",
+  "items" : [ {
+    "name" : "Ember Talk",
+    "url" : "https://twitter.com/emberjstalk"
+  }, {
+    "name" : "Ember Watch",
+    "url" : "https://twitter.com/EmberWatch"
+  }, {
+    "name" : "EmberSherpa",
+    "url" : "https://twitter.com/EmberSherpa"
+  }, {
+    "name" : "Tom Dale",
+    "url" : "https://twitter.com/tomdale"
+  }, {
+    "name" : "Erik Bryn",
+    "url" : "https://twitter.com/ebryn"
+  }, {
+    "name" : "Trek Glowacki",
+    "url" : "https://twitter.com/trek"
+  }, {
+    "name" : "Alex Matchneer",
+    "url" : "https://twitter.com/machty"
+  }, {
+    "name" : "Robin Ward",
+    "url" : "https://twitter.com/eviltrout"
+  }, {
+    "name" : "Stefan Penner",
+    "url" : "https://twitter.com/stefanpenner"
+  }, {
+    "name" : "Jo Liss",
+    "url" : "https://twitter.com/jo_liss"
+  }, {
+    "name" : "Brian Cardarella",
+    "url" : "https://twitter.com/bcardarella"
+  }, {
+    "name" : "Alex Navasardyan",
+    "url" : "https://twitter.com/twokul"
+  }, {
+    "name" : "Adolfo Builes",
+    "url" : "https://twitter.com/abuiles"
+  }, {
+    "name" : "mixonic",
+    "url" : "https://twitter.com/mixonic"
+  }, {
+    "name" : "alexspeller",
+    "url" : "https://twitter.com/alexspeller"
+  }, {
+    "name" : "Jamie White",
+    "url" : "https://twitter.com/jgwhite"
+  }, {
+    "name" : "Gavin Joyce",
+    "url" : "https://twitter.com/gavinjoyce"
+  } ]
+}, {
+  "category" : "Ember CLI Addons",
+  "items" : [ {
+    "name" : "Ember Observer",
+    "url" : "https://emberobserver.com"
+  } ]
+}, {
+  "category" : "UI Components",
+  "items" : [ {
+    "name" : "ember-cli-flash",
+    "url" : "https://github.com/poteto/ember-cli-flash"
+  }, {
+    "name" : "ember-modal-dialog",
+    "url" : "https://github.com/yapplabs/ember-modal-dialog"
+  }, {
+    "name" : "ui-bootstrap",
+    "url" : "https://www.npmjs.com/package/ui-bootstrap"
+  }, {
+    "name" : "ui-button",
+    "url" : "https://www.npmjs.com/package/ui-button"
+  }, {
+    "name" : "ui-datepicker",
+    "url" : "https://www.npmjs.com/package/ui-datepicker"
+  }, {
+    "name" : "ui-icon",
+    "url" : "https://ui-icon.firebaseapp.com/"
+  }, {
+    "name" : "ui-image",
+    "url" : "https://ui-image.firebaseapp.com/"
+  }, {
+    "name" : "ui-input",
+    "url" : "https://ui-input.firebaseapp.com/"
+  }, {
+    "name" : "Ember-AnyChart",
+    "url" : "https://github.com/AnyChart/AnyChart-Ember"
+  } ]
+}, {
+  "category" : "UI Helpers",
+  "items" : [ {
+    "name" : "ember-cli-stylist",
+    "url" : "https://www.npmjs.com/package/ember-cli-stylist"
+  }, {
+    "name" : "ember-i18n",
+    "url" : "https://www.npmjs.com/package/ember-i18n"
+  }, {
+    "name" : "ember-tether",
+    "url" : "https://github.com/yapplabs/ember-tether"
+  }, {
+    "name" : "ember-wormhole",
+    "url" : "https://github.com/yapplabs/ember-wormhole"
+  } ]
+}, {
+  "category" : "Testing",
+  "items" : [ {
+    "name" : "ember-cli-mirage",
+    "url" : "http://www.ember-cli-mirage.com/"
+  }, {
+    "name" : "JSON API",
+    "url" : "http://jsonapi.org/"
+  } ]
+}, {
+  "category" : "Model Enhancements",
+  "items" : [ {
+    "name" : "ember-autosave",
+    "url" : "https://www.npmjs.com/package/ember-autosave"
+  } ]
+}, {
+  "category" : "Build Enhancements",
+  "items" : [ {
+    "name" : "ember-cli-autoprefixer",
+    "url" : "https://github.com/kimroen/ember-cli-autoprefixer"
+  } ]
+} ]
