@@ -1,7 +1,5 @@
 <p align="center"><img src="https://firebasestorage.googleapis.com/v0/b/js-directory.appspot.com/o/logo.svg?alt=media&token=930660dc-fa22-40b4-b5e1-4a40430edcfe" width="200"/></p>
 
-
-[![PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.me/GeraldoRamos)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40geraldoramos)](https://twitter.com/geraldoramos)
 
 A curated list of resources related to the Javascript Ecosystem. This project compiled data from various open-source lists, specially the ones available on [Awesome lists](https://github.com/sindresorhus/awesome)
@@ -18,6 +16,6 @@ The database uses the JSON format under the folder `database`. The [site](https:
 
 
 ## License
-This database is distributed under the GNU GENERAL PUBLIC LICENSE (GPL) version 2 or later
+This database is distributed under the Creative Commons Zero v1.0 Universal license
 
 Follow me on [Twitter](http://twitter.com/geraldoramos)
