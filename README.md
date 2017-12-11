@@ -6,7 +6,7 @@
 
 A curated list of resources related to the Javascript Ecosystem. This project compiled data from various open-source lists, specially the ones available on [Awesome lists](https://github.com/sindresorhus/awesome)
 
-Visit [js.directory](https://github.com/sindresorhus/awesome) to access the web interface.
+Visit [js.directory](https://js.directory) to access the web interface.
 
 The interface uses the database available on this repository. Submit a pull request to contribute.
 
