@@ -1,4 +1,4 @@
-<p align="center"><img src="https://firebasestorage.googleapis.com/v0/b/js-directory.appspot.com/o/logo.svg?alt=media&token=930660dc-fa22-40b4-b5e1-4a40430edcfe" width="200"/></p>
+<p align="center"><img src="https://firebasestorage.googleapis.com/v0/b/js-directory.appspot.com/o/logo.svg?alt=media&token=c705a75c-152c-483c-b9ab-4fe0ae64d09b" width="200"/></p>
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40geraldoramos)](https://twitter.com/geraldoramos)
 
