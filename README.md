@@ -12,7 +12,7 @@ The interface uses the database available on this repository. Submit a pull requ
 
 ## Contribute
 
-The database uses the JSON format under the folder `database`. The [site](https://js.directory) will update with the master branch periodically.
+The database uses the JSON format under the folder `database`. The [site](https://js.directory) will update with the master branch periodically. Feel free to add new entries and submit a Pull Request.
 
 
 ## License
