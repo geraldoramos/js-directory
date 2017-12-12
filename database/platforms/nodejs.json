@@ -335,7 +335,11 @@
     "description" : "Expose your localhost to the world.",
     "name" : "localtunnel",
     "url" : "https://github.com/localtunnel/localtunnel"
-  } ]
+  }, {
+    "description" : "Static file serving and directory listing.",
+    "name" : "serve",
+    "url" : "https://github.com/zeit/serve"
+  }]
 }, {
   "category" : "Functional programming",
   "items" : [ {
