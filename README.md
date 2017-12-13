@@ -2,7 +2,7 @@
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40geraldoramos)](https://twitter.com/geraldoramos)
 
-A curated repository of resources related to the Javascript Ecosystem. This project compiled data from various open-source lists, specially the ones available on [Awesome lists](https://github.com/sindresorhus/awesome)
+A curated collection of useful resources related to the Javascript Ecosystem. This project compiled data from various open-source lists, specially the ones available on [Awesome lists](https://github.com/sindresorhus/awesome)
 
 Visit [js.directory](https://js.directory) to access the web interface.
 
