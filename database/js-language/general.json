@@ -110,6 +110,10 @@
     "description" : "Blazing fast, zero configuration web application bundler",
     "name" : "Parcel",
     "url" : "https://github.com/parcel-bundler/parcel"
+  }, {
+    "description" : "Zero-configuration bundler for tiny modules",
+    "name" : "MicroBundle",
+    "url" : "https://github.com/developit/microbundle"
   } ]
 }, null, {
   "category" : "Testing Frameworks",
