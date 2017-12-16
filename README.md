@@ -8,7 +8,7 @@ Visit [js.directory](https://js.directory) to access the web interface.
 
 The interface uses the database available on this repository. Submit a pull request to contribute.
 
-<p align="center"><img src="https://firebasestorage.googleapis.com/v0/b/js-directory.appspot.com/o/demo.gif?alt=media&token=c09b3429-d6d2-4d80-9abd-bf06c3ee3e35" width="600"/></p>
+<p align="center"><img src="https://firebasestorage.googleapis.com/v0/b/js-directory.appspot.com/o/demogh.gif?alt=media&token=963f022a-eeb3-4079-a228-93e48a1c30bb" width="600"/></p>
 
 ## Contributing
 
